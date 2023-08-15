@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #1 (Data type - Conditions)\Main Folder\A. Say Hello With C++\bin\Debug\net6.0\A. Say Hello With C++.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #1 (Data type - Conditions)\Main Folder\A. Say Hello With C++\bin\Debug\net6.0\A. Say Hello With C++.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #1 (Data type - Conditions)\Main Folder\A. Say Hello With C++\bin\Debug\net6.0\A. Say Hello With C++.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #1 (Data type - Conditions)\Main Folder\A. Say Hello With C++\bin\Debug\net6.0\A. Say Hello With C++.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #1 (Data type - Conditions)\Main Folder\A. Say Hello With C++\bin\Debug\net6.0\A. Say Hello With C++.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #1 (Data type - Conditions)\Main Folder\A. Say Hello With C++\obj\Debug\net6.0\A. Say Hello With C++.csproj.AssemblyReference.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #1 (Data type - Conditions)\Main Folder\A. Say Hello With C++\obj\Debug\net6.0\A. Say Hello With C++.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #1 (Data type - Conditions)\Main Folder\A. Say Hello With C++\obj\Debug\net6.0\A. Say Hello With C++.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #1 (Data type - Conditions)\Main Folder\A. Say Hello With C++\obj\Debug\net6.0\A. Say Hello With C++.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #1 (Data type - Conditions)\Main Folder\A. Say Hello With C++\obj\Debug\net6.0\A. Say Hello With C++.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #1 (Data type - Conditions)\Main Folder\A. Say Hello With C++\obj\Debug\net6.0\A. Say Hello With C++.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #1 (Data type - Conditions)\Main Folder\A. Say Hello With C++\obj\Debug\net6.0\refint\A. Say Hello With C++.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #1 (Data type - Conditions)\Main Folder\A. Say Hello With C++\obj\Debug\net6.0\A. Say Hello With C++.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #1 (Data type - Conditions)\Main Folder\A. Say Hello With C++\obj\Debug\net6.0\A. Say Hello With C++.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #1 (Data type - Conditions)\Main Folder\A. Say Hello With C++\obj\Debug\net6.0\ref\A. Say Hello With C++.dll

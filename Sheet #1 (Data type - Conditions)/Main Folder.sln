@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Main Folder", "Main Folder\Main Folder.csproj", "{A4BCA550-8642-499B-B57A-CC192C0C5960}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A. Say Hello With C++", "A. Say Hello With C++\A. Say Hello With C++.csproj", "{1D094960-11BD-4528-B04C-3C5D1F8CA124}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A4BCA550-8642-499B-B57A-CC192C0C5960}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A4BCA550-8642-499B-B57A-CC192C0C5960}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A4BCA550-8642-499B-B57A-CC192C0C5960}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A4BCA550-8642-499B-B57A-CC192C0C5960}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1D094960-11BD-4528-B04C-3C5D1F8CA124}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D094960-11BD-4528-B04C-3C5D1F8CA124}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D094960-11BD-4528-B04C-3C5D1F8CA124}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D094960-11BD-4528-B04C-3C5D1F8CA124}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EC9C84E6-276E-4CF0-B7EF-CD806D36BD4E}
+	EndGlobalSection
+EndGlobal
