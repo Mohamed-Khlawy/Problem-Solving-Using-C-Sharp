@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #2 (Loops)\Q. Digits\bin\Debug\net6.0\Q. Digits.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #2 (Loops)\Q. Digits\bin\Debug\net6.0\Q. Digits.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #2 (Loops)\Q. Digits\bin\Debug\net6.0\Q. Digits.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #2 (Loops)\Q. Digits\bin\Debug\net6.0\Q. Digits.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #2 (Loops)\Q. Digits\bin\Debug\net6.0\Q. Digits.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #2 (Loops)\Q. Digits\obj\Debug\net6.0\Q. Digits.csproj.AssemblyReference.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #2 (Loops)\Q. Digits\obj\Debug\net6.0\Q. Digits.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #2 (Loops)\Q. Digits\obj\Debug\net6.0\Q. Digits.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #2 (Loops)\Q. Digits\obj\Debug\net6.0\Q. Digits.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #2 (Loops)\Q. Digits\obj\Debug\net6.0\Q. Digits.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #2 (Loops)\Q. Digits\obj\Debug\net6.0\Q. Digits.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #2 (Loops)\Q. Digits\obj\Debug\net6.0\refint\Q. Digits.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #2 (Loops)\Q. Digits\obj\Debug\net6.0\Q. Digits.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #2 (Loops)\Q. Digits\obj\Debug\net6.0\Q. Digits.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #2 (Loops)\Q. Digits\obj\Debug\net6.0\ref\Q. Digits.dll

@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "O. Pyramid", "O. Pyramid\O. Pyramid.csproj", "{2D5C6741-0CB8-43EB-A1E3-36AF954B3144}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P. Shape1", "P. Shape1\P. Shape1.csproj", "{9F70AE64-22CE-47AD-B560-C8B0A011AE92}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Q. Digits", "Q. Digits\Q. Digits.csproj", "{C208A429-DBBA-44B0-A3BF-1533B4DD093A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2D5C6741-0CB8-43EB-A1E3-36AF954B3144}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D5C6741-0CB8-43EB-A1E3-36AF954B3144}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D5C6741-0CB8-43EB-A1E3-36AF954B3144}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D5C6741-0CB8-43EB-A1E3-36AF954B3144}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F70AE64-22CE-47AD-B560-C8B0A011AE92}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F70AE64-22CE-47AD-B560-C8B0A011AE92}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F70AE64-22CE-47AD-B560-C8B0A011AE92}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F70AE64-22CE-47AD-B560-C8B0A011AE92}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C208A429-DBBA-44B0-A3BF-1533B4DD093A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C208A429-DBBA-44B0-A3BF-1533B4DD093A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C208A429-DBBA-44B0-A3BF-1533B4DD093A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C208A429-DBBA-44B0-A3BF-1533B4DD093A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6AA12399-4009-4A9E-A8FB-25BAD760FE8B}
+	EndGlobalSection
+EndGlobal
