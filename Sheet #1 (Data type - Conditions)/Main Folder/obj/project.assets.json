@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "G:\\Problem Solving\\Problem-Solving-Using-C-Sharp\\Sheet #1 (Data type - Conditions)\\Main Folder\\Main Folder\\Main Folder.csproj",
+      "projectUniqueName": "G:\\Problem Solving\\Problem-Solving-Using-C-Sharp\\Sheet #1 (Data type - Conditions)\\Main Folder\\Main Folder.csproj",
       "projectName": "Main Folder",
-      "projectPath": "G:\\Problem Solving\\Problem-Solving-Using-C-Sharp\\Sheet #1 (Data type - Conditions)\\Main Folder\\Main Folder\\Main Folder.csproj",
+      "projectPath": "G:\\Problem Solving\\Problem-Solving-Using-C-Sharp\\Sheet #1 (Data type - Conditions)\\Main Folder\\Main Folder.csproj",
       "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-      "outputPath": "G:\\Problem Solving\\Problem-Solving-Using-C-Sharp\\Sheet #1 (Data type - Conditions)\\Main Folder\\Main Folder\\obj\\",
+      "outputPath": "G:\\Problem Solving\\Problem-Solving-Using-C-Sharp\\Sheet #1 (Data type - Conditions)\\Main Folder\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

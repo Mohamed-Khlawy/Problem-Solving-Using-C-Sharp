@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "G:\\Problem Solving\\Problem-Solving-Using-C-Sharp\\Sheet #1 (Data type - Conditions)\\Main Folder\\A. Say Hello With C++\\A. Say Hello With C++.csproj",
+      "projectUniqueName": "G:\\Problem Solving\\Problem-Solving-Using-C-Sharp\\Sheet #1 (Data type - Conditions)\\A. Say Hello With C++\\A. Say Hello With C++.csproj",
       "projectName": "A. Say Hello With C++",
-      "projectPath": "G:\\Problem Solving\\Problem-Solving-Using-C-Sharp\\Sheet #1 (Data type - Conditions)\\Main Folder\\A. Say Hello With C++\\A. Say Hello With C++.csproj",
+      "projectPath": "G:\\Problem Solving\\Problem-Solving-Using-C-Sharp\\Sheet #1 (Data type - Conditions)\\A. Say Hello With C++\\A. Say Hello With C++.csproj",
       "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-      "outputPath": "G:\\Problem Solving\\Problem-Solving-Using-C-Sharp\\Sheet #1 (Data type - Conditions)\\Main Folder\\A. Say Hello With C++\\obj\\",
+      "outputPath": "G:\\Problem Solving\\Problem-Solving-Using-C-Sharp\\Sheet #1 (Data type - Conditions)\\A. Say Hello With C++\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

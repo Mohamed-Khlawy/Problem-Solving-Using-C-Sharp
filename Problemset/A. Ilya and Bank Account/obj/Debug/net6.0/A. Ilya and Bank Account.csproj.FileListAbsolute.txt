@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Ilya and Bank Account\bin\Debug\net6.0\A. Ilya and Bank Account.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Ilya and Bank Account\bin\Debug\net6.0\A. Ilya and Bank Account.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Ilya and Bank Account\bin\Debug\net6.0\A. Ilya and Bank Account.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Ilya and Bank Account\bin\Debug\net6.0\A. Ilya and Bank Account.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Ilya and Bank Account\bin\Debug\net6.0\A. Ilya and Bank Account.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Ilya and Bank Account\obj\Debug\net6.0\A. Ilya and Bank Account.csproj.AssemblyReference.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Ilya and Bank Account\obj\Debug\net6.0\A. Ilya and Bank Account.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Ilya and Bank Account\obj\Debug\net6.0\A. Ilya and Bank Account.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Ilya and Bank Account\obj\Debug\net6.0\A. Ilya and Bank Account.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Ilya and Bank Account\obj\Debug\net6.0\A. Ilya and Bank Account.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Ilya and Bank Account\obj\Debug\net6.0\A. Ilya and Bank Account.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Ilya and Bank Account\obj\Debug\net6.0\refint\A. Ilya and Bank Account.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Ilya and Bank Account\obj\Debug\net6.0\A. Ilya and Bank Account.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Ilya and Bank Account\obj\Debug\net6.0\A. Ilya and Bank Account.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Ilya and Bank Account\obj\Debug\net6.0\ref\A. Ilya and Bank Account.dll
