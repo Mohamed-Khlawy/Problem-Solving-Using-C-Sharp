@@ -13,3 +13,18 @@ G:\Problem Solving\Problem-Solving-Using-C-Sharp\P. Shape1\obj\Debug\net6.0\refi
 G:\Problem Solving\Problem-Solving-Using-C-Sharp\P. Shape1\obj\Debug\net6.0\P. Shape1.pdb
 G:\Problem Solving\Problem-Solving-Using-C-Sharp\P. Shape1\obj\Debug\net6.0\P. Shape1.genruntimeconfig.cache
 G:\Problem Solving\Problem-Solving-Using-C-Sharp\P. Shape1\obj\Debug\net6.0\ref\P. Shape1.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #2 (Loops)\P. Shape1\bin\Debug\net6.0\P. Shape1.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #2 (Loops)\P. Shape1\bin\Debug\net6.0\P. Shape1.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #2 (Loops)\P. Shape1\bin\Debug\net6.0\P. Shape1.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #2 (Loops)\P. Shape1\bin\Debug\net6.0\P. Shape1.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #2 (Loops)\P. Shape1\bin\Debug\net6.0\P. Shape1.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #2 (Loops)\P. Shape1\obj\Debug\net6.0\P. Shape1.csproj.AssemblyReference.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #2 (Loops)\P. Shape1\obj\Debug\net6.0\P. Shape1.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #2 (Loops)\P. Shape1\obj\Debug\net6.0\P. Shape1.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #2 (Loops)\P. Shape1\obj\Debug\net6.0\P. Shape1.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #2 (Loops)\P. Shape1\obj\Debug\net6.0\P. Shape1.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #2 (Loops)\P. Shape1\obj\Debug\net6.0\P. Shape1.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #2 (Loops)\P. Shape1\obj\Debug\net6.0\refint\P. Shape1.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #2 (Loops)\P. Shape1\obj\Debug\net6.0\P. Shape1.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #2 (Loops)\P. Shape1\obj\Debug\net6.0\P. Shape1.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #2 (Loops)\P. Shape1\obj\Debug\net6.0\ref\P. Shape1.dll

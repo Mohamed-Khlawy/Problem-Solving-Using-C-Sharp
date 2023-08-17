@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #2 (Loops)\R. Sequence of Numbers and Sum\bin\Debug\net6.0\R. Sequence of Numbers and Sum.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #2 (Loops)\R. Sequence of Numbers and Sum\bin\Debug\net6.0\R. Sequence of Numbers and Sum.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #2 (Loops)\R. Sequence of Numbers and Sum\bin\Debug\net6.0\R. Sequence of Numbers and Sum.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #2 (Loops)\R. Sequence of Numbers and Sum\bin\Debug\net6.0\R. Sequence of Numbers and Sum.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #2 (Loops)\R. Sequence of Numbers and Sum\bin\Debug\net6.0\R. Sequence of Numbers and Sum.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #2 (Loops)\R. Sequence of Numbers and Sum\obj\Debug\net6.0\R. Sequence of Numbers and Sum.csproj.AssemblyReference.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #2 (Loops)\R. Sequence of Numbers and Sum\obj\Debug\net6.0\R. Sequence of Numbers and Sum.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #2 (Loops)\R. Sequence of Numbers and Sum\obj\Debug\net6.0\R. Sequence of Numbers and Sum.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #2 (Loops)\R. Sequence of Numbers and Sum\obj\Debug\net6.0\R. Sequence of Numbers and Sum.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #2 (Loops)\R. Sequence of Numbers and Sum\obj\Debug\net6.0\R. Sequence of Numbers and Sum.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #2 (Loops)\R. Sequence of Numbers and Sum\obj\Debug\net6.0\R. Sequence of Numbers and Sum.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #2 (Loops)\R. Sequence of Numbers and Sum\obj\Debug\net6.0\refint\R. Sequence of Numbers and Sum.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #2 (Loops)\R. Sequence of Numbers and Sum\obj\Debug\net6.0\R. Sequence of Numbers and Sum.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #2 (Loops)\R. Sequence of Numbers and Sum\obj\Debug\net6.0\R. Sequence of Numbers and Sum.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #2 (Loops)\R. Sequence of Numbers and Sum\obj\Debug\net6.0\ref\R. Sequence of Numbers and Sum.dll

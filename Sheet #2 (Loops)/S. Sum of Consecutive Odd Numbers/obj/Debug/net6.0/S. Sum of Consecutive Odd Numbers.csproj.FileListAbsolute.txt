@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #2 (Loops)\S. Sum of Consecutive Odd Numbers\bin\Debug\net6.0\S. Sum of Consecutive Odd Numbers.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #2 (Loops)\S. Sum of Consecutive Odd Numbers\bin\Debug\net6.0\S. Sum of Consecutive Odd Numbers.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #2 (Loops)\S. Sum of Consecutive Odd Numbers\bin\Debug\net6.0\S. Sum of Consecutive Odd Numbers.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #2 (Loops)\S. Sum of Consecutive Odd Numbers\bin\Debug\net6.0\S. Sum of Consecutive Odd Numbers.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #2 (Loops)\S. Sum of Consecutive Odd Numbers\bin\Debug\net6.0\S. Sum of Consecutive Odd Numbers.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #2 (Loops)\S. Sum of Consecutive Odd Numbers\obj\Debug\net6.0\S. Sum of Consecutive Odd Numbers.csproj.AssemblyReference.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #2 (Loops)\S. Sum of Consecutive Odd Numbers\obj\Debug\net6.0\S. Sum of Consecutive Odd Numbers.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #2 (Loops)\S. Sum of Consecutive Odd Numbers\obj\Debug\net6.0\S. Sum of Consecutive Odd Numbers.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #2 (Loops)\S. Sum of Consecutive Odd Numbers\obj\Debug\net6.0\S. Sum of Consecutive Odd Numbers.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #2 (Loops)\S. Sum of Consecutive Odd Numbers\obj\Debug\net6.0\S. Sum of Consecutive Odd Numbers.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #2 (Loops)\S. Sum of Consecutive Odd Numbers\obj\Debug\net6.0\S. Sum of Consecutive Odd Numbers.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #2 (Loops)\S. Sum of Consecutive Odd Numbers\obj\Debug\net6.0\refint\S. Sum of Consecutive Odd Numbers.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #2 (Loops)\S. Sum of Consecutive Odd Numbers\obj\Debug\net6.0\S. Sum of Consecutive Odd Numbers.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #2 (Loops)\S. Sum of Consecutive Odd Numbers\obj\Debug\net6.0\S. Sum of Consecutive Odd Numbers.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #2 (Loops)\S. Sum of Consecutive Odd Numbers\obj\Debug\net6.0\ref\S. Sum of Consecutive Odd Numbers.dll
