@@ -1,4 +1,6 @@
-﻿namespace Problemset_MainFolder
+﻿using System.Numerics;
+
+namespace Problemset_MainFolder
 {
     internal class Program
     {

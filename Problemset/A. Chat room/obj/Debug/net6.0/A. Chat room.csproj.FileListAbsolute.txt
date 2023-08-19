@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Chat room\bin\Debug\net6.0\A. Chat room.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Chat room\bin\Debug\net6.0\A. Chat room.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Chat room\bin\Debug\net6.0\A. Chat room.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Chat room\bin\Debug\net6.0\A. Chat room.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Chat room\bin\Debug\net6.0\A. Chat room.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Chat room\obj\Debug\net6.0\A. Chat room.csproj.AssemblyReference.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Chat room\obj\Debug\net6.0\A. Chat room.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Chat room\obj\Debug\net6.0\A. Chat room.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Chat room\obj\Debug\net6.0\A. Chat room.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Chat room\obj\Debug\net6.0\A. Chat room.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Chat room\obj\Debug\net6.0\A. Chat room.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Chat room\obj\Debug\net6.0\refint\A. Chat room.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Chat room\obj\Debug\net6.0\A. Chat room.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Chat room\obj\Debug\net6.0\A. Chat room.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Chat room\obj\Debug\net6.0\ref\A. Chat room.dll
