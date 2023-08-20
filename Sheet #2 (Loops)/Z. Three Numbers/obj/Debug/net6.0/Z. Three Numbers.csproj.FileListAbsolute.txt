@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #2 (Loops)\Z. Three Numbers\bin\Debug\net6.0\Z. Three Numbers.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #2 (Loops)\Z. Three Numbers\bin\Debug\net6.0\Z. Three Numbers.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #2 (Loops)\Z. Three Numbers\bin\Debug\net6.0\Z. Three Numbers.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #2 (Loops)\Z. Three Numbers\bin\Debug\net6.0\Z. Three Numbers.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #2 (Loops)\Z. Three Numbers\bin\Debug\net6.0\Z. Three Numbers.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #2 (Loops)\Z. Three Numbers\obj\Debug\net6.0\Z. Three Numbers.csproj.AssemblyReference.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #2 (Loops)\Z. Three Numbers\obj\Debug\net6.0\Z. Three Numbers.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #2 (Loops)\Z. Three Numbers\obj\Debug\net6.0\Z. Three Numbers.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #2 (Loops)\Z. Three Numbers\obj\Debug\net6.0\Z. Three Numbers.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #2 (Loops)\Z. Three Numbers\obj\Debug\net6.0\Z. Three Numbers.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #2 (Loops)\Z. Three Numbers\obj\Debug\net6.0\Z. Three Numbers.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #2 (Loops)\Z. Three Numbers\obj\Debug\net6.0\refint\Z. Three Numbers.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #2 (Loops)\Z. Three Numbers\obj\Debug\net6.0\Z. Three Numbers.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #2 (Loops)\Z. Three Numbers\obj\Debug\net6.0\Z. Three Numbers.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #2 (Loops)\Z. Three Numbers\obj\Debug\net6.0\ref\Z. Three Numbers.dll

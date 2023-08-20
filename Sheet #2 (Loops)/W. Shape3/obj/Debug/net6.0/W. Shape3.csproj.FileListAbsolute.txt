@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #2 (Loops)\W. Shape3\bin\Debug\net6.0\W. Shape3.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #2 (Loops)\W. Shape3\bin\Debug\net6.0\W. Shape3.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #2 (Loops)\W. Shape3\bin\Debug\net6.0\W. Shape3.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #2 (Loops)\W. Shape3\bin\Debug\net6.0\W. Shape3.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #2 (Loops)\W. Shape3\bin\Debug\net6.0\W. Shape3.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #2 (Loops)\W. Shape3\obj\Debug\net6.0\W. Shape3.csproj.AssemblyReference.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #2 (Loops)\W. Shape3\obj\Debug\net6.0\W. Shape3.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #2 (Loops)\W. Shape3\obj\Debug\net6.0\W. Shape3.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #2 (Loops)\W. Shape3\obj\Debug\net6.0\W. Shape3.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #2 (Loops)\W. Shape3\obj\Debug\net6.0\W. Shape3.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #2 (Loops)\W. Shape3\obj\Debug\net6.0\W. Shape3.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #2 (Loops)\W. Shape3\obj\Debug\net6.0\refint\W. Shape3.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #2 (Loops)\W. Shape3\obj\Debug\net6.0\W. Shape3.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #2 (Loops)\W. Shape3\obj\Debug\net6.0\W. Shape3.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #2 (Loops)\W. Shape3\obj\Debug\net6.0\ref\W. Shape3.dll
