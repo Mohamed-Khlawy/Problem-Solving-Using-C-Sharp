@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #2 (Loops)\U. Some Sums\bin\Debug\net6.0\U. Some Sums.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #2 (Loops)\U. Some Sums\bin\Debug\net6.0\U. Some Sums.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #2 (Loops)\U. Some Sums\bin\Debug\net6.0\U. Some Sums.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #2 (Loops)\U. Some Sums\bin\Debug\net6.0\U. Some Sums.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #2 (Loops)\U. Some Sums\bin\Debug\net6.0\U. Some Sums.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #2 (Loops)\U. Some Sums\obj\Debug\net6.0\U. Some Sums.csproj.AssemblyReference.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #2 (Loops)\U. Some Sums\obj\Debug\net6.0\U. Some Sums.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #2 (Loops)\U. Some Sums\obj\Debug\net6.0\U. Some Sums.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #2 (Loops)\U. Some Sums\obj\Debug\net6.0\U. Some Sums.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #2 (Loops)\U. Some Sums\obj\Debug\net6.0\U. Some Sums.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #2 (Loops)\U. Some Sums\obj\Debug\net6.0\U. Some Sums.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #2 (Loops)\U. Some Sums\obj\Debug\net6.0\refint\U. Some Sums.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #2 (Loops)\U. Some Sums\obj\Debug\net6.0\U. Some Sums.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #2 (Loops)\U. Some Sums\obj\Debug\net6.0\U. Some Sums.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #2 (Loops)\U. Some Sums\obj\Debug\net6.0\ref\U. Some Sums.dll

@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #2 (Loops)\T. Shape2\bin\Debug\net6.0\T. Shape2.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #2 (Loops)\T. Shape2\bin\Debug\net6.0\T. Shape2.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #2 (Loops)\T. Shape2\bin\Debug\net6.0\T. Shape2.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #2 (Loops)\T. Shape2\bin\Debug\net6.0\T. Shape2.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #2 (Loops)\T. Shape2\bin\Debug\net6.0\T. Shape2.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #2 (Loops)\T. Shape2\obj\Debug\net6.0\T. Shape2.csproj.AssemblyReference.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #2 (Loops)\T. Shape2\obj\Debug\net6.0\T. Shape2.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #2 (Loops)\T. Shape2\obj\Debug\net6.0\T. Shape2.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #2 (Loops)\T. Shape2\obj\Debug\net6.0\T. Shape2.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #2 (Loops)\T. Shape2\obj\Debug\net6.0\T. Shape2.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #2 (Loops)\T. Shape2\obj\Debug\net6.0\T. Shape2.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #2 (Loops)\T. Shape2\obj\Debug\net6.0\refint\T. Shape2.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #2 (Loops)\T. Shape2\obj\Debug\net6.0\T. Shape2.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #2 (Loops)\T. Shape2\obj\Debug\net6.0\T. Shape2.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #2 (Loops)\T. Shape2\obj\Debug\net6.0\ref\T. Shape2.dll

@@ -9,9 +9,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P. Shape1", "P. Shape1\P. S
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Q. Digits", "Q. Digits\Q. Digits.csproj", "{C208A429-DBBA-44B0-A3BF-1533B4DD093A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "R. Sequence of Numbers and Sum", "R. Sequence of Numbers and Sum\R. Sequence of Numbers and Sum.csproj", "{53D701D6-C6F6-4B91-B6E0-0F3A2C09BACB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "R. Sequence of Numbers and Sum", "R. Sequence of Numbers and Sum\R. Sequence of Numbers and Sum.csproj", "{53D701D6-C6F6-4B91-B6E0-0F3A2C09BACB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "S. Sum of Consecutive Odd Numbers", "S. Sum of Consecutive Odd Numbers\S. Sum of Consecutive Odd Numbers.csproj", "{DC371413-777A-495D-B3A5-8BF4BC88AF6D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "S. Sum of Consecutive Odd Numbers", "S. Sum of Consecutive Odd Numbers\S. Sum of Consecutive Odd Numbers.csproj", "{DC371413-777A-495D-B3A5-8BF4BC88AF6D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T. Shape2", "T. Shape2\T. Shape2.csproj", "{6CCBEE65-936F-4ABE-9ED4-6A806A3CE69D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "U. Some Sums", "U. Some Sums\U. Some Sums.csproj", "{807D53BF-0A2F-41AA-AC6B-C44435705862}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +43,14 @@ Global
 		{DC371413-777A-495D-B3A5-8BF4BC88AF6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DC371413-777A-495D-B3A5-8BF4BC88AF6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DC371413-777A-495D-B3A5-8BF4BC88AF6D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6CCBEE65-936F-4ABE-9ED4-6A806A3CE69D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6CCBEE65-936F-4ABE-9ED4-6A806A3CE69D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6CCBEE65-936F-4ABE-9ED4-6A806A3CE69D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6CCBEE65-936F-4ABE-9ED4-6A806A3CE69D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{807D53BF-0A2F-41AA-AC6B-C44435705862}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{807D53BF-0A2F-41AA-AC6B-C44435705862}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{807D53BF-0A2F-41AA-AC6B-C44435705862}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{807D53BF-0A2F-41AA-AC6B-C44435705862}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
