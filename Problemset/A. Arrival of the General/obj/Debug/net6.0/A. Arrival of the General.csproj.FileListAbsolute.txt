@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Arrival of the General\bin\Debug\net6.0\A. Arrival of the General.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Arrival of the General\bin\Debug\net6.0\A. Arrival of the General.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Arrival of the General\bin\Debug\net6.0\A. Arrival of the General.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Arrival of the General\bin\Debug\net6.0\A. Arrival of the General.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Arrival of the General\bin\Debug\net6.0\A. Arrival of the General.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Arrival of the General\obj\Debug\net6.0\A. Arrival of the General.csproj.AssemblyReference.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Arrival of the General\obj\Debug\net6.0\A. Arrival of the General.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Arrival of the General\obj\Debug\net6.0\A. Arrival of the General.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Arrival of the General\obj\Debug\net6.0\A. Arrival of the General.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Arrival of the General\obj\Debug\net6.0\A. Arrival of the General.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Arrival of the General\obj\Debug\net6.0\A. Arrival of the General.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Arrival of the General\obj\Debug\net6.0\refint\A. Arrival of the General.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Arrival of the General\obj\Debug\net6.0\A. Arrival of the General.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Arrival of the General\obj\Debug\net6.0\A. Arrival of the General.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Arrival of the General\obj\Debug\net6.0\ref\A. Arrival of the General.dll
