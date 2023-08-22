@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Contest #2\B. Drawing 'X'\bin\Debug\net6.0\B. Drawing 'X'.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Contest #2\B. Drawing 'X'\bin\Debug\net6.0\B. Drawing 'X'.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Contest #2\B. Drawing 'X'\bin\Debug\net6.0\B. Drawing 'X'.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Contest #2\B. Drawing 'X'\bin\Debug\net6.0\B. Drawing 'X'.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Contest #2\B. Drawing 'X'\bin\Debug\net6.0\B. Drawing 'X'.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Contest #2\B. Drawing 'X'\obj\Debug\net6.0\B. Drawing 'X'.csproj.AssemblyReference.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Contest #2\B. Drawing 'X'\obj\Debug\net6.0\B. Drawing 'X'.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Contest #2\B. Drawing 'X'\obj\Debug\net6.0\B. Drawing 'X'.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Contest #2\B. Drawing 'X'\obj\Debug\net6.0\B. Drawing 'X'.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Contest #2\B. Drawing 'X'\obj\Debug\net6.0\B. Drawing 'X'.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Contest #2\B. Drawing 'X'\obj\Debug\net6.0\B. Drawing 'X'.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Contest #2\B. Drawing 'X'\obj\Debug\net6.0\refint\B. Drawing 'X'.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Contest #2\B. Drawing 'X'\obj\Debug\net6.0\B. Drawing 'X'.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Contest #2\B. Drawing 'X'\obj\Debug\net6.0\B. Drawing 'X'.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Contest #2\B. Drawing 'X'\obj\Debug\net6.0\ref\B. Drawing 'X'.dll

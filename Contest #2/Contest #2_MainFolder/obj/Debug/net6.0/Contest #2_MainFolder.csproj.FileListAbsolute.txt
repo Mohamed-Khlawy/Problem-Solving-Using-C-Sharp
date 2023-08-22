@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Contest #2\Contest #2_MainFolder\bin\Debug\net6.0\Contest #2_MainFolder.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Contest #2\Contest #2_MainFolder\bin\Debug\net6.0\Contest #2_MainFolder.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Contest #2\Contest #2_MainFolder\bin\Debug\net6.0\Contest #2_MainFolder.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Contest #2\Contest #2_MainFolder\bin\Debug\net6.0\Contest #2_MainFolder.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Contest #2\Contest #2_MainFolder\bin\Debug\net6.0\Contest #2_MainFolder.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Contest #2\Contest #2_MainFolder\obj\Debug\net6.0\Contest #2_MainFolder.csproj.AssemblyReference.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Contest #2\Contest #2_MainFolder\obj\Debug\net6.0\Contest #2_MainFolder.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Contest #2\Contest #2_MainFolder\obj\Debug\net6.0\Contest #2_MainFolder.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Contest #2\Contest #2_MainFolder\obj\Debug\net6.0\Contest #2_MainFolder.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Contest #2\Contest #2_MainFolder\obj\Debug\net6.0\Contest #2_MainFolder.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Contest #2\Contest #2_MainFolder\obj\Debug\net6.0\Contest #2_MainFolder.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Contest #2\Contest #2_MainFolder\obj\Debug\net6.0\refint\Contest #2_MainFolder.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Contest #2\Contest #2_MainFolder\obj\Debug\net6.0\Contest #2_MainFolder.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Contest #2\Contest #2_MainFolder\obj\Debug\net6.0\Contest #2_MainFolder.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Contest #2\Contest #2_MainFolder\obj\Debug\net6.0\ref\Contest #2_MainFolder.dll

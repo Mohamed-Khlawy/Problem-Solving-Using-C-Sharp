@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "B. Drawing 'X'/1.0.0": {
+        "runtime": {
+          "B. Drawing 'X'.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "B. Drawing 'X'/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

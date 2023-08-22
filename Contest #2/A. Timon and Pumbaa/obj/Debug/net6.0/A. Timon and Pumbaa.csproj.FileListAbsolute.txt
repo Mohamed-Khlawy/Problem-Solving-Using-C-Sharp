@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Contest #2\A. Timon and Pumbaa\bin\Debug\net6.0\A. Timon and Pumbaa.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Contest #2\A. Timon and Pumbaa\bin\Debug\net6.0\A. Timon and Pumbaa.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Contest #2\A. Timon and Pumbaa\bin\Debug\net6.0\A. Timon and Pumbaa.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Contest #2\A. Timon and Pumbaa\bin\Debug\net6.0\A. Timon and Pumbaa.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Contest #2\A. Timon and Pumbaa\bin\Debug\net6.0\A. Timon and Pumbaa.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Contest #2\A. Timon and Pumbaa\obj\Debug\net6.0\A. Timon and Pumbaa.csproj.AssemblyReference.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Contest #2\A. Timon and Pumbaa\obj\Debug\net6.0\A. Timon and Pumbaa.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Contest #2\A. Timon and Pumbaa\obj\Debug\net6.0\A. Timon and Pumbaa.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Contest #2\A. Timon and Pumbaa\obj\Debug\net6.0\A. Timon and Pumbaa.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Contest #2\A. Timon and Pumbaa\obj\Debug\net6.0\A. Timon and Pumbaa.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Contest #2\A. Timon and Pumbaa\obj\Debug\net6.0\A. Timon and Pumbaa.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Contest #2\A. Timon and Pumbaa\obj\Debug\net6.0\refint\A. Timon and Pumbaa.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Contest #2\A. Timon and Pumbaa\obj\Debug\net6.0\A. Timon and Pumbaa.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Contest #2\A. Timon and Pumbaa\obj\Debug\net6.0\A. Timon and Pumbaa.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Contest #2\A. Timon and Pumbaa\obj\Debug\net6.0\ref\A. Timon and Pumbaa.dll
