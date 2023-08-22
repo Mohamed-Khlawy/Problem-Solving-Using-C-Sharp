@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Contest #2\C. Finding Minimums\bin\Debug\net6.0\C. Finding Minimums.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Contest #2\C. Finding Minimums\bin\Debug\net6.0\C. Finding Minimums.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Contest #2\C. Finding Minimums\bin\Debug\net6.0\C. Finding Minimums.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Contest #2\C. Finding Minimums\bin\Debug\net6.0\C. Finding Minimums.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Contest #2\C. Finding Minimums\bin\Debug\net6.0\C. Finding Minimums.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Contest #2\C. Finding Minimums\obj\Debug\net6.0\C. Finding Minimums.csproj.AssemblyReference.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Contest #2\C. Finding Minimums\obj\Debug\net6.0\C. Finding Minimums.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Contest #2\C. Finding Minimums\obj\Debug\net6.0\C. Finding Minimums.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Contest #2\C. Finding Minimums\obj\Debug\net6.0\C. Finding Minimums.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Contest #2\C. Finding Minimums\obj\Debug\net6.0\C. Finding Minimums.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Contest #2\C. Finding Minimums\obj\Debug\net6.0\C. Finding Minimums.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Contest #2\C. Finding Minimums\obj\Debug\net6.0\refint\C. Finding Minimums.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Contest #2\C. Finding Minimums\obj\Debug\net6.0\C. Finding Minimums.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Contest #2\C. Finding Minimums\obj\Debug\net6.0\C. Finding Minimums.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Contest #2\C. Finding Minimums\obj\Debug\net6.0\ref\C. Finding Minimums.dll

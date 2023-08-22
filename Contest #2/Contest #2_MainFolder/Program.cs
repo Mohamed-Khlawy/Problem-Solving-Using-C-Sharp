@@ -1,4 +1,6 @@
-﻿namespace Contest__2_MainFolder
+﻿using System.Numerics;
+
+namespace Contest__2_MainFolder
 {
     internal class Program
     {
