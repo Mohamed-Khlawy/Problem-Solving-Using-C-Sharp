@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Insomnia cure\bin\Debug\net6.0\A. Insomnia cure.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Insomnia cure\bin\Debug\net6.0\A. Insomnia cure.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Insomnia cure\bin\Debug\net6.0\A. Insomnia cure.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Insomnia cure\bin\Debug\net6.0\A. Insomnia cure.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Insomnia cure\bin\Debug\net6.0\A. Insomnia cure.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Insomnia cure\obj\Debug\net6.0\A. Insomnia cure.csproj.AssemblyReference.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Insomnia cure\obj\Debug\net6.0\A. Insomnia cure.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Insomnia cure\obj\Debug\net6.0\A. Insomnia cure.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Insomnia cure\obj\Debug\net6.0\A. Insomnia cure.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Insomnia cure\obj\Debug\net6.0\A. Insomnia cure.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Insomnia cure\obj\Debug\net6.0\A. Insomnia cure.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Insomnia cure\obj\Debug\net6.0\refint\A. Insomnia cure.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Insomnia cure\obj\Debug\net6.0\A. Insomnia cure.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Insomnia cure\obj\Debug\net6.0\A. Insomnia cure.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Insomnia cure\obj\Debug\net6.0\ref\A. Insomnia cure.dll
