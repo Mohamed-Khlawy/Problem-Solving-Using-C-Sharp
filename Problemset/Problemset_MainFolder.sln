@@ -11,7 +11,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "A. Chat room", "A. Chat roo
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "A. Twins", "A. Twins\A. Twins.csproj", "{E32ADCEC-5969-4557-B634-6D61501098F9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A. Arrival of the General", "A. Arrival of the General\A. Arrival of the General.csproj", "{DBF2FA12-46F4-4D49-836C-E910DAFF6347}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "A. Arrival of the General", "A. Arrival of the General\A. Arrival of the General.csproj", "{DBF2FA12-46F4-4D49-836C-E910DAFF6347}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A. Even Odds", "A. Even Odds\A. Even Odds.csproj", "{AD05D44C-F347-46C4-B8F8-E0C8C52A00BC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{DBF2FA12-46F4-4D49-836C-E910DAFF6347}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DBF2FA12-46F4-4D49-836C-E910DAFF6347}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DBF2FA12-46F4-4D49-836C-E910DAFF6347}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD05D44C-F347-46C4-B8F8-E0C8C52A00BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD05D44C-F347-46C4-B8F8-E0C8C52A00BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD05D44C-F347-46C4-B8F8-E0C8C52A00BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD05D44C-F347-46C4-B8F8-E0C8C52A00BC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
