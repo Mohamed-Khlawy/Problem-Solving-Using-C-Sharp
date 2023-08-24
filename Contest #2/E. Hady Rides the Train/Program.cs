@@ -2,7 +2,7 @@
 {
     internal class Program
     {
-        // This was hard but i got it alone
+        //This was hard but i got it alone
         static void Main(string[] args)
         {
             long seatIndex = long.Parse(Console.ReadLine()!);
