@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Contest #2\D. Range Sum\bin\Debug\net6.0\D. Range Sum.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Contest #2\D. Range Sum\bin\Debug\net6.0\D. Range Sum.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Contest #2\D. Range Sum\bin\Debug\net6.0\D. Range Sum.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Contest #2\D. Range Sum\bin\Debug\net6.0\D. Range Sum.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Contest #2\D. Range Sum\bin\Debug\net6.0\D. Range Sum.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Contest #2\D. Range Sum\obj\Debug\net6.0\D. Range Sum.csproj.AssemblyReference.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Contest #2\D. Range Sum\obj\Debug\net6.0\D. Range Sum.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Contest #2\D. Range Sum\obj\Debug\net6.0\D. Range Sum.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Contest #2\D. Range Sum\obj\Debug\net6.0\D. Range Sum.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Contest #2\D. Range Sum\obj\Debug\net6.0\D. Range Sum.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Contest #2\D. Range Sum\obj\Debug\net6.0\D. Range Sum.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Contest #2\D. Range Sum\obj\Debug\net6.0\refint\D. Range Sum.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Contest #2\D. Range Sum\obj\Debug\net6.0\D. Range Sum.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Contest #2\D. Range Sum\obj\Debug\net6.0\D. Range Sum.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Contest #2\D. Range Sum\obj\Debug\net6.0\ref\D. Range Sum.dll
