@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Contest #2\E. Hady Rides the Train\bin\Debug\net6.0\E. Hady Rides the Train.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Contest #2\E. Hady Rides the Train\bin\Debug\net6.0\E. Hady Rides the Train.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Contest #2\E. Hady Rides the Train\bin\Debug\net6.0\E. Hady Rides the Train.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Contest #2\E. Hady Rides the Train\bin\Debug\net6.0\E. Hady Rides the Train.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Contest #2\E. Hady Rides the Train\bin\Debug\net6.0\E. Hady Rides the Train.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Contest #2\E. Hady Rides the Train\obj\Debug\net6.0\E. Hady Rides the Train.csproj.AssemblyReference.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Contest #2\E. Hady Rides the Train\obj\Debug\net6.0\E. Hady Rides the Train.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Contest #2\E. Hady Rides the Train\obj\Debug\net6.0\E. Hady Rides the Train.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Contest #2\E. Hady Rides the Train\obj\Debug\net6.0\E. Hady Rides the Train.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Contest #2\E. Hady Rides the Train\obj\Debug\net6.0\E. Hady Rides the Train.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Contest #2\E. Hady Rides the Train\obj\Debug\net6.0\E. Hady Rides the Train.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Contest #2\E. Hady Rides the Train\obj\Debug\net6.0\refint\E. Hady Rides the Train.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Contest #2\E. Hady Rides the Train\obj\Debug\net6.0\E. Hady Rides the Train.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Contest #2\E. Hady Rides the Train\obj\Debug\net6.0\E. Hady Rides the Train.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Contest #2\E. Hady Rides the Train\obj\Debug\net6.0\ref\E. Hady Rides the Train.dll

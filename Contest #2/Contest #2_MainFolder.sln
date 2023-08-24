@@ -11,7 +11,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "B. Drawing 'X'", "B. Drawin
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "C. Finding Minimums", "C. Finding Minimums\C. Finding Minimums.csproj", "{5B0FAB77-9D75-42A8-B9A3-36BE988E1E93}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "D. Range Sum", "D. Range Sum\D. Range Sum.csproj", "{5F029B03-BC16-4630-AA63-980BA63CCFF3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "D. Range Sum", "D. Range Sum\D. Range Sum.csproj", "{5F029B03-BC16-4630-AA63-980BA63CCFF3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "E. Hady Rides the Train", "E. Hady Rides the Train\E. Hady Rides the Train.csproj", "{4AB602A5-A213-4F66-A218-B22DD2B61E9C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{5F029B03-BC16-4630-AA63-980BA63CCFF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5F029B03-BC16-4630-AA63-980BA63CCFF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5F029B03-BC16-4630-AA63-980BA63CCFF3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4AB602A5-A213-4F66-A218-B22DD2B61E9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4AB602A5-A213-4F66-A218-B22DD2B61E9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4AB602A5-A213-4F66-A218-B22DD2B61E9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4AB602A5-A213-4F66-A218-B22DD2B61E9C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
