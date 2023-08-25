@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Contest #2\H. Simple Mod\bin\Debug\net6.0\H. Simple Mod.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Contest #2\H. Simple Mod\bin\Debug\net6.0\H. Simple Mod.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Contest #2\H. Simple Mod\bin\Debug\net6.0\H. Simple Mod.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Contest #2\H. Simple Mod\bin\Debug\net6.0\H. Simple Mod.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Contest #2\H. Simple Mod\bin\Debug\net6.0\H. Simple Mod.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Contest #2\H. Simple Mod\obj\Debug\net6.0\H. Simple Mod.csproj.AssemblyReference.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Contest #2\H. Simple Mod\obj\Debug\net6.0\H. Simple Mod.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Contest #2\H. Simple Mod\obj\Debug\net6.0\H. Simple Mod.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Contest #2\H. Simple Mod\obj\Debug\net6.0\H. Simple Mod.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Contest #2\H. Simple Mod\obj\Debug\net6.0\H. Simple Mod.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Contest #2\H. Simple Mod\obj\Debug\net6.0\H. Simple Mod.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Contest #2\H. Simple Mod\obj\Debug\net6.0\refint\H. Simple Mod.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Contest #2\H. Simple Mod\obj\Debug\net6.0\H. Simple Mod.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Contest #2\H. Simple Mod\obj\Debug\net6.0\H. Simple Mod.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Contest #2\H. Simple Mod\obj\Debug\net6.0\ref\H. Simple Mod.dll

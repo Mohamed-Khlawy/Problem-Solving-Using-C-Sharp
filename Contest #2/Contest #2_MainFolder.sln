@@ -13,7 +13,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "C. Finding Minimums", "C. F
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "D. Range Sum", "D. Range Sum\D. Range Sum.csproj", "{5F029B03-BC16-4630-AA63-980BA63CCFF3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "E. Hady Rides the Train", "E. Hady Rides the Train\E. Hady Rides the Train.csproj", "{4AB602A5-A213-4F66-A218-B22DD2B61E9C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "E. Hady Rides the Train", "E. Hady Rides the Train\E. Hady Rides the Train.csproj", "{4AB602A5-A213-4F66-A218-B22DD2B61E9C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "F. Break Number", "F. Break Number\F. Break Number.csproj", "{8132037F-7547-47B3-8DE4-05EC454F8169}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "H. Simple Mod", "H. Simple Mod\H. Simple Mod.csproj", "{DE00987E-CD27-420B-803B-FCA2120F79EB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "G. Construct the Sum", "G. Construct the Sum\G. Construct the Sum.csproj", "{40A2A7E3-C5A9-4EF3-A5F3-DAE0FF25E33A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +51,18 @@ Global
 		{4AB602A5-A213-4F66-A218-B22DD2B61E9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4AB602A5-A213-4F66-A218-B22DD2B61E9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4AB602A5-A213-4F66-A218-B22DD2B61E9C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8132037F-7547-47B3-8DE4-05EC454F8169}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8132037F-7547-47B3-8DE4-05EC454F8169}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8132037F-7547-47B3-8DE4-05EC454F8169}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8132037F-7547-47B3-8DE4-05EC454F8169}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DE00987E-CD27-420B-803B-FCA2120F79EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE00987E-CD27-420B-803B-FCA2120F79EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE00987E-CD27-420B-803B-FCA2120F79EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE00987E-CD27-420B-803B-FCA2120F79EB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{40A2A7E3-C5A9-4EF3-A5F3-DAE0FF25E33A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40A2A7E3-C5A9-4EF3-A5F3-DAE0FF25E33A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40A2A7E3-C5A9-4EF3-A5F3-DAE0FF25E33A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40A2A7E3-C5A9-4EF3-A5F3-DAE0FF25E33A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Contest #2\G. Construct the Sum\bin\Debug\net6.0\G. Construct the Sum.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Contest #2\G. Construct the Sum\bin\Debug\net6.0\G. Construct the Sum.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Contest #2\G. Construct the Sum\bin\Debug\net6.0\G. Construct the Sum.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Contest #2\G. Construct the Sum\bin\Debug\net6.0\G. Construct the Sum.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Contest #2\G. Construct the Sum\bin\Debug\net6.0\G. Construct the Sum.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Contest #2\G. Construct the Sum\obj\Debug\net6.0\G. Construct the Sum.csproj.AssemblyReference.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Contest #2\G. Construct the Sum\obj\Debug\net6.0\G. Construct the Sum.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Contest #2\G. Construct the Sum\obj\Debug\net6.0\G. Construct the Sum.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Contest #2\G. Construct the Sum\obj\Debug\net6.0\G. Construct the Sum.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Contest #2\G. Construct the Sum\obj\Debug\net6.0\G. Construct the Sum.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Contest #2\G. Construct the Sum\obj\Debug\net6.0\G. Construct the Sum.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Contest #2\G. Construct the Sum\obj\Debug\net6.0\refint\G. Construct the Sum.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Contest #2\G. Construct the Sum\obj\Debug\net6.0\G. Construct the Sum.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Contest #2\G. Construct the Sum\obj\Debug\net6.0\G. Construct the Sum.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Contest #2\G. Construct the Sum\obj\Debug\net6.0\ref\G. Construct the Sum.dll

@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Contest #2\F. Break Number\bin\Debug\net6.0\F. Break Number.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Contest #2\F. Break Number\bin\Debug\net6.0\F. Break Number.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Contest #2\F. Break Number\bin\Debug\net6.0\F. Break Number.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Contest #2\F. Break Number\bin\Debug\net6.0\F. Break Number.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Contest #2\F. Break Number\bin\Debug\net6.0\F. Break Number.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Contest #2\F. Break Number\obj\Debug\net6.0\F. Break Number.csproj.AssemblyReference.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Contest #2\F. Break Number\obj\Debug\net6.0\F. Break Number.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Contest #2\F. Break Number\obj\Debug\net6.0\F. Break Number.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Contest #2\F. Break Number\obj\Debug\net6.0\F. Break Number.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Contest #2\F. Break Number\obj\Debug\net6.0\F. Break Number.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Contest #2\F. Break Number\obj\Debug\net6.0\F. Break Number.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Contest #2\F. Break Number\obj\Debug\net6.0\refint\F. Break Number.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Contest #2\F. Break Number\obj\Debug\net6.0\F. Break Number.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Contest #2\F. Break Number\obj\Debug\net6.0\F. Break Number.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Contest #2\F. Break Number\obj\Debug\net6.0\ref\F. Break Number.dll
