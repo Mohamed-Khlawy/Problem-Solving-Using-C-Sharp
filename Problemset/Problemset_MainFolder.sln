@@ -15,9 +15,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "A. Arrival of the General",
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "A. Even Odds", "A. Even Odds\A. Even Odds.csproj", "{AD05D44C-F347-46C4-B8F8-E0C8C52A00BC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A. Insomnia cure", "A. Insomnia cure\A. Insomnia cure.csproj", "{1A6904F6-BCA7-4B29-8A29-C8D238490711}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "A. Insomnia cure", "A. Insomnia cure\A. Insomnia cure.csproj", "{1A6904F6-BCA7-4B29-8A29-C8D238490711}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "B. Even Array", "B. Even Array\B. Even Array.csproj", "{59658C87-4857-4535-82AE-56E3ECFEF23B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "B. Even Array", "B. Even Array\B. Even Array.csproj", "{59658C87-4857-4535-82AE-56E3ECFEF23B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A. Football", "A. Football\A. Football.csproj", "{684D3527-BC2B-44AB-85A6-103E51D72E06}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -57,6 +59,10 @@ Global
 		{59658C87-4857-4535-82AE-56E3ECFEF23B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{59658C87-4857-4535-82AE-56E3ECFEF23B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{59658C87-4857-4535-82AE-56E3ECFEF23B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{684D3527-BC2B-44AB-85A6-103E51D72E06}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{684D3527-BC2B-44AB-85A6-103E51D72E06}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{684D3527-BC2B-44AB-85A6-103E51D72E06}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{684D3527-BC2B-44AB-85A6-103E51D72E06}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
