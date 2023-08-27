@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #2 (Loops)\K. Divisors\bin\Debug\net6.0\K. Divisors.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #2 (Loops)\K. Divisors\bin\Debug\net6.0\K. Divisors.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #2 (Loops)\K. Divisors\bin\Debug\net6.0\K. Divisors.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #2 (Loops)\K. Divisors\bin\Debug\net6.0\K. Divisors.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #2 (Loops)\K. Divisors\bin\Debug\net6.0\K. Divisors.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #2 (Loops)\K. Divisors\obj\Debug\net6.0\K. Divisors.csproj.AssemblyReference.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #2 (Loops)\K. Divisors\obj\Debug\net6.0\K. Divisors.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #2 (Loops)\K. Divisors\obj\Debug\net6.0\K. Divisors.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #2 (Loops)\K. Divisors\obj\Debug\net6.0\K. Divisors.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #2 (Loops)\K. Divisors\obj\Debug\net6.0\K. Divisors.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #2 (Loops)\K. Divisors\obj\Debug\net6.0\K. Divisors.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #2 (Loops)\K. Divisors\obj\Debug\net6.0\refint\K. Divisors.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #2 (Loops)\K. Divisors\obj\Debug\net6.0\K. Divisors.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #2 (Loops)\K. Divisors\obj\Debug\net6.0\K. Divisors.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #2 (Loops)\K. Divisors\obj\Debug\net6.0\ref\K. Divisors.dll

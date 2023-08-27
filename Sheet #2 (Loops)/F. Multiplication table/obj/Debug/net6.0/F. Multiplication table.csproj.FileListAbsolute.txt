@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #2 (Loops)\F. Multiplication table\bin\Debug\net6.0\F. Multiplication table.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #2 (Loops)\F. Multiplication table\bin\Debug\net6.0\F. Multiplication table.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #2 (Loops)\F. Multiplication table\bin\Debug\net6.0\F. Multiplication table.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #2 (Loops)\F. Multiplication table\bin\Debug\net6.0\F. Multiplication table.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #2 (Loops)\F. Multiplication table\bin\Debug\net6.0\F. Multiplication table.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #2 (Loops)\F. Multiplication table\obj\Debug\net6.0\F. Multiplication table.csproj.AssemblyReference.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #2 (Loops)\F. Multiplication table\obj\Debug\net6.0\F. Multiplication table.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #2 (Loops)\F. Multiplication table\obj\Debug\net6.0\F. Multiplication table.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #2 (Loops)\F. Multiplication table\obj\Debug\net6.0\F. Multiplication table.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #2 (Loops)\F. Multiplication table\obj\Debug\net6.0\F. Multiplication table.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #2 (Loops)\F. Multiplication table\obj\Debug\net6.0\F. Multiplication table.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #2 (Loops)\F. Multiplication table\obj\Debug\net6.0\refint\F. Multiplication table.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #2 (Loops)\F. Multiplication table\obj\Debug\net6.0\F. Multiplication table.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #2 (Loops)\F. Multiplication table\obj\Debug\net6.0\F. Multiplication table.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #2 (Loops)\F. Multiplication table\obj\Debug\net6.0\ref\F. Multiplication table.dll

@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #2 (Loops)\N. Numbers Histogram\bin\Debug\net6.0\N. Numbers Histogram.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #2 (Loops)\N. Numbers Histogram\bin\Debug\net6.0\N. Numbers Histogram.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #2 (Loops)\N. Numbers Histogram\bin\Debug\net6.0\N. Numbers Histogram.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #2 (Loops)\N. Numbers Histogram\bin\Debug\net6.0\N. Numbers Histogram.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #2 (Loops)\N. Numbers Histogram\bin\Debug\net6.0\N. Numbers Histogram.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #2 (Loops)\N. Numbers Histogram\obj\Debug\net6.0\N. Numbers Histogram.csproj.AssemblyReference.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #2 (Loops)\N. Numbers Histogram\obj\Debug\net6.0\N. Numbers Histogram.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #2 (Loops)\N. Numbers Histogram\obj\Debug\net6.0\N. Numbers Histogram.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #2 (Loops)\N. Numbers Histogram\obj\Debug\net6.0\N. Numbers Histogram.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #2 (Loops)\N. Numbers Histogram\obj\Debug\net6.0\N. Numbers Histogram.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #2 (Loops)\N. Numbers Histogram\obj\Debug\net6.0\N. Numbers Histogram.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #2 (Loops)\N. Numbers Histogram\obj\Debug\net6.0\refint\N. Numbers Histogram.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #2 (Loops)\N. Numbers Histogram\obj\Debug\net6.0\N. Numbers Histogram.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #2 (Loops)\N. Numbers Histogram\obj\Debug\net6.0\N. Numbers Histogram.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #2 (Loops)\N. Numbers Histogram\obj\Debug\net6.0\ref\N. Numbers Histogram.dll

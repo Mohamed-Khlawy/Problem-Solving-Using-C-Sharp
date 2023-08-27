@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #2 (Loops)\L. GCD\bin\Debug\net6.0\L. GCD.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #2 (Loops)\L. GCD\bin\Debug\net6.0\L. GCD.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #2 (Loops)\L. GCD\bin\Debug\net6.0\L. GCD.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #2 (Loops)\L. GCD\bin\Debug\net6.0\L. GCD.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #2 (Loops)\L. GCD\bin\Debug\net6.0\L. GCD.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #2 (Loops)\L. GCD\obj\Debug\net6.0\L. GCD.csproj.AssemblyReference.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #2 (Loops)\L. GCD\obj\Debug\net6.0\L. GCD.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #2 (Loops)\L. GCD\obj\Debug\net6.0\L. GCD.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #2 (Loops)\L. GCD\obj\Debug\net6.0\L. GCD.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #2 (Loops)\L. GCD\obj\Debug\net6.0\L. GCD.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #2 (Loops)\L. GCD\obj\Debug\net6.0\L. GCD.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #2 (Loops)\L. GCD\obj\Debug\net6.0\refint\L. GCD.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #2 (Loops)\L. GCD\obj\Debug\net6.0\L. GCD.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #2 (Loops)\L. GCD\obj\Debug\net6.0\L. GCD.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #2 (Loops)\L. GCD\obj\Debug\net6.0\ref\L. GCD.dll

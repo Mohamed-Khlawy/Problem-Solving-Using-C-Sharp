@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #2 (Loops)\C. Even, Odd, Positive and Negative\bin\Debug\net6.0\C. Even, Odd, Positive and Negative.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #2 (Loops)\C. Even, Odd, Positive and Negative\bin\Debug\net6.0\C. Even, Odd, Positive and Negative.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #2 (Loops)\C. Even, Odd, Positive and Negative\bin\Debug\net6.0\C. Even, Odd, Positive and Negative.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #2 (Loops)\C. Even, Odd, Positive and Negative\bin\Debug\net6.0\C. Even, Odd, Positive and Negative.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #2 (Loops)\C. Even, Odd, Positive and Negative\bin\Debug\net6.0\C. Even, Odd, Positive and Negative.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #2 (Loops)\C. Even, Odd, Positive and Negative\obj\Debug\net6.0\C. Even, Odd, Positive and Negative.csproj.AssemblyReference.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #2 (Loops)\C. Even, Odd, Positive and Negative\obj\Debug\net6.0\C. Even, Odd, Positive and Negative.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #2 (Loops)\C. Even, Odd, Positive and Negative\obj\Debug\net6.0\C. Even, Odd, Positive and Negative.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #2 (Loops)\C. Even, Odd, Positive and Negative\obj\Debug\net6.0\C. Even, Odd, Positive and Negative.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #2 (Loops)\C. Even, Odd, Positive and Negative\obj\Debug\net6.0\C. Even, Odd, Positive and Negative.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #2 (Loops)\C. Even, Odd, Positive and Negative\obj\Debug\net6.0\C. Even, Odd, Positive and Negative.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #2 (Loops)\C. Even, Odd, Positive and Negative\obj\Debug\net6.0\refint\C. Even, Odd, Positive and Negative.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #2 (Loops)\C. Even, Odd, Positive and Negative\obj\Debug\net6.0\C. Even, Odd, Positive and Negative.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #2 (Loops)\C. Even, Odd, Positive and Negative\obj\Debug\net6.0\C. Even, Odd, Positive and Negative.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #2 (Loops)\C. Even, Odd, Positive and Negative\obj\Debug\net6.0\ref\C. Even, Odd, Positive and Negative.dll

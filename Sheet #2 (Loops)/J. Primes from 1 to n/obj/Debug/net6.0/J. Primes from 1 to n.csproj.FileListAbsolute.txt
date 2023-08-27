@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #2 (Loops)\J. Primes from 1 to n\bin\Debug\net6.0\J. Primes from 1 to n.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #2 (Loops)\J. Primes from 1 to n\bin\Debug\net6.0\J. Primes from 1 to n.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #2 (Loops)\J. Primes from 1 to n\bin\Debug\net6.0\J. Primes from 1 to n.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #2 (Loops)\J. Primes from 1 to n\bin\Debug\net6.0\J. Primes from 1 to n.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #2 (Loops)\J. Primes from 1 to n\bin\Debug\net6.0\J. Primes from 1 to n.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #2 (Loops)\J. Primes from 1 to n\obj\Debug\net6.0\J. Primes from 1 to n.csproj.AssemblyReference.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #2 (Loops)\J. Primes from 1 to n\obj\Debug\net6.0\J. Primes from 1 to n.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #2 (Loops)\J. Primes from 1 to n\obj\Debug\net6.0\J. Primes from 1 to n.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #2 (Loops)\J. Primes from 1 to n\obj\Debug\net6.0\J. Primes from 1 to n.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #2 (Loops)\J. Primes from 1 to n\obj\Debug\net6.0\J. Primes from 1 to n.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #2 (Loops)\J. Primes from 1 to n\obj\Debug\net6.0\J. Primes from 1 to n.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #2 (Loops)\J. Primes from 1 to n\obj\Debug\net6.0\refint\J. Primes from 1 to n.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #2 (Loops)\J. Primes from 1 to n\obj\Debug\net6.0\J. Primes from 1 to n.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #2 (Loops)\J. Primes from 1 to n\obj\Debug\net6.0\J. Primes from 1 to n.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #2 (Loops)\J. Primes from 1 to n\obj\Debug\net6.0\ref\J. Primes from 1 to n.dll

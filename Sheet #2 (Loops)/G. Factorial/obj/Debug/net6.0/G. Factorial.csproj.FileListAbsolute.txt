@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #2 (Loops)\G. Factorial\bin\Debug\net6.0\G. Factorial.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #2 (Loops)\G. Factorial\bin\Debug\net6.0\G. Factorial.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #2 (Loops)\G. Factorial\bin\Debug\net6.0\G. Factorial.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #2 (Loops)\G. Factorial\bin\Debug\net6.0\G. Factorial.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #2 (Loops)\G. Factorial\bin\Debug\net6.0\G. Factorial.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #2 (Loops)\G. Factorial\obj\Debug\net6.0\G. Factorial.csproj.AssemblyReference.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #2 (Loops)\G. Factorial\obj\Debug\net6.0\G. Factorial.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #2 (Loops)\G. Factorial\obj\Debug\net6.0\G. Factorial.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #2 (Loops)\G. Factorial\obj\Debug\net6.0\G. Factorial.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #2 (Loops)\G. Factorial\obj\Debug\net6.0\G. Factorial.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #2 (Loops)\G. Factorial\obj\Debug\net6.0\G. Factorial.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #2 (Loops)\G. Factorial\obj\Debug\net6.0\refint\G. Factorial.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #2 (Loops)\G. Factorial\obj\Debug\net6.0\G. Factorial.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #2 (Loops)\G. Factorial\obj\Debug\net6.0\G. Factorial.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #2 (Loops)\G. Factorial\obj\Debug\net6.0\ref\G. Factorial.dll

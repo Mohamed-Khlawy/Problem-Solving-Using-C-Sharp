@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #2 (Loops)\H. One Prime\bin\Debug\net6.0\H. One Prime.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #2 (Loops)\H. One Prime\bin\Debug\net6.0\H. One Prime.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #2 (Loops)\H. One Prime\bin\Debug\net6.0\H. One Prime.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #2 (Loops)\H. One Prime\bin\Debug\net6.0\H. One Prime.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #2 (Loops)\H. One Prime\bin\Debug\net6.0\H. One Prime.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #2 (Loops)\H. One Prime\obj\Debug\net6.0\H. One Prime.csproj.AssemblyReference.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #2 (Loops)\H. One Prime\obj\Debug\net6.0\H. One Prime.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #2 (Loops)\H. One Prime\obj\Debug\net6.0\H. One Prime.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #2 (Loops)\H. One Prime\obj\Debug\net6.0\H. One Prime.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #2 (Loops)\H. One Prime\obj\Debug\net6.0\H. One Prime.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #2 (Loops)\H. One Prime\obj\Debug\net6.0\H. One Prime.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #2 (Loops)\H. One Prime\obj\Debug\net6.0\refint\H. One Prime.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #2 (Loops)\H. One Prime\obj\Debug\net6.0\H. One Prime.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #2 (Loops)\H. One Prime\obj\Debug\net6.0\H. One Prime.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #2 (Loops)\H. One Prime\obj\Debug\net6.0\ref\H. One Prime.dll

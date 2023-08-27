@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #2 (Loops)\B. Even Numbers\bin\Debug\net6.0\B. Even Numbers.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #2 (Loops)\B. Even Numbers\bin\Debug\net6.0\B. Even Numbers.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #2 (Loops)\B. Even Numbers\bin\Debug\net6.0\B. Even Numbers.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #2 (Loops)\B. Even Numbers\bin\Debug\net6.0\B. Even Numbers.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #2 (Loops)\B. Even Numbers\bin\Debug\net6.0\B. Even Numbers.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #2 (Loops)\B. Even Numbers\obj\Debug\net6.0\B. Even Numbers.csproj.AssemblyReference.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #2 (Loops)\B. Even Numbers\obj\Debug\net6.0\B. Even Numbers.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #2 (Loops)\B. Even Numbers\obj\Debug\net6.0\B. Even Numbers.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #2 (Loops)\B. Even Numbers\obj\Debug\net6.0\B. Even Numbers.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #2 (Loops)\B. Even Numbers\obj\Debug\net6.0\B. Even Numbers.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #2 (Loops)\B. Even Numbers\obj\Debug\net6.0\B. Even Numbers.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #2 (Loops)\B. Even Numbers\obj\Debug\net6.0\refint\B. Even Numbers.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #2 (Loops)\B. Even Numbers\obj\Debug\net6.0\B. Even Numbers.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #2 (Loops)\B. Even Numbers\obj\Debug\net6.0\B. Even Numbers.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #2 (Loops)\B. Even Numbers\obj\Debug\net6.0\ref\B. Even Numbers.dll

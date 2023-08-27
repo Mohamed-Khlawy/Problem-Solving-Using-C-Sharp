@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Contest #2\Contest #1_MainFolder\Contest #1_MainFolder\bin\Debug\net6.0\Contest #1_MainFolder.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Contest #2\Contest #1_MainFolder\Contest #1_MainFolder\bin\Debug\net6.0\Contest #1_MainFolder.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Contest #2\Contest #1_MainFolder\Contest #1_MainFolder\bin\Debug\net6.0\Contest #1_MainFolder.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Contest #2\Contest #1_MainFolder\Contest #1_MainFolder\bin\Debug\net6.0\Contest #1_MainFolder.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Contest #2\Contest #1_MainFolder\Contest #1_MainFolder\bin\Debug\net6.0\Contest #1_MainFolder.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Contest #2\Contest #1_MainFolder\Contest #1_MainFolder\obj\Debug\net6.0\Contest #1_MainFolder.csproj.AssemblyReference.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Contest #2\Contest #1_MainFolder\Contest #1_MainFolder\obj\Debug\net6.0\Contest #1_MainFolder.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Contest #2\Contest #1_MainFolder\Contest #1_MainFolder\obj\Debug\net6.0\Contest #1_MainFolder.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Contest #2\Contest #1_MainFolder\Contest #1_MainFolder\obj\Debug\net6.0\Contest #1_MainFolder.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Contest #2\Contest #1_MainFolder\Contest #1_MainFolder\obj\Debug\net6.0\Contest #1_MainFolder.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Contest #2\Contest #1_MainFolder\Contest #1_MainFolder\obj\Debug\net6.0\Contest #1_MainFolder.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Contest #2\Contest #1_MainFolder\Contest #1_MainFolder\obj\Debug\net6.0\refint\Contest #1_MainFolder.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Contest #2\Contest #1_MainFolder\Contest #1_MainFolder\obj\Debug\net6.0\Contest #1_MainFolder.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Contest #2\Contest #1_MainFolder\Contest #1_MainFolder\obj\Debug\net6.0\Contest #1_MainFolder.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Contest #2\Contest #1_MainFolder\Contest #1_MainFolder\obj\Debug\net6.0\ref\Contest #1_MainFolder.dll
