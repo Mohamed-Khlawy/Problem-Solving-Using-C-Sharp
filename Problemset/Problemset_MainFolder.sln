@@ -19,7 +19,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "A. Insomnia cure", "A. Inso
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "B. Even Array", "B. Even Array\B. Even Array.csproj", "{59658C87-4857-4535-82AE-56E3ECFEF23B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A. Football", "A. Football\A. Football.csproj", "{684D3527-BC2B-44AB-85A6-103E51D72E06}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "A. Football", "A. Football\A. Football.csproj", "{684D3527-BC2B-44AB-85A6-103E51D72E06}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A. Die Roll", "A. Die Roll\A. Die Roll.csproj", "{0D24CF1E-2B9E-4A31-AF99-5F89122B6F22}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -63,6 +65,10 @@ Global
 		{684D3527-BC2B-44AB-85A6-103E51D72E06}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{684D3527-BC2B-44AB-85A6-103E51D72E06}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{684D3527-BC2B-44AB-85A6-103E51D72E06}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0D24CF1E-2B9E-4A31-AF99-5F89122B6F22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D24CF1E-2B9E-4A31-AF99-5F89122B6F22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D24CF1E-2B9E-4A31-AF99-5F89122B6F22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D24CF1E-2B9E-4A31-AF99-5F89122B6F22}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

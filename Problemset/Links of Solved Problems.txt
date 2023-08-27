@@ -14,3 +14,5 @@ B. Even Array => https://codeforces.com/problemset/problem/1367/B
 
 A. Football => https://codeforces.com/problemset/problem/43/A
 
+A. Die Roll => https://codeforces.com/problemset/problem/9/A
+

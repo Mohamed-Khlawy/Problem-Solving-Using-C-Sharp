@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Die Roll\bin\Debug\net6.0\A. Die Roll.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Die Roll\bin\Debug\net6.0\A. Die Roll.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Die Roll\bin\Debug\net6.0\A. Die Roll.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Die Roll\bin\Debug\net6.0\A. Die Roll.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Die Roll\bin\Debug\net6.0\A. Die Roll.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Die Roll\obj\Debug\net6.0\A. Die Roll.csproj.AssemblyReference.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Die Roll\obj\Debug\net6.0\A. Die Roll.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Die Roll\obj\Debug\net6.0\A. Die Roll.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Die Roll\obj\Debug\net6.0\A. Die Roll.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Die Roll\obj\Debug\net6.0\A. Die Roll.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Die Roll\obj\Debug\net6.0\A. Die Roll.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Die Roll\obj\Debug\net6.0\refint\A. Die Roll.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Die Roll\obj\Debug\net6.0\A. Die Roll.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Die Roll\obj\Debug\net6.0\A. Die Roll.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Die Roll\obj\Debug\net6.0\ref\A. Die Roll.dll

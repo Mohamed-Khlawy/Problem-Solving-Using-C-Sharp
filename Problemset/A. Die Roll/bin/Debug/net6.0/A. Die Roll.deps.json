@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "A. Die Roll/1.0.0": {
+        "runtime": {
+          "A. Die Roll.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "A. Die Roll/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
