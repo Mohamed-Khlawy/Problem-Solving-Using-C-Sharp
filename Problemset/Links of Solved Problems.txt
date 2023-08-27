@@ -16,3 +16,5 @@ A. Football => https://codeforces.com/problemset/problem/43/A
 
 A. Die Roll => https://codeforces.com/problemset/problem/9/A
 
+A. Candies => https://codeforces.com/problemset/problem/1343/A
+
