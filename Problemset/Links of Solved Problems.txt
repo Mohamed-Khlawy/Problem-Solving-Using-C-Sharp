@@ -18,3 +18,5 @@ A. Die Roll => https://codeforces.com/problemset/problem/9/A
 
 A. Candies => https://codeforces.com/problemset/problem/1343/A
 
+B. Sale => https://codeforces.com/problemset/problem/34/B
+
