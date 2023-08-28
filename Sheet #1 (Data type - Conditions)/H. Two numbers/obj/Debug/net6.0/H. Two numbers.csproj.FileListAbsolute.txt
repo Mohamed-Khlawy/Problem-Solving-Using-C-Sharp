@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #1 (Data type - Conditions)\H. Two numbers\bin\Debug\net6.0\H. Two numbers.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #1 (Data type - Conditions)\H. Two numbers\bin\Debug\net6.0\H. Two numbers.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #1 (Data type - Conditions)\H. Two numbers\bin\Debug\net6.0\H. Two numbers.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #1 (Data type - Conditions)\H. Two numbers\bin\Debug\net6.0\H. Two numbers.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #1 (Data type - Conditions)\H. Two numbers\bin\Debug\net6.0\H. Two numbers.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #1 (Data type - Conditions)\H. Two numbers\obj\Debug\net6.0\H. Two numbers.csproj.AssemblyReference.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #1 (Data type - Conditions)\H. Two numbers\obj\Debug\net6.0\H. Two numbers.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #1 (Data type - Conditions)\H. Two numbers\obj\Debug\net6.0\H. Two numbers.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #1 (Data type - Conditions)\H. Two numbers\obj\Debug\net6.0\H. Two numbers.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #1 (Data type - Conditions)\H. Two numbers\obj\Debug\net6.0\H. Two numbers.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #1 (Data type - Conditions)\H. Two numbers\obj\Debug\net6.0\H. Two numbers.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #1 (Data type - Conditions)\H. Two numbers\obj\Debug\net6.0\refint\H. Two numbers.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #1 (Data type - Conditions)\H. Two numbers\obj\Debug\net6.0\H. Two numbers.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #1 (Data type - Conditions)\H. Two numbers\obj\Debug\net6.0\H. Two numbers.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #1 (Data type - Conditions)\H. Two numbers\obj\Debug\net6.0\ref\H. Two numbers.dll

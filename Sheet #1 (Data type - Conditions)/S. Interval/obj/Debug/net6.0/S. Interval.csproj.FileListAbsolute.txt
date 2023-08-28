@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #1 (Data type - Conditions)\S. Interval\bin\Debug\net6.0\S. Interval.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #1 (Data type - Conditions)\S. Interval\bin\Debug\net6.0\S. Interval.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #1 (Data type - Conditions)\S. Interval\bin\Debug\net6.0\S. Interval.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #1 (Data type - Conditions)\S. Interval\bin\Debug\net6.0\S. Interval.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #1 (Data type - Conditions)\S. Interval\bin\Debug\net6.0\S. Interval.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #1 (Data type - Conditions)\S. Interval\obj\Debug\net6.0\S. Interval.csproj.AssemblyReference.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #1 (Data type - Conditions)\S. Interval\obj\Debug\net6.0\S. Interval.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #1 (Data type - Conditions)\S. Interval\obj\Debug\net6.0\S. Interval.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #1 (Data type - Conditions)\S. Interval\obj\Debug\net6.0\S. Interval.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #1 (Data type - Conditions)\S. Interval\obj\Debug\net6.0\S. Interval.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #1 (Data type - Conditions)\S. Interval\obj\Debug\net6.0\S. Interval.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #1 (Data type - Conditions)\S. Interval\obj\Debug\net6.0\refint\S. Interval.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #1 (Data type - Conditions)\S. Interval\obj\Debug\net6.0\S. Interval.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #1 (Data type - Conditions)\S. Interval\obj\Debug\net6.0\S. Interval.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #1 (Data type - Conditions)\S. Interval\obj\Debug\net6.0\ref\S. Interval.dll

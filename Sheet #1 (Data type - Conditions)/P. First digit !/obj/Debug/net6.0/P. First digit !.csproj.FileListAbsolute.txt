@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #1 (Data type - Conditions)\P. First digit !\bin\Debug\net6.0\P. First digit !.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #1 (Data type - Conditions)\P. First digit !\bin\Debug\net6.0\P. First digit !.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #1 (Data type - Conditions)\P. First digit !\bin\Debug\net6.0\P. First digit !.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #1 (Data type - Conditions)\P. First digit !\bin\Debug\net6.0\P. First digit !.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #1 (Data type - Conditions)\P. First digit !\bin\Debug\net6.0\P. First digit !.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #1 (Data type - Conditions)\P. First digit !\obj\Debug\net6.0\P. First digit !.csproj.AssemblyReference.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #1 (Data type - Conditions)\P. First digit !\obj\Debug\net6.0\P. First digit !.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #1 (Data type - Conditions)\P. First digit !\obj\Debug\net6.0\P. First digit !.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #1 (Data type - Conditions)\P. First digit !\obj\Debug\net6.0\P. First digit !.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #1 (Data type - Conditions)\P. First digit !\obj\Debug\net6.0\P. First digit !.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #1 (Data type - Conditions)\P. First digit !\obj\Debug\net6.0\P. First digit !.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #1 (Data type - Conditions)\P. First digit !\obj\Debug\net6.0\refint\P. First digit !.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #1 (Data type - Conditions)\P. First digit !\obj\Debug\net6.0\P. First digit !.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #1 (Data type - Conditions)\P. First digit !\obj\Debug\net6.0\P. First digit !.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #1 (Data type - Conditions)\P. First digit !\obj\Debug\net6.0\ref\P. First digit !.dll

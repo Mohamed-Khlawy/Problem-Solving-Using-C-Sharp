@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #1 (Data type - Conditions)\Z. Hard Compare\bin\Debug\net6.0\Z. Hard Compare.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #1 (Data type - Conditions)\Z. Hard Compare\bin\Debug\net6.0\Z. Hard Compare.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #1 (Data type - Conditions)\Z. Hard Compare\bin\Debug\net6.0\Z. Hard Compare.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #1 (Data type - Conditions)\Z. Hard Compare\bin\Debug\net6.0\Z. Hard Compare.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #1 (Data type - Conditions)\Z. Hard Compare\bin\Debug\net6.0\Z. Hard Compare.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #1 (Data type - Conditions)\Z. Hard Compare\obj\Debug\net6.0\Z. Hard Compare.csproj.AssemblyReference.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #1 (Data type - Conditions)\Z. Hard Compare\obj\Debug\net6.0\Z. Hard Compare.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #1 (Data type - Conditions)\Z. Hard Compare\obj\Debug\net6.0\Z. Hard Compare.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #1 (Data type - Conditions)\Z. Hard Compare\obj\Debug\net6.0\Z. Hard Compare.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #1 (Data type - Conditions)\Z. Hard Compare\obj\Debug\net6.0\Z. Hard Compare.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #1 (Data type - Conditions)\Z. Hard Compare\obj\Debug\net6.0\Z. Hard Compare.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #1 (Data type - Conditions)\Z. Hard Compare\obj\Debug\net6.0\refint\Z. Hard Compare.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #1 (Data type - Conditions)\Z. Hard Compare\obj\Debug\net6.0\Z. Hard Compare.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #1 (Data type - Conditions)\Z. Hard Compare\obj\Debug\net6.0\Z. Hard Compare.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #1 (Data type - Conditions)\Z. Hard Compare\obj\Debug\net6.0\ref\Z. Hard Compare.dll

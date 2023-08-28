@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #1 (Data type - Conditions)\T. Sort Numbers\bin\Debug\net6.0\T. Sort Numbers.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #1 (Data type - Conditions)\T. Sort Numbers\bin\Debug\net6.0\T. Sort Numbers.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #1 (Data type - Conditions)\T. Sort Numbers\bin\Debug\net6.0\T. Sort Numbers.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #1 (Data type - Conditions)\T. Sort Numbers\bin\Debug\net6.0\T. Sort Numbers.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #1 (Data type - Conditions)\T. Sort Numbers\bin\Debug\net6.0\T. Sort Numbers.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #1 (Data type - Conditions)\T. Sort Numbers\obj\Debug\net6.0\T. Sort Numbers.csproj.AssemblyReference.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #1 (Data type - Conditions)\T. Sort Numbers\obj\Debug\net6.0\T. Sort Numbers.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #1 (Data type - Conditions)\T. Sort Numbers\obj\Debug\net6.0\T. Sort Numbers.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #1 (Data type - Conditions)\T. Sort Numbers\obj\Debug\net6.0\T. Sort Numbers.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #1 (Data type - Conditions)\T. Sort Numbers\obj\Debug\net6.0\T. Sort Numbers.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #1 (Data type - Conditions)\T. Sort Numbers\obj\Debug\net6.0\T. Sort Numbers.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #1 (Data type - Conditions)\T. Sort Numbers\obj\Debug\net6.0\refint\T. Sort Numbers.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #1 (Data type - Conditions)\T. Sort Numbers\obj\Debug\net6.0\T. Sort Numbers.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #1 (Data type - Conditions)\T. Sort Numbers\obj\Debug\net6.0\T. Sort Numbers.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #1 (Data type - Conditions)\T. Sort Numbers\obj\Debug\net6.0\ref\T. Sort Numbers.dll

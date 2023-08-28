@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #1 (Data type - Conditions)\B. Basic Data Types\bin\Debug\net6.0\B. Basic Data Types.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #1 (Data type - Conditions)\B. Basic Data Types\bin\Debug\net6.0\B. Basic Data Types.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #1 (Data type - Conditions)\B. Basic Data Types\bin\Debug\net6.0\B. Basic Data Types.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #1 (Data type - Conditions)\B. Basic Data Types\bin\Debug\net6.0\B. Basic Data Types.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #1 (Data type - Conditions)\B. Basic Data Types\bin\Debug\net6.0\B. Basic Data Types.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #1 (Data type - Conditions)\B. Basic Data Types\obj\Debug\net6.0\B. Basic Data Types.csproj.AssemblyReference.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #1 (Data type - Conditions)\B. Basic Data Types\obj\Debug\net6.0\B. Basic Data Types.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #1 (Data type - Conditions)\B. Basic Data Types\obj\Debug\net6.0\B. Basic Data Types.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #1 (Data type - Conditions)\B. Basic Data Types\obj\Debug\net6.0\B. Basic Data Types.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #1 (Data type - Conditions)\B. Basic Data Types\obj\Debug\net6.0\B. Basic Data Types.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #1 (Data type - Conditions)\B. Basic Data Types\obj\Debug\net6.0\B. Basic Data Types.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #1 (Data type - Conditions)\B. Basic Data Types\obj\Debug\net6.0\refint\B. Basic Data Types.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #1 (Data type - Conditions)\B. Basic Data Types\obj\Debug\net6.0\B. Basic Data Types.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #1 (Data type - Conditions)\B. Basic Data Types\obj\Debug\net6.0\B. Basic Data Types.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #1 (Data type - Conditions)\B. Basic Data Types\obj\Debug\net6.0\ref\B. Basic Data Types.dll

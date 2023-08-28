@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #1 (Data type - Conditions)\J. Multiples\bin\Debug\net6.0\J. Multiples.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #1 (Data type - Conditions)\J. Multiples\bin\Debug\net6.0\J. Multiples.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #1 (Data type - Conditions)\J. Multiples\bin\Debug\net6.0\J. Multiples.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #1 (Data type - Conditions)\J. Multiples\bin\Debug\net6.0\J. Multiples.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #1 (Data type - Conditions)\J. Multiples\bin\Debug\net6.0\J. Multiples.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #1 (Data type - Conditions)\J. Multiples\obj\Debug\net6.0\J. Multiples.csproj.AssemblyReference.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #1 (Data type - Conditions)\J. Multiples\obj\Debug\net6.0\J. Multiples.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #1 (Data type - Conditions)\J. Multiples\obj\Debug\net6.0\J. Multiples.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #1 (Data type - Conditions)\J. Multiples\obj\Debug\net6.0\J. Multiples.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #1 (Data type - Conditions)\J. Multiples\obj\Debug\net6.0\J. Multiples.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #1 (Data type - Conditions)\J. Multiples\obj\Debug\net6.0\J. Multiples.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #1 (Data type - Conditions)\J. Multiples\obj\Debug\net6.0\refint\J. Multiples.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #1 (Data type - Conditions)\J. Multiples\obj\Debug\net6.0\J. Multiples.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #1 (Data type - Conditions)\J. Multiples\obj\Debug\net6.0\J. Multiples.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #1 (Data type - Conditions)\J. Multiples\obj\Debug\net6.0\ref\J. Multiples.dll

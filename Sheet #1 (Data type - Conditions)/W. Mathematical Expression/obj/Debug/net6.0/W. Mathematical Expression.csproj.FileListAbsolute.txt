@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #1 (Data type - Conditions)\W. Mathematical Expression\bin\Debug\net6.0\W. Mathematical Expression.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #1 (Data type - Conditions)\W. Mathematical Expression\bin\Debug\net6.0\W. Mathematical Expression.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #1 (Data type - Conditions)\W. Mathematical Expression\bin\Debug\net6.0\W. Mathematical Expression.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #1 (Data type - Conditions)\W. Mathematical Expression\bin\Debug\net6.0\W. Mathematical Expression.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #1 (Data type - Conditions)\W. Mathematical Expression\bin\Debug\net6.0\W. Mathematical Expression.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #1 (Data type - Conditions)\W. Mathematical Expression\obj\Debug\net6.0\W. Mathematical Expression.csproj.AssemblyReference.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #1 (Data type - Conditions)\W. Mathematical Expression\obj\Debug\net6.0\W. Mathematical Expression.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #1 (Data type - Conditions)\W. Mathematical Expression\obj\Debug\net6.0\W. Mathematical Expression.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #1 (Data type - Conditions)\W. Mathematical Expression\obj\Debug\net6.0\W. Mathematical Expression.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #1 (Data type - Conditions)\W. Mathematical Expression\obj\Debug\net6.0\W. Mathematical Expression.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #1 (Data type - Conditions)\W. Mathematical Expression\obj\Debug\net6.0\W. Mathematical Expression.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #1 (Data type - Conditions)\W. Mathematical Expression\obj\Debug\net6.0\refint\W. Mathematical Expression.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #1 (Data type - Conditions)\W. Mathematical Expression\obj\Debug\net6.0\W. Mathematical Expression.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #1 (Data type - Conditions)\W. Mathematical Expression\obj\Debug\net6.0\W. Mathematical Expression.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #1 (Data type - Conditions)\W. Mathematical Expression\obj\Debug\net6.0\ref\W. Mathematical Expression.dll

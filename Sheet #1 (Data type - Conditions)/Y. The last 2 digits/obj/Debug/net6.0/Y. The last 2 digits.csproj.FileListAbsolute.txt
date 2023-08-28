@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #1 (Data type - Conditions)\Y. The last 2 digits\bin\Debug\net6.0\Y. The last 2 digits.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #1 (Data type - Conditions)\Y. The last 2 digits\bin\Debug\net6.0\Y. The last 2 digits.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #1 (Data type - Conditions)\Y. The last 2 digits\bin\Debug\net6.0\Y. The last 2 digits.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #1 (Data type - Conditions)\Y. The last 2 digits\bin\Debug\net6.0\Y. The last 2 digits.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #1 (Data type - Conditions)\Y. The last 2 digits\bin\Debug\net6.0\Y. The last 2 digits.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #1 (Data type - Conditions)\Y. The last 2 digits\obj\Debug\net6.0\Y. The last 2 digits.csproj.AssemblyReference.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #1 (Data type - Conditions)\Y. The last 2 digits\obj\Debug\net6.0\Y. The last 2 digits.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #1 (Data type - Conditions)\Y. The last 2 digits\obj\Debug\net6.0\Y. The last 2 digits.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #1 (Data type - Conditions)\Y. The last 2 digits\obj\Debug\net6.0\Y. The last 2 digits.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #1 (Data type - Conditions)\Y. The last 2 digits\obj\Debug\net6.0\Y. The last 2 digits.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #1 (Data type - Conditions)\Y. The last 2 digits\obj\Debug\net6.0\Y. The last 2 digits.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #1 (Data type - Conditions)\Y. The last 2 digits\obj\Debug\net6.0\refint\Y. The last 2 digits.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #1 (Data type - Conditions)\Y. The last 2 digits\obj\Debug\net6.0\Y. The last 2 digits.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #1 (Data type - Conditions)\Y. The last 2 digits\obj\Debug\net6.0\Y. The last 2 digits.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #1 (Data type - Conditions)\Y. The last 2 digits\obj\Debug\net6.0\ref\Y. The last 2 digits.dll

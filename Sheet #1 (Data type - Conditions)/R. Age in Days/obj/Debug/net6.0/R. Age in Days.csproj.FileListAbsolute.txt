@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #1 (Data type - Conditions)\R. Age in Days\bin\Debug\net6.0\R. Age in Days.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #1 (Data type - Conditions)\R. Age in Days\bin\Debug\net6.0\R. Age in Days.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #1 (Data type - Conditions)\R. Age in Days\bin\Debug\net6.0\R. Age in Days.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #1 (Data type - Conditions)\R. Age in Days\bin\Debug\net6.0\R. Age in Days.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #1 (Data type - Conditions)\R. Age in Days\bin\Debug\net6.0\R. Age in Days.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #1 (Data type - Conditions)\R. Age in Days\obj\Debug\net6.0\R. Age in Days.csproj.AssemblyReference.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #1 (Data type - Conditions)\R. Age in Days\obj\Debug\net6.0\R. Age in Days.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #1 (Data type - Conditions)\R. Age in Days\obj\Debug\net6.0\R. Age in Days.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #1 (Data type - Conditions)\R. Age in Days\obj\Debug\net6.0\R. Age in Days.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #1 (Data type - Conditions)\R. Age in Days\obj\Debug\net6.0\R. Age in Days.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #1 (Data type - Conditions)\R. Age in Days\obj\Debug\net6.0\R. Age in Days.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #1 (Data type - Conditions)\R. Age in Days\obj\Debug\net6.0\refint\R. Age in Days.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #1 (Data type - Conditions)\R. Age in Days\obj\Debug\net6.0\R. Age in Days.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #1 (Data type - Conditions)\R. Age in Days\obj\Debug\net6.0\R. Age in Days.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #1 (Data type - Conditions)\R. Age in Days\obj\Debug\net6.0\ref\R. Age in Days.dll

@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #1 (Data type - Conditions)\V. Comparison\bin\Debug\net6.0\V. Comparison.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #1 (Data type - Conditions)\V. Comparison\bin\Debug\net6.0\V. Comparison.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #1 (Data type - Conditions)\V. Comparison\bin\Debug\net6.0\V. Comparison.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #1 (Data type - Conditions)\V. Comparison\bin\Debug\net6.0\V. Comparison.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #1 (Data type - Conditions)\V. Comparison\bin\Debug\net6.0\V. Comparison.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #1 (Data type - Conditions)\V. Comparison\obj\Debug\net6.0\V. Comparison.csproj.AssemblyReference.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #1 (Data type - Conditions)\V. Comparison\obj\Debug\net6.0\V. Comparison.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #1 (Data type - Conditions)\V. Comparison\obj\Debug\net6.0\V. Comparison.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #1 (Data type - Conditions)\V. Comparison\obj\Debug\net6.0\V. Comparison.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #1 (Data type - Conditions)\V. Comparison\obj\Debug\net6.0\V. Comparison.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #1 (Data type - Conditions)\V. Comparison\obj\Debug\net6.0\V. Comparison.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #1 (Data type - Conditions)\V. Comparison\obj\Debug\net6.0\refint\V. Comparison.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #1 (Data type - Conditions)\V. Comparison\obj\Debug\net6.0\V. Comparison.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #1 (Data type - Conditions)\V. Comparison\obj\Debug\net6.0\V. Comparison.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #1 (Data type - Conditions)\V. Comparison\obj\Debug\net6.0\ref\V. Comparison.dll

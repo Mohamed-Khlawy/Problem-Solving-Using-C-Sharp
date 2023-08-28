@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #1 (Data type - Conditions)\L. The Brothers\bin\Debug\net6.0\L. The Brothers.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #1 (Data type - Conditions)\L. The Brothers\bin\Debug\net6.0\L. The Brothers.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #1 (Data type - Conditions)\L. The Brothers\bin\Debug\net6.0\L. The Brothers.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #1 (Data type - Conditions)\L. The Brothers\bin\Debug\net6.0\L. The Brothers.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #1 (Data type - Conditions)\L. The Brothers\bin\Debug\net6.0\L. The Brothers.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #1 (Data type - Conditions)\L. The Brothers\obj\Debug\net6.0\L. The Brothers.csproj.AssemblyReference.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #1 (Data type - Conditions)\L. The Brothers\obj\Debug\net6.0\L. The Brothers.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #1 (Data type - Conditions)\L. The Brothers\obj\Debug\net6.0\L. The Brothers.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #1 (Data type - Conditions)\L. The Brothers\obj\Debug\net6.0\L. The Brothers.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #1 (Data type - Conditions)\L. The Brothers\obj\Debug\net6.0\L. The Brothers.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #1 (Data type - Conditions)\L. The Brothers\obj\Debug\net6.0\L. The Brothers.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #1 (Data type - Conditions)\L. The Brothers\obj\Debug\net6.0\refint\L. The Brothers.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #1 (Data type - Conditions)\L. The Brothers\obj\Debug\net6.0\L. The Brothers.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #1 (Data type - Conditions)\L. The Brothers\obj\Debug\net6.0\L. The Brothers.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #1 (Data type - Conditions)\L. The Brothers\obj\Debug\net6.0\ref\L. The Brothers.dll

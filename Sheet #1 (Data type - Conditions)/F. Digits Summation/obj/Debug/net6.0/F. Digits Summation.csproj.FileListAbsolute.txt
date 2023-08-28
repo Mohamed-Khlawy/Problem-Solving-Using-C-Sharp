@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #1 (Data type - Conditions)\F. Digits Summation\bin\Debug\net6.0\F. Digits Summation.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #1 (Data type - Conditions)\F. Digits Summation\bin\Debug\net6.0\F. Digits Summation.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #1 (Data type - Conditions)\F. Digits Summation\bin\Debug\net6.0\F. Digits Summation.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #1 (Data type - Conditions)\F. Digits Summation\bin\Debug\net6.0\F. Digits Summation.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #1 (Data type - Conditions)\F. Digits Summation\bin\Debug\net6.0\F. Digits Summation.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #1 (Data type - Conditions)\F. Digits Summation\obj\Debug\net6.0\F. Digits Summation.csproj.AssemblyReference.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #1 (Data type - Conditions)\F. Digits Summation\obj\Debug\net6.0\F. Digits Summation.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #1 (Data type - Conditions)\F. Digits Summation\obj\Debug\net6.0\F. Digits Summation.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #1 (Data type - Conditions)\F. Digits Summation\obj\Debug\net6.0\F. Digits Summation.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #1 (Data type - Conditions)\F. Digits Summation\obj\Debug\net6.0\F. Digits Summation.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #1 (Data type - Conditions)\F. Digits Summation\obj\Debug\net6.0\F. Digits Summation.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #1 (Data type - Conditions)\F. Digits Summation\obj\Debug\net6.0\refint\F. Digits Summation.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #1 (Data type - Conditions)\F. Digits Summation\obj\Debug\net6.0\F. Digits Summation.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #1 (Data type - Conditions)\F. Digits Summation\obj\Debug\net6.0\F. Digits Summation.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #1 (Data type - Conditions)\F. Digits Summation\obj\Debug\net6.0\ref\F. Digits Summation.dll

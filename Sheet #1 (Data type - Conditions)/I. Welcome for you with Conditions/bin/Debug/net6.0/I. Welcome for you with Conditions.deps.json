@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "I. Welcome for you with Conditions/1.0.0": {
+        "runtime": {
+          "I. Welcome for you with Conditions.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "I. Welcome for you with Conditions/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

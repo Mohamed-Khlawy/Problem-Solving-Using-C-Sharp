@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #1 (Data type - Conditions)\C. Simple Calculator\bin\Debug\net6.0\C. Simple Calculator.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #1 (Data type - Conditions)\C. Simple Calculator\bin\Debug\net6.0\C. Simple Calculator.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #1 (Data type - Conditions)\C. Simple Calculator\bin\Debug\net6.0\C. Simple Calculator.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #1 (Data type - Conditions)\C. Simple Calculator\bin\Debug\net6.0\C. Simple Calculator.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #1 (Data type - Conditions)\C. Simple Calculator\bin\Debug\net6.0\C. Simple Calculator.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #1 (Data type - Conditions)\C. Simple Calculator\obj\Debug\net6.0\C. Simple Calculator.csproj.AssemblyReference.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #1 (Data type - Conditions)\C. Simple Calculator\obj\Debug\net6.0\C. Simple Calculator.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #1 (Data type - Conditions)\C. Simple Calculator\obj\Debug\net6.0\C. Simple Calculator.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #1 (Data type - Conditions)\C. Simple Calculator\obj\Debug\net6.0\C. Simple Calculator.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #1 (Data type - Conditions)\C. Simple Calculator\obj\Debug\net6.0\C. Simple Calculator.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #1 (Data type - Conditions)\C. Simple Calculator\obj\Debug\net6.0\C. Simple Calculator.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #1 (Data type - Conditions)\C. Simple Calculator\obj\Debug\net6.0\refint\C. Simple Calculator.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #1 (Data type - Conditions)\C. Simple Calculator\obj\Debug\net6.0\C. Simple Calculator.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #1 (Data type - Conditions)\C. Simple Calculator\obj\Debug\net6.0\C. Simple Calculator.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #1 (Data type - Conditions)\C. Simple Calculator\obj\Debug\net6.0\ref\C. Simple Calculator.dll

@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #1 (Data type - Conditions)\M. Capital or Small or Digit\bin\Debug\net6.0\M. Capital or Small or Digit.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #1 (Data type - Conditions)\M. Capital or Small or Digit\bin\Debug\net6.0\M. Capital or Small or Digit.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #1 (Data type - Conditions)\M. Capital or Small or Digit\bin\Debug\net6.0\M. Capital or Small or Digit.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #1 (Data type - Conditions)\M. Capital or Small or Digit\bin\Debug\net6.0\M. Capital or Small or Digit.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #1 (Data type - Conditions)\M. Capital or Small or Digit\bin\Debug\net6.0\M. Capital or Small or Digit.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #1 (Data type - Conditions)\M. Capital or Small or Digit\obj\Debug\net6.0\M. Capital or Small or Digit.csproj.AssemblyReference.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #1 (Data type - Conditions)\M. Capital or Small or Digit\obj\Debug\net6.0\M. Capital or Small or Digit.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #1 (Data type - Conditions)\M. Capital or Small or Digit\obj\Debug\net6.0\M. Capital or Small or Digit.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #1 (Data type - Conditions)\M. Capital or Small or Digit\obj\Debug\net6.0\M. Capital or Small or Digit.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #1 (Data type - Conditions)\M. Capital or Small or Digit\obj\Debug\net6.0\M. Capital or Small or Digit.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #1 (Data type - Conditions)\M. Capital or Small or Digit\obj\Debug\net6.0\M. Capital or Small or Digit.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #1 (Data type - Conditions)\M. Capital or Small or Digit\obj\Debug\net6.0\refint\M. Capital or Small or Digit.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #1 (Data type - Conditions)\M. Capital or Small or Digit\obj\Debug\net6.0\M. Capital or Small or Digit.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #1 (Data type - Conditions)\M. Capital or Small or Digit\obj\Debug\net6.0\M. Capital or Small or Digit.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #1 (Data type - Conditions)\M. Capital or Small or Digit\obj\Debug\net6.0\ref\M. Capital or Small or Digit.dll

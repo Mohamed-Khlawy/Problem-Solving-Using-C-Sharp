@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #1 (Data type - Conditions)\E. Area of a Circle\bin\Debug\net6.0\E. Area of a Circle.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #1 (Data type - Conditions)\E. Area of a Circle\bin\Debug\net6.0\E. Area of a Circle.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #1 (Data type - Conditions)\E. Area of a Circle\bin\Debug\net6.0\E. Area of a Circle.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #1 (Data type - Conditions)\E. Area of a Circle\bin\Debug\net6.0\E. Area of a Circle.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #1 (Data type - Conditions)\E. Area of a Circle\bin\Debug\net6.0\E. Area of a Circle.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #1 (Data type - Conditions)\E. Area of a Circle\obj\Debug\net6.0\E. Area of a Circle.csproj.AssemblyReference.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #1 (Data type - Conditions)\E. Area of a Circle\obj\Debug\net6.0\E. Area of a Circle.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #1 (Data type - Conditions)\E. Area of a Circle\obj\Debug\net6.0\E. Area of a Circle.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #1 (Data type - Conditions)\E. Area of a Circle\obj\Debug\net6.0\E. Area of a Circle.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #1 (Data type - Conditions)\E. Area of a Circle\obj\Debug\net6.0\E. Area of a Circle.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #1 (Data type - Conditions)\E. Area of a Circle\obj\Debug\net6.0\E. Area of a Circle.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #1 (Data type - Conditions)\E. Area of a Circle\obj\Debug\net6.0\refint\E. Area of a Circle.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #1 (Data type - Conditions)\E. Area of a Circle\obj\Debug\net6.0\E. Area of a Circle.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #1 (Data type - Conditions)\E. Area of a Circle\obj\Debug\net6.0\E. Area of a Circle.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #1 (Data type - Conditions)\E. Area of a Circle\obj\Debug\net6.0\ref\E. Area of a Circle.dll

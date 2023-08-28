@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #1 (Data type - Conditions)\U. Float or int\bin\Debug\net6.0\U. Float or int.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #1 (Data type - Conditions)\U. Float or int\bin\Debug\net6.0\U. Float or int.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #1 (Data type - Conditions)\U. Float or int\bin\Debug\net6.0\U. Float or int.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #1 (Data type - Conditions)\U. Float or int\bin\Debug\net6.0\U. Float or int.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #1 (Data type - Conditions)\U. Float or int\bin\Debug\net6.0\U. Float or int.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #1 (Data type - Conditions)\U. Float or int\obj\Debug\net6.0\U. Float or int.csproj.AssemblyReference.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #1 (Data type - Conditions)\U. Float or int\obj\Debug\net6.0\U. Float or int.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #1 (Data type - Conditions)\U. Float or int\obj\Debug\net6.0\U. Float or int.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #1 (Data type - Conditions)\U. Float or int\obj\Debug\net6.0\U. Float or int.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #1 (Data type - Conditions)\U. Float or int\obj\Debug\net6.0\U. Float or int.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #1 (Data type - Conditions)\U. Float or int\obj\Debug\net6.0\U. Float or int.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #1 (Data type - Conditions)\U. Float or int\obj\Debug\net6.0\refint\U. Float or int.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #1 (Data type - Conditions)\U. Float or int\obj\Debug\net6.0\U. Float or int.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #1 (Data type - Conditions)\U. Float or int\obj\Debug\net6.0\U. Float or int.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #1 (Data type - Conditions)\U. Float or int\obj\Debug\net6.0\ref\U. Float or int.dll

@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #1 (Data type - Conditions)\X. Two intervals\bin\Debug\net6.0\X. Two intervals.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #1 (Data type - Conditions)\X. Two intervals\bin\Debug\net6.0\X. Two intervals.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #1 (Data type - Conditions)\X. Two intervals\bin\Debug\net6.0\X. Two intervals.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #1 (Data type - Conditions)\X. Two intervals\bin\Debug\net6.0\X. Two intervals.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #1 (Data type - Conditions)\X. Two intervals\bin\Debug\net6.0\X. Two intervals.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #1 (Data type - Conditions)\X. Two intervals\obj\Debug\net6.0\X. Two intervals.csproj.AssemblyReference.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #1 (Data type - Conditions)\X. Two intervals\obj\Debug\net6.0\X. Two intervals.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #1 (Data type - Conditions)\X. Two intervals\obj\Debug\net6.0\X. Two intervals.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #1 (Data type - Conditions)\X. Two intervals\obj\Debug\net6.0\X. Two intervals.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #1 (Data type - Conditions)\X. Two intervals\obj\Debug\net6.0\X. Two intervals.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #1 (Data type - Conditions)\X. Two intervals\obj\Debug\net6.0\X. Two intervals.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #1 (Data type - Conditions)\X. Two intervals\obj\Debug\net6.0\refint\X. Two intervals.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #1 (Data type - Conditions)\X. Two intervals\obj\Debug\net6.0\X. Two intervals.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #1 (Data type - Conditions)\X. Two intervals\obj\Debug\net6.0\X. Two intervals.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #1 (Data type - Conditions)\X. Two intervals\obj\Debug\net6.0\ref\X. Two intervals.dll

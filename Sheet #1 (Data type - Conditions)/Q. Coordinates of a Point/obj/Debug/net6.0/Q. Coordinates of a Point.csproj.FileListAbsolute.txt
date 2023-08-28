@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #1 (Data type - Conditions)\Q. Coordinates of a Point\bin\Debug\net6.0\Q. Coordinates of a Point.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #1 (Data type - Conditions)\Q. Coordinates of a Point\bin\Debug\net6.0\Q. Coordinates of a Point.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #1 (Data type - Conditions)\Q. Coordinates of a Point\bin\Debug\net6.0\Q. Coordinates of a Point.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #1 (Data type - Conditions)\Q. Coordinates of a Point\bin\Debug\net6.0\Q. Coordinates of a Point.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #1 (Data type - Conditions)\Q. Coordinates of a Point\bin\Debug\net6.0\Q. Coordinates of a Point.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #1 (Data type - Conditions)\Q. Coordinates of a Point\obj\Debug\net6.0\Q. Coordinates of a Point.csproj.AssemblyReference.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #1 (Data type - Conditions)\Q. Coordinates of a Point\obj\Debug\net6.0\Q. Coordinates of a Point.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #1 (Data type - Conditions)\Q. Coordinates of a Point\obj\Debug\net6.0\Q. Coordinates of a Point.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #1 (Data type - Conditions)\Q. Coordinates of a Point\obj\Debug\net6.0\Q. Coordinates of a Point.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #1 (Data type - Conditions)\Q. Coordinates of a Point\obj\Debug\net6.0\Q. Coordinates of a Point.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #1 (Data type - Conditions)\Q. Coordinates of a Point\obj\Debug\net6.0\Q. Coordinates of a Point.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #1 (Data type - Conditions)\Q. Coordinates of a Point\obj\Debug\net6.0\refint\Q. Coordinates of a Point.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #1 (Data type - Conditions)\Q. Coordinates of a Point\obj\Debug\net6.0\Q. Coordinates of a Point.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #1 (Data type - Conditions)\Q. Coordinates of a Point\obj\Debug\net6.0\Q. Coordinates of a Point.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #1 (Data type - Conditions)\Q. Coordinates of a Point\obj\Debug\net6.0\ref\Q. Coordinates of a Point.dll

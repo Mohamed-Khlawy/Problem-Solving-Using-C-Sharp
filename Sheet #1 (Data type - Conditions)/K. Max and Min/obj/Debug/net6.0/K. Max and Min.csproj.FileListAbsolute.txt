@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #1 (Data type - Conditions)\K. Max and Min\bin\Debug\net6.0\K. Max and Min.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #1 (Data type - Conditions)\K. Max and Min\bin\Debug\net6.0\K. Max and Min.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #1 (Data type - Conditions)\K. Max and Min\bin\Debug\net6.0\K. Max and Min.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #1 (Data type - Conditions)\K. Max and Min\bin\Debug\net6.0\K. Max and Min.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #1 (Data type - Conditions)\K. Max and Min\bin\Debug\net6.0\K. Max and Min.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #1 (Data type - Conditions)\K. Max and Min\obj\Debug\net6.0\K. Max and Min.csproj.AssemblyReference.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #1 (Data type - Conditions)\K. Max and Min\obj\Debug\net6.0\K. Max and Min.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #1 (Data type - Conditions)\K. Max and Min\obj\Debug\net6.0\K. Max and Min.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #1 (Data type - Conditions)\K. Max and Min\obj\Debug\net6.0\K. Max and Min.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #1 (Data type - Conditions)\K. Max and Min\obj\Debug\net6.0\K. Max and Min.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #1 (Data type - Conditions)\K. Max and Min\obj\Debug\net6.0\K. Max and Min.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #1 (Data type - Conditions)\K. Max and Min\obj\Debug\net6.0\refint\K. Max and Min.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #1 (Data type - Conditions)\K. Max and Min\obj\Debug\net6.0\K. Max and Min.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #1 (Data type - Conditions)\K. Max and Min\obj\Debug\net6.0\K. Max and Min.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #1 (Data type - Conditions)\K. Max and Min\obj\Debug\net6.0\ref\K. Max and Min.dll

@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #1 (Data type - Conditions)\I. Welcome for you with Conditions\bin\Debug\net6.0\I. Welcome for you with Conditions.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #1 (Data type - Conditions)\I. Welcome for you with Conditions\bin\Debug\net6.0\I. Welcome for you with Conditions.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #1 (Data type - Conditions)\I. Welcome for you with Conditions\bin\Debug\net6.0\I. Welcome for you with Conditions.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #1 (Data type - Conditions)\I. Welcome for you with Conditions\bin\Debug\net6.0\I. Welcome for you with Conditions.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #1 (Data type - Conditions)\I. Welcome for you with Conditions\bin\Debug\net6.0\I. Welcome for you with Conditions.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #1 (Data type - Conditions)\I. Welcome for you with Conditions\obj\Debug\net6.0\I. Welcome for you with Conditions.csproj.AssemblyReference.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #1 (Data type - Conditions)\I. Welcome for you with Conditions\obj\Debug\net6.0\I. Welcome for you with Conditions.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #1 (Data type - Conditions)\I. Welcome for you with Conditions\obj\Debug\net6.0\I. Welcome for you with Conditions.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #1 (Data type - Conditions)\I. Welcome for you with Conditions\obj\Debug\net6.0\I. Welcome for you with Conditions.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #1 (Data type - Conditions)\I. Welcome for you with Conditions\obj\Debug\net6.0\I. Welcome for you with Conditions.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #1 (Data type - Conditions)\I. Welcome for you with Conditions\obj\Debug\net6.0\I. Welcome for you with Conditions.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #1 (Data type - Conditions)\I. Welcome for you with Conditions\obj\Debug\net6.0\refint\I. Welcome for you with Conditions.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #1 (Data type - Conditions)\I. Welcome for you with Conditions\obj\Debug\net6.0\I. Welcome for you with Conditions.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #1 (Data type - Conditions)\I. Welcome for you with Conditions\obj\Debug\net6.0\I. Welcome for you with Conditions.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #1 (Data type - Conditions)\I. Welcome for you with Conditions\obj\Debug\net6.0\ref\I. Welcome for you with Conditions.dll
