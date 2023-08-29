@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "G:\\Problem Solving\\Problem-Solving-Using-C-Sharp\\Sheet #3 (Arrays)\\Sheet #3 (Arrays)_MainFolder\\Sheet #3 (Arrays)_MainFolder\\Sheet #3 (Arrays)_MainFolder.csproj",
+      "projectUniqueName": "G:\\Problem Solving\\Problem-Solving-Using-C-Sharp\\Sheet #3 (Arrays)\\Sheet #3 (Arrays)_MainFolder\\Sheet #3 (Arrays)_MainFolder.csproj",
       "projectName": "Sheet #3 (Arrays)_MainFolder",
-      "projectPath": "G:\\Problem Solving\\Problem-Solving-Using-C-Sharp\\Sheet #3 (Arrays)\\Sheet #3 (Arrays)_MainFolder\\Sheet #3 (Arrays)_MainFolder\\Sheet #3 (Arrays)_MainFolder.csproj",
+      "projectPath": "G:\\Problem Solving\\Problem-Solving-Using-C-Sharp\\Sheet #3 (Arrays)\\Sheet #3 (Arrays)_MainFolder\\Sheet #3 (Arrays)_MainFolder.csproj",
       "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-      "outputPath": "G:\\Problem Solving\\Problem-Solving-Using-C-Sharp\\Sheet #3 (Arrays)\\Sheet #3 (Arrays)_MainFolder\\Sheet #3 (Arrays)_MainFolder\\obj\\",
+      "outputPath": "G:\\Problem Solving\\Problem-Solving-Using-C-Sharp\\Sheet #3 (Arrays)\\Sheet #3 (Arrays)_MainFolder\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

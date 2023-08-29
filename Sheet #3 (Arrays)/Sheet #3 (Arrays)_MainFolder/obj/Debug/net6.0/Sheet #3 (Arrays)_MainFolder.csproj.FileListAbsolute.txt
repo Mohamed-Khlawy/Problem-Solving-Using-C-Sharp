@@ -13,3 +13,18 @@ G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #3 (Arrays)\Sheet #3 (Arr
 G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #3 (Arrays)\Sheet #3 (Arrays)_MainFolder\Sheet #3 (Arrays)_MainFolder\obj\Debug\net6.0\Sheet #3 (Arrays)_MainFolder.pdb
 G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #3 (Arrays)\Sheet #3 (Arrays)_MainFolder\Sheet #3 (Arrays)_MainFolder\obj\Debug\net6.0\Sheet #3 (Arrays)_MainFolder.genruntimeconfig.cache
 G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #3 (Arrays)\Sheet #3 (Arrays)_MainFolder\Sheet #3 (Arrays)_MainFolder\obj\Debug\net6.0\ref\Sheet #3 (Arrays)_MainFolder.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #3 (Arrays)\Sheet #3 (Arrays)_MainFolder\bin\Debug\net6.0\Sheet #3 (Arrays)_MainFolder.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #3 (Arrays)\Sheet #3 (Arrays)_MainFolder\bin\Debug\net6.0\Sheet #3 (Arrays)_MainFolder.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #3 (Arrays)\Sheet #3 (Arrays)_MainFolder\bin\Debug\net6.0\Sheet #3 (Arrays)_MainFolder.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #3 (Arrays)\Sheet #3 (Arrays)_MainFolder\bin\Debug\net6.0\Sheet #3 (Arrays)_MainFolder.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #3 (Arrays)\Sheet #3 (Arrays)_MainFolder\bin\Debug\net6.0\Sheet #3 (Arrays)_MainFolder.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #3 (Arrays)\Sheet #3 (Arrays)_MainFolder\obj\Debug\net6.0\Sheet #3 (Arrays)_MainFolder.csproj.AssemblyReference.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #3 (Arrays)\Sheet #3 (Arrays)_MainFolder\obj\Debug\net6.0\Sheet #3 (Arrays)_MainFolder.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #3 (Arrays)\Sheet #3 (Arrays)_MainFolder\obj\Debug\net6.0\Sheet #3 (Arrays)_MainFolder.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #3 (Arrays)\Sheet #3 (Arrays)_MainFolder\obj\Debug\net6.0\Sheet #3 (Arrays)_MainFolder.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #3 (Arrays)\Sheet #3 (Arrays)_MainFolder\obj\Debug\net6.0\Sheet #3 (Arrays)_MainFolder.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #3 (Arrays)\Sheet #3 (Arrays)_MainFolder\obj\Debug\net6.0\Sheet #3 (Arrays)_MainFolder.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #3 (Arrays)\Sheet #3 (Arrays)_MainFolder\obj\Debug\net6.0\refint\Sheet #3 (Arrays)_MainFolder.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #3 (Arrays)\Sheet #3 (Arrays)_MainFolder\obj\Debug\net6.0\Sheet #3 (Arrays)_MainFolder.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #3 (Arrays)\Sheet #3 (Arrays)_MainFolder\obj\Debug\net6.0\Sheet #3 (Arrays)_MainFolder.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #3 (Arrays)\Sheet #3 (Arrays)_MainFolder\obj\Debug\net6.0\ref\Sheet #3 (Arrays)_MainFolder.dll
