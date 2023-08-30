@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Vasya and Socks\bin\Debug\net6.0\A. Vasya and Socks.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Vasya and Socks\bin\Debug\net6.0\A. Vasya and Socks.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Vasya and Socks\bin\Debug\net6.0\A. Vasya and Socks.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Vasya and Socks\bin\Debug\net6.0\A. Vasya and Socks.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Vasya and Socks\bin\Debug\net6.0\A. Vasya and Socks.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Vasya and Socks\obj\Debug\net6.0\A. Vasya and Socks.csproj.AssemblyReference.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Vasya and Socks\obj\Debug\net6.0\A. Vasya and Socks.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Vasya and Socks\obj\Debug\net6.0\A. Vasya and Socks.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Vasya and Socks\obj\Debug\net6.0\A. Vasya and Socks.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Vasya and Socks\obj\Debug\net6.0\A. Vasya and Socks.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Vasya and Socks\obj\Debug\net6.0\A. Vasya and Socks.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Vasya and Socks\obj\Debug\net6.0\refint\A. Vasya and Socks.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Vasya and Socks\obj\Debug\net6.0\A. Vasya and Socks.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Vasya and Socks\obj\Debug\net6.0\A. Vasya and Socks.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Vasya and Socks\obj\Debug\net6.0\ref\A. Vasya and Socks.dll
