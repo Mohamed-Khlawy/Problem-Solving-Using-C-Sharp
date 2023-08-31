@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #3 (Arrays)\C. Replacement\bin\Debug\net6.0\C. Replacement.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #3 (Arrays)\C. Replacement\bin\Debug\net6.0\C. Replacement.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #3 (Arrays)\C. Replacement\bin\Debug\net6.0\C. Replacement.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #3 (Arrays)\C. Replacement\bin\Debug\net6.0\C. Replacement.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #3 (Arrays)\C. Replacement\bin\Debug\net6.0\C. Replacement.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #3 (Arrays)\C. Replacement\obj\Debug\net6.0\C. Replacement.csproj.AssemblyReference.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #3 (Arrays)\C. Replacement\obj\Debug\net6.0\C. Replacement.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #3 (Arrays)\C. Replacement\obj\Debug\net6.0\C. Replacement.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #3 (Arrays)\C. Replacement\obj\Debug\net6.0\C. Replacement.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #3 (Arrays)\C. Replacement\obj\Debug\net6.0\C. Replacement.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #3 (Arrays)\C. Replacement\obj\Debug\net6.0\C. Replacement.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #3 (Arrays)\C. Replacement\obj\Debug\net6.0\refint\C. Replacement.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #3 (Arrays)\C. Replacement\obj\Debug\net6.0\C. Replacement.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #3 (Arrays)\C. Replacement\obj\Debug\net6.0\C. Replacement.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #3 (Arrays)\C. Replacement\obj\Debug\net6.0\ref\C. Replacement.dll

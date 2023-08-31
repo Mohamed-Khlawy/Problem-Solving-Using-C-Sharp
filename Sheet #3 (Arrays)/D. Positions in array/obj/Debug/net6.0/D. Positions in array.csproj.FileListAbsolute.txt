@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #3 (Arrays)\D. Positions in array\bin\Debug\net6.0\D. Positions in array.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #3 (Arrays)\D. Positions in array\bin\Debug\net6.0\D. Positions in array.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #3 (Arrays)\D. Positions in array\bin\Debug\net6.0\D. Positions in array.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #3 (Arrays)\D. Positions in array\bin\Debug\net6.0\D. Positions in array.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #3 (Arrays)\D. Positions in array\bin\Debug\net6.0\D. Positions in array.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #3 (Arrays)\D. Positions in array\obj\Debug\net6.0\D. Positions in array.csproj.AssemblyReference.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #3 (Arrays)\D. Positions in array\obj\Debug\net6.0\D. Positions in array.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #3 (Arrays)\D. Positions in array\obj\Debug\net6.0\D. Positions in array.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #3 (Arrays)\D. Positions in array\obj\Debug\net6.0\D. Positions in array.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #3 (Arrays)\D. Positions in array\obj\Debug\net6.0\D. Positions in array.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #3 (Arrays)\D. Positions in array\obj\Debug\net6.0\D. Positions in array.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #3 (Arrays)\D. Positions in array\obj\Debug\net6.0\refint\D. Positions in array.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #3 (Arrays)\D. Positions in array\obj\Debug\net6.0\D. Positions in array.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #3 (Arrays)\D. Positions in array\obj\Debug\net6.0\D. Positions in array.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #3 (Arrays)\D. Positions in array\obj\Debug\net6.0\ref\D. Positions in array.dll
