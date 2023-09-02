@@ -20,3 +20,9 @@ A. Candies => https://codeforces.com/problemset/problem/1343/A
 
 B. Sale => https://codeforces.com/problemset/problem/34/B
 
+A. Vasya and Socks => https://codeforces.com/problemset/problem/460/A
+
+A. New Year Candles => https://codeforces.com/problemset/problem/379/A
+
+B. Multiply by 2, divide by 6 => https://codeforces.com/problemset/problem/1374/B
+
