@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #3 (Arrays)\G. Palindrome Array\bin\Debug\net6.0\G. Palindrome Array.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #3 (Arrays)\G. Palindrome Array\bin\Debug\net6.0\G. Palindrome Array.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #3 (Arrays)\G. Palindrome Array\bin\Debug\net6.0\G. Palindrome Array.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #3 (Arrays)\G. Palindrome Array\bin\Debug\net6.0\G. Palindrome Array.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #3 (Arrays)\G. Palindrome Array\bin\Debug\net6.0\G. Palindrome Array.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #3 (Arrays)\G. Palindrome Array\obj\Debug\net6.0\G. Palindrome Array.csproj.AssemblyReference.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #3 (Arrays)\G. Palindrome Array\obj\Debug\net6.0\G. Palindrome Array.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #3 (Arrays)\G. Palindrome Array\obj\Debug\net6.0\G. Palindrome Array.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #3 (Arrays)\G. Palindrome Array\obj\Debug\net6.0\G. Palindrome Array.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #3 (Arrays)\G. Palindrome Array\obj\Debug\net6.0\G. Palindrome Array.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #3 (Arrays)\G. Palindrome Array\obj\Debug\net6.0\G. Palindrome Array.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #3 (Arrays)\G. Palindrome Array\obj\Debug\net6.0\refint\G. Palindrome Array.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #3 (Arrays)\G. Palindrome Array\obj\Debug\net6.0\G. Palindrome Array.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #3 (Arrays)\G. Palindrome Array\obj\Debug\net6.0\G. Palindrome Array.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #3 (Arrays)\G. Palindrome Array\obj\Debug\net6.0\ref\G. Palindrome Array.dll
