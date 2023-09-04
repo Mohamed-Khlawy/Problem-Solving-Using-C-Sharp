@@ -26,3 +26,7 @@ A. New Year Candles => https://codeforces.com/problemset/problem/379/A
 
 B. Multiply by 2, divide by 6 => https://codeforces.com/problemset/problem/1374/B
 
+A. Olesya and Rodion => https://codeforces.com/problemset/problem/584/A
+
+A. Keyboard => https://codeforces.com/problemset/problem/474/A
+

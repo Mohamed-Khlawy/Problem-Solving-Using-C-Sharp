@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Olesya and Rodion\bin\Debug\net6.0\A. Olesya and Rodion.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Olesya and Rodion\bin\Debug\net6.0\A. Olesya and Rodion.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Olesya and Rodion\bin\Debug\net6.0\A. Olesya and Rodion.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Olesya and Rodion\bin\Debug\net6.0\A. Olesya and Rodion.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Olesya and Rodion\bin\Debug\net6.0\A. Olesya and Rodion.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Olesya and Rodion\obj\Debug\net6.0\A. Olesya and Rodion.csproj.AssemblyReference.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Olesya and Rodion\obj\Debug\net6.0\A. Olesya and Rodion.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Olesya and Rodion\obj\Debug\net6.0\A. Olesya and Rodion.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Olesya and Rodion\obj\Debug\net6.0\A. Olesya and Rodion.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Olesya and Rodion\obj\Debug\net6.0\A. Olesya and Rodion.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Olesya and Rodion\obj\Debug\net6.0\A. Olesya and Rodion.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Olesya and Rodion\obj\Debug\net6.0\refint\A. Olesya and Rodion.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Olesya and Rodion\obj\Debug\net6.0\A. Olesya and Rodion.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Olesya and Rodion\obj\Debug\net6.0\A. Olesya and Rodion.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Olesya and Rodion\obj\Debug\net6.0\ref\A. Olesya and Rodion.dll
