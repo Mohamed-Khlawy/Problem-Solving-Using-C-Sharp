@@ -13,11 +13,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "C. Replacement", "C. Replac
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "D. Positions in array", "D. Positions in array\D. Positions in array.csproj", "{DE449137-6113-429F-B20B-8706357A28D1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "E. Lowest Number", "E. Lowest Number\E. Lowest Number.csproj", "{9FE0CCC7-B51A-4AB9-A487-25C3B1093D59}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "E. Lowest Number", "E. Lowest Number\E. Lowest Number.csproj", "{9FE0CCC7-B51A-4AB9-A487-25C3B1093D59}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "F. Reversing", "F. Reversing\F. Reversing.csproj", "{424FE1B2-EE5E-4558-813F-8F906AEDABD2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "F. Reversing", "F. Reversing\F. Reversing.csproj", "{424FE1B2-EE5E-4558-813F-8F906AEDABD2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "G. Palindrome Array", "G. Palindrome Array\G. Palindrome Array.csproj", "{DD6786C2-08FF-4A42-AB4B-2D65A2B01472}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "G. Palindrome Array", "G. Palindrome Array\G. Palindrome Array.csproj", "{DD6786C2-08FF-4A42-AB4B-2D65A2B01472}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "H. Sorting", "H. Sorting\H. Sorting.csproj", "{15F75890-8037-41BA-A4CE-2164BFE43748}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -57,6 +59,10 @@ Global
 		{DD6786C2-08FF-4A42-AB4B-2D65A2B01472}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DD6786C2-08FF-4A42-AB4B-2D65A2B01472}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DD6786C2-08FF-4A42-AB4B-2D65A2B01472}.Release|Any CPU.Build.0 = Release|Any CPU
+		{15F75890-8037-41BA-A4CE-2164BFE43748}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15F75890-8037-41BA-A4CE-2164BFE43748}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15F75890-8037-41BA-A4CE-2164BFE43748}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15F75890-8037-41BA-A4CE-2164BFE43748}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

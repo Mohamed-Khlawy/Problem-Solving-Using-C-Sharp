@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #3 (Arrays)\H. Sorting\bin\Debug\net6.0\H. Sorting.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #3 (Arrays)\H. Sorting\bin\Debug\net6.0\H. Sorting.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #3 (Arrays)\H. Sorting\bin\Debug\net6.0\H. Sorting.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #3 (Arrays)\H. Sorting\bin\Debug\net6.0\H. Sorting.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #3 (Arrays)\H. Sorting\bin\Debug\net6.0\H. Sorting.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #3 (Arrays)\H. Sorting\obj\Debug\net6.0\H. Sorting.csproj.AssemblyReference.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #3 (Arrays)\H. Sorting\obj\Debug\net6.0\H. Sorting.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #3 (Arrays)\H. Sorting\obj\Debug\net6.0\H. Sorting.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #3 (Arrays)\H. Sorting\obj\Debug\net6.0\H. Sorting.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #3 (Arrays)\H. Sorting\obj\Debug\net6.0\H. Sorting.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #3 (Arrays)\H. Sorting\obj\Debug\net6.0\H. Sorting.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #3 (Arrays)\H. Sorting\obj\Debug\net6.0\refint\H. Sorting.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #3 (Arrays)\H. Sorting\obj\Debug\net6.0\H. Sorting.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #3 (Arrays)\H. Sorting\obj\Debug\net6.0\H. Sorting.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #3 (Arrays)\H. Sorting\obj\Debug\net6.0\ref\H. Sorting.dll
