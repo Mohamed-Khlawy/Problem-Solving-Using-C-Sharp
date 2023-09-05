@@ -21,7 +21,7 @@
                     }
                 }
 
-                // New way to swap
+                // New way to swap 
                 (numbersArray[minIndex], numbersArray[i]) = (numbersArray[i], numbersArray[minIndex]);
 
                 // Original swap
