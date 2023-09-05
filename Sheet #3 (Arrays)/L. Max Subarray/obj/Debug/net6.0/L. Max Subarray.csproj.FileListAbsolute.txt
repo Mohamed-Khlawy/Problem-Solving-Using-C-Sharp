@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #3 (Arrays)\L. Max Subarray\bin\Debug\net6.0\L. Max Subarray.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #3 (Arrays)\L. Max Subarray\bin\Debug\net6.0\L. Max Subarray.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #3 (Arrays)\L. Max Subarray\bin\Debug\net6.0\L. Max Subarray.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #3 (Arrays)\L. Max Subarray\bin\Debug\net6.0\L. Max Subarray.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #3 (Arrays)\L. Max Subarray\bin\Debug\net6.0\L. Max Subarray.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #3 (Arrays)\L. Max Subarray\obj\Debug\net6.0\L. Max Subarray.csproj.AssemblyReference.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #3 (Arrays)\L. Max Subarray\obj\Debug\net6.0\L. Max Subarray.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #3 (Arrays)\L. Max Subarray\obj\Debug\net6.0\L. Max Subarray.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #3 (Arrays)\L. Max Subarray\obj\Debug\net6.0\L. Max Subarray.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #3 (Arrays)\L. Max Subarray\obj\Debug\net6.0\L. Max Subarray.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #3 (Arrays)\L. Max Subarray\obj\Debug\net6.0\L. Max Subarray.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #3 (Arrays)\L. Max Subarray\obj\Debug\net6.0\refint\L. Max Subarray.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #3 (Arrays)\L. Max Subarray\obj\Debug\net6.0\L. Max Subarray.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #3 (Arrays)\L. Max Subarray\obj\Debug\net6.0\L. Max Subarray.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #3 (Arrays)\L. Max Subarray\obj\Debug\net6.0\ref\L. Max Subarray.dll

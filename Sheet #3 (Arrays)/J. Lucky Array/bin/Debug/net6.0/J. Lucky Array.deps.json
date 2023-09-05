@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "J. Lucky Array/1.0.0": {
+        "runtime": {
+          "J. Lucky Array.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "J. Lucky Array/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

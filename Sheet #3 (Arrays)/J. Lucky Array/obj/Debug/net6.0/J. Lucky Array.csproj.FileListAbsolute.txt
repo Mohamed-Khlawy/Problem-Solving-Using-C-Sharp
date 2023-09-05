@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #3 (Arrays)\J. Lucky Array\bin\Debug\net6.0\J. Lucky Array.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #3 (Arrays)\J. Lucky Array\bin\Debug\net6.0\J. Lucky Array.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #3 (Arrays)\J. Lucky Array\bin\Debug\net6.0\J. Lucky Array.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #3 (Arrays)\J. Lucky Array\bin\Debug\net6.0\J. Lucky Array.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #3 (Arrays)\J. Lucky Array\bin\Debug\net6.0\J. Lucky Array.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #3 (Arrays)\J. Lucky Array\obj\Debug\net6.0\J. Lucky Array.csproj.AssemblyReference.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #3 (Arrays)\J. Lucky Array\obj\Debug\net6.0\J. Lucky Array.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #3 (Arrays)\J. Lucky Array\obj\Debug\net6.0\J. Lucky Array.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #3 (Arrays)\J. Lucky Array\obj\Debug\net6.0\J. Lucky Array.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #3 (Arrays)\J. Lucky Array\obj\Debug\net6.0\J. Lucky Array.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #3 (Arrays)\J. Lucky Array\obj\Debug\net6.0\J. Lucky Array.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #3 (Arrays)\J. Lucky Array\obj\Debug\net6.0\refint\J. Lucky Array.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #3 (Arrays)\J. Lucky Array\obj\Debug\net6.0\J. Lucky Array.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #3 (Arrays)\J. Lucky Array\obj\Debug\net6.0\J. Lucky Array.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #3 (Arrays)\J. Lucky Array\obj\Debug\net6.0\ref\J. Lucky Array.dll

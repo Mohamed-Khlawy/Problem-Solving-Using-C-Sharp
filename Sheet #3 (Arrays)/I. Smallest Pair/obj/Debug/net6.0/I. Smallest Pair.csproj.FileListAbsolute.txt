@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #3 (Arrays)\I. Smallest Pair\bin\Debug\net6.0\I. Smallest Pair.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #3 (Arrays)\I. Smallest Pair\bin\Debug\net6.0\I. Smallest Pair.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #3 (Arrays)\I. Smallest Pair\bin\Debug\net6.0\I. Smallest Pair.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #3 (Arrays)\I. Smallest Pair\bin\Debug\net6.0\I. Smallest Pair.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #3 (Arrays)\I. Smallest Pair\bin\Debug\net6.0\I. Smallest Pair.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #3 (Arrays)\I. Smallest Pair\obj\Debug\net6.0\I. Smallest Pair.csproj.AssemblyReference.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #3 (Arrays)\I. Smallest Pair\obj\Debug\net6.0\I. Smallest Pair.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #3 (Arrays)\I. Smallest Pair\obj\Debug\net6.0\I. Smallest Pair.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #3 (Arrays)\I. Smallest Pair\obj\Debug\net6.0\I. Smallest Pair.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #3 (Arrays)\I. Smallest Pair\obj\Debug\net6.0\I. Smallest Pair.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #3 (Arrays)\I. Smallest Pair\obj\Debug\net6.0\I. Smallest Pair.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #3 (Arrays)\I. Smallest Pair\obj\Debug\net6.0\refint\I. Smallest Pair.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #3 (Arrays)\I. Smallest Pair\obj\Debug\net6.0\I. Smallest Pair.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #3 (Arrays)\I. Smallest Pair\obj\Debug\net6.0\I. Smallest Pair.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #3 (Arrays)\I. Smallest Pair\obj\Debug\net6.0\ref\I. Smallest Pair.dll

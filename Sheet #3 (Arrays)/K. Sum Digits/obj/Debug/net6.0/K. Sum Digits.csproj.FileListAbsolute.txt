@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #3 (Arrays)\K. Sum Digits\bin\Debug\net6.0\K. Sum Digits.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #3 (Arrays)\K. Sum Digits\bin\Debug\net6.0\K. Sum Digits.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #3 (Arrays)\K. Sum Digits\bin\Debug\net6.0\K. Sum Digits.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #3 (Arrays)\K. Sum Digits\bin\Debug\net6.0\K. Sum Digits.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #3 (Arrays)\K. Sum Digits\bin\Debug\net6.0\K. Sum Digits.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #3 (Arrays)\K. Sum Digits\obj\Debug\net6.0\K. Sum Digits.csproj.AssemblyReference.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #3 (Arrays)\K. Sum Digits\obj\Debug\net6.0\K. Sum Digits.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #3 (Arrays)\K. Sum Digits\obj\Debug\net6.0\K. Sum Digits.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #3 (Arrays)\K. Sum Digits\obj\Debug\net6.0\K. Sum Digits.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #3 (Arrays)\K. Sum Digits\obj\Debug\net6.0\K. Sum Digits.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #3 (Arrays)\K. Sum Digits\obj\Debug\net6.0\K. Sum Digits.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #3 (Arrays)\K. Sum Digits\obj\Debug\net6.0\refint\K. Sum Digits.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #3 (Arrays)\K. Sum Digits\obj\Debug\net6.0\K. Sum Digits.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #3 (Arrays)\K. Sum Digits\obj\Debug\net6.0\K. Sum Digits.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #3 (Arrays)\K. Sum Digits\obj\Debug\net6.0\ref\K. Sum Digits.dll
