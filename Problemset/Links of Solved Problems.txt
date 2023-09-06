@@ -30,3 +30,7 @@ A. Olesya and Rodion => https://codeforces.com/problemset/problem/584/A
 
 A. Keyboard => https://codeforces.com/problemset/problem/474/A
 
+A. Dreamoon and Stairs => https://codeforces.com/problemset/problem/476/A
+
+A. To My Critics => https://codeforces.com/problemset/problem/1850/A
+
