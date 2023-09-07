@@ -21,13 +21,19 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "G. Palindrome Array", "G. P
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "H. Sorting", "H. Sorting\H. Sorting.csproj", "{15F75890-8037-41BA-A4CE-2164BFE43748}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "I. Smallest Pair", "I. Smallest Pair\I. Smallest Pair.csproj", "{83EF6B6B-15F5-4AAF-BB9E-AE4A9A950A4E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "I. Smallest Pair", "I. Smallest Pair\I. Smallest Pair.csproj", "{83EF6B6B-15F5-4AAF-BB9E-AE4A9A950A4E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "J. Lucky Array", "J. Lucky Array\J. Lucky Array.csproj", "{A2FF9563-84DD-4EA4-BE80-5BB48B164979}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "J. Lucky Array", "J. Lucky Array\J. Lucky Array.csproj", "{A2FF9563-84DD-4EA4-BE80-5BB48B164979}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "K. Sum Digits", "K. Sum Digits\K. Sum Digits.csproj", "{E45F2ACD-528A-4F5D-A356-F6656F603E3C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "K. Sum Digits", "K. Sum Digits\K. Sum Digits.csproj", "{E45F2ACD-528A-4F5D-A356-F6656F603E3C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L. Max Subarray", "L. Max Subarray\L. Max Subarray.csproj", "{98E13310-A08E-498E-A254-AAC6039DAEF2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "L. Max Subarray", "L. Max Subarray\L. Max Subarray.csproj", "{98E13310-A08E-498E-A254-AAC6039DAEF2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "M. Replace MinMax", "M. Replace MinMax\M. Replace MinMax.csproj", "{A5301105-503A-4F02-9F51-20E4AC4CC314}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "N. Check Code", "N. Check Code\N. Check Code.csproj", "{42C1056F-EC1F-4CA1-891E-FDE1C9CED846}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "O. Fibonacci", "O. Fibonacci\O. Fibonacci.csproj", "{9155578E-0F5A-4749-812F-6A333142CA7F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -87,6 +93,18 @@ Global
 		{98E13310-A08E-498E-A254-AAC6039DAEF2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{98E13310-A08E-498E-A254-AAC6039DAEF2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{98E13310-A08E-498E-A254-AAC6039DAEF2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A5301105-503A-4F02-9F51-20E4AC4CC314}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5301105-503A-4F02-9F51-20E4AC4CC314}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5301105-503A-4F02-9F51-20E4AC4CC314}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5301105-503A-4F02-9F51-20E4AC4CC314}.Release|Any CPU.Build.0 = Release|Any CPU
+		{42C1056F-EC1F-4CA1-891E-FDE1C9CED846}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42C1056F-EC1F-4CA1-891E-FDE1C9CED846}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42C1056F-EC1F-4CA1-891E-FDE1C9CED846}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42C1056F-EC1F-4CA1-891E-FDE1C9CED846}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9155578E-0F5A-4749-812F-6A333142CA7F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9155578E-0F5A-4749-812F-6A333142CA7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9155578E-0F5A-4749-812F-6A333142CA7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9155578E-0F5A-4749-812F-6A333142CA7F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

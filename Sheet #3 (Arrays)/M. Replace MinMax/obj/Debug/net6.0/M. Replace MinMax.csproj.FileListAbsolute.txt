@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #3 (Arrays)\M. Replace MinMax\bin\Debug\net6.0\M. Replace MinMax.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #3 (Arrays)\M. Replace MinMax\bin\Debug\net6.0\M. Replace MinMax.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #3 (Arrays)\M. Replace MinMax\bin\Debug\net6.0\M. Replace MinMax.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #3 (Arrays)\M. Replace MinMax\bin\Debug\net6.0\M. Replace MinMax.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #3 (Arrays)\M. Replace MinMax\bin\Debug\net6.0\M. Replace MinMax.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #3 (Arrays)\M. Replace MinMax\obj\Debug\net6.0\M. Replace MinMax.csproj.AssemblyReference.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #3 (Arrays)\M. Replace MinMax\obj\Debug\net6.0\M. Replace MinMax.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #3 (Arrays)\M. Replace MinMax\obj\Debug\net6.0\M. Replace MinMax.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #3 (Arrays)\M. Replace MinMax\obj\Debug\net6.0\M. Replace MinMax.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #3 (Arrays)\M. Replace MinMax\obj\Debug\net6.0\M. Replace MinMax.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #3 (Arrays)\M. Replace MinMax\obj\Debug\net6.0\M. Replace MinMax.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #3 (Arrays)\M. Replace MinMax\obj\Debug\net6.0\refint\M. Replace MinMax.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #3 (Arrays)\M. Replace MinMax\obj\Debug\net6.0\M. Replace MinMax.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #3 (Arrays)\M. Replace MinMax\obj\Debug\net6.0\M. Replace MinMax.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #3 (Arrays)\M. Replace MinMax\obj\Debug\net6.0\ref\M. Replace MinMax.dll
