@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #3 (Arrays)\P. Minimize Number\bin\Debug\net6.0\P. Minimize Number.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #3 (Arrays)\P. Minimize Number\bin\Debug\net6.0\P. Minimize Number.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #3 (Arrays)\P. Minimize Number\bin\Debug\net6.0\P. Minimize Number.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #3 (Arrays)\P. Minimize Number\bin\Debug\net6.0\P. Minimize Number.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #3 (Arrays)\P. Minimize Number\bin\Debug\net6.0\P. Minimize Number.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #3 (Arrays)\P. Minimize Number\obj\Debug\net6.0\P. Minimize Number.csproj.AssemblyReference.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #3 (Arrays)\P. Minimize Number\obj\Debug\net6.0\P. Minimize Number.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #3 (Arrays)\P. Minimize Number\obj\Debug\net6.0\P. Minimize Number.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #3 (Arrays)\P. Minimize Number\obj\Debug\net6.0\P. Minimize Number.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #3 (Arrays)\P. Minimize Number\obj\Debug\net6.0\P. Minimize Number.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #3 (Arrays)\P. Minimize Number\obj\Debug\net6.0\P. Minimize Number.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #3 (Arrays)\P. Minimize Number\obj\Debug\net6.0\refint\P. Minimize Number.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #3 (Arrays)\P. Minimize Number\obj\Debug\net6.0\P. Minimize Number.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #3 (Arrays)\P. Minimize Number\obj\Debug\net6.0\P. Minimize Number.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #3 (Arrays)\P. Minimize Number\obj\Debug\net6.0\ref\P. Minimize Number.dll
