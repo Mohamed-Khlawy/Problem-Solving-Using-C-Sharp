@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Array with Odd Sum\bin\Debug\net6.0\A. Array with Odd Sum.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Array with Odd Sum\bin\Debug\net6.0\A. Array with Odd Sum.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Array with Odd Sum\bin\Debug\net6.0\A. Array with Odd Sum.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Array with Odd Sum\bin\Debug\net6.0\A. Array with Odd Sum.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Array with Odd Sum\bin\Debug\net6.0\A. Array with Odd Sum.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Array with Odd Sum\obj\Debug\net6.0\A. Array with Odd Sum.csproj.AssemblyReference.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Array with Odd Sum\obj\Debug\net6.0\A. Array with Odd Sum.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Array with Odd Sum\obj\Debug\net6.0\A. Array with Odd Sum.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Array with Odd Sum\obj\Debug\net6.0\A. Array with Odd Sum.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Array with Odd Sum\obj\Debug\net6.0\A. Array with Odd Sum.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Array with Odd Sum\obj\Debug\net6.0\A. Array with Odd Sum.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Array with Odd Sum\obj\Debug\net6.0\refint\A. Array with Odd Sum.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Array with Odd Sum\obj\Debug\net6.0\A. Array with Odd Sum.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Array with Odd Sum\obj\Debug\net6.0\A. Array with Odd Sum.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Array with Odd Sum\obj\Debug\net6.0\ref\A. Array with Odd Sum.dll

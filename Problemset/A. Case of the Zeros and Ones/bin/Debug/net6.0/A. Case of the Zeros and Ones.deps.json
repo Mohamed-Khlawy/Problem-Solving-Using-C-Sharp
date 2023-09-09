@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "A. Case of the Zeros and Ones/1.0.0": {
+        "runtime": {
+          "A. Case of the Zeros and Ones.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "A. Case of the Zeros and Ones/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

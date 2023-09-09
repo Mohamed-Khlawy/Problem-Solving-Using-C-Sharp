@@ -34,3 +34,7 @@ A. Dreamoon and Stairs => https://codeforces.com/problemset/problem/476/A
 
 A. To My Critics => https://codeforces.com/problemset/problem/1850/A
 
+A. Array with Odd Sum => https://codeforces.com/problemset/problem/1296/A
+
+A. Case of the Zeros and Ones => https://codeforces.com/problemset/problem/556/A
+

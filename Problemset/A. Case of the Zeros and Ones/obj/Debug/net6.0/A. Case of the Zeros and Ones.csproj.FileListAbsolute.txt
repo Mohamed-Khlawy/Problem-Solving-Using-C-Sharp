@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Case of the Zeros and Ones\bin\Debug\net6.0\A. Case of the Zeros and Ones.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Case of the Zeros and Ones\bin\Debug\net6.0\A. Case of the Zeros and Ones.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Case of the Zeros and Ones\bin\Debug\net6.0\A. Case of the Zeros and Ones.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Case of the Zeros and Ones\bin\Debug\net6.0\A. Case of the Zeros and Ones.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Case of the Zeros and Ones\bin\Debug\net6.0\A. Case of the Zeros and Ones.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Case of the Zeros and Ones\obj\Debug\net6.0\A. Case of the Zeros and Ones.csproj.AssemblyReference.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Case of the Zeros and Ones\obj\Debug\net6.0\A. Case of the Zeros and Ones.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Case of the Zeros and Ones\obj\Debug\net6.0\A. Case of the Zeros and Ones.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Case of the Zeros and Ones\obj\Debug\net6.0\A. Case of the Zeros and Ones.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Case of the Zeros and Ones\obj\Debug\net6.0\A. Case of the Zeros and Ones.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Case of the Zeros and Ones\obj\Debug\net6.0\A. Case of the Zeros and Ones.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Case of the Zeros and Ones\obj\Debug\net6.0\refint\A. Case of the Zeros and Ones.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Case of the Zeros and Ones\obj\Debug\net6.0\A. Case of the Zeros and Ones.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Case of the Zeros and Ones\obj\Debug\net6.0\A. Case of the Zeros and Ones.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Case of the Zeros and Ones\obj\Debug\net6.0\ref\A. Case of the Zeros and Ones.dll
