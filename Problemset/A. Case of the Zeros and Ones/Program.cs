@@ -2,6 +2,7 @@
 {
     internal class Program
     {
+        // Problem Link: https://codeforces.com/problemset/problem/556/A
         static void Main(string[] args)
         {
             int size = int.Parse(Console.ReadLine()!);
