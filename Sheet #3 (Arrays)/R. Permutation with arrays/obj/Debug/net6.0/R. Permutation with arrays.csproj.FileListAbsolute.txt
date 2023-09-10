@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #3 (Arrays)\R. Permutation with arrays\bin\Debug\net6.0\R. Permutation with arrays.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #3 (Arrays)\R. Permutation with arrays\bin\Debug\net6.0\R. Permutation with arrays.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #3 (Arrays)\R. Permutation with arrays\bin\Debug\net6.0\R. Permutation with arrays.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #3 (Arrays)\R. Permutation with arrays\bin\Debug\net6.0\R. Permutation with arrays.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #3 (Arrays)\R. Permutation with arrays\bin\Debug\net6.0\R. Permutation with arrays.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #3 (Arrays)\R. Permutation with arrays\obj\Debug\net6.0\R. Permutation with arrays.csproj.AssemblyReference.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #3 (Arrays)\R. Permutation with arrays\obj\Debug\net6.0\R. Permutation with arrays.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #3 (Arrays)\R. Permutation with arrays\obj\Debug\net6.0\R. Permutation with arrays.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #3 (Arrays)\R. Permutation with arrays\obj\Debug\net6.0\R. Permutation with arrays.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #3 (Arrays)\R. Permutation with arrays\obj\Debug\net6.0\R. Permutation with arrays.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #3 (Arrays)\R. Permutation with arrays\obj\Debug\net6.0\R. Permutation with arrays.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #3 (Arrays)\R. Permutation with arrays\obj\Debug\net6.0\refint\R. Permutation with arrays.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #3 (Arrays)\R. Permutation with arrays\obj\Debug\net6.0\R. Permutation with arrays.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #3 (Arrays)\R. Permutation with arrays\obj\Debug\net6.0\R. Permutation with arrays.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #3 (Arrays)\R. Permutation with arrays\obj\Debug\net6.0\ref\R. Permutation with arrays.dll
