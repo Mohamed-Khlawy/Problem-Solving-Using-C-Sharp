@@ -38,3 +38,7 @@ A. Array with Odd Sum => https://codeforces.com/problemset/problem/1296/A
 
 A. Case of the Zeros and Ones => https://codeforces.com/problemset/problem/556/A
 
+A. Park Lighting => https://codeforces.com/problemset/problem/1358/A
+
+A. Array Coloring => https://codeforces.com/problemset/problem/1857/A
+
