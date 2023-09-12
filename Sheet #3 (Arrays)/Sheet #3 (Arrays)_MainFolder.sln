@@ -39,9 +39,17 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P. Minimize Number", "P. Mi
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Q. Count Subarrays", "Q. Count Subarrays\Q. Count Subarrays.csproj", "{0E464153-BF30-45E8-8DF9-A2C0592FD56A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "R. Permutation with arrays", "R. Permutation with arrays\R. Permutation with arrays.csproj", "{EB206AF2-042C-4F15-BADD-20C2448EC666}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "R. Permutation with arrays", "R. Permutation with arrays\R. Permutation with arrays.csproj", "{EB206AF2-042C-4F15-BADD-20C2448EC666}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "S. Search In Matrix", "S. Search In Matrix\S. Search In Matrix.csproj", "{D771EF41-4A05-4D69-B336-42E2DF1C531F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "S. Search In Matrix", "S. Search In Matrix\S. Search In Matrix.csproj", "{D771EF41-4A05-4D69-B336-42E2DF1C531F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T. Matrix", "T. Matrix\T. Matrix.csproj", "{9C559162-5DDD-49A0-8EB8-8DC041DE0932}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "U. Is B a subsequence of A", "U. Is B a subsequence of A\U. Is B a subsequence of A.csproj", "{F97B708C-6C8C-44D2-90C4-BC465DF1F87E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "V. Frequency Array", "V. Frequency Array\V. Frequency Array.csproj", "{63F1B14D-72BD-4400-B8FF-F247C9B8C28C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "W. Mirror Array", "W. Mirror Array\W. Mirror Array.csproj", "{A04956D1-FB62-46E9-A9EF-E8B26046CCE6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -129,6 +137,22 @@ Global
 		{D771EF41-4A05-4D69-B336-42E2DF1C531F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D771EF41-4A05-4D69-B336-42E2DF1C531F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D771EF41-4A05-4D69-B336-42E2DF1C531F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9C559162-5DDD-49A0-8EB8-8DC041DE0932}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C559162-5DDD-49A0-8EB8-8DC041DE0932}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C559162-5DDD-49A0-8EB8-8DC041DE0932}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C559162-5DDD-49A0-8EB8-8DC041DE0932}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F97B708C-6C8C-44D2-90C4-BC465DF1F87E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F97B708C-6C8C-44D2-90C4-BC465DF1F87E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F97B708C-6C8C-44D2-90C4-BC465DF1F87E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F97B708C-6C8C-44D2-90C4-BC465DF1F87E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{63F1B14D-72BD-4400-B8FF-F247C9B8C28C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63F1B14D-72BD-4400-B8FF-F247C9B8C28C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63F1B14D-72BD-4400-B8FF-F247C9B8C28C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63F1B14D-72BD-4400-B8FF-F247C9B8C28C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A04956D1-FB62-46E9-A9EF-E8B26046CCE6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A04956D1-FB62-46E9-A9EF-E8B26046CCE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A04956D1-FB62-46E9-A9EF-E8B26046CCE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A04956D1-FB62-46E9-A9EF-E8B26046CCE6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

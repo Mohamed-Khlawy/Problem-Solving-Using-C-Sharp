@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #3 (Arrays)\V. Frequency Array\bin\Debug\net6.0\V. Frequency Array.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #3 (Arrays)\V. Frequency Array\bin\Debug\net6.0\V. Frequency Array.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #3 (Arrays)\V. Frequency Array\bin\Debug\net6.0\V. Frequency Array.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #3 (Arrays)\V. Frequency Array\bin\Debug\net6.0\V. Frequency Array.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #3 (Arrays)\V. Frequency Array\bin\Debug\net6.0\V. Frequency Array.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #3 (Arrays)\V. Frequency Array\obj\Debug\net6.0\V. Frequency Array.csproj.AssemblyReference.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #3 (Arrays)\V. Frequency Array\obj\Debug\net6.0\V. Frequency Array.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #3 (Arrays)\V. Frequency Array\obj\Debug\net6.0\V. Frequency Array.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #3 (Arrays)\V. Frequency Array\obj\Debug\net6.0\V. Frequency Array.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #3 (Arrays)\V. Frequency Array\obj\Debug\net6.0\V. Frequency Array.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #3 (Arrays)\V. Frequency Array\obj\Debug\net6.0\V. Frequency Array.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #3 (Arrays)\V. Frequency Array\obj\Debug\net6.0\refint\V. Frequency Array.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #3 (Arrays)\V. Frequency Array\obj\Debug\net6.0\V. Frequency Array.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #3 (Arrays)\V. Frequency Array\obj\Debug\net6.0\V. Frequency Array.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #3 (Arrays)\V. Frequency Array\obj\Debug\net6.0\ref\V. Frequency Array.dll

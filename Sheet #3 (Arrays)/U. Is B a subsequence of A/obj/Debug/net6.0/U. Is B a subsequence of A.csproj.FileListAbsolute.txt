@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #3 (Arrays)\U. Is B a subsequence of A\bin\Debug\net6.0\U. Is B a subsequence of A.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #3 (Arrays)\U. Is B a subsequence of A\bin\Debug\net6.0\U. Is B a subsequence of A.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #3 (Arrays)\U. Is B a subsequence of A\bin\Debug\net6.0\U. Is B a subsequence of A.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #3 (Arrays)\U. Is B a subsequence of A\bin\Debug\net6.0\U. Is B a subsequence of A.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #3 (Arrays)\U. Is B a subsequence of A\bin\Debug\net6.0\U. Is B a subsequence of A.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #3 (Arrays)\U. Is B a subsequence of A\obj\Debug\net6.0\U. Is B a subsequence of A.csproj.AssemblyReference.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #3 (Arrays)\U. Is B a subsequence of A\obj\Debug\net6.0\U. Is B a subsequence of A.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #3 (Arrays)\U. Is B a subsequence of A\obj\Debug\net6.0\U. Is B a subsequence of A.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #3 (Arrays)\U. Is B a subsequence of A\obj\Debug\net6.0\U. Is B a subsequence of A.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #3 (Arrays)\U. Is B a subsequence of A\obj\Debug\net6.0\U. Is B a subsequence of A.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #3 (Arrays)\U. Is B a subsequence of A\obj\Debug\net6.0\U. Is B a subsequence of A.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #3 (Arrays)\U. Is B a subsequence of A\obj\Debug\net6.0\refint\U. Is B a subsequence of A.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #3 (Arrays)\U. Is B a subsequence of A\obj\Debug\net6.0\U. Is B a subsequence of A.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #3 (Arrays)\U. Is B a subsequence of A\obj\Debug\net6.0\U. Is B a subsequence of A.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #3 (Arrays)\U. Is B a subsequence of A\obj\Debug\net6.0\ref\U. Is B a subsequence of A.dll

@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #3 (Arrays)\W. Mirror Array\bin\Debug\net6.0\W. Mirror Array.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #3 (Arrays)\W. Mirror Array\bin\Debug\net6.0\W. Mirror Array.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #3 (Arrays)\W. Mirror Array\bin\Debug\net6.0\W. Mirror Array.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #3 (Arrays)\W. Mirror Array\bin\Debug\net6.0\W. Mirror Array.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #3 (Arrays)\W. Mirror Array\bin\Debug\net6.0\W. Mirror Array.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #3 (Arrays)\W. Mirror Array\obj\Debug\net6.0\W. Mirror Array.csproj.AssemblyReference.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #3 (Arrays)\W. Mirror Array\obj\Debug\net6.0\W. Mirror Array.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #3 (Arrays)\W. Mirror Array\obj\Debug\net6.0\W. Mirror Array.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #3 (Arrays)\W. Mirror Array\obj\Debug\net6.0\W. Mirror Array.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #3 (Arrays)\W. Mirror Array\obj\Debug\net6.0\W. Mirror Array.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #3 (Arrays)\W. Mirror Array\obj\Debug\net6.0\W. Mirror Array.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #3 (Arrays)\W. Mirror Array\obj\Debug\net6.0\refint\W. Mirror Array.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #3 (Arrays)\W. Mirror Array\obj\Debug\net6.0\W. Mirror Array.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #3 (Arrays)\W. Mirror Array\obj\Debug\net6.0\W. Mirror Array.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #3 (Arrays)\W. Mirror Array\obj\Debug\net6.0\ref\W. Mirror Array.dll

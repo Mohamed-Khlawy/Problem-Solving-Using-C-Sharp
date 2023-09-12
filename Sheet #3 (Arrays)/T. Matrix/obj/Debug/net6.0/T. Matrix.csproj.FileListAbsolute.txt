@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #3 (Arrays)\T. Matrix\bin\Debug\net6.0\T. Matrix.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #3 (Arrays)\T. Matrix\bin\Debug\net6.0\T. Matrix.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #3 (Arrays)\T. Matrix\bin\Debug\net6.0\T. Matrix.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #3 (Arrays)\T. Matrix\bin\Debug\net6.0\T. Matrix.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #3 (Arrays)\T. Matrix\bin\Debug\net6.0\T. Matrix.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #3 (Arrays)\T. Matrix\obj\Debug\net6.0\T. Matrix.csproj.AssemblyReference.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #3 (Arrays)\T. Matrix\obj\Debug\net6.0\T. Matrix.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #3 (Arrays)\T. Matrix\obj\Debug\net6.0\T. Matrix.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #3 (Arrays)\T. Matrix\obj\Debug\net6.0\T. Matrix.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #3 (Arrays)\T. Matrix\obj\Debug\net6.0\T. Matrix.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #3 (Arrays)\T. Matrix\obj\Debug\net6.0\T. Matrix.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #3 (Arrays)\T. Matrix\obj\Debug\net6.0\refint\T. Matrix.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #3 (Arrays)\T. Matrix\obj\Debug\net6.0\T. Matrix.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #3 (Arrays)\T. Matrix\obj\Debug\net6.0\T. Matrix.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #3 (Arrays)\T. Matrix\obj\Debug\net6.0\ref\T. Matrix.dll
