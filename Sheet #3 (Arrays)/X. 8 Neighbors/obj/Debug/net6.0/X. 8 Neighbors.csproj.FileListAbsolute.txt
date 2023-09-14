@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #3 (Arrays)\X. 8 Neighbors\bin\Debug\net6.0\X. 8 Neighbors.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #3 (Arrays)\X. 8 Neighbors\bin\Debug\net6.0\X. 8 Neighbors.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #3 (Arrays)\X. 8 Neighbors\bin\Debug\net6.0\X. 8 Neighbors.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #3 (Arrays)\X. 8 Neighbors\bin\Debug\net6.0\X. 8 Neighbors.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #3 (Arrays)\X. 8 Neighbors\bin\Debug\net6.0\X. 8 Neighbors.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #3 (Arrays)\X. 8 Neighbors\obj\Debug\net6.0\X. 8 Neighbors.csproj.AssemblyReference.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #3 (Arrays)\X. 8 Neighbors\obj\Debug\net6.0\X. 8 Neighbors.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #3 (Arrays)\X. 8 Neighbors\obj\Debug\net6.0\X. 8 Neighbors.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #3 (Arrays)\X. 8 Neighbors\obj\Debug\net6.0\X. 8 Neighbors.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #3 (Arrays)\X. 8 Neighbors\obj\Debug\net6.0\X. 8 Neighbors.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #3 (Arrays)\X. 8 Neighbors\obj\Debug\net6.0\X. 8 Neighbors.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #3 (Arrays)\X. 8 Neighbors\obj\Debug\net6.0\refint\X. 8 Neighbors.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #3 (Arrays)\X. 8 Neighbors\obj\Debug\net6.0\X. 8 Neighbors.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #3 (Arrays)\X. 8 Neighbors\obj\Debug\net6.0\X. 8 Neighbors.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #3 (Arrays)\X. 8 Neighbors\obj\Debug\net6.0\ref\X. 8 Neighbors.dll

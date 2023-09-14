@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #3 (Arrays)\Y. Range sum query\bin\Debug\net6.0\Y. Range sum query.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #3 (Arrays)\Y. Range sum query\bin\Debug\net6.0\Y. Range sum query.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #3 (Arrays)\Y. Range sum query\bin\Debug\net6.0\Y. Range sum query.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #3 (Arrays)\Y. Range sum query\bin\Debug\net6.0\Y. Range sum query.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #3 (Arrays)\Y. Range sum query\bin\Debug\net6.0\Y. Range sum query.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #3 (Arrays)\Y. Range sum query\obj\Debug\net6.0\Y. Range sum query.csproj.AssemblyReference.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #3 (Arrays)\Y. Range sum query\obj\Debug\net6.0\Y. Range sum query.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #3 (Arrays)\Y. Range sum query\obj\Debug\net6.0\Y. Range sum query.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #3 (Arrays)\Y. Range sum query\obj\Debug\net6.0\Y. Range sum query.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #3 (Arrays)\Y. Range sum query\obj\Debug\net6.0\Y. Range sum query.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #3 (Arrays)\Y. Range sum query\obj\Debug\net6.0\Y. Range sum query.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #3 (Arrays)\Y. Range sum query\obj\Debug\net6.0\refint\Y. Range sum query.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #3 (Arrays)\Y. Range sum query\obj\Debug\net6.0\Y. Range sum query.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #3 (Arrays)\Y. Range sum query\obj\Debug\net6.0\Y. Range sum query.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #3 (Arrays)\Y. Range sum query\obj\Debug\net6.0\ref\Y. Range sum query.dll
