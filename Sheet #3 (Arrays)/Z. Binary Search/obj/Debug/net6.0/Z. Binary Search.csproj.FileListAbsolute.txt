@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #3 (Arrays)\Z. Binary Search\bin\Debug\net6.0\Z. Binary Search.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #3 (Arrays)\Z. Binary Search\bin\Debug\net6.0\Z. Binary Search.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #3 (Arrays)\Z. Binary Search\bin\Debug\net6.0\Z. Binary Search.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #3 (Arrays)\Z. Binary Search\bin\Debug\net6.0\Z. Binary Search.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #3 (Arrays)\Z. Binary Search\bin\Debug\net6.0\Z. Binary Search.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #3 (Arrays)\Z. Binary Search\obj\Debug\net6.0\Z. Binary Search.csproj.AssemblyReference.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #3 (Arrays)\Z. Binary Search\obj\Debug\net6.0\Z. Binary Search.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #3 (Arrays)\Z. Binary Search\obj\Debug\net6.0\Z. Binary Search.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #3 (Arrays)\Z. Binary Search\obj\Debug\net6.0\Z. Binary Search.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #3 (Arrays)\Z. Binary Search\obj\Debug\net6.0\Z. Binary Search.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #3 (Arrays)\Z. Binary Search\obj\Debug\net6.0\Z. Binary Search.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #3 (Arrays)\Z. Binary Search\obj\Debug\net6.0\refint\Z. Binary Search.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #3 (Arrays)\Z. Binary Search\obj\Debug\net6.0\Z. Binary Search.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #3 (Arrays)\Z. Binary Search\obj\Debug\net6.0\Z. Binary Search.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #3 (Arrays)\Z. Binary Search\obj\Debug\net6.0\ref\Z. Binary Search.dll

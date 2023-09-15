@@ -51,9 +51,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "V. Frequency Array", "V. Fr
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "W. Mirror Array", "W. Mirror Array\W. Mirror Array.csproj", "{A04956D1-FB62-46E9-A9EF-E8B26046CCE6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "X. 8 Neighbors", "X. 8 Neighbors\X. 8 Neighbors.csproj", "{3A91969A-EBA3-4E16-AD6D-94B9DF09106C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "X. 8 Neighbors", "X. 8 Neighbors\X. 8 Neighbors.csproj", "{3A91969A-EBA3-4E16-AD6D-94B9DF09106C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Y. Range sum query", "Y. Range sum query\Y. Range sum query.csproj", "{63453016-2C61-4960-9B90-95E138ED8B2A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Y. Range sum query", "Y. Range sum query\Y. Range sum query.csproj", "{63453016-2C61-4960-9B90-95E138ED8B2A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Z. Binary Search", "Z. Binary Search\Z. Binary Search.csproj", "{576901B4-5D25-436C-891E-C55CB42D9B30}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -165,6 +167,10 @@ Global
 		{63453016-2C61-4960-9B90-95E138ED8B2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{63453016-2C61-4960-9B90-95E138ED8B2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{63453016-2C61-4960-9B90-95E138ED8B2A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{576901B4-5D25-436C-891E-C55CB42D9B30}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{576901B4-5D25-436C-891E-C55CB42D9B30}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{576901B4-5D25-436C-891E-C55CB42D9B30}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{576901B4-5D25-436C-891E-C55CB42D9B30}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
