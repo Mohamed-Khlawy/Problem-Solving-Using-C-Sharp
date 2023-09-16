@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Multiplication Table\bin\Debug\net6.0\A. Multiplication Table.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Multiplication Table\bin\Debug\net6.0\A. Multiplication Table.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Multiplication Table\bin\Debug\net6.0\A. Multiplication Table.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Multiplication Table\bin\Debug\net6.0\A. Multiplication Table.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Multiplication Table\bin\Debug\net6.0\A. Multiplication Table.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Multiplication Table\obj\Debug\net6.0\A. Multiplication Table.csproj.AssemblyReference.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Multiplication Table\obj\Debug\net6.0\A. Multiplication Table.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Multiplication Table\obj\Debug\net6.0\A. Multiplication Table.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Multiplication Table\obj\Debug\net6.0\A. Multiplication Table.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Multiplication Table\obj\Debug\net6.0\A. Multiplication Table.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Multiplication Table\obj\Debug\net6.0\A. Multiplication Table.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Multiplication Table\obj\Debug\net6.0\refint\A. Multiplication Table.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Multiplication Table\obj\Debug\net6.0\A. Multiplication Table.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Multiplication Table\obj\Debug\net6.0\A. Multiplication Table.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Multiplication Table\obj\Debug\net6.0\ref\A. Multiplication Table.dll

@@ -42,3 +42,7 @@ A. Park Lighting => https://codeforces.com/problemset/problem/1358/A
 
 A. Array Coloring => https://codeforces.com/problemset/problem/1857/A
 
+A. Multiplication Table => https://codeforces.com/problemset/problem/577/A
+
+B. Construct the String => https://codeforces.com/problemset/problem/1335/B
+

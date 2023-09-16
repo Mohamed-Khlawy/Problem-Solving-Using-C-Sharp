@@ -45,9 +45,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "A. Array with Odd Sum", "A.
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "A. Case of the Zeros and Ones", "A. Case of the Zeros and Ones\A. Case of the Zeros and Ones.csproj", "{F29E9B34-DB2E-4C45-8068-631E7C9131C1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A. Park Lighting", "A. Park Lighting\A. Park Lighting.csproj", "{53AC05A0-B05F-460B-998D-E6F7C489B2E2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "A. Park Lighting", "A. Park Lighting\A. Park Lighting.csproj", "{53AC05A0-B05F-460B-998D-E6F7C489B2E2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A. Array Coloring", "A. Array Coloring\A. Array Coloring.csproj", "{9818EC1E-510A-42CE-8339-D54DBD21F352}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "A. Array Coloring", "A. Array Coloring\A. Array Coloring.csproj", "{9818EC1E-510A-42CE-8339-D54DBD21F352}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "A. Multiplication Table", "A. Multiplication Table\A. Multiplication Table.csproj", "{4C5D2338-122D-438F-B058-8E2775243271}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "B. Construct the String", "B. Construct the String\B. Construct the String.csproj", "{47820A0A-C3A9-45D2-ADA8-51F182EB7E05}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -147,6 +151,14 @@ Global
 		{9818EC1E-510A-42CE-8339-D54DBD21F352}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9818EC1E-510A-42CE-8339-D54DBD21F352}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9818EC1E-510A-42CE-8339-D54DBD21F352}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C5D2338-122D-438F-B058-8E2775243271}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C5D2338-122D-438F-B058-8E2775243271}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C5D2338-122D-438F-B058-8E2775243271}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C5D2338-122D-438F-B058-8E2775243271}.Release|Any CPU.Build.0 = Release|Any CPU
+		{47820A0A-C3A9-45D2-ADA8-51F182EB7E05}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47820A0A-C3A9-45D2-ADA8-51F182EB7E05}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47820A0A-C3A9-45D2-ADA8-51F182EB7E05}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47820A0A-C3A9-45D2-ADA8-51F182EB7E05}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
