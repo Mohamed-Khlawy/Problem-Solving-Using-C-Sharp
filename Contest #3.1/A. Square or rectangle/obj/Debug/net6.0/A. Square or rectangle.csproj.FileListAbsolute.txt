@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Contest #3.1\A. Square or rectangle\bin\Debug\net6.0\A. Square or rectangle.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Contest #3.1\A. Square or rectangle\bin\Debug\net6.0\A. Square or rectangle.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Contest #3.1\A. Square or rectangle\bin\Debug\net6.0\A. Square or rectangle.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Contest #3.1\A. Square or rectangle\bin\Debug\net6.0\A. Square or rectangle.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Contest #3.1\A. Square or rectangle\bin\Debug\net6.0\A. Square or rectangle.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Contest #3.1\A. Square or rectangle\obj\Debug\net6.0\A. Square or rectangle.csproj.AssemblyReference.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Contest #3.1\A. Square or rectangle\obj\Debug\net6.0\A. Square or rectangle.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Contest #3.1\A. Square or rectangle\obj\Debug\net6.0\A. Square or rectangle.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Contest #3.1\A. Square or rectangle\obj\Debug\net6.0\A. Square or rectangle.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Contest #3.1\A. Square or rectangle\obj\Debug\net6.0\A. Square or rectangle.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Contest #3.1\A. Square or rectangle\obj\Debug\net6.0\A. Square or rectangle.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Contest #3.1\A. Square or rectangle\obj\Debug\net6.0\refint\A. Square or rectangle.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Contest #3.1\A. Square or rectangle\obj\Debug\net6.0\A. Square or rectangle.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Contest #3.1\A. Square or rectangle\obj\Debug\net6.0\A. Square or rectangle.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Contest #3.1\A. Square or rectangle\obj\Debug\net6.0\ref\A. Square or rectangle.dll

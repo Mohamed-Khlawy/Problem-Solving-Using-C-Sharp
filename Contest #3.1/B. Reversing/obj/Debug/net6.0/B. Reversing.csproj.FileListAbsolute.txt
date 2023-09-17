@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Contest #3.1\B. Reversing\bin\Debug\net6.0\B. Reversing.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Contest #3.1\B. Reversing\bin\Debug\net6.0\B. Reversing.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Contest #3.1\B. Reversing\bin\Debug\net6.0\B. Reversing.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Contest #3.1\B. Reversing\bin\Debug\net6.0\B. Reversing.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Contest #3.1\B. Reversing\bin\Debug\net6.0\B. Reversing.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Contest #3.1\B. Reversing\obj\Debug\net6.0\B. Reversing.csproj.AssemblyReference.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Contest #3.1\B. Reversing\obj\Debug\net6.0\B. Reversing.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Contest #3.1\B. Reversing\obj\Debug\net6.0\B. Reversing.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Contest #3.1\B. Reversing\obj\Debug\net6.0\B. Reversing.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Contest #3.1\B. Reversing\obj\Debug\net6.0\B. Reversing.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Contest #3.1\B. Reversing\obj\Debug\net6.0\B. Reversing.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Contest #3.1\B. Reversing\obj\Debug\net6.0\refint\B. Reversing.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Contest #3.1\B. Reversing\obj\Debug\net6.0\B. Reversing.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Contest #3.1\B. Reversing\obj\Debug\net6.0\B. Reversing.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Contest #3.1\B. Reversing\obj\Debug\net6.0\ref\B. Reversing.dll

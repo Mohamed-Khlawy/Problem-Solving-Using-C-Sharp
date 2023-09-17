@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Contest #3.1\C. Choose Elements\bin\Debug\net6.0\C. Choose Elements.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Contest #3.1\C. Choose Elements\bin\Debug\net6.0\C. Choose Elements.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Contest #3.1\C. Choose Elements\bin\Debug\net6.0\C. Choose Elements.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Contest #3.1\C. Choose Elements\bin\Debug\net6.0\C. Choose Elements.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Contest #3.1\C. Choose Elements\bin\Debug\net6.0\C. Choose Elements.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Contest #3.1\C. Choose Elements\obj\Debug\net6.0\C. Choose Elements.csproj.AssemblyReference.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Contest #3.1\C. Choose Elements\obj\Debug\net6.0\C. Choose Elements.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Contest #3.1\C. Choose Elements\obj\Debug\net6.0\C. Choose Elements.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Contest #3.1\C. Choose Elements\obj\Debug\net6.0\C. Choose Elements.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Contest #3.1\C. Choose Elements\obj\Debug\net6.0\C. Choose Elements.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Contest #3.1\C. Choose Elements\obj\Debug\net6.0\C. Choose Elements.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Contest #3.1\C. Choose Elements\obj\Debug\net6.0\refint\C. Choose Elements.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Contest #3.1\C. Choose Elements\obj\Debug\net6.0\C. Choose Elements.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Contest #3.1\C. Choose Elements\obj\Debug\net6.0\C. Choose Elements.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Contest #3.1\C. Choose Elements\obj\Debug\net6.0\ref\C. Choose Elements.dll
