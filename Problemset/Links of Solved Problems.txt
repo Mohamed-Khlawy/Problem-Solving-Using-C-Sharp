@@ -46,3 +46,7 @@ A. Multiplication Table => https://codeforces.com/problemset/problem/577/A
 
 B. Construct the String => https://codeforces.com/problemset/problem/1335/B
 
+B. Triple => https://codeforces.com/problemset/problem/1669/B
+
+B. Lecture => https://codeforces.com/problemset/problem/499/B
+
