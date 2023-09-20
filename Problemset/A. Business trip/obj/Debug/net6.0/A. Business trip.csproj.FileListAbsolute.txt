@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Business trip\bin\Debug\net6.0\A. Business trip.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Business trip\bin\Debug\net6.0\A. Business trip.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Business trip\bin\Debug\net6.0\A. Business trip.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Business trip\bin\Debug\net6.0\A. Business trip.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Business trip\bin\Debug\net6.0\A. Business trip.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Business trip\obj\Debug\net6.0\A. Business trip.csproj.AssemblyReference.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Business trip\obj\Debug\net6.0\A. Business trip.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Business trip\obj\Debug\net6.0\A. Business trip.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Business trip\obj\Debug\net6.0\A. Business trip.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Business trip\obj\Debug\net6.0\A. Business trip.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Business trip\obj\Debug\net6.0\A. Business trip.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Business trip\obj\Debug\net6.0\refint\A. Business trip.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Business trip\obj\Debug\net6.0\A. Business trip.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Business trip\obj\Debug\net6.0\A. Business trip.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Business trip\obj\Debug\net6.0\ref\A. Business trip.dll

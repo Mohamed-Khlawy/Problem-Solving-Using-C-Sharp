@@ -50,3 +50,7 @@ B. Triple => https://codeforces.com/problemset/problem/1669/B
 
 B. Lecture => https://codeforces.com/problemset/problem/499/B
 
+A. Business trip => https://codeforces.com/problemset/problem/149/A
+
+B. Ten Words of Wisdom => https://codeforces.com/problemset/problem/1850/B
+
