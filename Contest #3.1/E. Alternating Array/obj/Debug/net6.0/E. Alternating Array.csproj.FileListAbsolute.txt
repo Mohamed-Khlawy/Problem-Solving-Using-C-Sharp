@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Contest #3.1\E. Alternating Array\bin\Debug\net6.0\E. Alternating Array.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Contest #3.1\E. Alternating Array\bin\Debug\net6.0\E. Alternating Array.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Contest #3.1\E. Alternating Array\bin\Debug\net6.0\E. Alternating Array.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Contest #3.1\E. Alternating Array\bin\Debug\net6.0\E. Alternating Array.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Contest #3.1\E. Alternating Array\bin\Debug\net6.0\E. Alternating Array.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Contest #3.1\E. Alternating Array\obj\Debug\net6.0\E. Alternating Array.csproj.AssemblyReference.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Contest #3.1\E. Alternating Array\obj\Debug\net6.0\E. Alternating Array.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Contest #3.1\E. Alternating Array\obj\Debug\net6.0\E. Alternating Array.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Contest #3.1\E. Alternating Array\obj\Debug\net6.0\E. Alternating Array.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Contest #3.1\E. Alternating Array\obj\Debug\net6.0\E. Alternating Array.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Contest #3.1\E. Alternating Array\obj\Debug\net6.0\E. Alternating Array.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Contest #3.1\E. Alternating Array\obj\Debug\net6.0\refint\E. Alternating Array.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Contest #3.1\E. Alternating Array\obj\Debug\net6.0\E. Alternating Array.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Contest #3.1\E. Alternating Array\obj\Debug\net6.0\E. Alternating Array.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Contest #3.1\E. Alternating Array\obj\Debug\net6.0\ref\E. Alternating Array.dll

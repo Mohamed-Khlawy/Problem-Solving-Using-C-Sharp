@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Contest #3.1\F. Front - End\bin\Debug\net6.0\F. Front - End.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Contest #3.1\F. Front - End\bin\Debug\net6.0\F. Front - End.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Contest #3.1\F. Front - End\bin\Debug\net6.0\F. Front - End.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Contest #3.1\F. Front - End\bin\Debug\net6.0\F. Front - End.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Contest #3.1\F. Front - End\bin\Debug\net6.0\F. Front - End.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Contest #3.1\F. Front - End\obj\Debug\net6.0\F. Front - End.csproj.AssemblyReference.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Contest #3.1\F. Front - End\obj\Debug\net6.0\F. Front - End.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Contest #3.1\F. Front - End\obj\Debug\net6.0\F. Front - End.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Contest #3.1\F. Front - End\obj\Debug\net6.0\F. Front - End.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Contest #3.1\F. Front - End\obj\Debug\net6.0\F. Front - End.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Contest #3.1\F. Front - End\obj\Debug\net6.0\F. Front - End.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Contest #3.1\F. Front - End\obj\Debug\net6.0\refint\F. Front - End.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Contest #3.1\F. Front - End\obj\Debug\net6.0\F. Front - End.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Contest #3.1\F. Front - End\obj\Debug\net6.0\F. Front - End.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Contest #3.1\F. Front - End\obj\Debug\net6.0\ref\F. Front - End.dll
