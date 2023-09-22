@@ -57,9 +57,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "B. Triple", "B. Triple\B. T
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "B. Lecture", "B. Lecture\B. Lecture.csproj", "{918BD7A7-348B-49AD-9B83-149C66E20C4F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A. Business trip", "A. Business trip\A. Business trip.csproj", "{6833D54E-2F5B-4640-A22D-51EAD942B2CF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "A. Business trip", "A. Business trip\A. Business trip.csproj", "{6833D54E-2F5B-4640-A22D-51EAD942B2CF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "B. Ten Words of Wisdom", "B. Ten Words of Wisdom\B. Ten Words of Wisdom.csproj", "{79289D4A-B87B-4FDB-914F-807491ADC13F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "B. Ten Words of Wisdom", "B. Ten Words of Wisdom\B. Ten Words of Wisdom.csproj", "{79289D4A-B87B-4FDB-914F-807491ADC13F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A. Vasya and Coins", "A. Vasya and Coins\A. Vasya and Coins.csproj", "{6FB09E4F-A982-47E6-A2BA-463FFDC69D2D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C. Word on the Paper", "C. Word on the Paper\C. Word on the Paper.csproj", "{0CC03C85-26DA-4720-891D-EF6F6E868EE9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A. The number of positions", "A. The number of positions\A. The number of positions.csproj", "{6F16D18C-DBB7-4C11-9162-175CD230B2C8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -183,6 +189,18 @@ Global
 		{79289D4A-B87B-4FDB-914F-807491ADC13F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{79289D4A-B87B-4FDB-914F-807491ADC13F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{79289D4A-B87B-4FDB-914F-807491ADC13F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6FB09E4F-A982-47E6-A2BA-463FFDC69D2D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6FB09E4F-A982-47E6-A2BA-463FFDC69D2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6FB09E4F-A982-47E6-A2BA-463FFDC69D2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6FB09E4F-A982-47E6-A2BA-463FFDC69D2D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0CC03C85-26DA-4720-891D-EF6F6E868EE9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0CC03C85-26DA-4720-891D-EF6F6E868EE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0CC03C85-26DA-4720-891D-EF6F6E868EE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0CC03C85-26DA-4720-891D-EF6F6E868EE9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6F16D18C-DBB7-4C11-9162-175CD230B2C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F16D18C-DBB7-4C11-9162-175CD230B2C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F16D18C-DBB7-4C11-9162-175CD230B2C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F16D18C-DBB7-4C11-9162-175CD230B2C8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

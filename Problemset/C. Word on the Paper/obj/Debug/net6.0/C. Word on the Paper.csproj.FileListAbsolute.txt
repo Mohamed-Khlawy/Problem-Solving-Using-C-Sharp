@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Word on the Paper\bin\Debug\net6.0\C. Word on the Paper.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Word on the Paper\bin\Debug\net6.0\C. Word on the Paper.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Word on the Paper\bin\Debug\net6.0\C. Word on the Paper.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Word on the Paper\bin\Debug\net6.0\C. Word on the Paper.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Word on the Paper\bin\Debug\net6.0\C. Word on the Paper.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Word on the Paper\obj\Debug\net6.0\C. Word on the Paper.csproj.AssemblyReference.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Word on the Paper\obj\Debug\net6.0\C. Word on the Paper.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Word on the Paper\obj\Debug\net6.0\C. Word on the Paper.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Word on the Paper\obj\Debug\net6.0\C. Word on the Paper.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Word on the Paper\obj\Debug\net6.0\C. Word on the Paper.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Word on the Paper\obj\Debug\net6.0\C. Word on the Paper.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Word on the Paper\obj\Debug\net6.0\refint\C. Word on the Paper.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Word on the Paper\obj\Debug\net6.0\C. Word on the Paper.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Word on the Paper\obj\Debug\net6.0\C. Word on the Paper.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Word on the Paper\obj\Debug\net6.0\ref\C. Word on the Paper.dll

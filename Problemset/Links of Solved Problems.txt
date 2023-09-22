@@ -54,3 +54,9 @@ A. Business trip => https://codeforces.com/problemset/problem/149/A
 
 B. Ten Words of Wisdom => https://codeforces.com/problemset/problem/1850/B
 
+A. Vasya and Coins => https://codeforces.com/problemset/problem/1660/A
+
+C. Word on the Paper => https://codeforces.com/problemset/problem/1850/C
+
+A. The number of positions => https://codeforces.com/problemset/problem/124/A
+

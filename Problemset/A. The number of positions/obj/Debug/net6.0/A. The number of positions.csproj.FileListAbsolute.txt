@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. The number of positions\bin\Debug\net6.0\A. The number of positions.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. The number of positions\bin\Debug\net6.0\A. The number of positions.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. The number of positions\bin\Debug\net6.0\A. The number of positions.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. The number of positions\bin\Debug\net6.0\A. The number of positions.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. The number of positions\bin\Debug\net6.0\A. The number of positions.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. The number of positions\obj\Debug\net6.0\A. The number of positions.csproj.AssemblyReference.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. The number of positions\obj\Debug\net6.0\A. The number of positions.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. The number of positions\obj\Debug\net6.0\A. The number of positions.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. The number of positions\obj\Debug\net6.0\A. The number of positions.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. The number of positions\obj\Debug\net6.0\A. The number of positions.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. The number of positions\obj\Debug\net6.0\A. The number of positions.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. The number of positions\obj\Debug\net6.0\refint\A. The number of positions.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. The number of positions\obj\Debug\net6.0\A. The number of positions.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. The number of positions\obj\Debug\net6.0\A. The number of positions.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. The number of positions\obj\Debug\net6.0\ref\A. The number of positions.dll
