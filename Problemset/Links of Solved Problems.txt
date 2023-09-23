@@ -60,3 +60,7 @@ C. Word on the Paper => https://codeforces.com/problemset/problem/1850/C
 
 A. The number of positions => https://codeforces.com/problemset/problem/124/A
 
+B. Who's Opposite? => https://codeforces.com/problemset/problem/1560/B
+
+B. Blank Space => https://codeforces.com/problemset/problem/1829/B
+

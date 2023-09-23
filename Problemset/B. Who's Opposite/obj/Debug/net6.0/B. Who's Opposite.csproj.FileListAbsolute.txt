@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Who's Opposite\bin\Debug\net6.0\B. Who's Opposite.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Who's Opposite\bin\Debug\net6.0\B. Who's Opposite.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Who's Opposite\bin\Debug\net6.0\B. Who's Opposite.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Who's Opposite\bin\Debug\net6.0\B. Who's Opposite.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Who's Opposite\bin\Debug\net6.0\B. Who's Opposite.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Who's Opposite\obj\Debug\net6.0\B. Who's Opposite.csproj.AssemblyReference.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Who's Opposite\obj\Debug\net6.0\B. Who's Opposite.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Who's Opposite\obj\Debug\net6.0\B. Who's Opposite.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Who's Opposite\obj\Debug\net6.0\B. Who's Opposite.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Who's Opposite\obj\Debug\net6.0\B. Who's Opposite.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Who's Opposite\obj\Debug\net6.0\B. Who's Opposite.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Who's Opposite\obj\Debug\net6.0\refint\B. Who's Opposite.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Who's Opposite\obj\Debug\net6.0\B. Who's Opposite.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Who's Opposite\obj\Debug\net6.0\B. Who's Opposite.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Who's Opposite\obj\Debug\net6.0\ref\B. Who's Opposite.dll
