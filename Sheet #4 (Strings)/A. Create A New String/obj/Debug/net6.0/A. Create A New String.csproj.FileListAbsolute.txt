@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #4 (Strings)\A. Create A New String\bin\Debug\net6.0\A. Create A New String.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #4 (Strings)\A. Create A New String\bin\Debug\net6.0\A. Create A New String.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #4 (Strings)\A. Create A New String\bin\Debug\net6.0\A. Create A New String.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #4 (Strings)\A. Create A New String\bin\Debug\net6.0\A. Create A New String.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #4 (Strings)\A. Create A New String\bin\Debug\net6.0\A. Create A New String.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #4 (Strings)\A. Create A New String\obj\Debug\net6.0\A. Create A New String.csproj.AssemblyReference.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #4 (Strings)\A. Create A New String\obj\Debug\net6.0\A. Create A New String.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #4 (Strings)\A. Create A New String\obj\Debug\net6.0\A. Create A New String.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #4 (Strings)\A. Create A New String\obj\Debug\net6.0\A. Create A New String.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #4 (Strings)\A. Create A New String\obj\Debug\net6.0\A. Create A New String.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #4 (Strings)\A. Create A New String\obj\Debug\net6.0\A. Create A New String.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #4 (Strings)\A. Create A New String\obj\Debug\net6.0\refint\A. Create A New String.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #4 (Strings)\A. Create A New String\obj\Debug\net6.0\A. Create A New String.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #4 (Strings)\A. Create A New String\obj\Debug\net6.0\A. Create A New String.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #4 (Strings)\A. Create A New String\obj\Debug\net6.0\ref\A. Create A New String.dll
