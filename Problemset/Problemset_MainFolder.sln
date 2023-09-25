@@ -67,9 +67,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "C. Word on the Paper", "C. 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "A. The number of positions", "A. The number of positions\A. The number of positions.csproj", "{6F16D18C-DBB7-4C11-9162-175CD230B2C8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "B. Who's Opposite", "B. Who's Opposite\B. Who's Opposite.csproj", "{294C57E4-2FDD-4490-92B0-4B5E42F604CE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "B. Who's Opposite", "B. Who's Opposite\B. Who's Opposite.csproj", "{294C57E4-2FDD-4490-92B0-4B5E42F604CE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "B. Blank Space", "B. Blank Space\B. Blank Space.csproj", "{5AEA4F3E-52C4-40DD-B5B8-25D8CAB2715C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "B. Blank Space", "B. Blank Space\B. Blank Space.csproj", "{5AEA4F3E-52C4-40DD-B5B8-25D8CAB2715C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "B. Two-gram", "B. Two-gram\B. Two-gram.csproj", "{4E5A94D2-85F6-4894-9FF9-78B43709E325}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -213,6 +215,10 @@ Global
 		{5AEA4F3E-52C4-40DD-B5B8-25D8CAB2715C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5AEA4F3E-52C4-40DD-B5B8-25D8CAB2715C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5AEA4F3E-52C4-40DD-B5B8-25D8CAB2715C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4E5A94D2-85F6-4894-9FF9-78B43709E325}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E5A94D2-85F6-4894-9FF9-78B43709E325}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E5A94D2-85F6-4894-9FF9-78B43709E325}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E5A94D2-85F6-4894-9FF9-78B43709E325}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

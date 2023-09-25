@@ -64,3 +64,5 @@ B. Who's Opposite? => https://codeforces.com/problemset/problem/1560/B
 
 B. Blank Space => https://codeforces.com/problemset/problem/1829/B
 
+B. Two-gram => https://codeforces.com/problemset/problem/977/B
+
