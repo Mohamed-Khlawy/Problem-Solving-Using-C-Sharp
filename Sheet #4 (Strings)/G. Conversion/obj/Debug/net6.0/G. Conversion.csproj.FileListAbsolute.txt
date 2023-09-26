@@ -1,0 +1,14 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #4 (Strings)\G. Conversion\bin\Debug\net6.0\G. Conversion.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #4 (Strings)\G. Conversion\bin\Debug\net6.0\G. Conversion.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #4 (Strings)\G. Conversion\bin\Debug\net6.0\G. Conversion.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #4 (Strings)\G. Conversion\bin\Debug\net6.0\G. Conversion.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #4 (Strings)\G. Conversion\bin\Debug\net6.0\G. Conversion.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #4 (Strings)\G. Conversion\obj\Debug\net6.0\G. Conversion.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #4 (Strings)\G. Conversion\obj\Debug\net6.0\G. Conversion.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #4 (Strings)\G. Conversion\obj\Debug\net6.0\G. Conversion.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #4 (Strings)\G. Conversion\obj\Debug\net6.0\G. Conversion.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #4 (Strings)\G. Conversion\obj\Debug\net6.0\G. Conversion.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #4 (Strings)\G. Conversion\obj\Debug\net6.0\refint\G. Conversion.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #4 (Strings)\G. Conversion\obj\Debug\net6.0\G. Conversion.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #4 (Strings)\G. Conversion\obj\Debug\net6.0\G. Conversion.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #4 (Strings)\G. Conversion\obj\Debug\net6.0\ref\G. Conversion.dll

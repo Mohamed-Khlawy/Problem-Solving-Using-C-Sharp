@@ -18,7 +18,6 @@ G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #4 (Strings)\Sheet #4 (St
 G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #4 (Strings)\Sheet #4 (Strings)_MainFolder\bin\Debug\net6.0\Sheet #4 (Strings)_MainFolder.runtimeconfig.json
 G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #4 (Strings)\Sheet #4 (Strings)_MainFolder\bin\Debug\net6.0\Sheet #4 (Strings)_MainFolder.dll
 G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #4 (Strings)\Sheet #4 (Strings)_MainFolder\bin\Debug\net6.0\Sheet #4 (Strings)_MainFolder.pdb
-G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #4 (Strings)\Sheet #4 (Strings)_MainFolder\obj\Debug\net6.0\Sheet #4 (Strings)_MainFolder.csproj.AssemblyReference.cache
 G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #4 (Strings)\Sheet #4 (Strings)_MainFolder\obj\Debug\net6.0\Sheet #4 (Strings)_MainFolder.GeneratedMSBuildEditorConfig.editorconfig
 G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #4 (Strings)\Sheet #4 (Strings)_MainFolder\obj\Debug\net6.0\Sheet #4 (Strings)_MainFolder.AssemblyInfoInputs.cache
 G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #4 (Strings)\Sheet #4 (Strings)_MainFolder\obj\Debug\net6.0\Sheet #4 (Strings)_MainFolder.AssemblyInfo.cs

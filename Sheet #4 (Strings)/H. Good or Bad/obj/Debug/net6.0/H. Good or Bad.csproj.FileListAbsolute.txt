@@ -1,0 +1,14 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #4 (Strings)\H. Good or Bad\bin\Debug\net6.0\H. Good or Bad.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #4 (Strings)\H. Good or Bad\bin\Debug\net6.0\H. Good or Bad.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #4 (Strings)\H. Good or Bad\bin\Debug\net6.0\H. Good or Bad.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #4 (Strings)\H. Good or Bad\bin\Debug\net6.0\H. Good or Bad.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #4 (Strings)\H. Good or Bad\bin\Debug\net6.0\H. Good or Bad.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #4 (Strings)\H. Good or Bad\obj\Debug\net6.0\H. Good or Bad.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #4 (Strings)\H. Good or Bad\obj\Debug\net6.0\H. Good or Bad.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #4 (Strings)\H. Good or Bad\obj\Debug\net6.0\H. Good or Bad.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #4 (Strings)\H. Good or Bad\obj\Debug\net6.0\H. Good or Bad.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #4 (Strings)\H. Good or Bad\obj\Debug\net6.0\H. Good or Bad.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #4 (Strings)\H. Good or Bad\obj\Debug\net6.0\refint\H. Good or Bad.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #4 (Strings)\H. Good or Bad\obj\Debug\net6.0\H. Good or Bad.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #4 (Strings)\H. Good or Bad\obj\Debug\net6.0\H. Good or Bad.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #4 (Strings)\H. Good or Bad\obj\Debug\net6.0\ref\H. Good or Bad.dll

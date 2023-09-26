@@ -1,0 +1,14 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #4 (Strings)\F. Way Too Long Words\bin\Debug\net6.0\F. Way Too Long Words.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #4 (Strings)\F. Way Too Long Words\bin\Debug\net6.0\F. Way Too Long Words.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #4 (Strings)\F. Way Too Long Words\bin\Debug\net6.0\F. Way Too Long Words.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #4 (Strings)\F. Way Too Long Words\bin\Debug\net6.0\F. Way Too Long Words.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #4 (Strings)\F. Way Too Long Words\bin\Debug\net6.0\F. Way Too Long Words.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #4 (Strings)\F. Way Too Long Words\obj\Debug\net6.0\F. Way Too Long Words.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #4 (Strings)\F. Way Too Long Words\obj\Debug\net6.0\F. Way Too Long Words.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #4 (Strings)\F. Way Too Long Words\obj\Debug\net6.0\F. Way Too Long Words.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #4 (Strings)\F. Way Too Long Words\obj\Debug\net6.0\F. Way Too Long Words.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #4 (Strings)\F. Way Too Long Words\obj\Debug\net6.0\F. Way Too Long Words.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #4 (Strings)\F. Way Too Long Words\obj\Debug\net6.0\refint\F. Way Too Long Words.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #4 (Strings)\F. Way Too Long Words\obj\Debug\net6.0\F. Way Too Long Words.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #4 (Strings)\F. Way Too Long Words\obj\Debug\net6.0\F. Way Too Long Words.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #4 (Strings)\F. Way Too Long Words\obj\Debug\net6.0\ref\F. Way Too Long Words.dll

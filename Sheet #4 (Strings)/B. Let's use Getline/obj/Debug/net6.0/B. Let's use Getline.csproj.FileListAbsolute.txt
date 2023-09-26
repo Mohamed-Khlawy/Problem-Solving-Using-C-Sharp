@@ -3,7 +3,6 @@ G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #4 (Strings)\B. Let's use
 G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #4 (Strings)\B. Let's use Getline\bin\Debug\net6.0\B. Let's use Getline.runtimeconfig.json
 G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #4 (Strings)\B. Let's use Getline\bin\Debug\net6.0\B. Let's use Getline.dll
 G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #4 (Strings)\B. Let's use Getline\bin\Debug\net6.0\B. Let's use Getline.pdb
-G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #4 (Strings)\B. Let's use Getline\obj\Debug\net6.0\B. Let's use Getline.csproj.AssemblyReference.cache
 G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #4 (Strings)\B. Let's use Getline\obj\Debug\net6.0\B. Let's use Getline.GeneratedMSBuildEditorConfig.editorconfig
 G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #4 (Strings)\B. Let's use Getline\obj\Debug\net6.0\B. Let's use Getline.AssemblyInfoInputs.cache
 G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #4 (Strings)\B. Let's use Getline\obj\Debug\net6.0\B. Let's use Getline.AssemblyInfo.cs
