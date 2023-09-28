@@ -13,13 +13,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "C. Compare", "C. Compare\C.
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "D. Strings", "D. Strings\D. Strings.csproj", "{8F5E1B25-5344-413D-BD13-8377612B6C28}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "E. Count", "E. Count\E. Count.csproj", "{B24C4BB8-899C-4A61-89F5-C47AFFC3162E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "E. Count", "E. Count\E. Count.csproj", "{B24C4BB8-899C-4A61-89F5-C47AFFC3162E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "F. Way Too Long Words", "F. Way Too Long Words\F. Way Too Long Words.csproj", "{20F0208C-8A69-4DE6-A1BB-73522B8ABAC6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "F. Way Too Long Words", "F. Way Too Long Words\F. Way Too Long Words.csproj", "{20F0208C-8A69-4DE6-A1BB-73522B8ABAC6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "G. Conversion", "G. Conversion\G. Conversion.csproj", "{E50A3A63-BE0D-47A2-B47E-DDC6DC449018}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "G. Conversion", "G. Conversion\G. Conversion.csproj", "{E50A3A63-BE0D-47A2-B47E-DDC6DC449018}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "H. Good or Bad", "H. Good or Bad\H. Good or Bad.csproj", "{44C12BAB-BB34-479C-8CBC-6470697C283F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "H. Good or Bad", "H. Good or Bad\H. Good or Bad.csproj", "{44C12BAB-BB34-479C-8CBC-6470697C283F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "I. Palindrome", "I. Palindrome\I. Palindrome.csproj", "{B0E4D57E-D4FA-44DF-B0DD-B5073EA19548}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -63,6 +65,10 @@ Global
 		{44C12BAB-BB34-479C-8CBC-6470697C283F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{44C12BAB-BB34-479C-8CBC-6470697C283F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{44C12BAB-BB34-479C-8CBC-6470697C283F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B0E4D57E-D4FA-44DF-B0DD-B5073EA19548}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0E4D57E-D4FA-44DF-B0DD-B5073EA19548}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0E4D57E-D4FA-44DF-B0DD-B5073EA19548}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0E4D57E-D4FA-44DF-B0DD-B5073EA19548}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

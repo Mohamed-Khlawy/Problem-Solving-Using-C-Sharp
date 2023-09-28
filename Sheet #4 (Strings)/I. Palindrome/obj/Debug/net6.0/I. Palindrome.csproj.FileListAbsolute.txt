@@ -1,0 +1,14 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #4 (Strings)\I. Palindrome\bin\Debug\net6.0\I. Palindrome.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #4 (Strings)\I. Palindrome\bin\Debug\net6.0\I. Palindrome.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #4 (Strings)\I. Palindrome\bin\Debug\net6.0\I. Palindrome.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #4 (Strings)\I. Palindrome\bin\Debug\net6.0\I. Palindrome.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #4 (Strings)\I. Palindrome\bin\Debug\net6.0\I. Palindrome.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #4 (Strings)\I. Palindrome\obj\Debug\net6.0\I. Palindrome.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #4 (Strings)\I. Palindrome\obj\Debug\net6.0\I. Palindrome.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #4 (Strings)\I. Palindrome\obj\Debug\net6.0\I. Palindrome.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #4 (Strings)\I. Palindrome\obj\Debug\net6.0\I. Palindrome.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #4 (Strings)\I. Palindrome\obj\Debug\net6.0\I. Palindrome.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #4 (Strings)\I. Palindrome\obj\Debug\net6.0\refint\I. Palindrome.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #4 (Strings)\I. Palindrome\obj\Debug\net6.0\I. Palindrome.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #4 (Strings)\I. Palindrome\obj\Debug\net6.0\I. Palindrome.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #4 (Strings)\I. Palindrome\obj\Debug\net6.0\ref\I. Palindrome.dll
