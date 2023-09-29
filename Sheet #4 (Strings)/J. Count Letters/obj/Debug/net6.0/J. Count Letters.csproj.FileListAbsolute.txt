@@ -1,0 +1,14 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #4 (Strings)\J. Count Letters\bin\Debug\net6.0\J. Count Letters.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #4 (Strings)\J. Count Letters\bin\Debug\net6.0\J. Count Letters.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #4 (Strings)\J. Count Letters\bin\Debug\net6.0\J. Count Letters.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #4 (Strings)\J. Count Letters\bin\Debug\net6.0\J. Count Letters.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #4 (Strings)\J. Count Letters\bin\Debug\net6.0\J. Count Letters.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #4 (Strings)\J. Count Letters\obj\Debug\net6.0\J. Count Letters.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #4 (Strings)\J. Count Letters\obj\Debug\net6.0\J. Count Letters.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #4 (Strings)\J. Count Letters\obj\Debug\net6.0\J. Count Letters.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #4 (Strings)\J. Count Letters\obj\Debug\net6.0\J. Count Letters.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #4 (Strings)\J. Count Letters\obj\Debug\net6.0\J. Count Letters.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #4 (Strings)\J. Count Letters\obj\Debug\net6.0\refint\J. Count Letters.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #4 (Strings)\J. Count Letters\obj\Debug\net6.0\J. Count Letters.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #4 (Strings)\J. Count Letters\obj\Debug\net6.0\J. Count Letters.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #4 (Strings)\J. Count Letters\obj\Debug\net6.0\ref\J. Count Letters.dll
