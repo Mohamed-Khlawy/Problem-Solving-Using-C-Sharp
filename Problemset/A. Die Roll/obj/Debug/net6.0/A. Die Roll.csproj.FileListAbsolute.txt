@@ -3,7 +3,6 @@ G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Die Roll\bin\Debu
 G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Die Roll\bin\Debug\net6.0\A. Die Roll.runtimeconfig.json
 G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Die Roll\bin\Debug\net6.0\A. Die Roll.dll
 G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Die Roll\bin\Debug\net6.0\A. Die Roll.pdb
-G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Die Roll\obj\Debug\net6.0\A. Die Roll.csproj.AssemblyReference.cache
 G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Die Roll\obj\Debug\net6.0\A. Die Roll.GeneratedMSBuildEditorConfig.editorconfig
 G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Die Roll\obj\Debug\net6.0\A. Die Roll.AssemblyInfoInputs.cache
 G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Die Roll\obj\Debug\net6.0\A. Die Roll.AssemblyInfo.cs

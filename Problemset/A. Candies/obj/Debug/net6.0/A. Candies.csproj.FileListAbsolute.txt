@@ -3,7 +3,6 @@ G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Candies\bin\Debug
 G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Candies\bin\Debug\net6.0\A. Candies.runtimeconfig.json
 G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Candies\bin\Debug\net6.0\A. Candies.dll
 G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Candies\bin\Debug\net6.0\A. Candies.pdb
-G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Candies\obj\Debug\net6.0\A. Candies.csproj.AssemblyReference.cache
 G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Candies\obj\Debug\net6.0\A. Candies.GeneratedMSBuildEditorConfig.editorconfig
 G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Candies\obj\Debug\net6.0\A. Candies.AssemblyInfoInputs.cache
 G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Candies\obj\Debug\net6.0\A. Candies.AssemblyInfo.cs

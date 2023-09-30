@@ -3,7 +3,6 @@ G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Array with Odd Su
 G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Array with Odd Sum\bin\Debug\net6.0\A. Array with Odd Sum.runtimeconfig.json
 G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Array with Odd Sum\bin\Debug\net6.0\A. Array with Odd Sum.dll
 G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Array with Odd Sum\bin\Debug\net6.0\A. Array with Odd Sum.pdb
-G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Array with Odd Sum\obj\Debug\net6.0\A. Array with Odd Sum.csproj.AssemblyReference.cache
 G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Array with Odd Sum\obj\Debug\net6.0\A. Array with Odd Sum.GeneratedMSBuildEditorConfig.editorconfig
 G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Array with Odd Sum\obj\Debug\net6.0\A. Array with Odd Sum.AssemblyInfoInputs.cache
 G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Array with Odd Sum\obj\Debug\net6.0\A. Array with Odd Sum.AssemblyInfo.cs

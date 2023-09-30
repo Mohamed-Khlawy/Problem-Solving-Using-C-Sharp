@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "A. Short Sort/1.0.0": {
+        "runtime": {
+          "A. Short Sort.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "A. Short Sort/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

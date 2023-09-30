@@ -3,7 +3,6 @@ G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Keyboard\bin\Debu
 G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Keyboard\bin\Debug\net6.0\A. Keyboard.runtimeconfig.json
 G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Keyboard\bin\Debug\net6.0\A. Keyboard.dll
 G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Keyboard\bin\Debug\net6.0\A. Keyboard.pdb
-G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Keyboard\obj\Debug\net6.0\A. Keyboard.csproj.AssemblyReference.cache
 G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Keyboard\obj\Debug\net6.0\A. Keyboard.GeneratedMSBuildEditorConfig.editorconfig
 G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Keyboard\obj\Debug\net6.0\A. Keyboard.AssemblyInfoInputs.cache
 G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Keyboard\obj\Debug\net6.0\A. Keyboard.AssemblyInfo.cs

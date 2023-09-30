@@ -3,7 +3,6 @@ G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Twins\bin\Debug\n
 G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Twins\bin\Debug\net6.0\A. Twins.runtimeconfig.json
 G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Twins\bin\Debug\net6.0\A. Twins.dll
 G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Twins\bin\Debug\net6.0\A. Twins.pdb
-G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Twins\obj\Debug\net6.0\A. Twins.csproj.AssemblyReference.cache
 G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Twins\obj\Debug\net6.0\A. Twins.GeneratedMSBuildEditorConfig.editorconfig
 G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Twins\obj\Debug\net6.0\A. Twins.AssemblyInfoInputs.cache
 G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Twins\obj\Debug\net6.0\A. Twins.AssemblyInfo.cs

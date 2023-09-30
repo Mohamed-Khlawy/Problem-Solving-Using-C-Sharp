@@ -3,7 +3,6 @@ G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Two-gram\bin\Debu
 G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Two-gram\bin\Debug\net6.0\B. Two-gram.runtimeconfig.json
 G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Two-gram\bin\Debug\net6.0\B. Two-gram.dll
 G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Two-gram\bin\Debug\net6.0\B. Two-gram.pdb
-G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Two-gram\obj\Debug\net6.0\B. Two-gram.csproj.AssemblyReference.cache
 G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Two-gram\obj\Debug\net6.0\B. Two-gram.GeneratedMSBuildEditorConfig.editorconfig
 G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Two-gram\obj\Debug\net6.0\B. Two-gram.AssemblyInfoInputs.cache
 G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Two-gram\obj\Debug\net6.0\B. Two-gram.AssemblyInfo.cs

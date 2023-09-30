@@ -3,7 +3,6 @@ G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Ten Words of Wisd
 G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Ten Words of Wisdom\bin\Debug\net6.0\B. Ten Words of Wisdom.runtimeconfig.json
 G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Ten Words of Wisdom\bin\Debug\net6.0\B. Ten Words of Wisdom.dll
 G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Ten Words of Wisdom\bin\Debug\net6.0\B. Ten Words of Wisdom.pdb
-G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Ten Words of Wisdom\obj\Debug\net6.0\B. Ten Words of Wisdom.csproj.AssemblyReference.cache
 G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Ten Words of Wisdom\obj\Debug\net6.0\B. Ten Words of Wisdom.GeneratedMSBuildEditorConfig.editorconfig
 G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Ten Words of Wisdom\obj\Debug\net6.0\B. Ten Words of Wisdom.AssemblyInfoInputs.cache
 G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Ten Words of Wisdom\obj\Debug\net6.0\B. Ten Words of Wisdom.AssemblyInfo.cs

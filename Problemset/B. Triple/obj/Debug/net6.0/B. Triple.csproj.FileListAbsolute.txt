@@ -3,7 +3,6 @@ G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Triple\bin\Debug\
 G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Triple\bin\Debug\net6.0\B. Triple.runtimeconfig.json
 G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Triple\bin\Debug\net6.0\B. Triple.dll
 G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Triple\bin\Debug\net6.0\B. Triple.pdb
-G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Triple\obj\Debug\net6.0\B. Triple.csproj.AssemblyReference.cache
 G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Triple\obj\Debug\net6.0\B. Triple.GeneratedMSBuildEditorConfig.editorconfig
 G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Triple\obj\Debug\net6.0\B. Triple.AssemblyInfoInputs.cache
 G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Triple\obj\Debug\net6.0\B. Triple.AssemblyInfo.cs

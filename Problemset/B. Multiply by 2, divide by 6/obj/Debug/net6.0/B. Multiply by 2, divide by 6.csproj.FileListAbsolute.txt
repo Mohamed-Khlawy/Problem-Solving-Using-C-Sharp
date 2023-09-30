@@ -3,7 +3,6 @@ G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Multiply by 2, di
 G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Multiply by 2, divide by 6\bin\Debug\net6.0\B. Multiply by 2, divide by 6.runtimeconfig.json
 G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Multiply by 2, divide by 6\bin\Debug\net6.0\B. Multiply by 2, divide by 6.dll
 G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Multiply by 2, divide by 6\bin\Debug\net6.0\B. Multiply by 2, divide by 6.pdb
-G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Multiply by 2, divide by 6\obj\Debug\net6.0\B. Multiply by 2, divide by 6.csproj.AssemblyReference.cache
 G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Multiply by 2, divide by 6\obj\Debug\net6.0\B. Multiply by 2, divide by 6.GeneratedMSBuildEditorConfig.editorconfig
 G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Multiply by 2, divide by 6\obj\Debug\net6.0\B. Multiply by 2, divide by 6.AssemblyInfoInputs.cache
 G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Multiply by 2, divide by 6\obj\Debug\net6.0\B. Multiply by 2, divide by 6.AssemblyInfo.cs

@@ -3,7 +3,6 @@ G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Even Array\bin\De
 G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Even Array\bin\Debug\net6.0\B. Even Array.runtimeconfig.json
 G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Even Array\bin\Debug\net6.0\B. Even Array.dll
 G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Even Array\bin\Debug\net6.0\B. Even Array.pdb
-G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Even Array\obj\Debug\net6.0\B. Even Array.csproj.AssemblyReference.cache
 G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Even Array\obj\Debug\net6.0\B. Even Array.GeneratedMSBuildEditorConfig.editorconfig
 G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Even Array\obj\Debug\net6.0\B. Even Array.AssemblyInfoInputs.cache
 G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Even Array\obj\Debug\net6.0\B. Even Array.AssemblyInfo.cs

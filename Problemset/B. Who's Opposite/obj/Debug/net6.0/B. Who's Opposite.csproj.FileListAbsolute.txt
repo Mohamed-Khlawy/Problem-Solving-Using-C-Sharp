@@ -3,7 +3,6 @@ G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Who's Opposite\bi
 G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Who's Opposite\bin\Debug\net6.0\B. Who's Opposite.runtimeconfig.json
 G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Who's Opposite\bin\Debug\net6.0\B. Who's Opposite.dll
 G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Who's Opposite\bin\Debug\net6.0\B. Who's Opposite.pdb
-G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Who's Opposite\obj\Debug\net6.0\B. Who's Opposite.csproj.AssemblyReference.cache
 G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Who's Opposite\obj\Debug\net6.0\B. Who's Opposite.GeneratedMSBuildEditorConfig.editorconfig
 G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Who's Opposite\obj\Debug\net6.0\B. Who's Opposite.AssemblyInfoInputs.cache
 G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Who's Opposite\obj\Debug\net6.0\B. Who's Opposite.AssemblyInfo.cs

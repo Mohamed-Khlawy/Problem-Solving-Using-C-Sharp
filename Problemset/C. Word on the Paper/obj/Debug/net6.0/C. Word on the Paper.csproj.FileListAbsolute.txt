@@ -3,7 +3,6 @@ G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Word on the Paper
 G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Word on the Paper\bin\Debug\net6.0\C. Word on the Paper.runtimeconfig.json
 G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Word on the Paper\bin\Debug\net6.0\C. Word on the Paper.dll
 G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Word on the Paper\bin\Debug\net6.0\C. Word on the Paper.pdb
-G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Word on the Paper\obj\Debug\net6.0\C. Word on the Paper.csproj.AssemblyReference.cache
 G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Word on the Paper\obj\Debug\net6.0\C. Word on the Paper.GeneratedMSBuildEditorConfig.editorconfig
 G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Word on the Paper\obj\Debug\net6.0\C. Word on the Paper.AssemblyInfoInputs.cache
 G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Word on the Paper\obj\Debug\net6.0\C. Word on the Paper.AssemblyInfo.cs

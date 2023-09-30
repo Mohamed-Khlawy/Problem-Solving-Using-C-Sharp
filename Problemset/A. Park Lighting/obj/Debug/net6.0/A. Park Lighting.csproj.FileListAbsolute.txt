@@ -3,7 +3,6 @@ G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Park Lighting\bin
 G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Park Lighting\bin\Debug\net6.0\A. Park Lighting.runtimeconfig.json
 G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Park Lighting\bin\Debug\net6.0\A. Park Lighting.dll
 G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Park Lighting\bin\Debug\net6.0\A. Park Lighting.pdb
-G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Park Lighting\obj\Debug\net6.0\A. Park Lighting.csproj.AssemblyReference.cache
 G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Park Lighting\obj\Debug\net6.0\A. Park Lighting.GeneratedMSBuildEditorConfig.editorconfig
 G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Park Lighting\obj\Debug\net6.0\A. Park Lighting.AssemblyInfoInputs.cache
 G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Park Lighting\obj\Debug\net6.0\A. Park Lighting.AssemblyInfo.cs

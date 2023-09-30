@@ -1,0 +1,14 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Good Kid\bin\Debug\net6.0\B. Good Kid.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Good Kid\bin\Debug\net6.0\B. Good Kid.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Good Kid\bin\Debug\net6.0\B. Good Kid.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Good Kid\bin\Debug\net6.0\B. Good Kid.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Good Kid\bin\Debug\net6.0\B. Good Kid.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Good Kid\obj\Debug\net6.0\B. Good Kid.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Good Kid\obj\Debug\net6.0\B. Good Kid.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Good Kid\obj\Debug\net6.0\B. Good Kid.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Good Kid\obj\Debug\net6.0\B. Good Kid.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Good Kid\obj\Debug\net6.0\B. Good Kid.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Good Kid\obj\Debug\net6.0\refint\B. Good Kid.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Good Kid\obj\Debug\net6.0\B. Good Kid.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Good Kid\obj\Debug\net6.0\B. Good Kid.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Good Kid\obj\Debug\net6.0\ref\B. Good Kid.dll

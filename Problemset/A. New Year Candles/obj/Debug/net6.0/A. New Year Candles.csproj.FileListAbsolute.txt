@@ -3,7 +3,6 @@ G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. New Year Candles\
 G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. New Year Candles\bin\Debug\net6.0\A. New Year Candles.runtimeconfig.json
 G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. New Year Candles\bin\Debug\net6.0\A. New Year Candles.dll
 G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. New Year Candles\bin\Debug\net6.0\A. New Year Candles.pdb
-G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. New Year Candles\obj\Debug\net6.0\A. New Year Candles.csproj.AssemblyReference.cache
 G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. New Year Candles\obj\Debug\net6.0\A. New Year Candles.GeneratedMSBuildEditorConfig.editorconfig
 G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. New Year Candles\obj\Debug\net6.0\A. New Year Candles.AssemblyInfoInputs.cache
 G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. New Year Candles\obj\Debug\net6.0\A. New Year Candles.AssemblyInfo.cs

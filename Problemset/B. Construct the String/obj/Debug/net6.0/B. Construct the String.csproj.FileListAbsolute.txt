@@ -3,7 +3,6 @@ G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Construct the Str
 G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Construct the String\bin\Debug\net6.0\B. Construct the String.runtimeconfig.json
 G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Construct the String\bin\Debug\net6.0\B. Construct the String.dll
 G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Construct the String\bin\Debug\net6.0\B. Construct the String.pdb
-G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Construct the String\obj\Debug\net6.0\B. Construct the String.csproj.AssemblyReference.cache
 G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Construct the String\obj\Debug\net6.0\B. Construct the String.GeneratedMSBuildEditorConfig.editorconfig
 G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Construct the String\obj\Debug\net6.0\B. Construct the String.AssemblyInfoInputs.cache
 G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Construct the String\obj\Debug\net6.0\B. Construct the String.AssemblyInfo.cs

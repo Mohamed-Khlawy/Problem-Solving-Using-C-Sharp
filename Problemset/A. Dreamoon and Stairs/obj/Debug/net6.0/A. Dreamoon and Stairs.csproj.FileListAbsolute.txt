@@ -3,7 +3,6 @@ G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Dreamoon and Stai
 G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Dreamoon and Stairs\bin\Debug\net6.0\A. Dreamoon and Stairs.runtimeconfig.json
 G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Dreamoon and Stairs\bin\Debug\net6.0\A. Dreamoon and Stairs.dll
 G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Dreamoon and Stairs\bin\Debug\net6.0\A. Dreamoon and Stairs.pdb
-G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Dreamoon and Stairs\obj\Debug\net6.0\A. Dreamoon and Stairs.csproj.AssemblyReference.cache
 G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Dreamoon and Stairs\obj\Debug\net6.0\A. Dreamoon and Stairs.GeneratedMSBuildEditorConfig.editorconfig
 G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Dreamoon and Stairs\obj\Debug\net6.0\A. Dreamoon and Stairs.AssemblyInfoInputs.cache
 G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Dreamoon and Stairs\obj\Debug\net6.0\A. Dreamoon and Stairs.AssemblyInfo.cs

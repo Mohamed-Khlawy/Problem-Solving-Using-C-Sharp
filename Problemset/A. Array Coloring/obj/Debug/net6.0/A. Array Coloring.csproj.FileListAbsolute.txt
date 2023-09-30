@@ -3,7 +3,6 @@ G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Array Coloring\bi
 G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Array Coloring\bin\Debug\net6.0\A. Array Coloring.runtimeconfig.json
 G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Array Coloring\bin\Debug\net6.0\A. Array Coloring.dll
 G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Array Coloring\bin\Debug\net6.0\A. Array Coloring.pdb
-G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Array Coloring\obj\Debug\net6.0\A. Array Coloring.csproj.AssemblyReference.cache
 G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Array Coloring\obj\Debug\net6.0\A. Array Coloring.GeneratedMSBuildEditorConfig.editorconfig
 G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Array Coloring\obj\Debug\net6.0\A. Array Coloring.AssemblyInfoInputs.cache
 G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Array Coloring\obj\Debug\net6.0\A. Array Coloring.AssemblyInfo.cs

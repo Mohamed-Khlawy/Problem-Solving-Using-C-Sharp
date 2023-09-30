@@ -3,7 +3,6 @@ G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Chat room\bin\Deb
 G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Chat room\bin\Debug\net6.0\A. Chat room.runtimeconfig.json
 G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Chat room\bin\Debug\net6.0\A. Chat room.dll
 G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Chat room\bin\Debug\net6.0\A. Chat room.pdb
-G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Chat room\obj\Debug\net6.0\A. Chat room.csproj.AssemblyReference.cache
 G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Chat room\obj\Debug\net6.0\A. Chat room.GeneratedMSBuildEditorConfig.editorconfig
 G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Chat room\obj\Debug\net6.0\A. Chat room.AssemblyInfoInputs.cache
 G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Chat room\obj\Debug\net6.0\A. Chat room.AssemblyInfo.cs

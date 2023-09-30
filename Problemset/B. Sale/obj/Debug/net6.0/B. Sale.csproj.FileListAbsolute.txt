@@ -3,7 +3,6 @@ G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Sale\bin\Debug\ne
 G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Sale\bin\Debug\net6.0\B. Sale.runtimeconfig.json
 G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Sale\bin\Debug\net6.0\B. Sale.dll
 G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Sale\bin\Debug\net6.0\B. Sale.pdb
-G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Sale\obj\Debug\net6.0\B. Sale.csproj.AssemblyReference.cache
 G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Sale\obj\Debug\net6.0\B. Sale.GeneratedMSBuildEditorConfig.editorconfig
 G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Sale\obj\Debug\net6.0\B. Sale.AssemblyInfoInputs.cache
 G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Sale\obj\Debug\net6.0\B. Sale.AssemblyInfo.cs

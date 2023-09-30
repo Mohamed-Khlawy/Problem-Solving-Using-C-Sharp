@@ -3,7 +3,6 @@ G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Insomnia cure\bin
 G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Insomnia cure\bin\Debug\net6.0\A. Insomnia cure.runtimeconfig.json
 G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Insomnia cure\bin\Debug\net6.0\A. Insomnia cure.dll
 G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Insomnia cure\bin\Debug\net6.0\A. Insomnia cure.pdb
-G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Insomnia cure\obj\Debug\net6.0\A. Insomnia cure.csproj.AssemblyReference.cache
 G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Insomnia cure\obj\Debug\net6.0\A. Insomnia cure.GeneratedMSBuildEditorConfig.editorconfig
 G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Insomnia cure\obj\Debug\net6.0\A. Insomnia cure.AssemblyInfoInputs.cache
 G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Insomnia cure\obj\Debug\net6.0\A. Insomnia cure.AssemblyInfo.cs

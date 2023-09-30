@@ -1,0 +1,14 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Short Sort\bin\Debug\net6.0\A. Short Sort.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Short Sort\bin\Debug\net6.0\A. Short Sort.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Short Sort\bin\Debug\net6.0\A. Short Sort.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Short Sort\bin\Debug\net6.0\A. Short Sort.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Short Sort\bin\Debug\net6.0\A. Short Sort.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Short Sort\obj\Debug\net6.0\A. Short Sort.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Short Sort\obj\Debug\net6.0\A. Short Sort.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Short Sort\obj\Debug\net6.0\A. Short Sort.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Short Sort\obj\Debug\net6.0\A. Short Sort.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Short Sort\obj\Debug\net6.0\A. Short Sort.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Short Sort\obj\Debug\net6.0\refint\A. Short Sort.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Short Sort\obj\Debug\net6.0\A. Short Sort.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Short Sort\obj\Debug\net6.0\A. Short Sort.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Short Sort\obj\Debug\net6.0\ref\A. Short Sort.dll

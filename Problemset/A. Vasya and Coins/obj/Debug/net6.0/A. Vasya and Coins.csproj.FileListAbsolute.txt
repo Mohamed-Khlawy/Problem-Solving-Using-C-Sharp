@@ -3,7 +3,6 @@ G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Vasya and Coins\b
 G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Vasya and Coins\bin\Debug\net6.0\A. Vasya and Coins.runtimeconfig.json
 G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Vasya and Coins\bin\Debug\net6.0\A. Vasya and Coins.dll
 G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Vasya and Coins\bin\Debug\net6.0\A. Vasya and Coins.pdb
-G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Vasya and Coins\obj\Debug\net6.0\A. Vasya and Coins.csproj.AssemblyReference.cache
 G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Vasya and Coins\obj\Debug\net6.0\A. Vasya and Coins.GeneratedMSBuildEditorConfig.editorconfig
 G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Vasya and Coins\obj\Debug\net6.0\A. Vasya and Coins.AssemblyInfoInputs.cache
 G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Vasya and Coins\obj\Debug\net6.0\A. Vasya and Coins.AssemblyInfo.cs

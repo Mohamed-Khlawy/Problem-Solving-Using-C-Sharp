@@ -66,3 +66,7 @@ B. Blank Space => https://codeforces.com/problemset/problem/1829/B
 
 B. Two-gram => https://codeforces.com/problemset/problem/977/B
 
+A. Short Sort => https://codeforces.com/problemset/problem/1873/A
+
+B. Good Kid => https://codeforces.com/problemset/problem/1873/B
+

@@ -3,7 +3,6 @@ G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Even Odds\bin\Deb
 G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Even Odds\bin\Debug\net6.0\A. Even Odds.runtimeconfig.json
 G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Even Odds\bin\Debug\net6.0\A. Even Odds.dll
 G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Even Odds\bin\Debug\net6.0\A. Even Odds.pdb
-G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Even Odds\obj\Debug\net6.0\A. Even Odds.csproj.AssemblyReference.cache
 G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Even Odds\obj\Debug\net6.0\A. Even Odds.GeneratedMSBuildEditorConfig.editorconfig
 G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Even Odds\obj\Debug\net6.0\A. Even Odds.AssemblyInfoInputs.cache
 G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Even Odds\obj\Debug\net6.0\A. Even Odds.AssemblyInfo.cs
