@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "B. Kana and Dragon Quest game/1.0.0": {
+        "runtime": {
+          "B. Kana and Dragon Quest game.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "B. Kana and Dragon Quest game/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -73,9 +73,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "B. Blank Space", "B. Blank 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "B. Two-gram", "B. Two-gram\B. Two-gram.csproj", "{4E5A94D2-85F6-4894-9FF9-78B43709E325}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A. Short Sort", "A. Short Sort\A. Short Sort.csproj", "{27E0849F-7C6E-49C3-A6B1-A3E5B3548310}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "A. Short Sort", "A. Short Sort\A. Short Sort.csproj", "{27E0849F-7C6E-49C3-A6B1-A3E5B3548310}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "B. Good Kid", "B. Good Kid\B. Good Kid.csproj", "{D23A846D-6F37-4AE5-939B-7C438EF00E16}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "B. Good Kid", "B. Good Kid\B. Good Kid.csproj", "{D23A846D-6F37-4AE5-939B-7C438EF00E16}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "B. Kana and Dragon Quest game", "B. Kana and Dragon Quest game\B. Kana and Dragon Quest game.csproj", "{B4BD10FE-5B71-4EF6-80C9-F4964D1E356A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -231,6 +233,10 @@ Global
 		{D23A846D-6F37-4AE5-939B-7C438EF00E16}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D23A846D-6F37-4AE5-939B-7C438EF00E16}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D23A846D-6F37-4AE5-939B-7C438EF00E16}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B4BD10FE-5B71-4EF6-80C9-F4964D1E356A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4BD10FE-5B71-4EF6-80C9-F4964D1E356A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4BD10FE-5B71-4EF6-80C9-F4964D1E356A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4BD10FE-5B71-4EF6-80C9-F4964D1E356A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

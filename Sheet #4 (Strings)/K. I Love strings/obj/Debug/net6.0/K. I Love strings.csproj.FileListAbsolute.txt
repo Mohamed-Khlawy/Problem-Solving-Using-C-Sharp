@@ -1,0 +1,14 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #4 (Strings)\K. I Love strings\bin\Debug\net6.0\K. I Love strings.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #4 (Strings)\K. I Love strings\bin\Debug\net6.0\K. I Love strings.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #4 (Strings)\K. I Love strings\bin\Debug\net6.0\K. I Love strings.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #4 (Strings)\K. I Love strings\bin\Debug\net6.0\K. I Love strings.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #4 (Strings)\K. I Love strings\bin\Debug\net6.0\K. I Love strings.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #4 (Strings)\K. I Love strings\obj\Debug\net6.0\K. I Love strings.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #4 (Strings)\K. I Love strings\obj\Debug\net6.0\K. I Love strings.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #4 (Strings)\K. I Love strings\obj\Debug\net6.0\K. I Love strings.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #4 (Strings)\K. I Love strings\obj\Debug\net6.0\K. I Love strings.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #4 (Strings)\K. I Love strings\obj\Debug\net6.0\K. I Love strings.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #4 (Strings)\K. I Love strings\obj\Debug\net6.0\refint\K. I Love strings.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #4 (Strings)\K. I Love strings\obj\Debug\net6.0\K. I Love strings.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #4 (Strings)\K. I Love strings\obj\Debug\net6.0\K. I Love strings.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #4 (Strings)\K. I Love strings\obj\Debug\net6.0\ref\K. I Love strings.dll

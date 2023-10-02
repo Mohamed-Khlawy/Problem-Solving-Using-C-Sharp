@@ -1,0 +1,14 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Kana and Dragon Quest game\bin\Debug\net6.0\B. Kana and Dragon Quest game.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Kana and Dragon Quest game\bin\Debug\net6.0\B. Kana and Dragon Quest game.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Kana and Dragon Quest game\bin\Debug\net6.0\B. Kana and Dragon Quest game.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Kana and Dragon Quest game\bin\Debug\net6.0\B. Kana and Dragon Quest game.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Kana and Dragon Quest game\bin\Debug\net6.0\B. Kana and Dragon Quest game.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Kana and Dragon Quest game\obj\Debug\net6.0\B. Kana and Dragon Quest game.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Kana and Dragon Quest game\obj\Debug\net6.0\B. Kana and Dragon Quest game.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Kana and Dragon Quest game\obj\Debug\net6.0\B. Kana and Dragon Quest game.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Kana and Dragon Quest game\obj\Debug\net6.0\B. Kana and Dragon Quest game.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Kana and Dragon Quest game\obj\Debug\net6.0\B. Kana and Dragon Quest game.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Kana and Dragon Quest game\obj\Debug\net6.0\refint\B. Kana and Dragon Quest game.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Kana and Dragon Quest game\obj\Debug\net6.0\B. Kana and Dragon Quest game.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Kana and Dragon Quest game\obj\Debug\net6.0\B. Kana and Dragon Quest game.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Kana and Dragon Quest game\obj\Debug\net6.0\ref\B. Kana and Dragon Quest game.dll
