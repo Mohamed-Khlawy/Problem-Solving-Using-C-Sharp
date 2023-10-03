@@ -1,0 +1,14 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #4 (Strings)\L. String Functions\bin\Debug\net6.0\L. String Functions.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #4 (Strings)\L. String Functions\bin\Debug\net6.0\L. String Functions.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #4 (Strings)\L. String Functions\bin\Debug\net6.0\L. String Functions.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #4 (Strings)\L. String Functions\bin\Debug\net6.0\L. String Functions.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #4 (Strings)\L. String Functions\bin\Debug\net6.0\L. String Functions.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #4 (Strings)\L. String Functions\obj\Debug\net6.0\L. String Functions.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #4 (Strings)\L. String Functions\obj\Debug\net6.0\L. String Functions.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #4 (Strings)\L. String Functions\obj\Debug\net6.0\L. String Functions.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #4 (Strings)\L. String Functions\obj\Debug\net6.0\L. String Functions.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #4 (Strings)\L. String Functions\obj\Debug\net6.0\L. String Functions.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #4 (Strings)\L. String Functions\obj\Debug\net6.0\refint\L. String Functions.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #4 (Strings)\L. String Functions\obj\Debug\net6.0\L. String Functions.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #4 (Strings)\L. String Functions\obj\Debug\net6.0\L. String Functions.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #4 (Strings)\L. String Functions\obj\Debug\net6.0\ref\L. String Functions.dll

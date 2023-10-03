@@ -1,0 +1,14 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #4 (Strings)\M. Subsequence String\bin\Debug\net6.0\M. Subsequence String.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #4 (Strings)\M. Subsequence String\bin\Debug\net6.0\M. Subsequence String.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #4 (Strings)\M. Subsequence String\bin\Debug\net6.0\M. Subsequence String.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #4 (Strings)\M. Subsequence String\bin\Debug\net6.0\M. Subsequence String.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #4 (Strings)\M. Subsequence String\bin\Debug\net6.0\M. Subsequence String.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #4 (Strings)\M. Subsequence String\obj\Debug\net6.0\M. Subsequence String.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #4 (Strings)\M. Subsequence String\obj\Debug\net6.0\M. Subsequence String.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #4 (Strings)\M. Subsequence String\obj\Debug\net6.0\M. Subsequence String.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #4 (Strings)\M. Subsequence String\obj\Debug\net6.0\M. Subsequence String.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #4 (Strings)\M. Subsequence String\obj\Debug\net6.0\M. Subsequence String.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #4 (Strings)\M. Subsequence String\obj\Debug\net6.0\refint\M. Subsequence String.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #4 (Strings)\M. Subsequence String\obj\Debug\net6.0\M. Subsequence String.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #4 (Strings)\M. Subsequence String\obj\Debug\net6.0\M. Subsequence String.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #4 (Strings)\M. Subsequence String\obj\Debug\net6.0\ref\M. Subsequence String.dll
