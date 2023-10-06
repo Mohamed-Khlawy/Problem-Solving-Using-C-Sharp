@@ -1,0 +1,14 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #4 (Strings)\P. Count Words\bin\Debug\net6.0\P. Count Words.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #4 (Strings)\P. Count Words\bin\Debug\net6.0\P. Count Words.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #4 (Strings)\P. Count Words\bin\Debug\net6.0\P. Count Words.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #4 (Strings)\P. Count Words\bin\Debug\net6.0\P. Count Words.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #4 (Strings)\P. Count Words\bin\Debug\net6.0\P. Count Words.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #4 (Strings)\P. Count Words\obj\Debug\net6.0\P. Count Words.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #4 (Strings)\P. Count Words\obj\Debug\net6.0\P. Count Words.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #4 (Strings)\P. Count Words\obj\Debug\net6.0\P. Count Words.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #4 (Strings)\P. Count Words\obj\Debug\net6.0\P. Count Words.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #4 (Strings)\P. Count Words\obj\Debug\net6.0\P. Count Words.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #4 (Strings)\P. Count Words\obj\Debug\net6.0\refint\P. Count Words.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #4 (Strings)\P. Count Words\obj\Debug\net6.0\P. Count Words.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #4 (Strings)\P. Count Words\obj\Debug\net6.0\P. Count Words.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #4 (Strings)\P. Count Words\obj\Debug\net6.0\ref\P. Count Words.dll
