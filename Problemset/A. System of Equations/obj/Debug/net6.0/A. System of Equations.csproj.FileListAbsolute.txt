@@ -1,0 +1,14 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. System of Equations\bin\Debug\net6.0\A. System of Equations.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. System of Equations\bin\Debug\net6.0\A. System of Equations.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. System of Equations\bin\Debug\net6.0\A. System of Equations.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. System of Equations\bin\Debug\net6.0\A. System of Equations.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. System of Equations\bin\Debug\net6.0\A. System of Equations.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. System of Equations\obj\Debug\net6.0\A. System of Equations.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. System of Equations\obj\Debug\net6.0\A. System of Equations.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. System of Equations\obj\Debug\net6.0\A. System of Equations.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. System of Equations\obj\Debug\net6.0\A. System of Equations.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. System of Equations\obj\Debug\net6.0\A. System of Equations.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. System of Equations\obj\Debug\net6.0\refint\A. System of Equations.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. System of Equations\obj\Debug\net6.0\A. System of Equations.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. System of Equations\obj\Debug\net6.0\A. System of Equations.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. System of Equations\obj\Debug\net6.0\ref\A. System of Equations.dll

@@ -72,3 +72,7 @@ B. Good Kid => https://codeforces.com/problemset/problem/1873/B
 
 B. Kana and Dragon Quest game => https://codeforces.com/problemset/problem/1337/B
 
+A. Two Vessels => https://codeforces.com/problemset/problem/1872/A
+
+A. System of Equations => https://codeforces.com/problemset/problem/214/A
+

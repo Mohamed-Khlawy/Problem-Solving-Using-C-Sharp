@@ -1,0 +1,14 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Two Vessels\bin\Debug\net6.0\A. Two Vessels.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Two Vessels\bin\Debug\net6.0\A. Two Vessels.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Two Vessels\bin\Debug\net6.0\A. Two Vessels.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Two Vessels\bin\Debug\net6.0\A. Two Vessels.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Two Vessels\bin\Debug\net6.0\A. Two Vessels.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Two Vessels\obj\Debug\net6.0\A. Two Vessels.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Two Vessels\obj\Debug\net6.0\A. Two Vessels.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Two Vessels\obj\Debug\net6.0\A. Two Vessels.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Two Vessels\obj\Debug\net6.0\A. Two Vessels.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Two Vessels\obj\Debug\net6.0\A. Two Vessels.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Two Vessels\obj\Debug\net6.0\refint\A. Two Vessels.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Two Vessels\obj\Debug\net6.0\A. Two Vessels.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Two Vessels\obj\Debug\net6.0\A. Two Vessels.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Two Vessels\obj\Debug\net6.0\ref\A. Two Vessels.dll
