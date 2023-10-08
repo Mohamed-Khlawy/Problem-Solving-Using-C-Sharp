@@ -1,0 +1,14 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Magic Numbers\bin\Debug\net6.0\A. Magic Numbers.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Magic Numbers\bin\Debug\net6.0\A. Magic Numbers.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Magic Numbers\bin\Debug\net6.0\A. Magic Numbers.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Magic Numbers\bin\Debug\net6.0\A. Magic Numbers.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Magic Numbers\bin\Debug\net6.0\A. Magic Numbers.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Magic Numbers\obj\Debug\net6.0\A. Magic Numbers.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Magic Numbers\obj\Debug\net6.0\A. Magic Numbers.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Magic Numbers\obj\Debug\net6.0\A. Magic Numbers.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Magic Numbers\obj\Debug\net6.0\A. Magic Numbers.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Magic Numbers\obj\Debug\net6.0\A. Magic Numbers.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Magic Numbers\obj\Debug\net6.0\refint\A. Magic Numbers.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Magic Numbers\obj\Debug\net6.0\A. Magic Numbers.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Magic Numbers\obj\Debug\net6.0\A. Magic Numbers.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Magic Numbers\obj\Debug\net6.0\ref\A. Magic Numbers.dll
