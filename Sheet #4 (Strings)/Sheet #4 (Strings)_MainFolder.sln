@@ -31,9 +31,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "L. String Functions", "L. S
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "M. Subsequence String", "M. Subsequence String\M. Subsequence String.csproj", "{9B4DFC6B-37BD-48E2-BEBD-AA57B5ABAA62}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "O. Sort String", "O. Sort String\O. Sort String.csproj", "{8EF4E5A2-A5BD-4062-A104-70F9C0145AA1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "O. Sort String", "O. Sort String\O. Sort String.csproj", "{8EF4E5A2-A5BD-4062-A104-70F9C0145AA1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P. Count Words", "P. Count Words\P. Count Words.csproj", "{7F34C720-13C7-4C0A-8712-9429103B8936}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P. Count Words", "P. Count Words\P. Count Words.csproj", "{7F34C720-13C7-4C0A-8712-9429103B8936}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Q. Reverse Words", "Q. Reverse Words\Q. Reverse Words.csproj", "{B33F8A6F-88B5-41C5-8E5E-96D3D8922D84}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -105,6 +107,10 @@ Global
 		{7F34C720-13C7-4C0A-8712-9429103B8936}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7F34C720-13C7-4C0A-8712-9429103B8936}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7F34C720-13C7-4C0A-8712-9429103B8936}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B33F8A6F-88B5-41C5-8E5E-96D3D8922D84}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B33F8A6F-88B5-41C5-8E5E-96D3D8922D84}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B33F8A6F-88B5-41C5-8E5E-96D3D8922D84}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B33F8A6F-88B5-41C5-8E5E-96D3D8922D84}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

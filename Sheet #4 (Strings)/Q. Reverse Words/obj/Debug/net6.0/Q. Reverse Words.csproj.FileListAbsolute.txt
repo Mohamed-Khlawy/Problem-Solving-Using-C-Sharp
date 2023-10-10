@@ -1,0 +1,14 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #4 (Strings)\Q. Reverse Words\bin\Debug\net6.0\Q. Reverse Words.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #4 (Strings)\Q. Reverse Words\bin\Debug\net6.0\Q. Reverse Words.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #4 (Strings)\Q. Reverse Words\bin\Debug\net6.0\Q. Reverse Words.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #4 (Strings)\Q. Reverse Words\bin\Debug\net6.0\Q. Reverse Words.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #4 (Strings)\Q. Reverse Words\bin\Debug\net6.0\Q. Reverse Words.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #4 (Strings)\Q. Reverse Words\obj\Debug\net6.0\Q. Reverse Words.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #4 (Strings)\Q. Reverse Words\obj\Debug\net6.0\Q. Reverse Words.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #4 (Strings)\Q. Reverse Words\obj\Debug\net6.0\Q. Reverse Words.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #4 (Strings)\Q. Reverse Words\obj\Debug\net6.0\Q. Reverse Words.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #4 (Strings)\Q. Reverse Words\obj\Debug\net6.0\Q. Reverse Words.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #4 (Strings)\Q. Reverse Words\obj\Debug\net6.0\refint\Q. Reverse Words.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #4 (Strings)\Q. Reverse Words\obj\Debug\net6.0\Q. Reverse Words.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #4 (Strings)\Q. Reverse Words\obj\Debug\net6.0\Q. Reverse Words.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #4 (Strings)\Q. Reverse Words\obj\Debug\net6.0\ref\Q. Reverse Words.dll
