@@ -1,0 +1,14 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #4 (Strings)\R. String Score\bin\Debug\net6.0\R. String Score.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #4 (Strings)\R. String Score\bin\Debug\net6.0\R. String Score.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #4 (Strings)\R. String Score\bin\Debug\net6.0\R. String Score.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #4 (Strings)\R. String Score\bin\Debug\net6.0\R. String Score.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #4 (Strings)\R. String Score\bin\Debug\net6.0\R. String Score.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #4 (Strings)\R. String Score\obj\Debug\net6.0\R. String Score.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #4 (Strings)\R. String Score\obj\Debug\net6.0\R. String Score.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #4 (Strings)\R. String Score\obj\Debug\net6.0\R. String Score.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #4 (Strings)\R. String Score\obj\Debug\net6.0\R. String Score.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #4 (Strings)\R. String Score\obj\Debug\net6.0\R. String Score.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #4 (Strings)\R. String Score\obj\Debug\net6.0\refint\R. String Score.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #4 (Strings)\R. String Score\obj\Debug\net6.0\R. String Score.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #4 (Strings)\R. String Score\obj\Debug\net6.0\R. String Score.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #4 (Strings)\R. String Score\obj\Debug\net6.0\ref\R. String Score.dll
