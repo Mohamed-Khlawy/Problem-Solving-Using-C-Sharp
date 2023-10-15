@@ -37,7 +37,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P. Count Words", "P. Count 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Q. Reverse Words", "Q. Reverse Words\Q. Reverse Words.csproj", "{B33F8A6F-88B5-41C5-8E5E-96D3D8922D84}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "R. String Score", "R. String Score\R. String Score.csproj", "{66DA77CE-8E92-4BB8-9B82-665E7792DAA4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "R. String Score", "R. String Score\R. String Score.csproj", "{66DA77CE-8E92-4BB8-9B82-665E7792DAA4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "S. Max Split", "S. Max Split\S. Max Split.csproj", "{4E30CE61-953A-4C7C-AAEF-6F325C6C5226}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -117,6 +119,10 @@ Global
 		{66DA77CE-8E92-4BB8-9B82-665E7792DAA4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{66DA77CE-8E92-4BB8-9B82-665E7792DAA4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{66DA77CE-8E92-4BB8-9B82-665E7792DAA4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4E30CE61-953A-4C7C-AAEF-6F325C6C5226}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E30CE61-953A-4C7C-AAEF-6F325C6C5226}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E30CE61-953A-4C7C-AAEF-6F325C6C5226}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E30CE61-953A-4C7C-AAEF-6F325C6C5226}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
