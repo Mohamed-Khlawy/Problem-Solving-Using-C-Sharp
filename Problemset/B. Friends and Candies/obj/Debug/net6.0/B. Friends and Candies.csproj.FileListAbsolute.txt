@@ -1,0 +1,14 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Friends and Candies\bin\Debug\net6.0\B. Friends and Candies.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Friends and Candies\bin\Debug\net6.0\B. Friends and Candies.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Friends and Candies\bin\Debug\net6.0\B. Friends and Candies.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Friends and Candies\bin\Debug\net6.0\B. Friends and Candies.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Friends and Candies\bin\Debug\net6.0\B. Friends and Candies.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Friends and Candies\obj\Debug\net6.0\B. Friends and Candies.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Friends and Candies\obj\Debug\net6.0\B. Friends and Candies.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Friends and Candies\obj\Debug\net6.0\B. Friends and Candies.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Friends and Candies\obj\Debug\net6.0\B. Friends and Candies.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Friends and Candies\obj\Debug\net6.0\B. Friends and Candies.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Friends and Candies\obj\Debug\net6.0\refint\B. Friends and Candies.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Friends and Candies\obj\Debug\net6.0\B. Friends and Candies.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Friends and Candies\obj\Debug\net6.0\B. Friends and Candies.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Friends and Candies\obj\Debug\net6.0\ref\B. Friends and Candies.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "B. Friends and Candies/1.0.0": {
+        "runtime": {
+          "B. Friends and Candies.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "B. Friends and Candies/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

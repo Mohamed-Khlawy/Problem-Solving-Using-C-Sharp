@@ -85,7 +85,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "A. System of Equations", "A
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "A. Magic Numbers", "A. Magic Numbers\A. Magic Numbers.csproj", "{9C64D0A4-6AE9-4464-A49D-7D56B9F9AAD4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A. QAQ", "A. QAQ\A. QAQ.csproj", "{AB90A1E8-38E6-43F3-B0FF-844B5C502FF6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "A. QAQ", "A. QAQ\A. QAQ.csproj", "{AB90A1E8-38E6-43F3-B0FF-844B5C502FF6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "B. Friends and Candies", "B. Friends and Candies\B. Friends and Candies.csproj", "{81A26D0B-607C-4BB3-BA40-04CE63326E5D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -261,6 +263,10 @@ Global
 		{AB90A1E8-38E6-43F3-B0FF-844B5C502FF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AB90A1E8-38E6-43F3-B0FF-844B5C502FF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AB90A1E8-38E6-43F3-B0FF-844B5C502FF6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{81A26D0B-607C-4BB3-BA40-04CE63326E5D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81A26D0B-607C-4BB3-BA40-04CE63326E5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81A26D0B-607C-4BB3-BA40-04CE63326E5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81A26D0B-607C-4BB3-BA40-04CE63326E5D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

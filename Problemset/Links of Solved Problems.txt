@@ -80,3 +80,5 @@ A. Magic Numbers => https://codeforces.com/problemset/problem/320/A
 
 A. QAQ => https://codeforces.com/problemset/problem/894/A
 
+B. Friends and Candies => https://codeforces.com/problemset/problem/1538/B
+
