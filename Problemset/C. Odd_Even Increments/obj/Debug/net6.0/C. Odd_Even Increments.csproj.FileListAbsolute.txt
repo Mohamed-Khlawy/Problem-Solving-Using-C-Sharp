@@ -1,0 +1,14 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Odd_Even Increments\bin\Debug\net6.0\C. Odd_Even Increments.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Odd_Even Increments\bin\Debug\net6.0\C. Odd_Even Increments.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Odd_Even Increments\bin\Debug\net6.0\C. Odd_Even Increments.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Odd_Even Increments\bin\Debug\net6.0\C. Odd_Even Increments.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Odd_Even Increments\bin\Debug\net6.0\C. Odd_Even Increments.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Odd_Even Increments\obj\Debug\net6.0\C. Odd_Even Increments.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Odd_Even Increments\obj\Debug\net6.0\C. Odd_Even Increments.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Odd_Even Increments\obj\Debug\net6.0\C. Odd_Even Increments.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Odd_Even Increments\obj\Debug\net6.0\C. Odd_Even Increments.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Odd_Even Increments\obj\Debug\net6.0\C. Odd_Even Increments.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Odd_Even Increments\obj\Debug\net6.0\refint\C. Odd_Even Increments.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Odd_Even Increments\obj\Debug\net6.0\C. Odd_Even Increments.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Odd_Even Increments\obj\Debug\net6.0\C. Odd_Even Increments.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Odd_Even Increments\obj\Debug\net6.0\ref\C. Odd_Even Increments.dll

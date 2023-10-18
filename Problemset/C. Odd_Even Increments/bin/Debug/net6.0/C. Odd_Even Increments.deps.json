@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "C. Odd_Even Increments/1.0.0": {
+        "runtime": {
+          "C. Odd_Even Increments.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "C. Odd_Even Increments/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

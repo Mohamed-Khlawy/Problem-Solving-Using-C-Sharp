@@ -87,7 +87,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "A. Magic Numbers", "A. Magi
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "A. QAQ", "A. QAQ\A. QAQ.csproj", "{AB90A1E8-38E6-43F3-B0FF-844B5C502FF6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "B. Friends and Candies", "B. Friends and Candies\B. Friends and Candies.csproj", "{81A26D0B-607C-4BB3-BA40-04CE63326E5D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "B. Friends and Candies", "B. Friends and Candies\B. Friends and Candies.csproj", "{81A26D0B-607C-4BB3-BA40-04CE63326E5D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C. Odd_Even Increments", "C. Odd_Even Increments\C. Odd_Even Increments.csproj", "{28D085A6-B7D9-4118-BB9C-4877BDEAE7D5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -267,6 +269,10 @@ Global
 		{81A26D0B-607C-4BB3-BA40-04CE63326E5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{81A26D0B-607C-4BB3-BA40-04CE63326E5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{81A26D0B-607C-4BB3-BA40-04CE63326E5D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{28D085A6-B7D9-4118-BB9C-4877BDEAE7D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28D085A6-B7D9-4118-BB9C-4877BDEAE7D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28D085A6-B7D9-4118-BB9C-4877BDEAE7D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28D085A6-B7D9-4118-BB9C-4877BDEAE7D5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

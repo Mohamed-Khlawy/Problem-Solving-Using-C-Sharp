@@ -82,3 +82,5 @@ A. QAQ => https://codeforces.com/problemset/problem/894/A
 
 B. Friends and Candies => https://codeforces.com/problemset/problem/1538/B
 
+C. Odd/Even Increments => https://codeforces.com/problemset/problem/1669/C
+
