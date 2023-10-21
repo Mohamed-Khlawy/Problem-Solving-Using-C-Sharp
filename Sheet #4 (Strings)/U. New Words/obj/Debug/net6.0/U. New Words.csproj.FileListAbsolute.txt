@@ -1,0 +1,14 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #4 (Strings)\U. New Words\bin\Debug\net6.0\U. New Words.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #4 (Strings)\U. New Words\bin\Debug\net6.0\U. New Words.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #4 (Strings)\U. New Words\bin\Debug\net6.0\U. New Words.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #4 (Strings)\U. New Words\bin\Debug\net6.0\U. New Words.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #4 (Strings)\U. New Words\bin\Debug\net6.0\U. New Words.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #4 (Strings)\U. New Words\obj\Debug\net6.0\U. New Words.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #4 (Strings)\U. New Words\obj\Debug\net6.0\U. New Words.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #4 (Strings)\U. New Words\obj\Debug\net6.0\U. New Words.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #4 (Strings)\U. New Words\obj\Debug\net6.0\U. New Words.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #4 (Strings)\U. New Words\obj\Debug\net6.0\U. New Words.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #4 (Strings)\U. New Words\obj\Debug\net6.0\refint\U. New Words.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #4 (Strings)\U. New Words\obj\Debug\net6.0\U. New Words.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #4 (Strings)\U. New Words\obj\Debug\net6.0\U. New Words.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #4 (Strings)\U. New Words\obj\Debug\net6.0\ref\U. New Words.dll

@@ -41,7 +41,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "R. String Score", "R. Strin
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "S. Max Split", "S. Max Split\S. Max Split.csproj", "{4E30CE61-953A-4C7C-AAEF-6F325C6C5226}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T. URL", "T. URL\T. URL.csproj", "{C7606582-CB1C-4037-BE64-6B5B486525F5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "T. URL", "T. URL\T. URL.csproj", "{C7606582-CB1C-4037-BE64-6B5B486525F5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "U. New Words", "U. New Words\U. New Words.csproj", "{369C4E07-D5D4-4642-9F91-1CE47CDF456F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -129,6 +131,10 @@ Global
 		{C7606582-CB1C-4037-BE64-6B5B486525F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C7606582-CB1C-4037-BE64-6B5B486525F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C7606582-CB1C-4037-BE64-6B5B486525F5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{369C4E07-D5D4-4642-9F91-1CE47CDF456F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{369C4E07-D5D4-4642-9F91-1CE47CDF456F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{369C4E07-D5D4-4642-9F91-1CE47CDF456F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{369C4E07-D5D4-4642-9F91-1CE47CDF456F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
