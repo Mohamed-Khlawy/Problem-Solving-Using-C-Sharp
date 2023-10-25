@@ -1,0 +1,14 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #4 (Strings)\W. Encrypt & Decrypt Message\bin\Debug\net6.0\W. Encrypt & Decrypt Message.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #4 (Strings)\W. Encrypt & Decrypt Message\bin\Debug\net6.0\W. Encrypt & Decrypt Message.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #4 (Strings)\W. Encrypt & Decrypt Message\bin\Debug\net6.0\W. Encrypt & Decrypt Message.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #4 (Strings)\W. Encrypt & Decrypt Message\bin\Debug\net6.0\W. Encrypt & Decrypt Message.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #4 (Strings)\W. Encrypt & Decrypt Message\bin\Debug\net6.0\W. Encrypt & Decrypt Message.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #4 (Strings)\W. Encrypt & Decrypt Message\obj\Debug\net6.0\W. Encrypt & Decrypt Message.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #4 (Strings)\W. Encrypt & Decrypt Message\obj\Debug\net6.0\W. Encrypt & Decrypt Message.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #4 (Strings)\W. Encrypt & Decrypt Message\obj\Debug\net6.0\W. Encrypt & Decrypt Message.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #4 (Strings)\W. Encrypt & Decrypt Message\obj\Debug\net6.0\W. Encrypt & Decrypt Message.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #4 (Strings)\W. Encrypt & Decrypt Message\obj\Debug\net6.0\W. Encrypt & Decrypt Message.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #4 (Strings)\W. Encrypt & Decrypt Message\obj\Debug\net6.0\refint\W. Encrypt & Decrypt Message.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #4 (Strings)\W. Encrypt & Decrypt Message\obj\Debug\net6.0\W. Encrypt & Decrypt Message.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #4 (Strings)\W. Encrypt & Decrypt Message\obj\Debug\net6.0\W. Encrypt & Decrypt Message.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #4 (Strings)\W. Encrypt & Decrypt Message\obj\Debug\net6.0\ref\W. Encrypt & Decrypt Message.dll

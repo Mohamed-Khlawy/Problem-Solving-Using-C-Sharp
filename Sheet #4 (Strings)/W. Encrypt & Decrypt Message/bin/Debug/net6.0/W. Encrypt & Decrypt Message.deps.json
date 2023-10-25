@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "W. Encrypt & Decrypt Message/1.0.0": {
+        "runtime": {
+          "W. Encrypt & Decrypt Message.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "W. Encrypt & Decrypt Message/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
