@@ -1,0 +1,14 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #4 (Strings)\V. Replace Word\bin\Debug\net6.0\V. Replace Word.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #4 (Strings)\V. Replace Word\bin\Debug\net6.0\V. Replace Word.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #4 (Strings)\V. Replace Word\bin\Debug\net6.0\V. Replace Word.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #4 (Strings)\V. Replace Word\bin\Debug\net6.0\V. Replace Word.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #4 (Strings)\V. Replace Word\bin\Debug\net6.0\V. Replace Word.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #4 (Strings)\V. Replace Word\obj\Debug\net6.0\V. Replace Word.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #4 (Strings)\V. Replace Word\obj\Debug\net6.0\V. Replace Word.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #4 (Strings)\V. Replace Word\obj\Debug\net6.0\V. Replace Word.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #4 (Strings)\V. Replace Word\obj\Debug\net6.0\V. Replace Word.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #4 (Strings)\V. Replace Word\obj\Debug\net6.0\V. Replace Word.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #4 (Strings)\V. Replace Word\obj\Debug\net6.0\refint\V. Replace Word.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #4 (Strings)\V. Replace Word\obj\Debug\net6.0\V. Replace Word.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #4 (Strings)\V. Replace Word\obj\Debug\net6.0\V. Replace Word.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #4 (Strings)\V. Replace Word\obj\Debug\net6.0\ref\V. Replace Word.dll
