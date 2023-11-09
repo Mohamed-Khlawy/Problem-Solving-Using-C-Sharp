@@ -47,7 +47,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "U. New Words", "U. New Word
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "W. Encrypt & Decrypt Message", "W. Encrypt & Decrypt Message\W. Encrypt & Decrypt Message.csproj", "{D8AC4F66-06CA-4B47-AC19-2AD85C77BAB8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "V. Replace Word", "V. Replace Word\V. Replace Word.csproj", "{E1CC1BC7-8D63-4B08-BB5D-278898AA4725}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "V. Replace Word", "V. Replace Word\V. Replace Word.csproj", "{E1CC1BC7-8D63-4B08-BB5D-278898AA4725}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "X. Comparison", "X. Comparison\X. Comparison.csproj", "{B576FE93-13AB-4896-A097-43939DAF1033}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Y. Min Cost String", "Y. Min Cost String\Y. Min Cost String.csproj", "{46E4F22B-123A-4B74-9C29-7A3ED8437273}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Z. Clean Code", "Z. Clean Code\Z. Clean Code.csproj", "{5BAA872A-2E51-4A3F-B6F3-2752E51B53C9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -147,6 +153,18 @@ Global
 		{E1CC1BC7-8D63-4B08-BB5D-278898AA4725}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E1CC1BC7-8D63-4B08-BB5D-278898AA4725}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E1CC1BC7-8D63-4B08-BB5D-278898AA4725}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B576FE93-13AB-4896-A097-43939DAF1033}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B576FE93-13AB-4896-A097-43939DAF1033}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B576FE93-13AB-4896-A097-43939DAF1033}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B576FE93-13AB-4896-A097-43939DAF1033}.Release|Any CPU.Build.0 = Release|Any CPU
+		{46E4F22B-123A-4B74-9C29-7A3ED8437273}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46E4F22B-123A-4B74-9C29-7A3ED8437273}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46E4F22B-123A-4B74-9C29-7A3ED8437273}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46E4F22B-123A-4B74-9C29-7A3ED8437273}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5BAA872A-2E51-4A3F-B6F3-2752E51B53C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5BAA872A-2E51-4A3F-B6F3-2752E51B53C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5BAA872A-2E51-4A3F-B6F3-2752E51B53C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5BAA872A-2E51-4A3F-B6F3-2752E51B53C9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

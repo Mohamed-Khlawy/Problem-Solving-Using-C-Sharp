@@ -1,0 +1,14 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #4 (Strings)\X. Comparison\bin\Debug\net6.0\X. Comparison.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #4 (Strings)\X. Comparison\bin\Debug\net6.0\X. Comparison.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #4 (Strings)\X. Comparison\bin\Debug\net6.0\X. Comparison.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #4 (Strings)\X. Comparison\bin\Debug\net6.0\X. Comparison.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #4 (Strings)\X. Comparison\bin\Debug\net6.0\X. Comparison.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #4 (Strings)\X. Comparison\obj\Debug\net6.0\X. Comparison.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #4 (Strings)\X. Comparison\obj\Debug\net6.0\X. Comparison.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #4 (Strings)\X. Comparison\obj\Debug\net6.0\X. Comparison.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #4 (Strings)\X. Comparison\obj\Debug\net6.0\X. Comparison.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #4 (Strings)\X. Comparison\obj\Debug\net6.0\X. Comparison.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #4 (Strings)\X. Comparison\obj\Debug\net6.0\refint\X. Comparison.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #4 (Strings)\X. Comparison\obj\Debug\net6.0\X. Comparison.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #4 (Strings)\X. Comparison\obj\Debug\net6.0\X. Comparison.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #4 (Strings)\X. Comparison\obj\Debug\net6.0\ref\X. Comparison.dll

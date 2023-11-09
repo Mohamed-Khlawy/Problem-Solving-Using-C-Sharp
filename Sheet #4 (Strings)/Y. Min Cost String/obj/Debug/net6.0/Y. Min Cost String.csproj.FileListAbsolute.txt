@@ -1,0 +1,14 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #4 (Strings)\Y. Min Cost String\bin\Debug\net6.0\Y. Min Cost String.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #4 (Strings)\Y. Min Cost String\bin\Debug\net6.0\Y. Min Cost String.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #4 (Strings)\Y. Min Cost String\bin\Debug\net6.0\Y. Min Cost String.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #4 (Strings)\Y. Min Cost String\bin\Debug\net6.0\Y. Min Cost String.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #4 (Strings)\Y. Min Cost String\bin\Debug\net6.0\Y. Min Cost String.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #4 (Strings)\Y. Min Cost String\obj\Debug\net6.0\Y. Min Cost String.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #4 (Strings)\Y. Min Cost String\obj\Debug\net6.0\Y. Min Cost String.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #4 (Strings)\Y. Min Cost String\obj\Debug\net6.0\Y. Min Cost String.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #4 (Strings)\Y. Min Cost String\obj\Debug\net6.0\Y. Min Cost String.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #4 (Strings)\Y. Min Cost String\obj\Debug\net6.0\Y. Min Cost String.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #4 (Strings)\Y. Min Cost String\obj\Debug\net6.0\refint\Y. Min Cost String.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #4 (Strings)\Y. Min Cost String\obj\Debug\net6.0\Y. Min Cost String.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #4 (Strings)\Y. Min Cost String\obj\Debug\net6.0\Y. Min Cost String.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #4 (Strings)\Y. Min Cost String\obj\Debug\net6.0\ref\Y. Min Cost String.dll

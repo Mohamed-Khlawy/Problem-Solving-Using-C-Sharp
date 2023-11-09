@@ -1,0 +1,14 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #4 (Strings)\Z. Clean Code\bin\Debug\net6.0\Z. Clean Code.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #4 (Strings)\Z. Clean Code\bin\Debug\net6.0\Z. Clean Code.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #4 (Strings)\Z. Clean Code\bin\Debug\net6.0\Z. Clean Code.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #4 (Strings)\Z. Clean Code\bin\Debug\net6.0\Z. Clean Code.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #4 (Strings)\Z. Clean Code\bin\Debug\net6.0\Z. Clean Code.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #4 (Strings)\Z. Clean Code\obj\Debug\net6.0\Z. Clean Code.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #4 (Strings)\Z. Clean Code\obj\Debug\net6.0\Z. Clean Code.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #4 (Strings)\Z. Clean Code\obj\Debug\net6.0\Z. Clean Code.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #4 (Strings)\Z. Clean Code\obj\Debug\net6.0\Z. Clean Code.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #4 (Strings)\Z. Clean Code\obj\Debug\net6.0\Z. Clean Code.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #4 (Strings)\Z. Clean Code\obj\Debug\net6.0\refint\Z. Clean Code.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #4 (Strings)\Z. Clean Code\obj\Debug\net6.0\Z. Clean Code.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #4 (Strings)\Z. Clean Code\obj\Debug\net6.0\Z. Clean Code.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Sheet #4 (Strings)\Z. Clean Code\obj\Debug\net6.0\ref\Z. Clean Code.dll
