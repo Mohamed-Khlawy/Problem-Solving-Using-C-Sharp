@@ -12,3 +12,4 @@ G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Friends and Candi
 G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Friends and Candies\obj\Debug\net6.0\B. Friends and Candies.pdb
 G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Friends and Candies\obj\Debug\net6.0\B. Friends and Candies.genruntimeconfig.cache
 G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Friends and Candies\obj\Debug\net6.0\ref\B. Friends and Candies.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Friends and Candies\obj\Debug\net6.0\B. Friends and Candies.sourcelink.json

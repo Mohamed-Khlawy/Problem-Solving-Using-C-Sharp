@@ -12,3 +12,4 @@ G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Good Kid\obj\Debu
 G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Good Kid\obj\Debug\net6.0\B. Good Kid.pdb
 G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Good Kid\obj\Debug\net6.0\B. Good Kid.genruntimeconfig.cache
 G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Good Kid\obj\Debug\net6.0\ref\B. Good Kid.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Good Kid\obj\Debug\net6.0\B. Good Kid.sourcelink.json

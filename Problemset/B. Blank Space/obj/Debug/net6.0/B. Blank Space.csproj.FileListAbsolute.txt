@@ -12,3 +12,4 @@ G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Blank Space\obj\D
 G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Blank Space\obj\Debug\net6.0\B. Blank Space.pdb
 G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Blank Space\obj\Debug\net6.0\B. Blank Space.genruntimeconfig.cache
 G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Blank Space\obj\Debug\net6.0\ref\B. Blank Space.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Blank Space\obj\Debug\net6.0\B. Blank Space.sourcelink.json

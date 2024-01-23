@@ -12,3 +12,4 @@ G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. System of Equatio
 G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. System of Equations\obj\Debug\net6.0\A. System of Equations.pdb
 G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. System of Equations\obj\Debug\net6.0\A. System of Equations.genruntimeconfig.cache
 G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. System of Equations\obj\Debug\net6.0\ref\A. System of Equations.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. System of Equations\obj\Debug\net6.0\A. System of Equations.sourcelink.json

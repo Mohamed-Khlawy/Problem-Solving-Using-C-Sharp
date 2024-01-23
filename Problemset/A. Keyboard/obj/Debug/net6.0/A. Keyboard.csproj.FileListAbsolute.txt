@@ -12,3 +12,4 @@ G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Keyboard\obj\Debu
 G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Keyboard\obj\Debug\net6.0\A. Keyboard.pdb
 G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Keyboard\obj\Debug\net6.0\A. Keyboard.genruntimeconfig.cache
 G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Keyboard\obj\Debug\net6.0\ref\A. Keyboard.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Keyboard\obj\Debug\net6.0\A. Keyboard.sourcelink.json

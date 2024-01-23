@@ -12,3 +12,4 @@ G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Chat room\obj\Deb
 G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Chat room\obj\Debug\net6.0\A. Chat room.pdb
 G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Chat room\obj\Debug\net6.0\A. Chat room.genruntimeconfig.cache
 G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Chat room\obj\Debug\net6.0\ref\A. Chat room.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Chat room\obj\Debug\net6.0\A. Chat room.sourcelink.json

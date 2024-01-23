@@ -12,3 +12,4 @@ G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Array Coloring\ob
 G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Array Coloring\obj\Debug\net6.0\A. Array Coloring.pdb
 G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Array Coloring\obj\Debug\net6.0\A. Array Coloring.genruntimeconfig.cache
 G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Array Coloring\obj\Debug\net6.0\ref\A. Array Coloring.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Array Coloring\obj\Debug\net6.0\A. Array Coloring.sourcelink.json

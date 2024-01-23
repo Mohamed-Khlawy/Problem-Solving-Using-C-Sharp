@@ -12,3 +12,4 @@ G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Olesya and Rodion
 G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Olesya and Rodion\obj\Debug\net6.0\A. Olesya and Rodion.pdb
 G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Olesya and Rodion\obj\Debug\net6.0\A. Olesya and Rodion.genruntimeconfig.cache
 G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Olesya and Rodion\obj\Debug\net6.0\ref\A. Olesya and Rodion.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Olesya and Rodion\obj\Debug\net6.0\A. Olesya and Rodion.sourcelink.json

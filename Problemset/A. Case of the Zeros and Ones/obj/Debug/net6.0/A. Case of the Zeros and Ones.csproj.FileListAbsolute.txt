@@ -12,3 +12,4 @@ G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Case of the Zeros
 G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Case of the Zeros and Ones\obj\Debug\net6.0\A. Case of the Zeros and Ones.pdb
 G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Case of the Zeros and Ones\obj\Debug\net6.0\A. Case of the Zeros and Ones.genruntimeconfig.cache
 G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Case of the Zeros and Ones\obj\Debug\net6.0\ref\A. Case of the Zeros and Ones.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Case of the Zeros and Ones\obj\Debug\net6.0\A. Case of the Zeros and Ones.sourcelink.json

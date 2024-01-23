@@ -12,3 +12,4 @@ G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. New Year Candles\
 G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. New Year Candles\obj\Debug\net6.0\A. New Year Candles.pdb
 G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. New Year Candles\obj\Debug\net6.0\A. New Year Candles.genruntimeconfig.cache
 G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. New Year Candles\obj\Debug\net6.0\ref\A. New Year Candles.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. New Year Candles\obj\Debug\net6.0\A. New Year Candles.sourcelink.json

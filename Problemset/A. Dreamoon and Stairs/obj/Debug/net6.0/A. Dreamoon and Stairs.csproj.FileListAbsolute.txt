@@ -12,3 +12,4 @@ G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Dreamoon and Stai
 G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Dreamoon and Stairs\obj\Debug\net6.0\A. Dreamoon and Stairs.pdb
 G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Dreamoon and Stairs\obj\Debug\net6.0\A. Dreamoon and Stairs.genruntimeconfig.cache
 G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Dreamoon and Stairs\obj\Debug\net6.0\ref\A. Dreamoon and Stairs.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Dreamoon and Stairs\obj\Debug\net6.0\A. Dreamoon and Stairs.sourcelink.json

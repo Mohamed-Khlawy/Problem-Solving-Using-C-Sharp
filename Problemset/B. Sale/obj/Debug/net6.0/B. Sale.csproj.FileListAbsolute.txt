@@ -12,3 +12,4 @@ G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Sale\obj\Debug\ne
 G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Sale\obj\Debug\net6.0\B. Sale.pdb
 G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Sale\obj\Debug\net6.0\B. Sale.genruntimeconfig.cache
 G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Sale\obj\Debug\net6.0\ref\B. Sale.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Sale\obj\Debug\net6.0\B. Sale.sourcelink.json

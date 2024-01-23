@@ -12,3 +12,4 @@ G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Word on the Paper
 G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Word on the Paper\obj\Debug\net6.0\C. Word on the Paper.pdb
 G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Word on the Paper\obj\Debug\net6.0\C. Word on the Paper.genruntimeconfig.cache
 G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Word on the Paper\obj\Debug\net6.0\ref\C. Word on the Paper.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Word on the Paper\obj\Debug\net6.0\C. Word on the Paper.sourcelink.json

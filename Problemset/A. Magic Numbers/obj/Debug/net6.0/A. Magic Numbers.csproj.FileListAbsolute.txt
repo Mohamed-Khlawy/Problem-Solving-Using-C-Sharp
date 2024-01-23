@@ -12,3 +12,4 @@ G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Magic Numbers\obj
 G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Magic Numbers\obj\Debug\net6.0\A. Magic Numbers.pdb
 G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Magic Numbers\obj\Debug\net6.0\A. Magic Numbers.genruntimeconfig.cache
 G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Magic Numbers\obj\Debug\net6.0\ref\A. Magic Numbers.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Magic Numbers\obj\Debug\net6.0\A. Magic Numbers.sourcelink.json

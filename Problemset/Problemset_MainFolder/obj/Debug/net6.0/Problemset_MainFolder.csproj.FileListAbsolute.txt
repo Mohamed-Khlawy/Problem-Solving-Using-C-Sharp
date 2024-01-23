@@ -12,3 +12,4 @@ G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\Problemset_MainFolde
 G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\Problemset_MainFolder\obj\Debug\net6.0\Problemset_MainFolder.pdb
 G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\Problemset_MainFolder\obj\Debug\net6.0\Problemset_MainFolder.genruntimeconfig.cache
 G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\Problemset_MainFolder\obj\Debug\net6.0\ref\Problemset_MainFolder.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\Problemset_MainFolder\obj\Debug\net6.0\Problemset_MainFolder.sourcelink.json

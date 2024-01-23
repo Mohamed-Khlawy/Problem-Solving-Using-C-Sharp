@@ -12,3 +12,4 @@ G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Even Array\obj\De
 G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Even Array\obj\Debug\net6.0\B. Even Array.pdb
 G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Even Array\obj\Debug\net6.0\B. Even Array.genruntimeconfig.cache
 G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Even Array\obj\Debug\net6.0\ref\B. Even Array.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Even Array\obj\Debug\net6.0\B. Even Array.sourcelink.json

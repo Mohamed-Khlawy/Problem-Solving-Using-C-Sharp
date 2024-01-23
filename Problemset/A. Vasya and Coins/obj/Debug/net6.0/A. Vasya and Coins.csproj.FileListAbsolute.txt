@@ -12,3 +12,4 @@ G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Vasya and Coins\o
 G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Vasya and Coins\obj\Debug\net6.0\A. Vasya and Coins.pdb
 G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Vasya and Coins\obj\Debug\net6.0\A. Vasya and Coins.genruntimeconfig.cache
 G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Vasya and Coins\obj\Debug\net6.0\ref\A. Vasya and Coins.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Vasya and Coins\obj\Debug\net6.0\A. Vasya and Coins.sourcelink.json

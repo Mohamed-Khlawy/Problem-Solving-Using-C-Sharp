@@ -12,3 +12,4 @@ G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Two-gram\obj\Debu
 G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Two-gram\obj\Debug\net6.0\B. Two-gram.pdb
 G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Two-gram\obj\Debug\net6.0\B. Two-gram.genruntimeconfig.cache
 G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Two-gram\obj\Debug\net6.0\ref\B. Two-gram.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Two-gram\obj\Debug\net6.0\B. Two-gram.sourcelink.json

@@ -12,3 +12,4 @@ G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Kana and Dragon Q
 G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Kana and Dragon Quest game\obj\Debug\net6.0\B. Kana and Dragon Quest game.pdb
 G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Kana and Dragon Quest game\obj\Debug\net6.0\B. Kana and Dragon Quest game.genruntimeconfig.cache
 G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Kana and Dragon Quest game\obj\Debug\net6.0\ref\B. Kana and Dragon Quest game.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Kana and Dragon Quest game\obj\Debug\net6.0\B. Kana and Dragon Quest game.sourcelink.json

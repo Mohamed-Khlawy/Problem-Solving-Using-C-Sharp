@@ -12,3 +12,4 @@ G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Who's Opposite\ob
 G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Who's Opposite\obj\Debug\net6.0\B. Who's Opposite.pdb
 G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Who's Opposite\obj\Debug\net6.0\B. Who's Opposite.genruntimeconfig.cache
 G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Who's Opposite\obj\Debug\net6.0\ref\B. Who's Opposite.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Who's Opposite\obj\Debug\net6.0\B. Who's Opposite.sourcelink.json

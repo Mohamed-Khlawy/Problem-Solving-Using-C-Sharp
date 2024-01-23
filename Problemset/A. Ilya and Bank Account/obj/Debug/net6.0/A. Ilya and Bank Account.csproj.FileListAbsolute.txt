@@ -12,3 +12,4 @@ G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Ilya and Bank Acc
 G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Ilya and Bank Account\obj\Debug\net6.0\A. Ilya and Bank Account.pdb
 G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Ilya and Bank Account\obj\Debug\net6.0\A. Ilya and Bank Account.genruntimeconfig.cache
 G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Ilya and Bank Account\obj\Debug\net6.0\ref\A. Ilya and Bank Account.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Ilya and Bank Account\obj\Debug\net6.0\A. Ilya and Bank Account.sourcelink.json

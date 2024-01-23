@@ -12,3 +12,4 @@ G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Multiply by 2, di
 G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Multiply by 2, divide by 6\obj\Debug\net6.0\B. Multiply by 2, divide by 6.pdb
 G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Multiply by 2, divide by 6\obj\Debug\net6.0\B. Multiply by 2, divide by 6.genruntimeconfig.cache
 G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Multiply by 2, divide by 6\obj\Debug\net6.0\ref\B. Multiply by 2, divide by 6.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Multiply by 2, divide by 6\obj\Debug\net6.0\B. Multiply by 2, divide by 6.sourcelink.json

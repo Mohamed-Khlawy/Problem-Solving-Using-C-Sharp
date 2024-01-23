@@ -12,3 +12,4 @@ G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Lecture\obj\Debug
 G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Lecture\obj\Debug\net6.0\B. Lecture.pdb
 G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Lecture\obj\Debug\net6.0\B. Lecture.genruntimeconfig.cache
 G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Lecture\obj\Debug\net6.0\ref\B. Lecture.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Lecture\obj\Debug\net6.0\B. Lecture.sourcelink.json

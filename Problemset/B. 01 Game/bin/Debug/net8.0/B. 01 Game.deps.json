@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "B. 01 Game/1.0.0": {
+        "runtime": {
+          "B. 01 Game.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "B. 01 Game/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

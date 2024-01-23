@@ -12,3 +12,4 @@ G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. The number of pos
 G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. The number of positions\obj\Debug\net6.0\A. The number of positions.pdb
 G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. The number of positions\obj\Debug\net6.0\A. The number of positions.genruntimeconfig.cache
 G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. The number of positions\obj\Debug\net6.0\ref\A. The number of positions.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. The number of positions\obj\Debug\net6.0\A. The number of positions.sourcelink.json

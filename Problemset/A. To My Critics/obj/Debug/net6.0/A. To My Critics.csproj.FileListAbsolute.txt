@@ -12,3 +12,4 @@ G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. To My Critics\obj
 G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. To My Critics\obj\Debug\net6.0\A. To My Critics.pdb
 G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. To My Critics\obj\Debug\net6.0\A. To My Critics.genruntimeconfig.cache
 G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. To My Critics\obj\Debug\net6.0\ref\A. To My Critics.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. To My Critics\obj\Debug\net6.0\A. To My Critics.sourcelink.json

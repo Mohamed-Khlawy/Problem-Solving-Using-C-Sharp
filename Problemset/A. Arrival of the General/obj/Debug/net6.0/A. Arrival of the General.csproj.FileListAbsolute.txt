@@ -12,3 +12,4 @@ G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Arrival of the Ge
 G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Arrival of the General\obj\Debug\net6.0\A. Arrival of the General.pdb
 G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Arrival of the General\obj\Debug\net6.0\A. Arrival of the General.genruntimeconfig.cache
 G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Arrival of the General\obj\Debug\net6.0\ref\A. Arrival of the General.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Arrival of the General\obj\Debug\net6.0\A. Arrival of the General.sourcelink.json

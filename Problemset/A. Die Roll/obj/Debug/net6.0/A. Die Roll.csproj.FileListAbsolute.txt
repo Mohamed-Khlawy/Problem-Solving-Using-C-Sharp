@@ -12,3 +12,4 @@ G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Die Roll\obj\Debu
 G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Die Roll\obj\Debug\net6.0\A. Die Roll.pdb
 G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Die Roll\obj\Debug\net6.0\A. Die Roll.genruntimeconfig.cache
 G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Die Roll\obj\Debug\net6.0\ref\A. Die Roll.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Die Roll\obj\Debug\net6.0\A. Die Roll.sourcelink.json

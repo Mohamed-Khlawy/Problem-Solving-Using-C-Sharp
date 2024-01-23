@@ -12,3 +12,4 @@ G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. QAQ\obj\Debug\net
 G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. QAQ\obj\Debug\net6.0\A. QAQ.pdb
 G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. QAQ\obj\Debug\net6.0\A. QAQ.genruntimeconfig.cache
 G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. QAQ\obj\Debug\net6.0\ref\A. QAQ.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. QAQ\obj\Debug\net6.0\A. QAQ.sourcelink.json

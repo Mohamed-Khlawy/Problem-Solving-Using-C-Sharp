@@ -12,3 +12,4 @@ G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Ten Words of Wisd
 G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Ten Words of Wisdom\obj\Debug\net6.0\B. Ten Words of Wisdom.pdb
 G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Ten Words of Wisdom\obj\Debug\net6.0\B. Ten Words of Wisdom.genruntimeconfig.cache
 G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Ten Words of Wisdom\obj\Debug\net6.0\ref\B. Ten Words of Wisdom.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Ten Words of Wisdom\obj\Debug\net6.0\B. Ten Words of Wisdom.sourcelink.json

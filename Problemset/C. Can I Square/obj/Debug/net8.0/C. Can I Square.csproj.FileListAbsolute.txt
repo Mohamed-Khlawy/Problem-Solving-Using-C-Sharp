@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Can I Square\bin\Debug\net8.0\C. Can I Square.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Can I Square\bin\Debug\net8.0\C. Can I Square.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Can I Square\bin\Debug\net8.0\C. Can I Square.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Can I Square\bin\Debug\net8.0\C. Can I Square.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Can I Square\bin\Debug\net8.0\C. Can I Square.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Can I Square\obj\Debug\net8.0\C. Can I Square.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Can I Square\obj\Debug\net8.0\C. Can I Square.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Can I Square\obj\Debug\net8.0\C. Can I Square.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Can I Square\obj\Debug\net8.0\C. Can I Square.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Can I Square\obj\Debug\net8.0\C. Can I Square.sourcelink.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Can I Square\obj\Debug\net8.0\C. Can I Square.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Can I Square\obj\Debug\net8.0\refint\C. Can I Square.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Can I Square\obj\Debug\net8.0\C. Can I Square.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Can I Square\obj\Debug\net8.0\C. Can I Square.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Can I Square\obj\Debug\net8.0\ref\C. Can I Square.dll
