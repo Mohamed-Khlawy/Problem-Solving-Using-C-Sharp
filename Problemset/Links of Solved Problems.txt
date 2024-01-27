@@ -88,3 +88,5 @@ B. 01 Game ==> https://codeforces.com/problemset/problem/1373/B
 
 C. Can I Square? ==> https://codeforces.com/problemset/problem/1915/C
 
+A. Cipher Shifer ==> https://codeforces.com/problemset/problem/1840/A
+

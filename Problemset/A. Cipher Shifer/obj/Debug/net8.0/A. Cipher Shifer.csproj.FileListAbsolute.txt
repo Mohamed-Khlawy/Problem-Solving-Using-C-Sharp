@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Cipher Shifer\bin\Debug\net8.0\A. Cipher Shifer.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Cipher Shifer\bin\Debug\net8.0\A. Cipher Shifer.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Cipher Shifer\bin\Debug\net8.0\A. Cipher Shifer.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Cipher Shifer\bin\Debug\net8.0\A. Cipher Shifer.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Cipher Shifer\bin\Debug\net8.0\A. Cipher Shifer.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Cipher Shifer\obj\Debug\net8.0\A. Cipher Shifer.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Cipher Shifer\obj\Debug\net8.0\A. Cipher Shifer.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Cipher Shifer\obj\Debug\net8.0\A. Cipher Shifer.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Cipher Shifer\obj\Debug\net8.0\A. Cipher Shifer.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Cipher Shifer\obj\Debug\net8.0\A. Cipher Shifer.sourcelink.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Cipher Shifer\obj\Debug\net8.0\A. Cipher Shifer.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Cipher Shifer\obj\Debug\net8.0\refint\A. Cipher Shifer.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Cipher Shifer\obj\Debug\net8.0\A. Cipher Shifer.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Cipher Shifer\obj\Debug\net8.0\A. Cipher Shifer.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Cipher Shifer\obj\Debug\net8.0\ref\A. Cipher Shifer.dll

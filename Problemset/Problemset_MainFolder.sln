@@ -91,9 +91,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "B. Friends and Candies", "B
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "C. Odd_Even Increments", "C. Odd_Even Increments\C. Odd_Even Increments.csproj", "{28D085A6-B7D9-4118-BB9C-4877BDEAE7D5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "B. 01 Game", "B. 01 Game\B. 01 Game.csproj", "{EB63CC75-4014-4444-96B3-EAF2104A47A1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "B. 01 Game", "B. 01 Game\B. 01 Game.csproj", "{EB63CC75-4014-4444-96B3-EAF2104A47A1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C. Can I Square", "C. Can I Square\C. Can I Square.csproj", "{AC89B2B3-FFA0-4999-8B6E-614A8D428F2B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "C. Can I Square", "C. Can I Square\C. Can I Square.csproj", "{AC89B2B3-FFA0-4999-8B6E-614A8D428F2B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A. Cipher Shifer", "A. Cipher Shifer\A. Cipher Shifer.csproj", "{BA394B15-9BF0-45D9-976D-4C418B53C049}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -285,6 +287,10 @@ Global
 		{AC89B2B3-FFA0-4999-8B6E-614A8D428F2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AC89B2B3-FFA0-4999-8B6E-614A8D428F2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AC89B2B3-FFA0-4999-8B6E-614A8D428F2B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BA394B15-9BF0-45D9-976D-4C418B53C049}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA394B15-9BF0-45D9-976D-4C418B53C049}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA394B15-9BF0-45D9-976D-4C418B53C049}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA394B15-9BF0-45D9-976D-4C418B53C049}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
