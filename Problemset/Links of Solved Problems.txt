@@ -90,3 +90,5 @@ C. Can I Square? ==> https://codeforces.com/problemset/problem/1915/C
 
 A. Cipher Shifer ==> https://codeforces.com/problemset/problem/1840/A
 
+C. Clock Conversion ==> https://codeforces.com/problemset/problem/1950/C
+

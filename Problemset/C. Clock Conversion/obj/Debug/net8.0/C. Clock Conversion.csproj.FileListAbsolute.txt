@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Clock Conversion\bin\Debug\net8.0\C. Clock Conversion.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Clock Conversion\bin\Debug\net8.0\C. Clock Conversion.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Clock Conversion\bin\Debug\net8.0\C. Clock Conversion.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Clock Conversion\bin\Debug\net8.0\C. Clock Conversion.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Clock Conversion\bin\Debug\net8.0\C. Clock Conversion.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Clock Conversion\obj\Debug\net8.0\C. Clock Conversion.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Clock Conversion\obj\Debug\net8.0\C. Clock Conversion.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Clock Conversion\obj\Debug\net8.0\C. Clock Conversion.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Clock Conversion\obj\Debug\net8.0\C. Clock Conversion.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Clock Conversion\obj\Debug\net8.0\C. Clock Conversion.sourcelink.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Clock Conversion\obj\Debug\net8.0\C. Clock Conversion.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Clock Conversion\obj\Debug\net8.0\refint\C. Clock Conversion.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Clock Conversion\obj\Debug\net8.0\C. Clock Conversion.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Clock Conversion\obj\Debug\net8.0\C. Clock Conversion.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Clock Conversion\obj\Debug\net8.0\ref\C. Clock Conversion.dll
