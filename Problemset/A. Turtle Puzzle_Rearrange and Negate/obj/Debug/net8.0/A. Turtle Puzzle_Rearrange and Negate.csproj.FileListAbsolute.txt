@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Turtle Puzzle_Rearrange and Negate\bin\Debug\net8.0\A. Turtle Puzzle_Rearrange and Negate.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Turtle Puzzle_Rearrange and Negate\bin\Debug\net8.0\A. Turtle Puzzle_Rearrange and Negate.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Turtle Puzzle_Rearrange and Negate\bin\Debug\net8.0\A. Turtle Puzzle_Rearrange and Negate.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Turtle Puzzle_Rearrange and Negate\bin\Debug\net8.0\A. Turtle Puzzle_Rearrange and Negate.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Turtle Puzzle_Rearrange and Negate\bin\Debug\net8.0\A. Turtle Puzzle_Rearrange and Negate.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Turtle Puzzle_Rearrange and Negate\obj\Debug\net8.0\A. Turtle Puzzle_Rearrange and Negate.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Turtle Puzzle_Rearrange and Negate\obj\Debug\net8.0\A. Turtle Puzzle_Rearrange and Negate.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Turtle Puzzle_Rearrange and Negate\obj\Debug\net8.0\A. Turtle Puzzle_Rearrange and Negate.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Turtle Puzzle_Rearrange and Negate\obj\Debug\net8.0\A. Turtle Puzzle_Rearrange and Negate.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Turtle Puzzle_Rearrange and Negate\obj\Debug\net8.0\A. Turtle Puzzle_Rearrange and Negate.sourcelink.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Turtle Puzzle_Rearrange and Negate\obj\Debug\net8.0\A. Turtle Puzzle_Rearrange and Negate.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Turtle Puzzle_Rearrange and Negate\obj\Debug\net8.0\refint\A. Turtle Puzzle_Rearrange and Negate.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Turtle Puzzle_Rearrange and Negate\obj\Debug\net8.0\A. Turtle Puzzle_Rearrange and Negate.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Turtle Puzzle_Rearrange and Negate\obj\Debug\net8.0\A. Turtle Puzzle_Rearrange and Negate.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Turtle Puzzle_Rearrange and Negate\obj\Debug\net8.0\ref\A. Turtle Puzzle_Rearrange and Negate.dll

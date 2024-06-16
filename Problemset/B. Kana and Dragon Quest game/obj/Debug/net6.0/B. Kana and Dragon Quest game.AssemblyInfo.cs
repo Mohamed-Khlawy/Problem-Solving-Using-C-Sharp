@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("B. Kana and Dragon Quest game")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+09bca67b79d4ad352814ecec957f21242323c41d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+46462f7e4ad1a21b2c8edd15a13e66fc2d6853a0")]
 [assembly: System.Reflection.AssemblyProductAttribute("B. Kana and Dragon Quest game")]
 [assembly: System.Reflection.AssemblyTitleAttribute("B. Kana and Dragon Quest game")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

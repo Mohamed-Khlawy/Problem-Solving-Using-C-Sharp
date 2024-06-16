@@ -97,7 +97,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "C. Can I Square", "C. Can I
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "A. Cipher Shifer", "A. Cipher Shifer\A. Cipher Shifer.csproj", "{BA394B15-9BF0-45D9-976D-4C418B53C049}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C. Clock Conversion", "C. Clock Conversion\C. Clock Conversion.csproj", "{817CB4B6-1E4E-4DF7-8634-1D4C254AE882}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "C. Clock Conversion", "C. Clock Conversion\C. Clock Conversion.csproj", "{817CB4B6-1E4E-4DF7-8634-1D4C254AE882}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A. Turtle Puzzle_Rearrange and Negate", "A. Turtle Puzzle_Rearrange and Negate\A. Turtle Puzzle_Rearrange and Negate.csproj", "{3FC24CCB-1917-4E5E-93B5-9F14C623314E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -297,6 +299,10 @@ Global
 		{817CB4B6-1E4E-4DF7-8634-1D4C254AE882}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{817CB4B6-1E4E-4DF7-8634-1D4C254AE882}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{817CB4B6-1E4E-4DF7-8634-1D4C254AE882}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3FC24CCB-1917-4E5E-93B5-9F14C623314E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3FC24CCB-1917-4E5E-93B5-9F14C623314E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3FC24CCB-1917-4E5E-93B5-9F14C623314E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3FC24CCB-1917-4E5E-93B5-9F14C623314E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
