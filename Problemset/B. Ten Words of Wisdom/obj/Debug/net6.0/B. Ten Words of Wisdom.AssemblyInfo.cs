@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("B. Ten Words of Wisdom")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+46462f7e4ad1a21b2c8edd15a13e66fc2d6853a0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e1425a231f9dc27af209946cc96eccceca762721")]
 [assembly: System.Reflection.AssemblyProductAttribute("B. Ten Words of Wisdom")]
 [assembly: System.Reflection.AssemblyTitleAttribute("B. Ten Words of Wisdom")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

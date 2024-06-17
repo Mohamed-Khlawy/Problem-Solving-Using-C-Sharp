@@ -94,3 +94,5 @@ C. Clock Conversion ==> https://codeforces.com/problemset/problem/1950/C
 
 A. Turtle Puzzle: Rearrange and Negate ==> https://codeforces.com/problemset/problem/1933/A
 
+A. Buttons ==> https://codeforces.com/problemset/problem/1858/A
+
