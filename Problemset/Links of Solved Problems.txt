@@ -96,3 +96,5 @@ A. Turtle Puzzle: Rearrange and Negate ==> https://codeforces.com/problemset/pro
 
 A. Buttons ==> https://codeforces.com/problemset/problem/1858/A
 
+B. Upscaling ==> https://codeforces.com/problemset/problem/1950/B
+

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("B. Two-gram")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e1425a231f9dc27af209946cc96eccceca762721")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bb00f1b16592e3b70d764d72d89b863bba9ba69d")]
 [assembly: System.Reflection.AssemblyProductAttribute("B. Two-gram")]
 [assembly: System.Reflection.AssemblyTitleAttribute("B. Two-gram")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
