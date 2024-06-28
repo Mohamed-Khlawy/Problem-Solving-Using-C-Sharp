@@ -98,3 +98,5 @@ A. Buttons ==> https://codeforces.com/problemset/problem/1858/A
 
 B. Upscaling ==> https://codeforces.com/problemset/problem/1950/B
 
+B. Maximum Multiple Sum ==> https://codeforces.com/problemset/problem/1985/B
+

@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Maximum Multiple Sum\bin\Debug\net8.0\B. Maximum Multiple Sum.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Maximum Multiple Sum\bin\Debug\net8.0\B. Maximum Multiple Sum.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Maximum Multiple Sum\bin\Debug\net8.0\B. Maximum Multiple Sum.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Maximum Multiple Sum\bin\Debug\net8.0\B. Maximum Multiple Sum.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Maximum Multiple Sum\bin\Debug\net8.0\B. Maximum Multiple Sum.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Maximum Multiple Sum\obj\Debug\net8.0\B. Maximum Multiple Sum.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Maximum Multiple Sum\obj\Debug\net8.0\B. Maximum Multiple Sum.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Maximum Multiple Sum\obj\Debug\net8.0\B. Maximum Multiple Sum.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Maximum Multiple Sum\obj\Debug\net8.0\B. Maximum Multiple Sum.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Maximum Multiple Sum\obj\Debug\net8.0\B. Maximum Multiple Sum.sourcelink.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Maximum Multiple Sum\obj\Debug\net8.0\B. Maximum Multiple Sum.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Maximum Multiple Sum\obj\Debug\net8.0\refint\B. Maximum Multiple Sum.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Maximum Multiple Sum\obj\Debug\net8.0\B. Maximum Multiple Sum.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Maximum Multiple Sum\obj\Debug\net8.0\B. Maximum Multiple Sum.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Maximum Multiple Sum\obj\Debug\net8.0\ref\B. Maximum Multiple Sum.dll
