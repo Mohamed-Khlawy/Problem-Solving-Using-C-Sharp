@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Problem Generator\bin\Debug\net8.0\A. Problem Generator.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Problem Generator\bin\Debug\net8.0\A. Problem Generator.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Problem Generator\bin\Debug\net8.0\A. Problem Generator.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Problem Generator\bin\Debug\net8.0\A. Problem Generator.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Problem Generator\bin\Debug\net8.0\A. Problem Generator.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Problem Generator\obj\Debug\net8.0\A. Problem Generator.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Problem Generator\obj\Debug\net8.0\A. Problem Generator.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Problem Generator\obj\Debug\net8.0\A. Problem Generator.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Problem Generator\obj\Debug\net8.0\A. Problem Generator.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Problem Generator\obj\Debug\net8.0\A. Problem Generator.sourcelink.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Problem Generator\obj\Debug\net8.0\A. Problem Generator.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Problem Generator\obj\Debug\net8.0\refint\A. Problem Generator.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Problem Generator\obj\Debug\net8.0\A. Problem Generator.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Problem Generator\obj\Debug\net8.0\A. Problem Generator.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Problem Generator\obj\Debug\net8.0\ref\A. Problem Generator.dll

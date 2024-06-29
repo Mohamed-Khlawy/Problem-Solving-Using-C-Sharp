@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("A. Vasya and Coins")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+32f6e11dd181c11dcf95ee957ba55ad8bfc8e556")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4d99ea94994e90edc82def6e4193b070e267ca49")]
 [assembly: System.Reflection.AssemblyProductAttribute("A. Vasya and Coins")]
 [assembly: System.Reflection.AssemblyTitleAttribute("A. Vasya and Coins")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

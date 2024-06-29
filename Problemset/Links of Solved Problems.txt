@@ -100,3 +100,5 @@ B. Upscaling ==> https://codeforces.com/problemset/problem/1950/B
 
 B. Maximum Multiple Sum ==> https://codeforces.com/problemset/problem/1985/B
 
+A. Problem Generator ==> https://codeforces.com/problemset/problem/1980/A
+
