@@ -102,3 +102,5 @@ B. Maximum Multiple Sum ==> https://codeforces.com/problemset/problem/1985/B
 
 A. Problem Generator ==> https://codeforces.com/problemset/problem/1980/A
 
+A. Rook ==> https://codeforces.com/problemset/problem/1907/A
+
