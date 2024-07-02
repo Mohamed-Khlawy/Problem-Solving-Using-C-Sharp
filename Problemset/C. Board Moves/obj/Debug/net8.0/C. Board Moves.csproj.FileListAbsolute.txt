@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Board Moves\bin\Debug\net8.0\C. Board Moves.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Board Moves\bin\Debug\net8.0\C. Board Moves.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Board Moves\bin\Debug\net8.0\C. Board Moves.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Board Moves\bin\Debug\net8.0\C. Board Moves.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Board Moves\bin\Debug\net8.0\C. Board Moves.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Board Moves\obj\Debug\net8.0\C. Board Moves.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Board Moves\obj\Debug\net8.0\C. Board Moves.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Board Moves\obj\Debug\net8.0\C. Board Moves.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Board Moves\obj\Debug\net8.0\C. Board Moves.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Board Moves\obj\Debug\net8.0\C. Board Moves.sourcelink.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Board Moves\obj\Debug\net8.0\C. Board Moves.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Board Moves\obj\Debug\net8.0\refint\C. Board Moves.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Board Moves\obj\Debug\net8.0\C. Board Moves.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Board Moves\obj\Debug\net8.0\C. Board Moves.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Board Moves\obj\Debug\net8.0\ref\C. Board Moves.dll
