@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\D. Balanced Round\bin\Debug\net8.0\D. Balanced Round.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\D. Balanced Round\bin\Debug\net8.0\D. Balanced Round.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\D. Balanced Round\bin\Debug\net8.0\D. Balanced Round.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\D. Balanced Round\bin\Debug\net8.0\D. Balanced Round.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\D. Balanced Round\bin\Debug\net8.0\D. Balanced Round.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\D. Balanced Round\obj\Debug\net8.0\D. Balanced Round.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\D. Balanced Round\obj\Debug\net8.0\D. Balanced Round.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\D. Balanced Round\obj\Debug\net8.0\D. Balanced Round.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\D. Balanced Round\obj\Debug\net8.0\D. Balanced Round.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\D. Balanced Round\obj\Debug\net8.0\D. Balanced Round.sourcelink.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\D. Balanced Round\obj\Debug\net8.0\D. Balanced Round.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\D. Balanced Round\obj\Debug\net8.0\refint\D. Balanced Round.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\D. Balanced Round\obj\Debug\net8.0\D. Balanced Round.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\D. Balanced Round\obj\Debug\net8.0\D. Balanced Round.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\D. Balanced Round\obj\Debug\net8.0\ref\D. Balanced Round.dll

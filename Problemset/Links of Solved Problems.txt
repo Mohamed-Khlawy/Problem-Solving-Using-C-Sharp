@@ -106,3 +106,5 @@ A. Rook ==> https://codeforces.com/problemset/problem/1907/A
 
 C. Board Moves ==> https://codeforces.com/problemset/problem/1353/C
 
+D. Balanced Round ==> https://codeforces.com/problemset/problem/1850/D
+
