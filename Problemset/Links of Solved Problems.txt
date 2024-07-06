@@ -110,3 +110,5 @@ D. Balanced Round ==> https://codeforces.com/problemset/problem/1850/D
 
 D. 1D Eraser ==> https://codeforces.com/problemset/problem/1873/D
 
+A. Sasha and Array Coloring ==> https://codeforces.com/problemset/problem/1843/A
+

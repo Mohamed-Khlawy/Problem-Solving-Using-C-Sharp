@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("C. Odd_Even Increments")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a244a57363fbb9ba3552b60763742f015e13ddbd")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f75c446a42dbdcfcf88590815acd9e44d329c466")]
 [assembly: System.Reflection.AssemblyProductAttribute("C. Odd_Even Increments")]
 [assembly: System.Reflection.AssemblyTitleAttribute("C. Odd_Even Increments")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Sasha and Array Coloring\bin\Debug\net8.0\A. Sasha and Array Coloring.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Sasha and Array Coloring\bin\Debug\net8.0\A. Sasha and Array Coloring.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Sasha and Array Coloring\bin\Debug\net8.0\A. Sasha and Array Coloring.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Sasha and Array Coloring\bin\Debug\net8.0\A. Sasha and Array Coloring.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Sasha and Array Coloring\bin\Debug\net8.0\A. Sasha and Array Coloring.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Sasha and Array Coloring\obj\Debug\net8.0\A. Sasha and Array Coloring.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Sasha and Array Coloring\obj\Debug\net8.0\A. Sasha and Array Coloring.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Sasha and Array Coloring\obj\Debug\net8.0\A. Sasha and Array Coloring.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Sasha and Array Coloring\obj\Debug\net8.0\A. Sasha and Array Coloring.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Sasha and Array Coloring\obj\Debug\net8.0\A. Sasha and Array Coloring.sourcelink.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Sasha and Array Coloring\obj\Debug\net8.0\A. Sasha and Array Coloring.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Sasha and Array Coloring\obj\Debug\net8.0\refint\A. Sasha and Array Coloring.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Sasha and Array Coloring\obj\Debug\net8.0\A. Sasha and Array Coloring.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Sasha and Array Coloring\obj\Debug\net8.0\A. Sasha and Array Coloring.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Sasha and Array Coloring\obj\Debug\net8.0\ref\A. Sasha and Array Coloring.dll
