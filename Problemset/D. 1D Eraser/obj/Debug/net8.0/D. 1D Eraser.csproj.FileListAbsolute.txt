@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\D. 1D Eraser\bin\Debug\net8.0\D. 1D Eraser.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\D. 1D Eraser\bin\Debug\net8.0\D. 1D Eraser.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\D. 1D Eraser\bin\Debug\net8.0\D. 1D Eraser.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\D. 1D Eraser\bin\Debug\net8.0\D. 1D Eraser.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\D. 1D Eraser\bin\Debug\net8.0\D. 1D Eraser.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\D. 1D Eraser\obj\Debug\net8.0\D. 1D Eraser.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\D. 1D Eraser\obj\Debug\net8.0\D. 1D Eraser.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\D. 1D Eraser\obj\Debug\net8.0\D. 1D Eraser.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\D. 1D Eraser\obj\Debug\net8.0\D. 1D Eraser.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\D. 1D Eraser\obj\Debug\net8.0\D. 1D Eraser.sourcelink.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\D. 1D Eraser\obj\Debug\net8.0\D. 1D Eraser.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\D. 1D Eraser\obj\Debug\net8.0\refint\D. 1D Eraser.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\D. 1D Eraser\obj\Debug\net8.0\D. 1D Eraser.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\D. 1D Eraser\obj\Debug\net8.0\D. 1D Eraser.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\D. 1D Eraser\obj\Debug\net8.0\ref\D. 1D Eraser.dll

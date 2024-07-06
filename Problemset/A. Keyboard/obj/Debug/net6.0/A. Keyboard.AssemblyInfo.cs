@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("A. Keyboard")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4d20da9a440695b8240ead4e0b8a071b951a8a2b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a244a57363fbb9ba3552b60763742f015e13ddbd")]
 [assembly: System.Reflection.AssemblyProductAttribute("A. Keyboard")]
 [assembly: System.Reflection.AssemblyTitleAttribute("A. Keyboard")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

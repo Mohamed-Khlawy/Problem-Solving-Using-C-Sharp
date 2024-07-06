@@ -108,3 +108,5 @@ C. Board Moves ==> https://codeforces.com/problemset/problem/1353/C
 
 D. Balanced Round ==> https://codeforces.com/problemset/problem/1850/D
 
+D. 1D Eraser ==> https://codeforces.com/problemset/problem/1873/D
+
