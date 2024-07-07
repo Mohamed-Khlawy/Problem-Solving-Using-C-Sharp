@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. All Distinct\bin\Debug\net8.0\B. All Distinct.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. All Distinct\bin\Debug\net8.0\B. All Distinct.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. All Distinct\bin\Debug\net8.0\B. All Distinct.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. All Distinct\bin\Debug\net8.0\B. All Distinct.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. All Distinct\bin\Debug\net8.0\B. All Distinct.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. All Distinct\obj\Debug\net8.0\B. All Distinct.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. All Distinct\obj\Debug\net8.0\B. All Distinct.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. All Distinct\obj\Debug\net8.0\B. All Distinct.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. All Distinct\obj\Debug\net8.0\B. All Distinct.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. All Distinct\obj\Debug\net8.0\B. All Distinct.sourcelink.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. All Distinct\obj\Debug\net8.0\B. All Distinct.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. All Distinct\obj\Debug\net8.0\refint\B. All Distinct.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. All Distinct\obj\Debug\net8.0\B. All Distinct.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. All Distinct\obj\Debug\net8.0\B. All Distinct.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. All Distinct\obj\Debug\net8.0\ref\B. All Distinct.dll
