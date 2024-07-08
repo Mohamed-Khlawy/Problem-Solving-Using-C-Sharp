@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. X Axis\bin\Debug\net8.0\A. X Axis.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. X Axis\bin\Debug\net8.0\A. X Axis.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. X Axis\bin\Debug\net8.0\A. X Axis.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. X Axis\bin\Debug\net8.0\A. X Axis.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. X Axis\bin\Debug\net8.0\A. X Axis.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. X Axis\obj\Debug\net8.0\A. X Axis.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. X Axis\obj\Debug\net8.0\A. X Axis.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. X Axis\obj\Debug\net8.0\A. X Axis.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. X Axis\obj\Debug\net8.0\A. X Axis.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. X Axis\obj\Debug\net8.0\A. X Axis.sourcelink.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. X Axis\obj\Debug\net8.0\A. X Axis.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. X Axis\obj\Debug\net8.0\refint\A. X Axis.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. X Axis\obj\Debug\net8.0\A. X Axis.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. X Axis\obj\Debug\net8.0\A. X Axis.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. X Axis\obj\Debug\net8.0\ref\A. X Axis.dll

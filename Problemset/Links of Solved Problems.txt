@@ -114,3 +114,5 @@ A. Sasha and Array Coloring ==> https://codeforces.com/problemset/problem/1843/A
 
 B. All Distinct ==> https://codeforces.com/problemset/problem/1692/B
 
+A. X Axis ==> https://codeforces.com/problemset/problem/1986/A
+

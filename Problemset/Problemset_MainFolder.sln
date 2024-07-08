@@ -119,7 +119,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "D. 1D Eraser", "D. 1D Erase
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "A. Sasha and Array Coloring", "A. Sasha and Array Coloring\A. Sasha and Array Coloring.csproj", "{63031C00-1B94-4C4A-A310-248065A76279}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "B. All Distinct", "B. All Distinct\B. All Distinct.csproj", "{A3D804B6-3493-4CF0-8994-25036E52B68D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "B. All Distinct", "B. All Distinct\B. All Distinct.csproj", "{A3D804B6-3493-4CF0-8994-25036E52B68D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A. X Axis", "A. X Axis\A. X Axis.csproj", "{6893BA4E-2AE7-421F-98BD-DE41F7B320E9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -363,6 +365,10 @@ Global
 		{A3D804B6-3493-4CF0-8994-25036E52B68D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A3D804B6-3493-4CF0-8994-25036E52B68D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A3D804B6-3493-4CF0-8994-25036E52B68D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6893BA4E-2AE7-421F-98BD-DE41F7B320E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6893BA4E-2AE7-421F-98BD-DE41F7B320E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6893BA4E-2AE7-421F-98BD-DE41F7B320E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6893BA4E-2AE7-421F-98BD-DE41F7B320E9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
