@@ -118,3 +118,5 @@ A. X Axis ==> https://codeforces.com/problemset/problem/1986/A
 
 A. Jzzhu and Children ==> https://codeforces.com/problemset/problem/450/A
 
+C. Where's the Bishop? ==> https://codeforces.com/problemset/problem/1692/C
+

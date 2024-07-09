@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "C. Where's the Bishop/1.0.0": {
+        "runtime": {
+          "C. Where's the Bishop.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "C. Where's the Bishop/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
