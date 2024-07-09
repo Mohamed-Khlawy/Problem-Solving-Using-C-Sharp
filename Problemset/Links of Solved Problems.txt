@@ -120,3 +120,5 @@ A. Jzzhu and Children ==> https://codeforces.com/problemset/problem/450/A
 
 C. Where's the Bishop? ==> https://codeforces.com/problemset/problem/1692/C
 
+B. Different String ==> https://codeforces.com/problemset/problem/1971/B
+
