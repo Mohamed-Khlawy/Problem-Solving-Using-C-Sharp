@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Arranging Cats\bin\Debug\net8.0\B. Arranging Cats.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Arranging Cats\bin\Debug\net8.0\B. Arranging Cats.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Arranging Cats\bin\Debug\net8.0\B. Arranging Cats.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Arranging Cats\bin\Debug\net8.0\B. Arranging Cats.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Arranging Cats\bin\Debug\net8.0\B. Arranging Cats.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Arranging Cats\obj\Debug\net8.0\B. Arranging Cats.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Arranging Cats\obj\Debug\net8.0\B. Arranging Cats.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Arranging Cats\obj\Debug\net8.0\B. Arranging Cats.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Arranging Cats\obj\Debug\net8.0\B. Arranging Cats.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Arranging Cats\obj\Debug\net8.0\B. Arranging Cats.sourcelink.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Arranging Cats\obj\Debug\net8.0\B. Arranging Cats.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Arranging Cats\obj\Debug\net8.0\refint\B. Arranging Cats.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Arranging Cats\obj\Debug\net8.0\B. Arranging Cats.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Arranging Cats\obj\Debug\net8.0\B. Arranging Cats.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Arranging Cats\obj\Debug\net8.0\ref\B. Arranging Cats.dll

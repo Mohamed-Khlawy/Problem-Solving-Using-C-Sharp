@@ -122,3 +122,5 @@ C. Where's the Bishop? ==> https://codeforces.com/problemset/problem/1692/C
 
 B. Different String ==> https://codeforces.com/problemset/problem/1971/B
 
+B. Arranging Cats ==> https://codeforces.com/problemset/problem/1921/B
+
