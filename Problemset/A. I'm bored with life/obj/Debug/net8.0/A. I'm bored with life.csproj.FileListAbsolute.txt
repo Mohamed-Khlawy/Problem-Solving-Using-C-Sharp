@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. I'm bored with life\bin\Debug\net8.0\A. I'm bored with life.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. I'm bored with life\bin\Debug\net8.0\A. I'm bored with life.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. I'm bored with life\bin\Debug\net8.0\A. I'm bored with life.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. I'm bored with life\bin\Debug\net8.0\A. I'm bored with life.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. I'm bored with life\bin\Debug\net8.0\A. I'm bored with life.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. I'm bored with life\obj\Debug\net8.0\A. I'm bored with life.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. I'm bored with life\obj\Debug\net8.0\A. I'm bored with life.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. I'm bored with life\obj\Debug\net8.0\A. I'm bored with life.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. I'm bored with life\obj\Debug\net8.0\A. I'm bored with life.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. I'm bored with life\obj\Debug\net8.0\A. I'm bored with life.sourcelink.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. I'm bored with life\obj\Debug\net8.0\A. I'm bored with life.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. I'm bored with life\obj\Debug\net8.0\refint\A. I'm bored with life.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. I'm bored with life\obj\Debug\net8.0\A. I'm bored with life.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. I'm bored with life\obj\Debug\net8.0\A. I'm bored with life.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. I'm bored with life\obj\Debug\net8.0\ref\A. I'm bored with life.dll

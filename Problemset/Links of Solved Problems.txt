@@ -126,3 +126,5 @@ B. Arranging Cats ==> https://codeforces.com/problemset/problem/1921/B
 
 A. Wallet Exchange ==> https://codeforces.com/problemset/problem/1919/A
 
+A. I'm bored with life ==> https://codeforces.com/problemset/problem/822/A
+
