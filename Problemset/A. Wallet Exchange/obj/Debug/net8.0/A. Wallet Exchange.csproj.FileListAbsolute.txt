@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Wallet Exchange\bin\Debug\net8.0\A. Wallet Exchange.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Wallet Exchange\bin\Debug\net8.0\A. Wallet Exchange.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Wallet Exchange\bin\Debug\net8.0\A. Wallet Exchange.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Wallet Exchange\bin\Debug\net8.0\A. Wallet Exchange.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Wallet Exchange\bin\Debug\net8.0\A. Wallet Exchange.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Wallet Exchange\obj\Debug\net8.0\A. Wallet Exchange.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Wallet Exchange\obj\Debug\net8.0\A. Wallet Exchange.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Wallet Exchange\obj\Debug\net8.0\A. Wallet Exchange.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Wallet Exchange\obj\Debug\net8.0\A. Wallet Exchange.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Wallet Exchange\obj\Debug\net8.0\A. Wallet Exchange.sourcelink.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Wallet Exchange\obj\Debug\net8.0\A. Wallet Exchange.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Wallet Exchange\obj\Debug\net8.0\refint\A. Wallet Exchange.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Wallet Exchange\obj\Debug\net8.0\A. Wallet Exchange.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Wallet Exchange\obj\Debug\net8.0\A. Wallet Exchange.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Wallet Exchange\obj\Debug\net8.0\ref\A. Wallet Exchange.dll

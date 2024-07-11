@@ -129,7 +129,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "C. Where's the Bishop", "C.
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "B. Different String", "B. Different String\B. Different String.csproj", "{F0AF0CAF-F85B-4883-9D38-ACC99F7DB9BD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "B. Arranging Cats", "B. Arranging Cats\B. Arranging Cats.csproj", "{4FD0D6D4-A4C8-47E8-BA21-157E236DCE7F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "B. Arranging Cats", "B. Arranging Cats\B. Arranging Cats.csproj", "{4FD0D6D4-A4C8-47E8-BA21-157E236DCE7F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A. Wallet Exchange", "A. Wallet Exchange\A. Wallet Exchange.csproj", "{EB0EAE57-C5F5-41AE-BA9F-C9F7F5ACD007}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -393,6 +395,10 @@ Global
 		{4FD0D6D4-A4C8-47E8-BA21-157E236DCE7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4FD0D6D4-A4C8-47E8-BA21-157E236DCE7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4FD0D6D4-A4C8-47E8-BA21-157E236DCE7F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EB0EAE57-C5F5-41AE-BA9F-C9F7F5ACD007}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB0EAE57-C5F5-41AE-BA9F-C9F7F5ACD007}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB0EAE57-C5F5-41AE-BA9F-C9F7F5ACD007}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB0EAE57-C5F5-41AE-BA9F-C9F7F5ACD007}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

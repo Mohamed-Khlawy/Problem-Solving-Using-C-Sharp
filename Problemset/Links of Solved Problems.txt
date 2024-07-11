@@ -124,3 +124,5 @@ B. Different String ==> https://codeforces.com/problemset/problem/1971/B
 
 B. Arranging Cats ==> https://codeforces.com/problemset/problem/1921/B
 
+A. Wallet Exchange ==> https://codeforces.com/problemset/problem/1919/A
+
