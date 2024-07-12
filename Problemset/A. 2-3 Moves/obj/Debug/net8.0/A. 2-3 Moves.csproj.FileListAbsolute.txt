@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. 2-3 Moves\bin\Debug\net8.0\A. 2-3 Moves.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. 2-3 Moves\bin\Debug\net8.0\A. 2-3 Moves.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. 2-3 Moves\bin\Debug\net8.0\A. 2-3 Moves.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. 2-3 Moves\bin\Debug\net8.0\A. 2-3 Moves.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. 2-3 Moves\bin\Debug\net8.0\A. 2-3 Moves.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. 2-3 Moves\obj\Debug\net8.0\A. 2-3 Moves.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. 2-3 Moves\obj\Debug\net8.0\A. 2-3 Moves.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. 2-3 Moves\obj\Debug\net8.0\A. 2-3 Moves.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. 2-3 Moves\obj\Debug\net8.0\A. 2-3 Moves.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. 2-3 Moves\obj\Debug\net8.0\A. 2-3 Moves.sourcelink.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. 2-3 Moves\obj\Debug\net8.0\A. 2-3 Moves.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. 2-3 Moves\obj\Debug\net8.0\refint\A. 2-3 Moves.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. 2-3 Moves\obj\Debug\net8.0\A. 2-3 Moves.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. 2-3 Moves\obj\Debug\net8.0\A. 2-3 Moves.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. 2-3 Moves\obj\Debug\net8.0\ref\A. 2-3 Moves.dll

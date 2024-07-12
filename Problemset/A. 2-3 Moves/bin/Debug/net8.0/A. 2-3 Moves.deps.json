@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "A. 2-3 Moves/1.0.0": {
+        "runtime": {
+          "A. 2-3 Moves.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "A. 2-3 Moves/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
