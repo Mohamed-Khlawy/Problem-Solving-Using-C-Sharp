@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Food for Animals\bin\Debug\net8.0\A. Food for Animals.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Food for Animals\bin\Debug\net8.0\A. Food for Animals.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Food for Animals\bin\Debug\net8.0\A. Food for Animals.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Food for Animals\bin\Debug\net8.0\A. Food for Animals.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Food for Animals\bin\Debug\net8.0\A. Food for Animals.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Food for Animals\obj\Debug\net8.0\A. Food for Animals.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Food for Animals\obj\Debug\net8.0\A. Food for Animals.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Food for Animals\obj\Debug\net8.0\A. Food for Animals.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Food for Animals\obj\Debug\net8.0\A. Food for Animals.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Food for Animals\obj\Debug\net8.0\A. Food for Animals.sourcelink.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Food for Animals\obj\Debug\net8.0\A. Food for Animals.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Food for Animals\obj\Debug\net8.0\refint\A. Food for Animals.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Food for Animals\obj\Debug\net8.0\A. Food for Animals.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Food for Animals\obj\Debug\net8.0\A. Food for Animals.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Food for Animals\obj\Debug\net8.0\ref\A. Food for Animals.dll
