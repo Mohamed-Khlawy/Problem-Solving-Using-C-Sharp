@@ -132,3 +132,5 @@ A. 2-3 Moves ==> https://codeforces.com/problemset/problem/1716/A
 
 A. Food for Animals ==> https://codeforces.com/problemset/problem/1675/A
 
+A. Musical Puzzle ==> https://codeforces.com/problemset/problem/1833/A
+

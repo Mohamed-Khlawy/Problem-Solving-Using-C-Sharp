@@ -139,6 +139,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "A. 2-3 Moves", "A. 2-3 Move
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A. Food for Animals", "A. Food for Animals\A. Food for Animals.csproj", "{0B977079-EF08-4952-B121-FA48DCBA09C9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A. Musical Puzzle", "A. Musical Puzzle\A. Musical Puzzle.csproj", "{E89BD767-EEE3-44D3-94D3-CCC3BD2B31FE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -417,6 +419,10 @@ Global
 		{0B977079-EF08-4952-B121-FA48DCBA09C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0B977079-EF08-4952-B121-FA48DCBA09C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0B977079-EF08-4952-B121-FA48DCBA09C9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E89BD767-EEE3-44D3-94D3-CCC3BD2B31FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E89BD767-EEE3-44D3-94D3-CCC3BD2B31FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E89BD767-EEE3-44D3-94D3-CCC3BD2B31FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E89BD767-EEE3-44D3-94D3-CCC3BD2B31FE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
