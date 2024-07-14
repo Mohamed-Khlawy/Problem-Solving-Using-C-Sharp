@@ -134,3 +134,5 @@ A. Food for Animals ==> https://codeforces.com/problemset/problem/1675/A
 
 A. Musical Puzzle ==> https://codeforces.com/problemset/problem/1833/A
 
+A. Polycarp and Sums of Subsequences ==> https://codeforces.com/problemset/problem/1618/A
+

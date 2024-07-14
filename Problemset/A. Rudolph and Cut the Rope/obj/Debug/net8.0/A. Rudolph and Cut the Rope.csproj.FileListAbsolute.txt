@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Rudolph and Cut the Rope\bin\Debug\net8.0\A. Rudolph and Cut the Rope.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Rudolph and Cut the Rope\bin\Debug\net8.0\A. Rudolph and Cut the Rope.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Rudolph and Cut the Rope\bin\Debug\net8.0\A. Rudolph and Cut the Rope.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Rudolph and Cut the Rope\bin\Debug\net8.0\A. Rudolph and Cut the Rope.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Rudolph and Cut the Rope\bin\Debug\net8.0\A. Rudolph and Cut the Rope.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Rudolph and Cut the Rope\obj\Debug\net8.0\A. Rudolph and Cut the Rope.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Rudolph and Cut the Rope\obj\Debug\net8.0\A. Rudolph and Cut the Rope.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Rudolph and Cut the Rope\obj\Debug\net8.0\A. Rudolph and Cut the Rope.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Rudolph and Cut the Rope\obj\Debug\net8.0\A. Rudolph and Cut the Rope.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Rudolph and Cut the Rope\obj\Debug\net8.0\A. Rudolph and Cut the Rope.sourcelink.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Rudolph and Cut the Rope\obj\Debug\net8.0\A. Rudolph and Cut the Rope.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Rudolph and Cut the Rope\obj\Debug\net8.0\refint\A. Rudolph and Cut the Rope.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Rudolph and Cut the Rope\obj\Debug\net8.0\A. Rudolph and Cut the Rope.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Rudolph and Cut the Rope\obj\Debug\net8.0\A. Rudolph and Cut the Rope.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Rudolph and Cut the Rope\obj\Debug\net8.0\ref\A. Rudolph and Cut the Rope.dll

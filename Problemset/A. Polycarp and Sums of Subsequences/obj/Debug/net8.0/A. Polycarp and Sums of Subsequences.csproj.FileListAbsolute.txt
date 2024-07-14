@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Polycarp and Sums of Subsequences\bin\Debug\net8.0\A. Polycarp and Sums of Subsequences.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Polycarp and Sums of Subsequences\bin\Debug\net8.0\A. Polycarp and Sums of Subsequences.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Polycarp and Sums of Subsequences\bin\Debug\net8.0\A. Polycarp and Sums of Subsequences.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Polycarp and Sums of Subsequences\bin\Debug\net8.0\A. Polycarp and Sums of Subsequences.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Polycarp and Sums of Subsequences\bin\Debug\net8.0\A. Polycarp and Sums of Subsequences.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Polycarp and Sums of Subsequences\obj\Debug\net8.0\A. Polycarp and Sums of Subsequences.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Polycarp and Sums of Subsequences\obj\Debug\net8.0\A. Polycarp and Sums of Subsequences.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Polycarp and Sums of Subsequences\obj\Debug\net8.0\A. Polycarp and Sums of Subsequences.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Polycarp and Sums of Subsequences\obj\Debug\net8.0\A. Polycarp and Sums of Subsequences.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Polycarp and Sums of Subsequences\obj\Debug\net8.0\A. Polycarp and Sums of Subsequences.sourcelink.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Polycarp and Sums of Subsequences\obj\Debug\net8.0\A. Polycarp and Sums of Subsequences.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Polycarp and Sums of Subsequences\obj\Debug\net8.0\refint\A. Polycarp and Sums of Subsequences.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Polycarp and Sums of Subsequences\obj\Debug\net8.0\A. Polycarp and Sums of Subsequences.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Polycarp and Sums of Subsequences\obj\Debug\net8.0\A. Polycarp and Sums of Subsequences.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Polycarp and Sums of Subsequences\obj\Debug\net8.0\ref\A. Polycarp and Sums of Subsequences.dll
