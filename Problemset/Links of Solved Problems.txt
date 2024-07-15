@@ -140,3 +140,5 @@ A. Rudolph and Cut the Rope ==> https://codeforces.com/problemset/problem/1846/A
 
 A. Gregor and Cryptography ==> https://codeforces.com/problemset/problem/1549/A
 
+B. Mahmoud and a Triangle ==> https://codeforces.com/problemset/problem/766/B
+

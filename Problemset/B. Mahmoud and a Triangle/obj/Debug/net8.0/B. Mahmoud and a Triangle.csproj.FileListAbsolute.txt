@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Mahmoud and a Triangle\bin\Debug\net8.0\B. Mahmoud and a Triangle.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Mahmoud and a Triangle\bin\Debug\net8.0\B. Mahmoud and a Triangle.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Mahmoud and a Triangle\bin\Debug\net8.0\B. Mahmoud and a Triangle.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Mahmoud and a Triangle\bin\Debug\net8.0\B. Mahmoud and a Triangle.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Mahmoud and a Triangle\bin\Debug\net8.0\B. Mahmoud and a Triangle.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Mahmoud and a Triangle\obj\Debug\net8.0\B. Mahmoud and a Triangle.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Mahmoud and a Triangle\obj\Debug\net8.0\B. Mahmoud and a Triangle.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Mahmoud and a Triangle\obj\Debug\net8.0\B. Mahmoud and a Triangle.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Mahmoud and a Triangle\obj\Debug\net8.0\B. Mahmoud and a Triangle.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Mahmoud and a Triangle\obj\Debug\net8.0\B. Mahmoud and a Triangle.sourcelink.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Mahmoud and a Triangle\obj\Debug\net8.0\B. Mahmoud and a Triangle.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Mahmoud and a Triangle\obj\Debug\net8.0\refint\B. Mahmoud and a Triangle.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Mahmoud and a Triangle\obj\Debug\net8.0\B. Mahmoud and a Triangle.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Mahmoud and a Triangle\obj\Debug\net8.0\B. Mahmoud and a Triangle.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Mahmoud and a Triangle\obj\Debug\net8.0\ref\B. Mahmoud and a Triangle.dll

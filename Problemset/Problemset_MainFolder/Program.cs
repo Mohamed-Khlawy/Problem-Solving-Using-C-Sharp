@@ -14,7 +14,7 @@ namespace Problemset_MainFolder
 
             while (tests-- > 0)
             {
-                
+
             }
         }
     }
