@@ -138,3 +138,5 @@ A. Polycarp and Sums of Subsequences ==> https://codeforces.com/problemset/probl
 
 A. Rudolph and Cut the Rope ==> https://codeforces.com/problemset/problem/1846/A
 
+A. Gregor and Cryptography ==> https://codeforces.com/problemset/problem/1549/A
+

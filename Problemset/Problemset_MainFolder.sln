@@ -141,9 +141,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "A. Food for Animals", "A. F
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "A. Musical Puzzle", "A. Musical Puzzle\A. Musical Puzzle.csproj", "{E89BD767-EEE3-44D3-94D3-CCC3BD2B31FE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A. Polycarp and Sums of Subsequences", "A. Polycarp and Sums of Subsequences\A. Polycarp and Sums of Subsequences.csproj", "{7D15562C-E2ED-485E-B8C1-9F42EDC15447}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "A. Polycarp and Sums of Subsequences", "A. Polycarp and Sums of Subsequences\A. Polycarp and Sums of Subsequences.csproj", "{7D15562C-E2ED-485E-B8C1-9F42EDC15447}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A. Rudolph and Cut the Rope", "A. Rudolph and Cut the Rope\A. Rudolph and Cut the Rope.csproj", "{DA2BC3A5-012C-4007-BD64-EB148C4E83D1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "A. Rudolph and Cut the Rope", "A. Rudolph and Cut the Rope\A. Rudolph and Cut the Rope.csproj", "{DA2BC3A5-012C-4007-BD64-EB148C4E83D1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A. Gregor and Cryptography", "A. Gregor and Cryptography\A. Gregor and Cryptography.csproj", "{42A7DED5-8C07-44C7-963C-34D59F8E7505}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -435,6 +437,10 @@ Global
 		{DA2BC3A5-012C-4007-BD64-EB148C4E83D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DA2BC3A5-012C-4007-BD64-EB148C4E83D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DA2BC3A5-012C-4007-BD64-EB148C4E83D1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{42A7DED5-8C07-44C7-963C-34D59F8E7505}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42A7DED5-8C07-44C7-963C-34D59F8E7505}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42A7DED5-8C07-44C7-963C-34D59F8E7505}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42A7DED5-8C07-44C7-963C-34D59F8E7505}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Gregor and Cryptography\bin\Debug\net8.0\A. Gregor and Cryptography.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Gregor and Cryptography\bin\Debug\net8.0\A. Gregor and Cryptography.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Gregor and Cryptography\bin\Debug\net8.0\A. Gregor and Cryptography.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Gregor and Cryptography\bin\Debug\net8.0\A. Gregor and Cryptography.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Gregor and Cryptography\bin\Debug\net8.0\A. Gregor and Cryptography.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Gregor and Cryptography\obj\Debug\net8.0\A. Gregor and Cryptography.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Gregor and Cryptography\obj\Debug\net8.0\A. Gregor and Cryptography.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Gregor and Cryptography\obj\Debug\net8.0\A. Gregor and Cryptography.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Gregor and Cryptography\obj\Debug\net8.0\A. Gregor and Cryptography.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Gregor and Cryptography\obj\Debug\net8.0\A. Gregor and Cryptography.sourcelink.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Gregor and Cryptography\obj\Debug\net8.0\A. Gregor and Cryptography.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Gregor and Cryptography\obj\Debug\net8.0\refint\A. Gregor and Cryptography.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Gregor and Cryptography\obj\Debug\net8.0\A. Gregor and Cryptography.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Gregor and Cryptography\obj\Debug\net8.0\A. Gregor and Cryptography.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Gregor and Cryptography\obj\Debug\net8.0\ref\A. Gregor and Cryptography.dll
