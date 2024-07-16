@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Unique Number\bin\Debug\net8.0\C. Unique Number.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Unique Number\bin\Debug\net8.0\C. Unique Number.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Unique Number\bin\Debug\net8.0\C. Unique Number.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Unique Number\bin\Debug\net8.0\C. Unique Number.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Unique Number\bin\Debug\net8.0\C. Unique Number.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Unique Number\obj\Debug\net8.0\C. Unique Number.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Unique Number\obj\Debug\net8.0\C. Unique Number.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Unique Number\obj\Debug\net8.0\C. Unique Number.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Unique Number\obj\Debug\net8.0\C. Unique Number.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Unique Number\obj\Debug\net8.0\C. Unique Number.sourcelink.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Unique Number\obj\Debug\net8.0\C. Unique Number.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Unique Number\obj\Debug\net8.0\refint\C. Unique Number.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Unique Number\obj\Debug\net8.0\C. Unique Number.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Unique Number\obj\Debug\net8.0\C. Unique Number.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Unique Number\obj\Debug\net8.0\ref\C. Unique Number.dll
