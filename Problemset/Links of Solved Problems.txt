@@ -142,3 +142,5 @@ A. Gregor and Cryptography ==> https://codeforces.com/problemset/problem/1549/A
 
 B. Mahmoud and a Triangle ==> https://codeforces.com/problemset/problem/766/B
 
+B. Choosing Cubes ==> https://codeforces.com/problemset/problem/1980/B
+
