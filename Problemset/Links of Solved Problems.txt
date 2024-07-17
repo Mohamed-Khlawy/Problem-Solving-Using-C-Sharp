@@ -146,3 +146,5 @@ B. Choosing Cubes ==> https://codeforces.com/problemset/problem/1980/B
 
 C. Unique Number ==> https://codeforces.com/problemset/problem/1462/C
 
+A. Only Pluses ==> https://codeforces.com/problemset/problem/1992/A
+

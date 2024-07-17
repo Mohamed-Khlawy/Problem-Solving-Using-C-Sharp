@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("A. Turtle Puzzle_Rearrange and Negate")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7a56339f4b7a4905935ca05190ce73daffaf14b0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2d0269bfe18fe6d42bb26cf2fba82d652bc91671")]
 [assembly: System.Reflection.AssemblyProductAttribute("A. Turtle Puzzle_Rearrange and Negate")]
 [assembly: System.Reflection.AssemblyTitleAttribute("A. Turtle Puzzle_Rearrange and Negate")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

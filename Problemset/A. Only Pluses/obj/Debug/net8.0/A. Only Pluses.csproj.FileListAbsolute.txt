@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Only Pluses\bin\Debug\net8.0\A. Only Pluses.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Only Pluses\bin\Debug\net8.0\A. Only Pluses.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Only Pluses\bin\Debug\net8.0\A. Only Pluses.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Only Pluses\bin\Debug\net8.0\A. Only Pluses.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Only Pluses\bin\Debug\net8.0\A. Only Pluses.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Only Pluses\obj\Debug\net8.0\A. Only Pluses.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Only Pluses\obj\Debug\net8.0\A. Only Pluses.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Only Pluses\obj\Debug\net8.0\A. Only Pluses.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Only Pluses\obj\Debug\net8.0\A. Only Pluses.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Only Pluses\obj\Debug\net8.0\A. Only Pluses.sourcelink.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Only Pluses\obj\Debug\net8.0\A. Only Pluses.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Only Pluses\obj\Debug\net8.0\refint\A. Only Pluses.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Only Pluses\obj\Debug\net8.0\A. Only Pluses.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Only Pluses\obj\Debug\net8.0\A. Only Pluses.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Only Pluses\obj\Debug\net8.0\ref\A. Only Pluses.dll

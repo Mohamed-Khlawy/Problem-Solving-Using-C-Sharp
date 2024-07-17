@@ -151,7 +151,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "B. Mahmoud and a Triangle",
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "B. Choosing Cubes", "B. Choosing Cubes\B. Choosing Cubes.csproj", "{414203A8-868B-49DE-9661-D5BB73AD4D9A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C. Unique Number", "C. Unique Number\C. Unique Number.csproj", "{A13FDB93-3B10-4D73-9F09-9B74D95EB928}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "C. Unique Number", "C. Unique Number\C. Unique Number.csproj", "{A13FDB93-3B10-4D73-9F09-9B74D95EB928}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A. Only Pluses", "A. Only Pluses\A. Only Pluses.csproj", "{5084F621-7289-4167-AAE6-05DD8C603FB1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -459,6 +461,10 @@ Global
 		{A13FDB93-3B10-4D73-9F09-9B74D95EB928}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A13FDB93-3B10-4D73-9F09-9B74D95EB928}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A13FDB93-3B10-4D73-9F09-9B74D95EB928}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5084F621-7289-4167-AAE6-05DD8C603FB1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5084F621-7289-4167-AAE6-05DD8C603FB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5084F621-7289-4167-AAE6-05DD8C603FB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5084F621-7289-4167-AAE6-05DD8C603FB1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
