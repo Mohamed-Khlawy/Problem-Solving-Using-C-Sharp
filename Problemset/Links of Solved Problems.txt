@@ -148,3 +148,5 @@ C. Unique Number ==> https://codeforces.com/problemset/problem/1462/C
 
 A. Only Pluses ==> https://codeforces.com/problemset/problem/1992/A
 
+B. Following the String ==> https://codeforces.com/problemset/problem/1927/B
+

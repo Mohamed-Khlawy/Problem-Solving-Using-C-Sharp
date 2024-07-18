@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Following the String\bin\Debug\net8.0\B. Following the String.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Following the String\bin\Debug\net8.0\B. Following the String.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Following the String\bin\Debug\net8.0\B. Following the String.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Following the String\bin\Debug\net8.0\B. Following the String.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Following the String\bin\Debug\net8.0\B. Following the String.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Following the String\obj\Debug\net8.0\B. Following the String.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Following the String\obj\Debug\net8.0\B. Following the String.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Following the String\obj\Debug\net8.0\B. Following the String.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Following the String\obj\Debug\net8.0\B. Following the String.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Following the String\obj\Debug\net8.0\B. Following the String.sourcelink.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Following the String\obj\Debug\net8.0\B. Following the String.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Following the String\obj\Debug\net8.0\refint\B. Following the String.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Following the String\obj\Debug\net8.0\B. Following the String.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Following the String\obj\Debug\net8.0\B. Following the String.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Following the String\obj\Debug\net8.0\ref\B. Following the String.dll
