@@ -155,7 +155,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "C. Unique Number", "C. Uniq
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "A. Only Pluses", "A. Only Pluses\A. Only Pluses.csproj", "{5084F621-7289-4167-AAE6-05DD8C603FB1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "B. Following the String", "B. Following the String\B. Following the String.csproj", "{D47BC030-EB68-47FF-A05A-26D4369C48A7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "B. Following the String", "B. Following the String\B. Following the String.csproj", "{D47BC030-EB68-47FF-A05A-26D4369C48A7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A. Gift Carpet", "A. Gift Carpet\A. Gift Carpet.csproj", "{46D05283-5D09-4E99-A318-154545004144}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -471,6 +473,10 @@ Global
 		{D47BC030-EB68-47FF-A05A-26D4369C48A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D47BC030-EB68-47FF-A05A-26D4369C48A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D47BC030-EB68-47FF-A05A-26D4369C48A7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{46D05283-5D09-4E99-A318-154545004144}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46D05283-5D09-4E99-A318-154545004144}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46D05283-5D09-4E99-A318-154545004144}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46D05283-5D09-4E99-A318-154545004144}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

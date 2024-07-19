@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "A. Gift Carpet/1.0.0": {
+        "runtime": {
+          "A. Gift Carpet.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "A. Gift Carpet/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

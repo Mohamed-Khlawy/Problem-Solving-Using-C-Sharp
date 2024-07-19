@@ -150,3 +150,5 @@ A. Only Pluses ==> https://codeforces.com/problemset/problem/1992/A
 
 B. Following the String ==> https://codeforces.com/problemset/problem/1927/B
 
+A. Gift Carpet ==> https://codeforces.com/problemset/problem/1862/A
+

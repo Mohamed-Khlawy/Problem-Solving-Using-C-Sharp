@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("A. Case of the Zeros and Ones")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e1f420521fafb528f00c75351d3195fbedf4a767")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+08e80d77db06d36ad76d7465aab2b25effcc6f99")]
 [assembly: System.Reflection.AssemblyProductAttribute("A. Case of the Zeros and Ones")]
 [assembly: System.Reflection.AssemblyTitleAttribute("A. Case of the Zeros and Ones")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

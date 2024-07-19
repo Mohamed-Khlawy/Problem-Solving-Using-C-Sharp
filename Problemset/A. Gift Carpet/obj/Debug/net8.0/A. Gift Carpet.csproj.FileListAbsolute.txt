@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Gift Carpet\bin\Debug\net8.0\A. Gift Carpet.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Gift Carpet\bin\Debug\net8.0\A. Gift Carpet.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Gift Carpet\bin\Debug\net8.0\A. Gift Carpet.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Gift Carpet\bin\Debug\net8.0\A. Gift Carpet.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Gift Carpet\bin\Debug\net8.0\A. Gift Carpet.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Gift Carpet\obj\Debug\net8.0\A. Gift Carpet.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Gift Carpet\obj\Debug\net8.0\A. Gift Carpet.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Gift Carpet\obj\Debug\net8.0\A. Gift Carpet.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Gift Carpet\obj\Debug\net8.0\A. Gift Carpet.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Gift Carpet\obj\Debug\net8.0\A. Gift Carpet.sourcelink.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Gift Carpet\obj\Debug\net8.0\A. Gift Carpet.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Gift Carpet\obj\Debug\net8.0\refint\A. Gift Carpet.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Gift Carpet\obj\Debug\net8.0\A. Gift Carpet.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Gift Carpet\obj\Debug\net8.0\A. Gift Carpet.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Gift Carpet\obj\Debug\net8.0\ref\A. Gift Carpet.dll
