@@ -152,3 +152,5 @@ B. Following the String ==> https://codeforces.com/problemset/problem/1927/B
 
 A. Gift Carpet ==> https://codeforces.com/problemset/problem/1862/A
 
+C. Rudolf and the Ugly String ==> https://codeforces.com/problemset/problem/1941/C
+

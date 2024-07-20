@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("B. Even Array")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+08e80d77db06d36ad76d7465aab2b25effcc6f99")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6abd2c10143dc1e6d3794796733ef6db8508b3a0")]
 [assembly: System.Reflection.AssemblyProductAttribute("B. Even Array")]
 [assembly: System.Reflection.AssemblyTitleAttribute("B. Even Array")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

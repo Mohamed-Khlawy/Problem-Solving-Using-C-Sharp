@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Rudolf and the Ugly String\bin\Debug\net8.0\C. Rudolf and the Ugly String.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Rudolf and the Ugly String\bin\Debug\net8.0\C. Rudolf and the Ugly String.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Rudolf and the Ugly String\bin\Debug\net8.0\C. Rudolf and the Ugly String.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Rudolf and the Ugly String\bin\Debug\net8.0\C. Rudolf and the Ugly String.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Rudolf and the Ugly String\bin\Debug\net8.0\C. Rudolf and the Ugly String.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Rudolf and the Ugly String\obj\Debug\net8.0\C. Rudolf and the Ugly String.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Rudolf and the Ugly String\obj\Debug\net8.0\C. Rudolf and the Ugly String.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Rudolf and the Ugly String\obj\Debug\net8.0\C. Rudolf and the Ugly String.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Rudolf and the Ugly String\obj\Debug\net8.0\C. Rudolf and the Ugly String.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Rudolf and the Ugly String\obj\Debug\net8.0\C. Rudolf and the Ugly String.sourcelink.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Rudolf and the Ugly String\obj\Debug\net8.0\C. Rudolf and the Ugly String.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Rudolf and the Ugly String\obj\Debug\net8.0\refint\C. Rudolf and the Ugly String.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Rudolf and the Ugly String\obj\Debug\net8.0\C. Rudolf and the Ugly String.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Rudolf and the Ugly String\obj\Debug\net8.0\C. Rudolf and the Ugly String.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Rudolf and the Ugly String\obj\Debug\net8.0\ref\C. Rudolf and the Ugly String.dll
