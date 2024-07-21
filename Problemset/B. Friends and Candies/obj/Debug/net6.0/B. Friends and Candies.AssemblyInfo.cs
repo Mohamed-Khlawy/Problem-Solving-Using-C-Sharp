@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("B. Friends and Candies")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6abd2c10143dc1e6d3794796733ef6db8508b3a0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ccc2da3d0dd2f5818dfc809576168b84ffa04836")]
 [assembly: System.Reflection.AssemblyProductAttribute("B. Friends and Candies")]
 [assembly: System.Reflection.AssemblyTitleAttribute("B. Friends and Candies")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

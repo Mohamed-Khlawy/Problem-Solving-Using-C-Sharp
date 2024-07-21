@@ -154,3 +154,5 @@ A. Gift Carpet ==> https://codeforces.com/problemset/problem/1862/A
 
 C. Rudolf and the Ugly String ==> https://codeforces.com/problemset/problem/1941/C
 
+A. Filling Diamonds ==> https://codeforces.com/problemset/problem/1339/A
+

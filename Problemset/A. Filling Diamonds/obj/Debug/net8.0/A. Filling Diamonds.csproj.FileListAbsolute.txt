@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Filling Diamonds\bin\Debug\net8.0\A. Filling Diamonds.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Filling Diamonds\bin\Debug\net8.0\A. Filling Diamonds.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Filling Diamonds\bin\Debug\net8.0\A. Filling Diamonds.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Filling Diamonds\bin\Debug\net8.0\A. Filling Diamonds.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Filling Diamonds\bin\Debug\net8.0\A. Filling Diamonds.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Filling Diamonds\obj\Debug\net8.0\A. Filling Diamonds.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Filling Diamonds\obj\Debug\net8.0\A. Filling Diamonds.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Filling Diamonds\obj\Debug\net8.0\A. Filling Diamonds.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Filling Diamonds\obj\Debug\net8.0\A. Filling Diamonds.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Filling Diamonds\obj\Debug\net8.0\A. Filling Diamonds.sourcelink.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Filling Diamonds\obj\Debug\net8.0\A. Filling Diamonds.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Filling Diamonds\obj\Debug\net8.0\refint\A. Filling Diamonds.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Filling Diamonds\obj\Debug\net8.0\A. Filling Diamonds.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Filling Diamonds\obj\Debug\net8.0\A. Filling Diamonds.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Filling Diamonds\obj\Debug\net8.0\ref\A. Filling Diamonds.dll

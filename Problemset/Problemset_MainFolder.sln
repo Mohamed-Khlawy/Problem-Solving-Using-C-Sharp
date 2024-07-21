@@ -159,7 +159,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "B. Following the String", "
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "A. Gift Carpet", "A. Gift Carpet\A. Gift Carpet.csproj", "{46D05283-5D09-4E99-A318-154545004144}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C. Rudolf and the Ugly String", "C. Rudolf and the Ugly String\C. Rudolf and the Ugly String.csproj", "{DEFCF532-6ECF-4588-BD66-293571C40A18}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "C. Rudolf and the Ugly String", "C. Rudolf and the Ugly String\C. Rudolf and the Ugly String.csproj", "{DEFCF532-6ECF-4588-BD66-293571C40A18}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A. Filling Diamonds", "A. Filling Diamonds\A. Filling Diamonds.csproj", "{62FE187F-C800-45AC-993D-538D38A6C0DB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -483,6 +485,10 @@ Global
 		{DEFCF532-6ECF-4588-BD66-293571C40A18}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DEFCF532-6ECF-4588-BD66-293571C40A18}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DEFCF532-6ECF-4588-BD66-293571C40A18}.Release|Any CPU.Build.0 = Release|Any CPU
+		{62FE187F-C800-45AC-993D-538D38A6C0DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62FE187F-C800-45AC-993D-538D38A6C0DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62FE187F-C800-45AC-993D-538D38A6C0DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62FE187F-C800-45AC-993D-538D38A6C0DB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
