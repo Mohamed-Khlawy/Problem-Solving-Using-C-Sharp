@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Erasing Zeroes\bin\Debug\net8.0\A. Erasing Zeroes.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Erasing Zeroes\bin\Debug\net8.0\A. Erasing Zeroes.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Erasing Zeroes\bin\Debug\net8.0\A. Erasing Zeroes.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Erasing Zeroes\bin\Debug\net8.0\A. Erasing Zeroes.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Erasing Zeroes\bin\Debug\net8.0\A. Erasing Zeroes.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Erasing Zeroes\obj\Debug\net8.0\A. Erasing Zeroes.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Erasing Zeroes\obj\Debug\net8.0\A. Erasing Zeroes.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Erasing Zeroes\obj\Debug\net8.0\A. Erasing Zeroes.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Erasing Zeroes\obj\Debug\net8.0\A. Erasing Zeroes.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Erasing Zeroes\obj\Debug\net8.0\A. Erasing Zeroes.sourcelink.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Erasing Zeroes\obj\Debug\net8.0\A. Erasing Zeroes.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Erasing Zeroes\obj\Debug\net8.0\refint\A. Erasing Zeroes.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Erasing Zeroes\obj\Debug\net8.0\A. Erasing Zeroes.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Erasing Zeroes\obj\Debug\net8.0\A. Erasing Zeroes.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Erasing Zeroes\obj\Debug\net8.0\ref\A. Erasing Zeroes.dll

@@ -163,6 +163,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "C. Rudolf and the Ugly Stri
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A. Filling Diamonds", "A. Filling Diamonds\A. Filling Diamonds.csproj", "{62FE187F-C800-45AC-993D-538D38A6C0DB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A. Erasing Zeroes", "A. Erasing Zeroes\A. Erasing Zeroes.csproj", "{71D5EA71-A707-4182-9269-245051F84926}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -489,6 +491,10 @@ Global
 		{62FE187F-C800-45AC-993D-538D38A6C0DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{62FE187F-C800-45AC-993D-538D38A6C0DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{62FE187F-C800-45AC-993D-538D38A6C0DB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{71D5EA71-A707-4182-9269-245051F84926}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71D5EA71-A707-4182-9269-245051F84926}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71D5EA71-A707-4182-9269-245051F84926}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71D5EA71-A707-4182-9269-245051F84926}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
