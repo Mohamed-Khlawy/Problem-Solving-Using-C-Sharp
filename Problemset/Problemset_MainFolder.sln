@@ -161,9 +161,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "A. Gift Carpet", "A. Gift C
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "C. Rudolf and the Ugly String", "C. Rudolf and the Ugly String\C. Rudolf and the Ugly String.csproj", "{DEFCF532-6ECF-4588-BD66-293571C40A18}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A. Filling Diamonds", "A. Filling Diamonds\A. Filling Diamonds.csproj", "{62FE187F-C800-45AC-993D-538D38A6C0DB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "A. Filling Diamonds", "A. Filling Diamonds\A. Filling Diamonds.csproj", "{62FE187F-C800-45AC-993D-538D38A6C0DB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A. Erasing Zeroes", "A. Erasing Zeroes\A. Erasing Zeroes.csproj", "{71D5EA71-A707-4182-9269-245051F84926}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "A. Erasing Zeroes", "A. Erasing Zeroes\A. Erasing Zeroes.csproj", "{71D5EA71-A707-4182-9269-245051F84926}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A. Maximize", "A. Maximize\A. Maximize.csproj", "{5177DE10-F695-471C-BD08-51F72D12712A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -495,6 +497,10 @@ Global
 		{71D5EA71-A707-4182-9269-245051F84926}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{71D5EA71-A707-4182-9269-245051F84926}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{71D5EA71-A707-4182-9269-245051F84926}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5177DE10-F695-471C-BD08-51F72D12712A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5177DE10-F695-471C-BD08-51F72D12712A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5177DE10-F695-471C-BD08-51F72D12712A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5177DE10-F695-471C-BD08-51F72D12712A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
