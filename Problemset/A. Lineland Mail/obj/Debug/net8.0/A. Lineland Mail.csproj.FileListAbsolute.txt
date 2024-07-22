@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Lineland Mail\bin\Debug\net8.0\A. Lineland Mail.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Lineland Mail\bin\Debug\net8.0\A. Lineland Mail.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Lineland Mail\bin\Debug\net8.0\A. Lineland Mail.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Lineland Mail\bin\Debug\net8.0\A. Lineland Mail.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Lineland Mail\bin\Debug\net8.0\A. Lineland Mail.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Lineland Mail\obj\Debug\net8.0\A. Lineland Mail.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Lineland Mail\obj\Debug\net8.0\A. Lineland Mail.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Lineland Mail\obj\Debug\net8.0\A. Lineland Mail.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Lineland Mail\obj\Debug\net8.0\A. Lineland Mail.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Lineland Mail\obj\Debug\net8.0\A. Lineland Mail.sourcelink.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Lineland Mail\obj\Debug\net8.0\A. Lineland Mail.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Lineland Mail\obj\Debug\net8.0\refint\A. Lineland Mail.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Lineland Mail\obj\Debug\net8.0\A. Lineland Mail.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Lineland Mail\obj\Debug\net8.0\A. Lineland Mail.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Lineland Mail\obj\Debug\net8.0\ref\A. Lineland Mail.dll

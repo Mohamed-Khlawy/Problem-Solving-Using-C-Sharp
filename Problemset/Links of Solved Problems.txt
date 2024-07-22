@@ -160,3 +160,5 @@ A. Erasing Zeroes ==> https://codeforces.com/problemset/problem/1303/A
 
 A. Maximize? ==> https://codeforces.com/problemset/problem/1968/A
 
+A. Lineland Mail ==> https://codeforces.com/problemset/problem/567/A
+

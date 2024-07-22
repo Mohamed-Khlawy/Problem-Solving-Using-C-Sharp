@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("A. New Year Candles")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+83702cb195e7c3d8d98e65f72c4238df7ee8b9ed")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+193b081a33243079b317a270edfa21ba7f62cb8e")]
 [assembly: System.Reflection.AssemblyProductAttribute("A. New Year Candles")]
 [assembly: System.Reflection.AssemblyTitleAttribute("A. New Year Candles")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
