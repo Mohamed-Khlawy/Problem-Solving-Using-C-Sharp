@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Lovely Palindromes\bin\Debug\net8.0\B. Lovely Palindromes.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Lovely Palindromes\bin\Debug\net8.0\B. Lovely Palindromes.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Lovely Palindromes\bin\Debug\net8.0\B. Lovely Palindromes.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Lovely Palindromes\bin\Debug\net8.0\B. Lovely Palindromes.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Lovely Palindromes\bin\Debug\net8.0\B. Lovely Palindromes.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Lovely Palindromes\obj\Debug\net8.0\B. Lovely Palindromes.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Lovely Palindromes\obj\Debug\net8.0\B. Lovely Palindromes.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Lovely Palindromes\obj\Debug\net8.0\B. Lovely Palindromes.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Lovely Palindromes\obj\Debug\net8.0\B. Lovely Palindromes.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Lovely Palindromes\obj\Debug\net8.0\B. Lovely Palindromes.sourcelink.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Lovely Palindromes\obj\Debug\net8.0\B. Lovely Palindromes.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Lovely Palindromes\obj\Debug\net8.0\refint\B. Lovely Palindromes.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Lovely Palindromes\obj\Debug\net8.0\B. Lovely Palindromes.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Lovely Palindromes\obj\Debug\net8.0\B. Lovely Palindromes.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Lovely Palindromes\obj\Debug\net8.0\ref\B. Lovely Palindromes.dll
