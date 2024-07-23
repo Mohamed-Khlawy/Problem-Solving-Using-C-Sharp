@@ -167,7 +167,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "A. Erasing Zeroes", "A. Era
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "A. Maximize", "A. Maximize\A. Maximize.csproj", "{5177DE10-F695-471C-BD08-51F72D12712A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A. Lineland Mail", "A. Lineland Mail\A. Lineland Mail.csproj", "{AF666A8A-4395-4A9B-9BD3-F209C7C85481}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "A. Lineland Mail", "A. Lineland Mail\A. Lineland Mail.csproj", "{AF666A8A-4395-4A9B-9BD3-F209C7C85481}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "B. Turtle Math-Fast Three Task", "B. Turtle Math-Fast Three Task\B. Turtle Math-Fast Three Task.csproj", "{8AECE640-2B13-4C99-BA01-13DBF2D7715A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -507,6 +509,10 @@ Global
 		{AF666A8A-4395-4A9B-9BD3-F209C7C85481}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AF666A8A-4395-4A9B-9BD3-F209C7C85481}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AF666A8A-4395-4A9B-9BD3-F209C7C85481}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8AECE640-2B13-4C99-BA01-13DBF2D7715A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8AECE640-2B13-4C99-BA01-13DBF2D7715A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8AECE640-2B13-4C99-BA01-13DBF2D7715A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8AECE640-2B13-4C99-BA01-13DBF2D7715A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

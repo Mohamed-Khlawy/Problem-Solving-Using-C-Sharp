@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Turtle Math-Fast Three Task\bin\Debug\net8.0\B. Turtle Math-Fast Three Task.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Turtle Math-Fast Three Task\bin\Debug\net8.0\B. Turtle Math-Fast Three Task.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Turtle Math-Fast Three Task\bin\Debug\net8.0\B. Turtle Math-Fast Three Task.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Turtle Math-Fast Three Task\bin\Debug\net8.0\B. Turtle Math-Fast Three Task.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Turtle Math-Fast Three Task\bin\Debug\net8.0\B. Turtle Math-Fast Three Task.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Turtle Math-Fast Three Task\obj\Debug\net8.0\B. Turtle Math-Fast Three Task.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Turtle Math-Fast Three Task\obj\Debug\net8.0\B. Turtle Math-Fast Three Task.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Turtle Math-Fast Three Task\obj\Debug\net8.0\B. Turtle Math-Fast Three Task.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Turtle Math-Fast Three Task\obj\Debug\net8.0\B. Turtle Math-Fast Three Task.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Turtle Math-Fast Three Task\obj\Debug\net8.0\B. Turtle Math-Fast Three Task.sourcelink.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Turtle Math-Fast Three Task\obj\Debug\net8.0\B. Turtle Math-Fast Three Task.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Turtle Math-Fast Three Task\obj\Debug\net8.0\refint\B. Turtle Math-Fast Three Task.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Turtle Math-Fast Three Task\obj\Debug\net8.0\B. Turtle Math-Fast Three Task.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Turtle Math-Fast Three Task\obj\Debug\net8.0\B. Turtle Math-Fast Three Task.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Turtle Math-Fast Three Task\obj\Debug\net8.0\ref\B. Turtle Math-Fast Three Task.dll

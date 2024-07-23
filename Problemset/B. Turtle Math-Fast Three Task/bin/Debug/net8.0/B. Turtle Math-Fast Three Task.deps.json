@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "B. Turtle Math-Fast Three Task/1.0.0": {
+        "runtime": {
+          "B. Turtle Math-Fast Three Task.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "B. Turtle Math-Fast Three Task/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

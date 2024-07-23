@@ -162,3 +162,5 @@ A. Maximize? ==> https://codeforces.com/problemset/problem/1968/A
 
 A. Lineland Mail ==> https://codeforces.com/problemset/problem/567/A
 
+B. Turtle Math: Fast Three Task ==> https://codeforces.com/problemset/problem/1933/B
+
