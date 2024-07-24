@@ -171,7 +171,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "A. Lineland Mail", "A. Line
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "B. Turtle Math-Fast Three Task", "B. Turtle Math-Fast Three Task\B. Turtle Math-Fast Three Task.csproj", "{8AECE640-2B13-4C99-BA01-13DBF2D7715A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "B. Lovely Palindromes", "B. Lovely Palindromes\B. Lovely Palindromes.csproj", "{CD785023-460D-45C2-8627-053FF6F4E101}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "B. Lovely Palindromes", "B. Lovely Palindromes\B. Lovely Palindromes.csproj", "{CD785023-460D-45C2-8627-053FF6F4E101}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "B. Make Equal", "B. Make Equal\B. Make Equal.csproj", "{2A15CA12-947F-4A31-87D4-E9B0BB1D4DC5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -519,6 +521,10 @@ Global
 		{CD785023-460D-45C2-8627-053FF6F4E101}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CD785023-460D-45C2-8627-053FF6F4E101}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CD785023-460D-45C2-8627-053FF6F4E101}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A15CA12-947F-4A31-87D4-E9B0BB1D4DC5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A15CA12-947F-4A31-87D4-E9B0BB1D4DC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A15CA12-947F-4A31-87D4-E9B0BB1D4DC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A15CA12-947F-4A31-87D4-E9B0BB1D4DC5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

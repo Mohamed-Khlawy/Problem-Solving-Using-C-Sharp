@@ -166,3 +166,5 @@ B. Turtle Math: Fast Three Task ==> https://codeforces.com/problemset/problem/19
 
 B. Lovely Palindromes ==> https://codeforces.com/problemset/problem/688/B
 
+B. Make Equal ==> https://codeforces.com/problemset/problem/1931/B
+

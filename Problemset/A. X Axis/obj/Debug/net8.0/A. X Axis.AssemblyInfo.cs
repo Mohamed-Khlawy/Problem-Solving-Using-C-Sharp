@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("A. X Axis")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3d4f2087b8bd73abfe5f1ad236f3b5b2c5377062")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e8acee70aecd83b227e7154f06750b3de3a4e44e")]
 [assembly: System.Reflection.AssemblyProductAttribute("A. X Axis")]
 [assembly: System.Reflection.AssemblyTitleAttribute("A. X Axis")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
