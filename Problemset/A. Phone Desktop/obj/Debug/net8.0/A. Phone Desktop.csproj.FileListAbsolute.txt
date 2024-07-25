@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Phone Desktop\bin\Debug\net8.0\A. Phone Desktop.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Phone Desktop\bin\Debug\net8.0\A. Phone Desktop.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Phone Desktop\bin\Debug\net8.0\A. Phone Desktop.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Phone Desktop\bin\Debug\net8.0\A. Phone Desktop.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Phone Desktop\bin\Debug\net8.0\A. Phone Desktop.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Phone Desktop\obj\Debug\net8.0\A. Phone Desktop.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Phone Desktop\obj\Debug\net8.0\A. Phone Desktop.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Phone Desktop\obj\Debug\net8.0\A. Phone Desktop.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Phone Desktop\obj\Debug\net8.0\A. Phone Desktop.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Phone Desktop\obj\Debug\net8.0\A. Phone Desktop.sourcelink.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Phone Desktop\obj\Debug\net8.0\A. Phone Desktop.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Phone Desktop\obj\Debug\net8.0\refint\A. Phone Desktop.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Phone Desktop\obj\Debug\net8.0\A. Phone Desktop.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Phone Desktop\obj\Debug\net8.0\A. Phone Desktop.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Phone Desktop\obj\Debug\net8.0\ref\A. Phone Desktop.dll

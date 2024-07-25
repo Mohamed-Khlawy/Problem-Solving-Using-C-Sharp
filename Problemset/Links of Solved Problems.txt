@@ -168,3 +168,5 @@ B. Lovely Palindromes ==> https://codeforces.com/problemset/problem/688/B
 
 B. Make Equal ==> https://codeforces.com/problemset/problem/1931/B
 
+A. Phone Desktop ==> https://codeforces.com/problemset/problem/1974/A
+
