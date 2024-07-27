@@ -172,3 +172,5 @@ A. Phone Desktop ==> https://codeforces.com/problemset/problem/1974/A
 
 B. Vlad and Shapes ==> https://codeforces.com/problemset/problem/1926/B
 
+A. Make Even ==> https://codeforces.com/problemset/problem/1611/A
+
