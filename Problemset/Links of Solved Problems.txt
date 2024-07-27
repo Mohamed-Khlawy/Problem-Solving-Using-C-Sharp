@@ -170,3 +170,5 @@ B. Make Equal ==> https://codeforces.com/problemset/problem/1931/B
 
 A. Phone Desktop ==> https://codeforces.com/problemset/problem/1974/A
 
+B. Vlad and Shapes ==> https://codeforces.com/problemset/problem/1926/B
+

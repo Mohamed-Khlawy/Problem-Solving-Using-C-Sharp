@@ -175,7 +175,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "B. Lovely Palindromes", "B.
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "B. Make Equal", "B. Make Equal\B. Make Equal.csproj", "{2A15CA12-947F-4A31-87D4-E9B0BB1D4DC5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A. Phone Desktop", "A. Phone Desktop\A. Phone Desktop.csproj", "{1174C5A5-B248-43D8-A69F-F5D9EB4CA5D9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "A. Phone Desktop", "A. Phone Desktop\A. Phone Desktop.csproj", "{1174C5A5-B248-43D8-A69F-F5D9EB4CA5D9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "B. Vlad and Shapes", "B. Vlad and Shapes\B. Vlad and Shapes.csproj", "{C7035759-67BB-4C3C-8967-7EF09A941409}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -531,6 +533,10 @@ Global
 		{1174C5A5-B248-43D8-A69F-F5D9EB4CA5D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1174C5A5-B248-43D8-A69F-F5D9EB4CA5D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1174C5A5-B248-43D8-A69F-F5D9EB4CA5D9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C7035759-67BB-4C3C-8967-7EF09A941409}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7035759-67BB-4C3C-8967-7EF09A941409}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7035759-67BB-4C3C-8967-7EF09A941409}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7035759-67BB-4C3C-8967-7EF09A941409}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

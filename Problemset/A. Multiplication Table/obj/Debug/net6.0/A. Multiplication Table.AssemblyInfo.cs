@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("A. Multiplication Table")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3d9c14810969bc6f5e26de918db9b31d381e2b3b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d91bd4e4fb9f1ffb7e00d4cbc4dd06b80f1181b8")]
 [assembly: System.Reflection.AssemblyProductAttribute("A. Multiplication Table")]
 [assembly: System.Reflection.AssemblyTitleAttribute("A. Multiplication Table")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

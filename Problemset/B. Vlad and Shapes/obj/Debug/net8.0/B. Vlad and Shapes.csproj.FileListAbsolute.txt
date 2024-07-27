@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Vlad and Shapes\bin\Debug\net8.0\B. Vlad and Shapes.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Vlad and Shapes\bin\Debug\net8.0\B. Vlad and Shapes.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Vlad and Shapes\bin\Debug\net8.0\B. Vlad and Shapes.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Vlad and Shapes\bin\Debug\net8.0\B. Vlad and Shapes.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Vlad and Shapes\bin\Debug\net8.0\B. Vlad and Shapes.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Vlad and Shapes\obj\Debug\net8.0\B. Vlad and Shapes.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Vlad and Shapes\obj\Debug\net8.0\B. Vlad and Shapes.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Vlad and Shapes\obj\Debug\net8.0\B. Vlad and Shapes.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Vlad and Shapes\obj\Debug\net8.0\B. Vlad and Shapes.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Vlad and Shapes\obj\Debug\net8.0\B. Vlad and Shapes.sourcelink.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Vlad and Shapes\obj\Debug\net8.0\B. Vlad and Shapes.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Vlad and Shapes\obj\Debug\net8.0\refint\B. Vlad and Shapes.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Vlad and Shapes\obj\Debug\net8.0\B. Vlad and Shapes.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Vlad and Shapes\obj\Debug\net8.0\B. Vlad and Shapes.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Vlad and Shapes\obj\Debug\net8.0\ref\B. Vlad and Shapes.dll
