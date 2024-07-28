@@ -174,3 +174,5 @@ B. Vlad and Shapes ==> https://codeforces.com/problemset/problem/1926/B
 
 A. Make Even ==> https://codeforces.com/problemset/problem/1611/A
 
+A. Juicer ==> https://codeforces.com/problemset/problem/709/A
+
