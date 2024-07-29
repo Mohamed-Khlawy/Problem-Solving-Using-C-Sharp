@@ -176,3 +176,5 @@ A. Make Even ==> https://codeforces.com/problemset/problem/1611/A
 
 A. Juicer ==> https://codeforces.com/problemset/problem/709/A
 
+D. Manhattan Circle ==> https://codeforces.com/problemset/problem/1985/D
+

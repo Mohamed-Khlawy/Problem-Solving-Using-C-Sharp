@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\D. Manhattan Circle\bin\Debug\net8.0\D. Manhattan Circle.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\D. Manhattan Circle\bin\Debug\net8.0\D. Manhattan Circle.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\D. Manhattan Circle\bin\Debug\net8.0\D. Manhattan Circle.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\D. Manhattan Circle\bin\Debug\net8.0\D. Manhattan Circle.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\D. Manhattan Circle\bin\Debug\net8.0\D. Manhattan Circle.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\D. Manhattan Circle\obj\Debug\net8.0\D. Manhattan Circle.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\D. Manhattan Circle\obj\Debug\net8.0\D. Manhattan Circle.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\D. Manhattan Circle\obj\Debug\net8.0\D. Manhattan Circle.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\D. Manhattan Circle\obj\Debug\net8.0\D. Manhattan Circle.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\D. Manhattan Circle\obj\Debug\net8.0\D. Manhattan Circle.sourcelink.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\D. Manhattan Circle\obj\Debug\net8.0\D. Manhattan Circle.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\D. Manhattan Circle\obj\Debug\net8.0\refint\D. Manhattan Circle.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\D. Manhattan Circle\obj\Debug\net8.0\D. Manhattan Circle.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\D. Manhattan Circle\obj\Debug\net8.0\D. Manhattan Circle.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\D. Manhattan Circle\obj\Debug\net8.0\ref\D. Manhattan Circle.dll

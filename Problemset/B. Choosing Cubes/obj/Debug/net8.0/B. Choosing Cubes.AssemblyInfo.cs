@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("B. Choosing Cubes")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9989fcae9bbdd5f91ca84d480bf42c19ae4ac23d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9f4cdf4df62c3a44493fdfe2716e2a54450ae219")]
 [assembly: System.Reflection.AssemblyProductAttribute("B. Choosing Cubes")]
 [assembly: System.Reflection.AssemblyTitleAttribute("B. Choosing Cubes")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
