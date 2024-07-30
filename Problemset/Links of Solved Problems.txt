@@ -178,3 +178,5 @@ A. Juicer ==> https://codeforces.com/problemset/problem/709/A
 
 D. Manhattan Circle ==> https://codeforces.com/problemset/problem/1985/D
 
+A. United We Stand ==> https://codeforces.com/problemset/problem/1859/A
+

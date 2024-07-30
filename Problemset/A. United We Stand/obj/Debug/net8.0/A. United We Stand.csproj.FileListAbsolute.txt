@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. United We Stand\bin\Debug\net8.0\A. United We Stand.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. United We Stand\bin\Debug\net8.0\A. United We Stand.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. United We Stand\bin\Debug\net8.0\A. United We Stand.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. United We Stand\bin\Debug\net8.0\A. United We Stand.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. United We Stand\bin\Debug\net8.0\A. United We Stand.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. United We Stand\obj\Debug\net8.0\A. United We Stand.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. United We Stand\obj\Debug\net8.0\A. United We Stand.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. United We Stand\obj\Debug\net8.0\A. United We Stand.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. United We Stand\obj\Debug\net8.0\A. United We Stand.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. United We Stand\obj\Debug\net8.0\A. United We Stand.sourcelink.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. United We Stand\obj\Debug\net8.0\A. United We Stand.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. United We Stand\obj\Debug\net8.0\refint\A. United We Stand.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. United We Stand\obj\Debug\net8.0\A. United We Stand.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. United We Stand\obj\Debug\net8.0\A. United We Stand.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. United We Stand\obj\Debug\net8.0\ref\A. United We Stand.dll
