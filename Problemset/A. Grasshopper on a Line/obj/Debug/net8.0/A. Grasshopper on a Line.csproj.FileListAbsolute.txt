@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Grasshopper on a Line\bin\Debug\net8.0\A. Grasshopper on a Line.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Grasshopper on a Line\bin\Debug\net8.0\A. Grasshopper on a Line.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Grasshopper on a Line\bin\Debug\net8.0\A. Grasshopper on a Line.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Grasshopper on a Line\bin\Debug\net8.0\A. Grasshopper on a Line.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Grasshopper on a Line\bin\Debug\net8.0\A. Grasshopper on a Line.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Grasshopper on a Line\obj\Debug\net8.0\A. Grasshopper on a Line.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Grasshopper on a Line\obj\Debug\net8.0\A. Grasshopper on a Line.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Grasshopper on a Line\obj\Debug\net8.0\A. Grasshopper on a Line.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Grasshopper on a Line\obj\Debug\net8.0\A. Grasshopper on a Line.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Grasshopper on a Line\obj\Debug\net8.0\A. Grasshopper on a Line.sourcelink.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Grasshopper on a Line\obj\Debug\net8.0\A. Grasshopper on a Line.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Grasshopper on a Line\obj\Debug\net8.0\refint\A. Grasshopper on a Line.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Grasshopper on a Line\obj\Debug\net8.0\A. Grasshopper on a Line.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Grasshopper on a Line\obj\Debug\net8.0\A. Grasshopper on a Line.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Grasshopper on a Line\obj\Debug\net8.0\ref\A. Grasshopper on a Line.dll
