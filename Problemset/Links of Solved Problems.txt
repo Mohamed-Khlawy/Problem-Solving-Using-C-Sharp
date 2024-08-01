@@ -182,3 +182,5 @@ A. United We Stand ==> https://codeforces.com/problemset/problem/1859/A
 
 A. Grasshopper on a Line ==> https://codeforces.com/problemset/problem/1837/A
 
+A. Dense Array ==> https://codeforces.com/problemset/problem/1490/A
+

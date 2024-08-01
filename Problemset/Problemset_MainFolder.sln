@@ -187,7 +187,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "D. Manhattan Circle", "D. M
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "A. United We Stand", "A. United We Stand\A. United We Stand.csproj", "{A4681F56-EF84-4E25-9374-C7DD5A7EB4D6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A. Grasshopper on a Line", "A. Grasshopper on a Line\A. Grasshopper on a Line.csproj", "{28EF4F4C-E2D0-4346-ACF3-15EE32318502}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "A. Grasshopper on a Line", "A. Grasshopper on a Line\A. Grasshopper on a Line.csproj", "{28EF4F4C-E2D0-4346-ACF3-15EE32318502}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A. Dense Array", "A. Dense Array\A. Dense Array.csproj", "{381AD956-70F6-4CB9-A9B5-88A31817FE3F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -567,6 +569,10 @@ Global
 		{28EF4F4C-E2D0-4346-ACF3-15EE32318502}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{28EF4F4C-E2D0-4346-ACF3-15EE32318502}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{28EF4F4C-E2D0-4346-ACF3-15EE32318502}.Release|Any CPU.Build.0 = Release|Any CPU
+		{381AD956-70F6-4CB9-A9B5-88A31817FE3F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{381AD956-70F6-4CB9-A9B5-88A31817FE3F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{381AD956-70F6-4CB9-A9B5-88A31817FE3F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{381AD956-70F6-4CB9-A9B5-88A31817FE3F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

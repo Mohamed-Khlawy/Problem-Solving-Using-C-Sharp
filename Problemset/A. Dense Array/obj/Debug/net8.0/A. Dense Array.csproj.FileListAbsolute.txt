@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Dense Array\bin\Debug\net8.0\A. Dense Array.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Dense Array\bin\Debug\net8.0\A. Dense Array.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Dense Array\bin\Debug\net8.0\A. Dense Array.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Dense Array\bin\Debug\net8.0\A. Dense Array.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Dense Array\bin\Debug\net8.0\A. Dense Array.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Dense Array\obj\Debug\net8.0\A. Dense Array.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Dense Array\obj\Debug\net8.0\A. Dense Array.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Dense Array\obj\Debug\net8.0\A. Dense Array.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Dense Array\obj\Debug\net8.0\A. Dense Array.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Dense Array\obj\Debug\net8.0\A. Dense Array.sourcelink.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Dense Array\obj\Debug\net8.0\A. Dense Array.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Dense Array\obj\Debug\net8.0\refint\A. Dense Array.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Dense Array\obj\Debug\net8.0\A. Dense Array.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Dense Array\obj\Debug\net8.0\A. Dense Array.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Dense Array\obj\Debug\net8.0\ref\A. Dense Array.dll
