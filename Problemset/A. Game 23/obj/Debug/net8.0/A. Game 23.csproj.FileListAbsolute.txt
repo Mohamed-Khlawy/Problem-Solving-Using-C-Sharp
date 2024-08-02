@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Game 23\bin\Debug\net8.0\A. Game 23.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Game 23\bin\Debug\net8.0\A. Game 23.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Game 23\bin\Debug\net8.0\A. Game 23.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Game 23\bin\Debug\net8.0\A. Game 23.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Game 23\bin\Debug\net8.0\A. Game 23.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Game 23\obj\Debug\net8.0\A. Game 23.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Game 23\obj\Debug\net8.0\A. Game 23.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Game 23\obj\Debug\net8.0\A. Game 23.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Game 23\obj\Debug\net8.0\A. Game 23.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Game 23\obj\Debug\net8.0\A. Game 23.sourcelink.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Game 23\obj\Debug\net8.0\A. Game 23.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Game 23\obj\Debug\net8.0\refint\A. Game 23.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Game 23\obj\Debug\net8.0\A. Game 23.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Game 23\obj\Debug\net8.0\A. Game 23.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Game 23\obj\Debug\net8.0\ref\A. Game 23.dll

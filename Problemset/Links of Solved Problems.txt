@@ -184,3 +184,5 @@ A. Grasshopper on a Line ==> https://codeforces.com/problemset/problem/1837/A
 
 A. Dense Array ==> https://codeforces.com/problemset/problem/1490/A
 
+A. Game 23 ==> https://codeforces.com/problemset/problem/1141/A
+
