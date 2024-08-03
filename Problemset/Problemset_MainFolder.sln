@@ -191,7 +191,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "A. Grasshopper on a Line", 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "A. Dense Array", "A. Dense Array\A. Dense Array.csproj", "{381AD956-70F6-4CB9-A9B5-88A31817FE3F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A. Game 23", "A. Game 23\A. Game 23.csproj", "{92BD9CEC-D712-42DC-AB63-D20EAEB069B9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "A. Game 23", "A. Game 23\A. Game 23.csproj", "{92BD9CEC-D712-42DC-AB63-D20EAEB069B9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C. Vasilije in Cacak", "C. Vasilije in Cacak\C. Vasilije in Cacak.csproj", "{A281D148-44A6-4DA5-AF67-DEC49816D49B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -579,6 +581,10 @@ Global
 		{92BD9CEC-D712-42DC-AB63-D20EAEB069B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{92BD9CEC-D712-42DC-AB63-D20EAEB069B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{92BD9CEC-D712-42DC-AB63-D20EAEB069B9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A281D148-44A6-4DA5-AF67-DEC49816D49B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A281D148-44A6-4DA5-AF67-DEC49816D49B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A281D148-44A6-4DA5-AF67-DEC49816D49B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A281D148-44A6-4DA5-AF67-DEC49816D49B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Vasilije in Cacak\bin\Debug\net8.0\C. Vasilije in Cacak.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Vasilije in Cacak\bin\Debug\net8.0\C. Vasilije in Cacak.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Vasilije in Cacak\bin\Debug\net8.0\C. Vasilije in Cacak.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Vasilije in Cacak\bin\Debug\net8.0\C. Vasilije in Cacak.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Vasilije in Cacak\bin\Debug\net8.0\C. Vasilije in Cacak.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Vasilije in Cacak\obj\Debug\net8.0\C. Vasilije in Cacak.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Vasilije in Cacak\obj\Debug\net8.0\C. Vasilije in Cacak.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Vasilije in Cacak\obj\Debug\net8.0\C. Vasilije in Cacak.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Vasilije in Cacak\obj\Debug\net8.0\C. Vasilije in Cacak.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Vasilije in Cacak\obj\Debug\net8.0\C. Vasilije in Cacak.sourcelink.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Vasilije in Cacak\obj\Debug\net8.0\C. Vasilije in Cacak.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Vasilije in Cacak\obj\Debug\net8.0\refint\C. Vasilije in Cacak.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Vasilije in Cacak\obj\Debug\net8.0\C. Vasilije in Cacak.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Vasilije in Cacak\obj\Debug\net8.0\C. Vasilije in Cacak.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Vasilije in Cacak\obj\Debug\net8.0\ref\C. Vasilije in Cacak.dll
