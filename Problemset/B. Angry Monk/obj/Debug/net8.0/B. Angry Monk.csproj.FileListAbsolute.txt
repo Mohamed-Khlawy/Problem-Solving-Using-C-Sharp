@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Angry Monk\bin\Debug\net8.0\B. Angry Monk.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Angry Monk\bin\Debug\net8.0\B. Angry Monk.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Angry Monk\bin\Debug\net8.0\B. Angry Monk.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Angry Monk\bin\Debug\net8.0\B. Angry Monk.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Angry Monk\bin\Debug\net8.0\B. Angry Monk.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Angry Monk\obj\Debug\net8.0\B. Angry Monk.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Angry Monk\obj\Debug\net8.0\B. Angry Monk.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Angry Monk\obj\Debug\net8.0\B. Angry Monk.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Angry Monk\obj\Debug\net8.0\B. Angry Monk.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Angry Monk\obj\Debug\net8.0\B. Angry Monk.sourcelink.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Angry Monk\obj\Debug\net8.0\B. Angry Monk.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Angry Monk\obj\Debug\net8.0\refint\B. Angry Monk.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Angry Monk\obj\Debug\net8.0\B. Angry Monk.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Angry Monk\obj\Debug\net8.0\B. Angry Monk.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Angry Monk\obj\Debug\net8.0\ref\B. Angry Monk.dll

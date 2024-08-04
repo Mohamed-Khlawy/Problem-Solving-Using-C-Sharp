@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("A. Food for Animals")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+739bfe048defa662780d9f1ee655dece305afb15")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4d270f2cdfba3b261632da025353fc68fbf53728")]
 [assembly: System.Reflection.AssemblyProductAttribute("A. Food for Animals")]
 [assembly: System.Reflection.AssemblyTitleAttribute("A. Food for Animals")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

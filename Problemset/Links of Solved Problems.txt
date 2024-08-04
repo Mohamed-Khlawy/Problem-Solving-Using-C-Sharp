@@ -188,3 +188,5 @@ A. Game 23 ==> https://codeforces.com/problemset/problem/1141/A
 
 C. Vasilije in Cacak ==> https://codeforces.com/problemset/problem/1878/C
 
+B. Angry Monk ==> https://codeforces.com/problemset/problem/1992/B
+
