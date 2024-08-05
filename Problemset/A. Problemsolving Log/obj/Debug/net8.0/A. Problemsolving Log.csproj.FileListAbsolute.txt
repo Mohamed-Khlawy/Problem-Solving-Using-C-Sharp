@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Problemsolving Log\bin\Debug\net8.0\A. Problemsolving Log.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Problemsolving Log\bin\Debug\net8.0\A. Problemsolving Log.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Problemsolving Log\bin\Debug\net8.0\A. Problemsolving Log.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Problemsolving Log\bin\Debug\net8.0\A. Problemsolving Log.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Problemsolving Log\bin\Debug\net8.0\A. Problemsolving Log.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Problemsolving Log\obj\Debug\net8.0\A. Problemsolving Log.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Problemsolving Log\obj\Debug\net8.0\A. Problemsolving Log.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Problemsolving Log\obj\Debug\net8.0\A. Problemsolving Log.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Problemsolving Log\obj\Debug\net8.0\A. Problemsolving Log.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Problemsolving Log\obj\Debug\net8.0\A. Problemsolving Log.sourcelink.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Problemsolving Log\obj\Debug\net8.0\A. Problemsolving Log.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Problemsolving Log\obj\Debug\net8.0\refint\A. Problemsolving Log.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Problemsolving Log\obj\Debug\net8.0\A. Problemsolving Log.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Problemsolving Log\obj\Debug\net8.0\A. Problemsolving Log.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Problemsolving Log\obj\Debug\net8.0\ref\A. Problemsolving Log.dll

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("A. Gregor and Cryptography")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5d21064e3309f66934bd5133f02fdc063eb8376e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+62d53594af438123efe28817d209f050c5616edc")]
 [assembly: System.Reflection.AssemblyProductAttribute("A. Gregor and Cryptography")]
 [assembly: System.Reflection.AssemblyTitleAttribute("A. Gregor and Cryptography")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
