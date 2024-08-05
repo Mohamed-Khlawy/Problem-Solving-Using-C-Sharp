@@ -190,3 +190,5 @@ C. Vasilije in Cacak ==> https://codeforces.com/problemset/problem/1878/C
 
 B. Angry Monk ==> https://codeforces.com/problemset/problem/1992/B
 
+B. Aleksa and Stack ==> https://codeforces.com/problemset/problem/1878/B
+

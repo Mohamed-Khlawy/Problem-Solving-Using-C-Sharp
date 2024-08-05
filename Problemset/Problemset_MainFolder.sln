@@ -195,7 +195,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "A. Game 23", "A. Game 23\A.
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "C. Vasilije in Cacak", "C. Vasilije in Cacak\C. Vasilije in Cacak.csproj", "{A281D148-44A6-4DA5-AF67-DEC49816D49B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "B. Angry Monk", "B. Angry Monk\B. Angry Monk.csproj", "{FCC51713-356B-4D82-88A7-1EA8F7F4F79A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "B. Angry Monk", "B. Angry Monk\B. Angry Monk.csproj", "{FCC51713-356B-4D82-88A7-1EA8F7F4F79A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "B. Aleksa and Stack", "B. Aleksa and Stack\B. Aleksa and Stack.csproj", "{F7DB6A1B-50A8-4261-88C4-6B7BFBF20FCD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -591,6 +593,10 @@ Global
 		{FCC51713-356B-4D82-88A7-1EA8F7F4F79A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FCC51713-356B-4D82-88A7-1EA8F7F4F79A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FCC51713-356B-4D82-88A7-1EA8F7F4F79A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F7DB6A1B-50A8-4261-88C4-6B7BFBF20FCD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7DB6A1B-50A8-4261-88C4-6B7BFBF20FCD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7DB6A1B-50A8-4261-88C4-6B7BFBF20FCD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7DB6A1B-50A8-4261-88C4-6B7BFBF20FCD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

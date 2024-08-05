@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Aleksa and Stack\bin\Debug\net8.0\B. Aleksa and Stack.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Aleksa and Stack\bin\Debug\net8.0\B. Aleksa and Stack.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Aleksa and Stack\bin\Debug\net8.0\B. Aleksa and Stack.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Aleksa and Stack\bin\Debug\net8.0\B. Aleksa and Stack.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Aleksa and Stack\bin\Debug\net8.0\B. Aleksa and Stack.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Aleksa and Stack\obj\Debug\net8.0\B. Aleksa and Stack.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Aleksa and Stack\obj\Debug\net8.0\B. Aleksa and Stack.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Aleksa and Stack\obj\Debug\net8.0\B. Aleksa and Stack.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Aleksa and Stack\obj\Debug\net8.0\B. Aleksa and Stack.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Aleksa and Stack\obj\Debug\net8.0\B. Aleksa and Stack.sourcelink.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Aleksa and Stack\obj\Debug\net8.0\B. Aleksa and Stack.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Aleksa and Stack\obj\Debug\net8.0\refint\B. Aleksa and Stack.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Aleksa and Stack\obj\Debug\net8.0\B. Aleksa and Stack.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Aleksa and Stack\obj\Debug\net8.0\B. Aleksa and Stack.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Aleksa and Stack\obj\Debug\net8.0\ref\B. Aleksa and Stack.dll
