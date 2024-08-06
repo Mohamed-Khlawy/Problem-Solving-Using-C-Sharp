@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\D. Odd Queries\bin\Debug\net8.0\D. Odd Queries.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\D. Odd Queries\bin\Debug\net8.0\D. Odd Queries.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\D. Odd Queries\bin\Debug\net8.0\D. Odd Queries.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\D. Odd Queries\bin\Debug\net8.0\D. Odd Queries.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\D. Odd Queries\bin\Debug\net8.0\D. Odd Queries.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\D. Odd Queries\obj\Debug\net8.0\D. Odd Queries.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\D. Odd Queries\obj\Debug\net8.0\D. Odd Queries.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\D. Odd Queries\obj\Debug\net8.0\D. Odd Queries.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\D. Odd Queries\obj\Debug\net8.0\D. Odd Queries.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\D. Odd Queries\obj\Debug\net8.0\D. Odd Queries.sourcelink.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\D. Odd Queries\obj\Debug\net8.0\D. Odd Queries.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\D. Odd Queries\obj\Debug\net8.0\refint\D. Odd Queries.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\D. Odd Queries\obj\Debug\net8.0\D. Odd Queries.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\D. Odd Queries\obj\Debug\net8.0\D. Odd Queries.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\D. Odd Queries\obj\Debug\net8.0\ref\D. Odd Queries.dll

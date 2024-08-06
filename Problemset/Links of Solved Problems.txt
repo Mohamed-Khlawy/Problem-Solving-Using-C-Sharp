@@ -194,3 +194,5 @@ B. Aleksa and Stack ==> https://codeforces.com/problemset/problem/1878/B
 
 A. Problemsolving Log ==> https://codeforces.com/problemset/problem/1914/A
 
+D. Odd Queries ==> https://codeforces.com/problemset/problem/1807/D
+
