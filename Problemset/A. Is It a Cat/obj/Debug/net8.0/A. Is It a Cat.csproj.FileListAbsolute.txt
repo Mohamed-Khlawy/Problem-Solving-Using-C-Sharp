@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Is It a Cat\bin\Debug\net8.0\A. Is It a Cat.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Is It a Cat\bin\Debug\net8.0\A. Is It a Cat.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Is It a Cat\bin\Debug\net8.0\A. Is It a Cat.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Is It a Cat\bin\Debug\net8.0\A. Is It a Cat.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Is It a Cat\bin\Debug\net8.0\A. Is It a Cat.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Is It a Cat\obj\Debug\net8.0\A. Is It a Cat.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Is It a Cat\obj\Debug\net8.0\A. Is It a Cat.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Is It a Cat\obj\Debug\net8.0\A. Is It a Cat.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Is It a Cat\obj\Debug\net8.0\A. Is It a Cat.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Is It a Cat\obj\Debug\net8.0\A. Is It a Cat.sourcelink.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Is It a Cat\obj\Debug\net8.0\A. Is It a Cat.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Is It a Cat\obj\Debug\net8.0\refint\A. Is It a Cat.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Is It a Cat\obj\Debug\net8.0\A. Is It a Cat.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Is It a Cat\obj\Debug\net8.0\A. Is It a Cat.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Is It a Cat\obj\Debug\net8.0\ref\A. Is It a Cat.dll

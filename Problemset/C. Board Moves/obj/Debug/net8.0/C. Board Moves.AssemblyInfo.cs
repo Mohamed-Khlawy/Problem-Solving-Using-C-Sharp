@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("C. Board Moves")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4ab40d83460c3a8c22120737c4eb5372d68a2831")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+79d25c3d8fe90026d079b9a5d4642ed325a185c7")]
 [assembly: System.Reflection.AssemblyProductAttribute("C. Board Moves")]
 [assembly: System.Reflection.AssemblyTitleAttribute("C. Board Moves")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -196,3 +196,5 @@ A. Problemsolving Log ==> https://codeforces.com/problemset/problem/1914/A
 
 D. Odd Queries ==> https://codeforces.com/problemset/problem/1807/D
 
+A. Is It a Cat? ==> https://codeforces.com/problemset/problem/1800/A
+
