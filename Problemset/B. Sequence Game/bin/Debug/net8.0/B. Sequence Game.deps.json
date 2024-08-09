@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "B. Sequence Game/1.0.0": {
+        "runtime": {
+          "B. Sequence Game.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "B. Sequence Game/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

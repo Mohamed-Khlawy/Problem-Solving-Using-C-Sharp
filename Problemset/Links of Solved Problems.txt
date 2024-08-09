@@ -200,3 +200,5 @@ A. Is It a Cat? ==> https://codeforces.com/problemset/problem/1800/A
 
 A. Repeating Cipher ==> https://codeforces.com/problemset/problem/1095/A
 
+B. Sequence Game ==> https://codeforces.com/problemset/problem/1862/B
+

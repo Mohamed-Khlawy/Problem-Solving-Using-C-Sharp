@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("A. Problem Generator")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b724e4d0df984965da7d2943056426a39e351e1f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+da14849389ba73adecb878e30ee929a111fc1ecd")]
 [assembly: System.Reflection.AssemblyProductAttribute("A. Problem Generator")]
 [assembly: System.Reflection.AssemblyTitleAttribute("A. Problem Generator")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
