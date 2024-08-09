@@ -198,3 +198,5 @@ D. Odd Queries ==> https://codeforces.com/problemset/problem/1807/D
 
 A. Is It a Cat? ==> https://codeforces.com/problemset/problem/1800/A
 
+A. Repeating Cipher ==> https://codeforces.com/problemset/problem/1095/A
+

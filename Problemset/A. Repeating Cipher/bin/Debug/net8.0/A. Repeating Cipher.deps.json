@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "A. Repeating Cipher/1.0.0": {
+        "runtime": {
+          "A. Repeating Cipher.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "A. Repeating Cipher/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

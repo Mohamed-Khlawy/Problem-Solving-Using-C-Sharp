@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Repeating Cipher\bin\Debug\net8.0\A. Repeating Cipher.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Repeating Cipher\bin\Debug\net8.0\A. Repeating Cipher.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Repeating Cipher\bin\Debug\net8.0\A. Repeating Cipher.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Repeating Cipher\bin\Debug\net8.0\A. Repeating Cipher.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Repeating Cipher\bin\Debug\net8.0\A. Repeating Cipher.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Repeating Cipher\obj\Debug\net8.0\A. Repeating Cipher.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Repeating Cipher\obj\Debug\net8.0\A. Repeating Cipher.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Repeating Cipher\obj\Debug\net8.0\A. Repeating Cipher.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Repeating Cipher\obj\Debug\net8.0\A. Repeating Cipher.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Repeating Cipher\obj\Debug\net8.0\A. Repeating Cipher.sourcelink.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Repeating Cipher\obj\Debug\net8.0\A. Repeating Cipher.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Repeating Cipher\obj\Debug\net8.0\refint\A. Repeating Cipher.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Repeating Cipher\obj\Debug\net8.0\A. Repeating Cipher.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Repeating Cipher\obj\Debug\net8.0\A. Repeating Cipher.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Repeating Cipher\obj\Debug\net8.0\ref\A. Repeating Cipher.dll
