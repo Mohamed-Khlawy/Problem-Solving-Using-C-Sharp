@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Minimum Varied Number\bin\Debug\net8.0\C. Minimum Varied Number.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Minimum Varied Number\bin\Debug\net8.0\C. Minimum Varied Number.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Minimum Varied Number\bin\Debug\net8.0\C. Minimum Varied Number.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Minimum Varied Number\bin\Debug\net8.0\C. Minimum Varied Number.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Minimum Varied Number\bin\Debug\net8.0\C. Minimum Varied Number.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Minimum Varied Number\obj\Debug\net8.0\C. Minimum Varied Number.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Minimum Varied Number\obj\Debug\net8.0\C. Minimum Varied Number.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Minimum Varied Number\obj\Debug\net8.0\C. Minimum Varied Number.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Minimum Varied Number\obj\Debug\net8.0\C. Minimum Varied Number.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Minimum Varied Number\obj\Debug\net8.0\C. Minimum Varied Number.sourcelink.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Minimum Varied Number\obj\Debug\net8.0\C. Minimum Varied Number.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Minimum Varied Number\obj\Debug\net8.0\refint\C. Minimum Varied Number.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Minimum Varied Number\obj\Debug\net8.0\C. Minimum Varied Number.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Minimum Varied Number\obj\Debug\net8.0\C. Minimum Varied Number.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Minimum Varied Number\obj\Debug\net8.0\ref\C. Minimum Varied Number.dll

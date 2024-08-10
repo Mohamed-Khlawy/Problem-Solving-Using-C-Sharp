@@ -202,3 +202,5 @@ A. Repeating Cipher ==> https://codeforces.com/problemset/problem/1095/A
 
 B. Sequence Game ==> https://codeforces.com/problemset/problem/1862/B
 
+C. Minimum Varied Number ==> https://codeforces.com/problemset/problem/1714/C
+

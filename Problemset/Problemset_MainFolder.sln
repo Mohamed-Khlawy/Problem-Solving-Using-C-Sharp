@@ -205,9 +205,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "D. Odd Queries", "D. Odd Qu
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "A. Is It a Cat", "A. Is It a Cat\A. Is It a Cat.csproj", "{57FD75C5-2C02-49A2-A8FA-8C1C9C852F94}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A. Repeating Cipher", "A. Repeating Cipher\A. Repeating Cipher.csproj", "{B2FAEF04-1C76-4008-A211-4D79B1FC387F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "A. Repeating Cipher", "A. Repeating Cipher\A. Repeating Cipher.csproj", "{B2FAEF04-1C76-4008-A211-4D79B1FC387F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "B. Sequence Game", "B. Sequence Game\B. Sequence Game.csproj", "{9781E1B7-C278-43E4-877D-93971B340095}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "B. Sequence Game", "B. Sequence Game\B. Sequence Game.csproj", "{9781E1B7-C278-43E4-877D-93971B340095}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C. Minimum Varied Number", "C. Minimum Varied Number\C. Minimum Varied Number.csproj", "{1421BCB8-6AF9-49FE-AA6F-247CE6056C61}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -627,6 +629,10 @@ Global
 		{9781E1B7-C278-43E4-877D-93971B340095}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9781E1B7-C278-43E4-877D-93971B340095}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9781E1B7-C278-43E4-877D-93971B340095}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1421BCB8-6AF9-49FE-AA6F-247CE6056C61}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1421BCB8-6AF9-49FE-AA6F-247CE6056C61}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1421BCB8-6AF9-49FE-AA6F-247CE6056C61}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1421BCB8-6AF9-49FE-AA6F-247CE6056C61}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
