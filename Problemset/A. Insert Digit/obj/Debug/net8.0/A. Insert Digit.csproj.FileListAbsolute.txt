@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Insert Digit\bin\Debug\net8.0\A. Insert Digit.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Insert Digit\bin\Debug\net8.0\A. Insert Digit.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Insert Digit\bin\Debug\net8.0\A. Insert Digit.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Insert Digit\bin\Debug\net8.0\A. Insert Digit.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Insert Digit\bin\Debug\net8.0\A. Insert Digit.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Insert Digit\obj\Debug\net8.0\A. Insert Digit.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Insert Digit\obj\Debug\net8.0\A. Insert Digit.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Insert Digit\obj\Debug\net8.0\A. Insert Digit.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Insert Digit\obj\Debug\net8.0\A. Insert Digit.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Insert Digit\obj\Debug\net8.0\A. Insert Digit.sourcelink.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Insert Digit\obj\Debug\net8.0\A. Insert Digit.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Insert Digit\obj\Debug\net8.0\refint\A. Insert Digit.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Insert Digit\obj\Debug\net8.0\A. Insert Digit.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Insert Digit\obj\Debug\net8.0\A. Insert Digit.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Insert Digit\obj\Debug\net8.0\ref\A. Insert Digit.dll

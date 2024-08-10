@@ -204,3 +204,5 @@ B. Sequence Game ==> https://codeforces.com/problemset/problem/1862/B
 
 C. Minimum Varied Number ==> https://codeforces.com/problemset/problem/1714/C
 
+A. Insert Digit ==> https://codeforces.com/problemset/problem/1811/A
+

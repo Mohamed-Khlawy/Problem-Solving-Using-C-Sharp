@@ -211,6 +211,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "B. Sequence Game", "B. Sequ
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C. Minimum Varied Number", "C. Minimum Varied Number\C. Minimum Varied Number.csproj", "{1421BCB8-6AF9-49FE-AA6F-247CE6056C61}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A. Insert Digit", "A. Insert Digit\A. Insert Digit.csproj", "{3686421F-C151-42ED-9777-6D5ADBB2FEDF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -633,6 +635,10 @@ Global
 		{1421BCB8-6AF9-49FE-AA6F-247CE6056C61}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1421BCB8-6AF9-49FE-AA6F-247CE6056C61}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1421BCB8-6AF9-49FE-AA6F-247CE6056C61}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3686421F-C151-42ED-9777-6D5ADBB2FEDF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3686421F-C151-42ED-9777-6D5ADBB2FEDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3686421F-C151-42ED-9777-6D5ADBB2FEDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3686421F-C151-42ED-9777-6D5ADBB2FEDF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
