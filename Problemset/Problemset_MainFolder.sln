@@ -209,9 +209,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "A. Repeating Cipher", "A. R
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "B. Sequence Game", "B. Sequence Game\B. Sequence Game.csproj", "{9781E1B7-C278-43E4-877D-93971B340095}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C. Minimum Varied Number", "C. Minimum Varied Number\C. Minimum Varied Number.csproj", "{1421BCB8-6AF9-49FE-AA6F-247CE6056C61}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "C. Minimum Varied Number", "C. Minimum Varied Number\C. Minimum Varied Number.csproj", "{1421BCB8-6AF9-49FE-AA6F-247CE6056C61}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A. Insert Digit", "A. Insert Digit\A. Insert Digit.csproj", "{3686421F-C151-42ED-9777-6D5ADBB2FEDF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "A. Insert Digit", "A. Insert Digit\A. Insert Digit.csproj", "{3686421F-C151-42ED-9777-6D5ADBB2FEDF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A. Required Remainder", "A. Required Remainder\A. Required Remainder.csproj", "{9A707A09-3ED2-4D42-99AE-DFF558B1674A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -639,6 +641,10 @@ Global
 		{3686421F-C151-42ED-9777-6D5ADBB2FEDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3686421F-C151-42ED-9777-6D5ADBB2FEDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3686421F-C151-42ED-9777-6D5ADBB2FEDF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9A707A09-3ED2-4D42-99AE-DFF558B1674A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A707A09-3ED2-4D42-99AE-DFF558B1674A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A707A09-3ED2-4D42-99AE-DFF558B1674A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A707A09-3ED2-4D42-99AE-DFF558B1674A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

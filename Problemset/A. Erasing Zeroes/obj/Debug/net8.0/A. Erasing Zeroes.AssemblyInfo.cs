@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("A. Erasing Zeroes")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8fb0ff60d864ff93c9b9900c8886fe9bb92c4223")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1cf41ef2007ced21c53ce2bcc4e666fb6bab436f")]
 [assembly: System.Reflection.AssemblyProductAttribute("A. Erasing Zeroes")]
 [assembly: System.Reflection.AssemblyTitleAttribute("A. Erasing Zeroes")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

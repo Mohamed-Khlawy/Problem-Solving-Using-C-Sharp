@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Required Remainder\bin\Debug\net8.0\A. Required Remainder.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Required Remainder\bin\Debug\net8.0\A. Required Remainder.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Required Remainder\bin\Debug\net8.0\A. Required Remainder.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Required Remainder\bin\Debug\net8.0\A. Required Remainder.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Required Remainder\bin\Debug\net8.0\A. Required Remainder.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Required Remainder\obj\Debug\net8.0\A. Required Remainder.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Required Remainder\obj\Debug\net8.0\A. Required Remainder.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Required Remainder\obj\Debug\net8.0\A. Required Remainder.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Required Remainder\obj\Debug\net8.0\A. Required Remainder.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Required Remainder\obj\Debug\net8.0\A. Required Remainder.sourcelink.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Required Remainder\obj\Debug\net8.0\A. Required Remainder.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Required Remainder\obj\Debug\net8.0\refint\A. Required Remainder.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Required Remainder\obj\Debug\net8.0\A. Required Remainder.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Required Remainder\obj\Debug\net8.0\A. Required Remainder.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Required Remainder\obj\Debug\net8.0\ref\A. Required Remainder.dll
