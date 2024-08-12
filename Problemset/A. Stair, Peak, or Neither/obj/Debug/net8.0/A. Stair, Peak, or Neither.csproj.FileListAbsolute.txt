@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Stair, Peak, or Neither\bin\Debug\net8.0\A. Stair, Peak, or Neither.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Stair, Peak, or Neither\bin\Debug\net8.0\A. Stair, Peak, or Neither.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Stair, Peak, or Neither\bin\Debug\net8.0\A. Stair, Peak, or Neither.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Stair, Peak, or Neither\bin\Debug\net8.0\A. Stair, Peak, or Neither.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Stair, Peak, or Neither\bin\Debug\net8.0\A. Stair, Peak, or Neither.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Stair, Peak, or Neither\obj\Debug\net8.0\A. Stair, Peak, or Neither.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Stair, Peak, or Neither\obj\Debug\net8.0\A. Stair, Peak, or Neither.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Stair, Peak, or Neither\obj\Debug\net8.0\A. Stair, Peak, or Neither.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Stair, Peak, or Neither\obj\Debug\net8.0\A. Stair, Peak, or Neither.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Stair, Peak, or Neither\obj\Debug\net8.0\A. Stair, Peak, or Neither.sourcelink.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Stair, Peak, or Neither\obj\Debug\net8.0\A. Stair, Peak, or Neither.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Stair, Peak, or Neither\obj\Debug\net8.0\refint\A. Stair, Peak, or Neither.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Stair, Peak, or Neither\obj\Debug\net8.0\A. Stair, Peak, or Neither.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Stair, Peak, or Neither\obj\Debug\net8.0\A. Stair, Peak, or Neither.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Stair, Peak, or Neither\obj\Debug\net8.0\ref\A. Stair, Peak, or Neither.dll

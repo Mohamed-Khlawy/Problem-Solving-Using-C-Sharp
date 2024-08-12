@@ -208,3 +208,5 @@ A. Insert Digit ==> https://codeforces.com/problemset/problem/1811/A
 
 A. Required Remainder ==> https://codeforces.com/problemset/problem/1374/A
 
+A. Stair, Peak, or Neither? ==> https://codeforces.com/problemset/problem/1950/A
+
