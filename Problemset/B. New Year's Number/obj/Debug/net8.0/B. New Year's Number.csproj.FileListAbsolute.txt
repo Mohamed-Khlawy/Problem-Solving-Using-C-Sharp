@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. New Year's Number\bin\Debug\net8.0\B. New Year's Number.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. New Year's Number\bin\Debug\net8.0\B. New Year's Number.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. New Year's Number\bin\Debug\net8.0\B. New Year's Number.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. New Year's Number\bin\Debug\net8.0\B. New Year's Number.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. New Year's Number\bin\Debug\net8.0\B. New Year's Number.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. New Year's Number\obj\Debug\net8.0\B. New Year's Number.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. New Year's Number\obj\Debug\net8.0\B. New Year's Number.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. New Year's Number\obj\Debug\net8.0\B. New Year's Number.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. New Year's Number\obj\Debug\net8.0\B. New Year's Number.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. New Year's Number\obj\Debug\net8.0\B. New Year's Number.sourcelink.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. New Year's Number\obj\Debug\net8.0\B. New Year's Number.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. New Year's Number\obj\Debug\net8.0\refint\B. New Year's Number.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. New Year's Number\obj\Debug\net8.0\B. New Year's Number.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. New Year's Number\obj\Debug\net8.0\B. New Year's Number.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. New Year's Number\obj\Debug\net8.0\ref\B. New Year's Number.dll
