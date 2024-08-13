@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Vlad and the Best of Five\bin\Debug\net8.0\A. Vlad and the Best of Five.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Vlad and the Best of Five\bin\Debug\net8.0\A. Vlad and the Best of Five.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Vlad and the Best of Five\bin\Debug\net8.0\A. Vlad and the Best of Five.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Vlad and the Best of Five\bin\Debug\net8.0\A. Vlad and the Best of Five.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Vlad and the Best of Five\bin\Debug\net8.0\A. Vlad and the Best of Five.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Vlad and the Best of Five\obj\Debug\net8.0\A. Vlad and the Best of Five.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Vlad and the Best of Five\obj\Debug\net8.0\A. Vlad and the Best of Five.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Vlad and the Best of Five\obj\Debug\net8.0\A. Vlad and the Best of Five.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Vlad and the Best of Five\obj\Debug\net8.0\A. Vlad and the Best of Five.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Vlad and the Best of Five\obj\Debug\net8.0\A. Vlad and the Best of Five.sourcelink.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Vlad and the Best of Five\obj\Debug\net8.0\A. Vlad and the Best of Five.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Vlad and the Best of Five\obj\Debug\net8.0\refint\A. Vlad and the Best of Five.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Vlad and the Best of Five\obj\Debug\net8.0\A. Vlad and the Best of Five.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Vlad and the Best of Five\obj\Debug\net8.0\A. Vlad and the Best of Five.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Vlad and the Best of Five\obj\Debug\net8.0\ref\A. Vlad and the Best of Five.dll

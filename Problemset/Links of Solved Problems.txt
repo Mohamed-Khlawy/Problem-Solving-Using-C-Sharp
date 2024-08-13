@@ -214,3 +214,5 @@ B. New Year's Number ==> https://codeforces.com/problemset/problem/1475/B
 
 A. Creating Words ==> https://codeforces.com/problemset/problem/1985/A
 
+A. Vlad and the Best of Five ==> https://codeforces.com/problemset/problem/1926/A
+
