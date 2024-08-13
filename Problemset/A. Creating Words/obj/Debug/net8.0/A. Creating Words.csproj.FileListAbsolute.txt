@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Creating Words\bin\Debug\net8.0\A. Creating Words.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Creating Words\bin\Debug\net8.0\A. Creating Words.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Creating Words\bin\Debug\net8.0\A. Creating Words.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Creating Words\bin\Debug\net8.0\A. Creating Words.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Creating Words\bin\Debug\net8.0\A. Creating Words.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Creating Words\obj\Debug\net8.0\A. Creating Words.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Creating Words\obj\Debug\net8.0\A. Creating Words.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Creating Words\obj\Debug\net8.0\A. Creating Words.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Creating Words\obj\Debug\net8.0\A. Creating Words.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Creating Words\obj\Debug\net8.0\A. Creating Words.sourcelink.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Creating Words\obj\Debug\net8.0\A. Creating Words.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Creating Words\obj\Debug\net8.0\refint\A. Creating Words.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Creating Words\obj\Debug\net8.0\A. Creating Words.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Creating Words\obj\Debug\net8.0\A. Creating Words.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Creating Words\obj\Debug\net8.0\ref\A. Creating Words.dll

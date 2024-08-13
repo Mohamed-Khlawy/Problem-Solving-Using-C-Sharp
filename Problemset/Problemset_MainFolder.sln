@@ -215,9 +215,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "A. Insert Digit", "A. Inser
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "A. Required Remainder", "A. Required Remainder\A. Required Remainder.csproj", "{9A707A09-3ED2-4D42-99AE-DFF558B1674A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A. Stair, Peak, or Neither", "A. Stair, Peak, or Neither\A. Stair, Peak, or Neither.csproj", "{140437EC-91A9-4A3D-8EC6-B5DD4D1CF9AA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "A. Stair, Peak, or Neither", "A. Stair, Peak, or Neither\A. Stair, Peak, or Neither.csproj", "{140437EC-91A9-4A3D-8EC6-B5DD4D1CF9AA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "B. New Year's Number", "B. New Year's Number\B. New Year's Number.csproj", "{9B010CA6-2626-4EA7-B189-167B406921D1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "B. New Year's Number", "B. New Year's Number\B. New Year's Number.csproj", "{9B010CA6-2626-4EA7-B189-167B406921D1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A. Creating Words", "A. Creating Words\A. Creating Words.csproj", "{007B9511-F96B-4B48-BDAF-FE99F233A9F6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -657,6 +659,10 @@ Global
 		{9B010CA6-2626-4EA7-B189-167B406921D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9B010CA6-2626-4EA7-B189-167B406921D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9B010CA6-2626-4EA7-B189-167B406921D1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{007B9511-F96B-4B48-BDAF-FE99F233A9F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{007B9511-F96B-4B48-BDAF-FE99F233A9F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{007B9511-F96B-4B48-BDAF-FE99F233A9F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{007B9511-F96B-4B48-BDAF-FE99F233A9F6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

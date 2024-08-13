@@ -212,3 +212,5 @@ A. Stair, Peak, or Neither? ==> https://codeforces.com/problemset/problem/1950/A
 
 B. New Year's Number ==> https://codeforces.com/problemset/problem/1475/B
 
+A. Creating Words ==> https://codeforces.com/problemset/problem/1985/A
+
