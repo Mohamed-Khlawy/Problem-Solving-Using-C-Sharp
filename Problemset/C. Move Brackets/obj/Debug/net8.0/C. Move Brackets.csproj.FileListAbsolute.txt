@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Move Brackets\bin\Debug\net8.0\C. Move Brackets.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Move Brackets\bin\Debug\net8.0\C. Move Brackets.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Move Brackets\bin\Debug\net8.0\C. Move Brackets.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Move Brackets\bin\Debug\net8.0\C. Move Brackets.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Move Brackets\bin\Debug\net8.0\C. Move Brackets.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Move Brackets\obj\Debug\net8.0\C. Move Brackets.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Move Brackets\obj\Debug\net8.0\C. Move Brackets.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Move Brackets\obj\Debug\net8.0\C. Move Brackets.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Move Brackets\obj\Debug\net8.0\C. Move Brackets.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Move Brackets\obj\Debug\net8.0\C. Move Brackets.sourcelink.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Move Brackets\obj\Debug\net8.0\C. Move Brackets.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Move Brackets\obj\Debug\net8.0\refint\C. Move Brackets.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Move Brackets\obj\Debug\net8.0\C. Move Brackets.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Move Brackets\obj\Debug\net8.0\C. Move Brackets.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Move Brackets\obj\Debug\net8.0\ref\C. Move Brackets.dll

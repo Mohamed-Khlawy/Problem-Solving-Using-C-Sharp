@@ -223,6 +223,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A. Creating Words", "A. Cre
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A. Vlad and the Best of Five", "A. Vlad and the Best of Five\A. Vlad and the Best of Five.csproj", "{480A4A1E-39E8-4B04-AB03-5A8D42F9B2DD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C. Move Brackets", "C. Move Brackets\C. Move Brackets.csproj", "{F5AB27C3-E250-4F5C-9097-6EEF7C81E640}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -669,6 +671,10 @@ Global
 		{480A4A1E-39E8-4B04-AB03-5A8D42F9B2DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{480A4A1E-39E8-4B04-AB03-5A8D42F9B2DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{480A4A1E-39E8-4B04-AB03-5A8D42F9B2DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F5AB27C3-E250-4F5C-9097-6EEF7C81E640}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5AB27C3-E250-4F5C-9097-6EEF7C81E640}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5AB27C3-E250-4F5C-9097-6EEF7C81E640}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5AB27C3-E250-4F5C-9097-6EEF7C81E640}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
