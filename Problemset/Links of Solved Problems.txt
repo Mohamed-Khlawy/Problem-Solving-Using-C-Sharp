@@ -218,3 +218,5 @@ A. Vlad and the Best of Five ==> https://codeforces.com/problemset/problem/1926/
 
 C. Move Brackets ==> https://codeforces.com/problemset/problem/1374/C
 
+A. Game with Integers ==> https://codeforces.com/problemset/problem/1899/A
+

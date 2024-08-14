@@ -219,11 +219,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "A. Stair, Peak, or Neither"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "B. New Year's Number", "B. New Year's Number\B. New Year's Number.csproj", "{9B010CA6-2626-4EA7-B189-167B406921D1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A. Creating Words", "A. Creating Words\A. Creating Words.csproj", "{007B9511-F96B-4B48-BDAF-FE99F233A9F6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "A. Creating Words", "A. Creating Words\A. Creating Words.csproj", "{007B9511-F96B-4B48-BDAF-FE99F233A9F6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A. Vlad and the Best of Five", "A. Vlad and the Best of Five\A. Vlad and the Best of Five.csproj", "{480A4A1E-39E8-4B04-AB03-5A8D42F9B2DD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "A. Vlad and the Best of Five", "A. Vlad and the Best of Five\A. Vlad and the Best of Five.csproj", "{480A4A1E-39E8-4B04-AB03-5A8D42F9B2DD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C. Move Brackets", "C. Move Brackets\C. Move Brackets.csproj", "{F5AB27C3-E250-4F5C-9097-6EEF7C81E640}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "C. Move Brackets", "C. Move Brackets\C. Move Brackets.csproj", "{F5AB27C3-E250-4F5C-9097-6EEF7C81E640}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A. Game with Integers", "A. Game with Integers\A. Game with Integers.csproj", "{8725FE88-E859-479A-90E9-B50E02196761}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -675,6 +677,10 @@ Global
 		{F5AB27C3-E250-4F5C-9097-6EEF7C81E640}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F5AB27C3-E250-4F5C-9097-6EEF7C81E640}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F5AB27C3-E250-4F5C-9097-6EEF7C81E640}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8725FE88-E859-479A-90E9-B50E02196761}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8725FE88-E859-479A-90E9-B50E02196761}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8725FE88-E859-479A-90E9-B50E02196761}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8725FE88-E859-479A-90E9-B50E02196761}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

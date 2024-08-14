@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("A. Gift Carpet")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+babbb95df6cbbb3e57b7f10ad1b7539fbf3950ce")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f8803d7dd62c4a2ed07b745acda6a96abaeac06a")]
 [assembly: System.Reflection.AssemblyProductAttribute("A. Gift Carpet")]
 [assembly: System.Reflection.AssemblyTitleAttribute("A. Gift Carpet")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

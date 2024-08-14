@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Game with Integers\bin\Debug\net8.0\A. Game with Integers.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Game with Integers\bin\Debug\net8.0\A. Game with Integers.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Game with Integers\bin\Debug\net8.0\A. Game with Integers.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Game with Integers\bin\Debug\net8.0\A. Game with Integers.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Game with Integers\bin\Debug\net8.0\A. Game with Integers.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Game with Integers\obj\Debug\net8.0\A. Game with Integers.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Game with Integers\obj\Debug\net8.0\A. Game with Integers.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Game with Integers\obj\Debug\net8.0\A. Game with Integers.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Game with Integers\obj\Debug\net8.0\A. Game with Integers.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Game with Integers\obj\Debug\net8.0\A. Game with Integers.sourcelink.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Game with Integers\obj\Debug\net8.0\A. Game with Integers.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Game with Integers\obj\Debug\net8.0\refint\A. Game with Integers.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Game with Integers\obj\Debug\net8.0\A. Game with Integers.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Game with Integers\obj\Debug\net8.0\A. Game with Integers.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Game with Integers\obj\Debug\net8.0\ref\A. Game with Integers.dll

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("C. Clock Conversion")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+babbb95df6cbbb3e57b7f10ad1b7539fbf3950ce")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f8803d7dd62c4a2ed07b745acda6a96abaeac06a")]
 [assembly: System.Reflection.AssemblyProductAttribute("C. Clock Conversion")]
 [assembly: System.Reflection.AssemblyTitleAttribute("C. Clock Conversion")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
