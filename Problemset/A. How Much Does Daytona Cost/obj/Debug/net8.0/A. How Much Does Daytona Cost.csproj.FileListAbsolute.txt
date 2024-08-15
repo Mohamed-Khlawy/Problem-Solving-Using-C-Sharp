@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. How Much Does Daytona Cost\bin\Debug\net8.0\A. How Much Does Daytona Cost.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. How Much Does Daytona Cost\bin\Debug\net8.0\A. How Much Does Daytona Cost.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. How Much Does Daytona Cost\bin\Debug\net8.0\A. How Much Does Daytona Cost.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. How Much Does Daytona Cost\bin\Debug\net8.0\A. How Much Does Daytona Cost.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. How Much Does Daytona Cost\bin\Debug\net8.0\A. How Much Does Daytona Cost.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. How Much Does Daytona Cost\obj\Debug\net8.0\A. How Much Does Daytona Cost.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. How Much Does Daytona Cost\obj\Debug\net8.0\A. How Much Does Daytona Cost.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. How Much Does Daytona Cost\obj\Debug\net8.0\A. How Much Does Daytona Cost.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. How Much Does Daytona Cost\obj\Debug\net8.0\A. How Much Does Daytona Cost.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. How Much Does Daytona Cost\obj\Debug\net8.0\A. How Much Does Daytona Cost.sourcelink.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. How Much Does Daytona Cost\obj\Debug\net8.0\A. How Much Does Daytona Cost.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. How Much Does Daytona Cost\obj\Debug\net8.0\refint\A. How Much Does Daytona Cost.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. How Much Does Daytona Cost\obj\Debug\net8.0\A. How Much Does Daytona Cost.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. How Much Does Daytona Cost\obj\Debug\net8.0\A. How Much Does Daytona Cost.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. How Much Does Daytona Cost\obj\Debug\net8.0\ref\A. How Much Does Daytona Cost.dll

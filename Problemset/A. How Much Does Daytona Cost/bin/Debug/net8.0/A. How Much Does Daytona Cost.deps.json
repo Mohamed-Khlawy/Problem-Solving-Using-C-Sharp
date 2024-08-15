@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "A. How Much Does Daytona Cost/1.0.0": {
+        "runtime": {
+          "A. How Much Does Daytona Cost.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "A. How Much Does Daytona Cost/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

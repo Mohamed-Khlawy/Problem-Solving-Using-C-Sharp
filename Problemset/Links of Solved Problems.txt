@@ -220,3 +220,7 @@ C. Move Brackets ==> https://codeforces.com/problemset/problem/1374/C
 
 A. Game with Integers ==> https://codeforces.com/problemset/problem/1899/A
 
+A. How Much Does Daytona Cost? ==> https://codeforces.com/problemset/problem/1878/A
+
+A. Square ==> https://codeforces.com/problemset/problem/1921/A
+
