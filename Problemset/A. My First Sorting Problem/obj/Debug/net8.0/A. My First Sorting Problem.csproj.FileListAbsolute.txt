@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. My First Sorting Problem\bin\Debug\net8.0\A. My First Sorting Problem.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. My First Sorting Problem\bin\Debug\net8.0\A. My First Sorting Problem.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. My First Sorting Problem\bin\Debug\net8.0\A. My First Sorting Problem.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. My First Sorting Problem\bin\Debug\net8.0\A. My First Sorting Problem.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. My First Sorting Problem\bin\Debug\net8.0\A. My First Sorting Problem.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. My First Sorting Problem\obj\Debug\net8.0\A. My First Sorting Problem.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. My First Sorting Problem\obj\Debug\net8.0\A. My First Sorting Problem.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. My First Sorting Problem\obj\Debug\net8.0\A. My First Sorting Problem.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. My First Sorting Problem\obj\Debug\net8.0\A. My First Sorting Problem.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. My First Sorting Problem\obj\Debug\net8.0\A. My First Sorting Problem.sourcelink.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. My First Sorting Problem\obj\Debug\net8.0\A. My First Sorting Problem.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. My First Sorting Problem\obj\Debug\net8.0\refint\A. My First Sorting Problem.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. My First Sorting Problem\obj\Debug\net8.0\A. My First Sorting Problem.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. My First Sorting Problem\obj\Debug\net8.0\A. My First Sorting Problem.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. My First Sorting Problem\obj\Debug\net8.0\ref\A. My First Sorting Problem.dll

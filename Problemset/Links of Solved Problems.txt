@@ -224,3 +224,9 @@ A. How Much Does Daytona Cost? ==> https://codeforces.com/problemset/problem/187
 
 A. Square ==> https://codeforces.com/problemset/problem/1921/A
 
+A. My First Sorting Problem ==> https://codeforces.com/problemset/problem/1971/A
+
+A. Make it White ==> https://codeforces.com/problemset/problem/1927/A
+
+A. Arpa’s hard exam and Mehrdad’s naive cheat ==> https://codeforces.com/problemset/problem/742/A
+
