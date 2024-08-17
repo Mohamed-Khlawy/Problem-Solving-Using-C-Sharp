@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "A. Rudolf and the Ticket/1.0.0": {
+        "runtime": {
+          "A. Rudolf and the Ticket.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "A. Rudolf and the Ticket/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

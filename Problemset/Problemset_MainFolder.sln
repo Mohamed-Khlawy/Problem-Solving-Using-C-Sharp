@@ -231,11 +231,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "A. How Much Does Daytona Co
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "A. Square", "A. Square\A. Square.csproj", "{65D9CB28-8BCF-448D-B223-E2EB585B01AB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A. My First Sorting Problem", "A. My First Sorting Problem\A. My First Sorting Problem.csproj", "{95BC2BD4-50F3-4045-AD4A-19E7E644D0B8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "A. My First Sorting Problem", "A. My First Sorting Problem\A. My First Sorting Problem.csproj", "{95BC2BD4-50F3-4045-AD4A-19E7E644D0B8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A. Make it White", "A. Make it White\A. Make it White.csproj", "{99BA68FB-AC3E-41C3-9EAE-250E1FA04B13}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "A. Make it White", "A. Make it White\A. Make it White.csproj", "{99BA68FB-AC3E-41C3-9EAE-250E1FA04B13}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A. Arpa’s hard exam and Mehrdad’s naive cheat", "A. Arpa’s hard exam and Mehrdad’s naive cheat\A. Arpa’s hard exam and Mehrdad’s naive cheat.csproj", "{3E9799A3-8152-4977-8A12-C9A5BFE7D443}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "A. Arpa’s hard exam and Mehrdad’s naive cheat", "A. Arpa’s hard exam and Mehrdad’s naive cheat\A. Arpa’s hard exam and Mehrdad’s naive cheat.csproj", "{3E9799A3-8152-4977-8A12-C9A5BFE7D443}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A. Rudolf and the Ticket", "A. Rudolf and the Ticket\A. Rudolf and the Ticket.csproj", "{99873DAE-6D48-4FA4-B346-0688AF0A923A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -711,6 +713,10 @@ Global
 		{3E9799A3-8152-4977-8A12-C9A5BFE7D443}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3E9799A3-8152-4977-8A12-C9A5BFE7D443}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3E9799A3-8152-4977-8A12-C9A5BFE7D443}.Release|Any CPU.Build.0 = Release|Any CPU
+		{99873DAE-6D48-4FA4-B346-0688AF0A923A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99873DAE-6D48-4FA4-B346-0688AF0A923A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99873DAE-6D48-4FA4-B346-0688AF0A923A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99873DAE-6D48-4FA4-B346-0688AF0A923A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

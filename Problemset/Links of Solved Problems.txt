@@ -230,3 +230,5 @@ A. Make it White ==> https://codeforces.com/problemset/problem/1927/A
 
 A. Arpa’s hard exam and Mehrdad’s naive cheat ==> https://codeforces.com/problemset/problem/742/A
 
+A. Rudolf and the Ticket ==> https://codeforces.com/problemset/problem/1941/A
+

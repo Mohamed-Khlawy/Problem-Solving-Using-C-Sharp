@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("C. Rudolf and the Ugly String")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9a9bc084e432056b257ddf2a6e20129ed5254d1e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+94f09fd62f1d277843b6232df49ee86700b3e078")]
 [assembly: System.Reflection.AssemblyProductAttribute("C. Rudolf and the Ugly String")]
 [assembly: System.Reflection.AssemblyTitleAttribute("C. Rudolf and the Ugly String")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
