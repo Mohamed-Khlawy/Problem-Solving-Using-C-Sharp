@@ -232,3 +232,7 @@ A. Arpa’s hard exam and Mehrdad’s naive cheat ==> https://codeforces.com/pro
 
 A. Rudolf and the Ticket ==> https://codeforces.com/problemset/problem/1941/A
 
+A. A+B Again? ==> https://codeforces.com/problemset/problem/1999/A
+
+A. Yogurt Sale ==> https://codeforces.com/problemset/problem/1955/A
+

@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Yogurt Sale\bin\Debug\net8.0\A. Yogurt Sale.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Yogurt Sale\bin\Debug\net8.0\A. Yogurt Sale.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Yogurt Sale\bin\Debug\net8.0\A. Yogurt Sale.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Yogurt Sale\bin\Debug\net8.0\A. Yogurt Sale.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Yogurt Sale\bin\Debug\net8.0\A. Yogurt Sale.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Yogurt Sale\obj\Debug\net8.0\A. Yogurt Sale.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Yogurt Sale\obj\Debug\net8.0\A. Yogurt Sale.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Yogurt Sale\obj\Debug\net8.0\A. Yogurt Sale.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Yogurt Sale\obj\Debug\net8.0\A. Yogurt Sale.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Yogurt Sale\obj\Debug\net8.0\A. Yogurt Sale.sourcelink.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Yogurt Sale\obj\Debug\net8.0\A. Yogurt Sale.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Yogurt Sale\obj\Debug\net8.0\refint\A. Yogurt Sale.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Yogurt Sale\obj\Debug\net8.0\A. Yogurt Sale.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Yogurt Sale\obj\Debug\net8.0\A. Yogurt Sale.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Yogurt Sale\obj\Debug\net8.0\ref\A. Yogurt Sale.dll
