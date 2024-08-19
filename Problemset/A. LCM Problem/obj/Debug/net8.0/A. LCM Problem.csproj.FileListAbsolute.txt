@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. LCM Problem\bin\Debug\net8.0\A. LCM Problem.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. LCM Problem\bin\Debug\net8.0\A. LCM Problem.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. LCM Problem\bin\Debug\net8.0\A. LCM Problem.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. LCM Problem\bin\Debug\net8.0\A. LCM Problem.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. LCM Problem\bin\Debug\net8.0\A. LCM Problem.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. LCM Problem\obj\Debug\net8.0\A. LCM Problem.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. LCM Problem\obj\Debug\net8.0\A. LCM Problem.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. LCM Problem\obj\Debug\net8.0\A. LCM Problem.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. LCM Problem\obj\Debug\net8.0\A. LCM Problem.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. LCM Problem\obj\Debug\net8.0\A. LCM Problem.sourcelink.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. LCM Problem\obj\Debug\net8.0\A. LCM Problem.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. LCM Problem\obj\Debug\net8.0\refint\A. LCM Problem.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. LCM Problem\obj\Debug\net8.0\A. LCM Problem.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. LCM Problem\obj\Debug\net8.0\A. LCM Problem.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. LCM Problem\obj\Debug\net8.0\ref\A. LCM Problem.dll

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("B. New Year\'s Number")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9e63036ecc37a9638f89fa0bcba64f7538346032")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dfeb7f20f21e199be1e9bd8d37efa2270362361c")]
 [assembly: System.Reflection.AssemblyProductAttribute("B. New Year\'s Number")]
 [assembly: System.Reflection.AssemblyTitleAttribute("B. New Year\'s Number")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

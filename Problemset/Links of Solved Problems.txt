@@ -236,3 +236,7 @@ A. A+B Again? ==> https://codeforces.com/problemset/problem/1999/A
 
 A. Yogurt Sale ==> https://codeforces.com/problemset/problem/1955/A
 
+B. Not Quite Latin Square ==> https://codeforces.com/problemset/problem/1915/B
+
+A. LCM Problem ==> https://codeforces.com/problemset/problem/1389/A
+
