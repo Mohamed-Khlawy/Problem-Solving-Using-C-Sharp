@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. EhAb AnD gCd\bin\Debug\net8.0\A. EhAb AnD gCd.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. EhAb AnD gCd\bin\Debug\net8.0\A. EhAb AnD gCd.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. EhAb AnD gCd\bin\Debug\net8.0\A. EhAb AnD gCd.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. EhAb AnD gCd\bin\Debug\net8.0\A. EhAb AnD gCd.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. EhAb AnD gCd\bin\Debug\net8.0\A. EhAb AnD gCd.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. EhAb AnD gCd\obj\Debug\net8.0\A. EhAb AnD gCd.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. EhAb AnD gCd\obj\Debug\net8.0\A. EhAb AnD gCd.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. EhAb AnD gCd\obj\Debug\net8.0\A. EhAb AnD gCd.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. EhAb AnD gCd\obj\Debug\net8.0\A. EhAb AnD gCd.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. EhAb AnD gCd\obj\Debug\net8.0\A. EhAb AnD gCd.sourcelink.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. EhAb AnD gCd\obj\Debug\net8.0\A. EhAb AnD gCd.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. EhAb AnD gCd\obj\Debug\net8.0\refint\A. EhAb AnD gCd.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. EhAb AnD gCd\obj\Debug\net8.0\A. EhAb AnD gCd.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. EhAb AnD gCd\obj\Debug\net8.0\A. EhAb AnD gCd.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. EhAb AnD gCd\obj\Debug\net8.0\ref\A. EhAb AnD gCd.dll

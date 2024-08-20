@@ -240,3 +240,7 @@ B. Not Quite Latin Square ==> https://codeforces.com/problemset/problem/1915/B
 
 A. LCM Problem ==> https://codeforces.com/problemset/problem/1389/A
 
+A. Road To Zero ==> https://codeforces.com/problemset/problem/1342/A
+
+A. EhAb AnD gCd ==> https://codeforces.com/problemset/problem/1325/A
+

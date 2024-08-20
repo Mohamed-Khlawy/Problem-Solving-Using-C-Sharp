@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Road To Zero\bin\Debug\net8.0\A. Road To Zero.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Road To Zero\bin\Debug\net8.0\A. Road To Zero.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Road To Zero\bin\Debug\net8.0\A. Road To Zero.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Road To Zero\bin\Debug\net8.0\A. Road To Zero.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Road To Zero\bin\Debug\net8.0\A. Road To Zero.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Road To Zero\obj\Debug\net8.0\A. Road To Zero.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Road To Zero\obj\Debug\net8.0\A. Road To Zero.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Road To Zero\obj\Debug\net8.0\A. Road To Zero.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Road To Zero\obj\Debug\net8.0\A. Road To Zero.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Road To Zero\obj\Debug\net8.0\A. Road To Zero.sourcelink.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Road To Zero\obj\Debug\net8.0\A. Road To Zero.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Road To Zero\obj\Debug\net8.0\refint\A. Road To Zero.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Road To Zero\obj\Debug\net8.0\A. Road To Zero.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Road To Zero\obj\Debug\net8.0\A. Road To Zero.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Road To Zero\obj\Debug\net8.0\ref\A. Road To Zero.dll

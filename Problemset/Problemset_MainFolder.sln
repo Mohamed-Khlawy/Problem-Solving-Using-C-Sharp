@@ -243,9 +243,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "A. A+B Again", "A. A+B Agai
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "A. Yogurt Sale", "A. Yogurt Sale\A. Yogurt Sale.csproj", "{19864E80-0497-4F6F-82B0-B6A6A8FDF8F6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "B. Not Quite Latin Square", "B. Not Quite Latin Square\B. Not Quite Latin Square.csproj", "{B2E5596D-D8A8-4146-9EAB-1C0A5C1C46E3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "B. Not Quite Latin Square", "B. Not Quite Latin Square\B. Not Quite Latin Square.csproj", "{B2E5596D-D8A8-4146-9EAB-1C0A5C1C46E3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A. LCM Problem", "A. LCM Problem\A. LCM Problem.csproj", "{78F164F8-0B00-4FBC-A0D2-9CA3BC39770F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "A. LCM Problem", "A. LCM Problem\A. LCM Problem.csproj", "{78F164F8-0B00-4FBC-A0D2-9CA3BC39770F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A. Road To Zero", "A. Road To Zero\A. Road To Zero.csproj", "{E2344E14-352A-4F2C-9DC2-36D8FCF4614B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A. EhAb AnD gCd", "A. EhAb AnD gCd\A. EhAb AnD gCd.csproj", "{273C2F23-D801-4953-B093-A74338F2BBD6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -741,6 +745,14 @@ Global
 		{78F164F8-0B00-4FBC-A0D2-9CA3BC39770F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{78F164F8-0B00-4FBC-A0D2-9CA3BC39770F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{78F164F8-0B00-4FBC-A0D2-9CA3BC39770F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E2344E14-352A-4F2C-9DC2-36D8FCF4614B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2344E14-352A-4F2C-9DC2-36D8FCF4614B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E2344E14-352A-4F2C-9DC2-36D8FCF4614B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E2344E14-352A-4F2C-9DC2-36D8FCF4614B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{273C2F23-D801-4953-B093-A74338F2BBD6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{273C2F23-D801-4953-B093-A74338F2BBD6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{273C2F23-D801-4953-B093-A74338F2BBD6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{273C2F23-D801-4953-B093-A74338F2BBD6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
