@@ -246,3 +246,5 @@ A. EhAb AnD gCd ==> https://codeforces.com/problemset/problem/1325/A
 
 C. Target Practice ==> https://codeforces.com/problemset/problem/1873/C
 
+A. Theatre Square ==> https://codeforces.com/problemset/problem/1/A
+

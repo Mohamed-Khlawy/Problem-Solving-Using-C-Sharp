@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Theatre Square\bin\Debug\net8.0\A. Theatre Square.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Theatre Square\bin\Debug\net8.0\A. Theatre Square.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Theatre Square\bin\Debug\net8.0\A. Theatre Square.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Theatre Square\bin\Debug\net8.0\A. Theatre Square.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Theatre Square\bin\Debug\net8.0\A. Theatre Square.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Theatre Square\obj\Debug\net8.0\A. Theatre Square.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Theatre Square\obj\Debug\net8.0\A. Theatre Square.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Theatre Square\obj\Debug\net8.0\A. Theatre Square.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Theatre Square\obj\Debug\net8.0\A. Theatre Square.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Theatre Square\obj\Debug\net8.0\A. Theatre Square.sourcelink.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Theatre Square\obj\Debug\net8.0\A. Theatre Square.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Theatre Square\obj\Debug\net8.0\refint\A. Theatre Square.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Theatre Square\obj\Debug\net8.0\A. Theatre Square.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Theatre Square\obj\Debug\net8.0\A. Theatre Square.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Theatre Square\obj\Debug\net8.0\ref\A. Theatre Square.dll
