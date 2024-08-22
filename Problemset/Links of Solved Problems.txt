@@ -244,3 +244,5 @@ A. Road To Zero ==> https://codeforces.com/problemset/problem/1342/A
 
 A. EhAb AnD gCd ==> https://codeforces.com/problemset/problem/1325/A
 
+C. Target Practice ==> https://codeforces.com/problemset/problem/1873/C
+

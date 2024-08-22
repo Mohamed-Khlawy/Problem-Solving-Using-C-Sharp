@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("B. Mahmoud and a Triangle")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+63befd6bdf88c9926f62f0289e58506693c61afb")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5d9b7b850f02cfc13536f9fa0da49e69f3882009")]
 [assembly: System.Reflection.AssemblyProductAttribute("B. Mahmoud and a Triangle")]
 [assembly: System.Reflection.AssemblyTitleAttribute("B. Mahmoud and a Triangle")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

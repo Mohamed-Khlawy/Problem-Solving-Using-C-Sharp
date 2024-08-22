@@ -247,9 +247,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "B. Not Quite Latin Square",
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "A. LCM Problem", "A. LCM Problem\A. LCM Problem.csproj", "{78F164F8-0B00-4FBC-A0D2-9CA3BC39770F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A. Road To Zero", "A. Road To Zero\A. Road To Zero.csproj", "{E2344E14-352A-4F2C-9DC2-36D8FCF4614B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "A. Road To Zero", "A. Road To Zero\A. Road To Zero.csproj", "{E2344E14-352A-4F2C-9DC2-36D8FCF4614B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A. EhAb AnD gCd", "A. EhAb AnD gCd\A. EhAb AnD gCd.csproj", "{273C2F23-D801-4953-B093-A74338F2BBD6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "A. EhAb AnD gCd", "A. EhAb AnD gCd\A. EhAb AnD gCd.csproj", "{273C2F23-D801-4953-B093-A74338F2BBD6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C. Target Practice", "C. Target Practice\C. Target Practice.csproj", "{81D83D09-ECC4-421F-9E21-FABA4B51332A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -753,6 +755,10 @@ Global
 		{273C2F23-D801-4953-B093-A74338F2BBD6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{273C2F23-D801-4953-B093-A74338F2BBD6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{273C2F23-D801-4953-B093-A74338F2BBD6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{81D83D09-ECC4-421F-9E21-FABA4B51332A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81D83D09-ECC4-421F-9E21-FABA4B51332A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81D83D09-ECC4-421F-9E21-FABA4B51332A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81D83D09-ECC4-421F-9E21-FABA4B51332A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

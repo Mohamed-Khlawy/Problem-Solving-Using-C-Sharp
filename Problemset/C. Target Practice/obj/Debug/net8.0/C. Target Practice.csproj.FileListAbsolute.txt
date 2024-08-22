@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Target Practice\bin\Debug\net8.0\C. Target Practice.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Target Practice\bin\Debug\net8.0\C. Target Practice.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Target Practice\bin\Debug\net8.0\C. Target Practice.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Target Practice\bin\Debug\net8.0\C. Target Practice.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Target Practice\bin\Debug\net8.0\C. Target Practice.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Target Practice\obj\Debug\net8.0\C. Target Practice.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Target Practice\obj\Debug\net8.0\C. Target Practice.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Target Practice\obj\Debug\net8.0\C. Target Practice.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Target Practice\obj\Debug\net8.0\C. Target Practice.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Target Practice\obj\Debug\net8.0\C. Target Practice.sourcelink.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Target Practice\obj\Debug\net8.0\C. Target Practice.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Target Practice\obj\Debug\net8.0\refint\C. Target Practice.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Target Practice\obj\Debug\net8.0\C. Target Practice.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Target Practice\obj\Debug\net8.0\C. Target Practice.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Target Practice\obj\Debug\net8.0\ref\C. Target Practice.dll
