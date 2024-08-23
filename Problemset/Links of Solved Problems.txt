@@ -248,3 +248,5 @@ C. Target Practice ==> https://codeforces.com/problemset/problem/1873/C
 
 A. Theatre Square ==> https://codeforces.com/problemset/problem/1/A
 
+A. Odd One Out ==> https://codeforces.com/problemset/problem/1915/A
+

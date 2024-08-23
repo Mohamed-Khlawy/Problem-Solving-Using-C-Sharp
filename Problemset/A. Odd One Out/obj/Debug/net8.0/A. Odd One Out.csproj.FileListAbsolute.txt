@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Odd One Out\bin\Debug\net8.0\A. Odd One Out.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Odd One Out\bin\Debug\net8.0\A. Odd One Out.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Odd One Out\bin\Debug\net8.0\A. Odd One Out.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Odd One Out\bin\Debug\net8.0\A. Odd One Out.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Odd One Out\bin\Debug\net8.0\A. Odd One Out.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Odd One Out\obj\Debug\net8.0\A. Odd One Out.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Odd One Out\obj\Debug\net8.0\A. Odd One Out.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Odd One Out\obj\Debug\net8.0\A. Odd One Out.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Odd One Out\obj\Debug\net8.0\A. Odd One Out.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Odd One Out\obj\Debug\net8.0\A. Odd One Out.sourcelink.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Odd One Out\obj\Debug\net8.0\A. Odd One Out.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Odd One Out\obj\Debug\net8.0\refint\A. Odd One Out.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Odd One Out\obj\Debug\net8.0\A. Odd One Out.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Odd One Out\obj\Debug\net8.0\A. Odd One Out.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Odd One Out\obj\Debug\net8.0\ref\A. Odd One Out.dll
