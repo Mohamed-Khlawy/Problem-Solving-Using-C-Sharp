@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Recovering a Small String\bin\Debug\net8.0\A. Recovering a Small String.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Recovering a Small String\bin\Debug\net8.0\A. Recovering a Small String.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Recovering a Small String\bin\Debug\net8.0\A. Recovering a Small String.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Recovering a Small String\bin\Debug\net8.0\A. Recovering a Small String.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Recovering a Small String\bin\Debug\net8.0\A. Recovering a Small String.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Recovering a Small String\obj\Debug\net8.0\A. Recovering a Small String.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Recovering a Small String\obj\Debug\net8.0\A. Recovering a Small String.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Recovering a Small String\obj\Debug\net8.0\A. Recovering a Small String.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Recovering a Small String\obj\Debug\net8.0\A. Recovering a Small String.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Recovering a Small String\obj\Debug\net8.0\A. Recovering a Small String.sourcelink.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Recovering a Small String\obj\Debug\net8.0\A. Recovering a Small String.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Recovering a Small String\obj\Debug\net8.0\refint\A. Recovering a Small String.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Recovering a Small String\obj\Debug\net8.0\A. Recovering a Small String.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Recovering a Small String\obj\Debug\net8.0\A. Recovering a Small String.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Recovering a Small String\obj\Debug\net8.0\ref\A. Recovering a Small String.dll

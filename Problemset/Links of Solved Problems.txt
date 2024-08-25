@@ -250,3 +250,7 @@ A. Theatre Square ==> https://codeforces.com/problemset/problem/1/A
 
 A. Odd One Out ==> https://codeforces.com/problemset/problem/1915/A
 
+A. Legs ==> https://codeforces.com/problemset/problem/1996/A
+
+A. Recovering a Small String ==> https://codeforces.com/problemset/problem/1931/A
+
