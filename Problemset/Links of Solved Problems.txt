@@ -254,3 +254,7 @@ A. Legs ==> https://codeforces.com/problemset/problem/1996/A
 
 A. Recovering a Small String ==> https://codeforces.com/problemset/problem/1931/A
 
+A. Primary Task ==> https://codeforces.com/problemset/problem/2000/A
+
+C. Showering ==> https://codeforces.com/problemset/problem/1999/C
+

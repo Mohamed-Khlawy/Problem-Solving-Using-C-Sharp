@@ -257,9 +257,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "A. Theatre Square", "A. The
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "A. Odd One Out", "A. Odd One Out\A. Odd One Out.csproj", "{F9DD9FA4-1D9A-4FC5-B74F-6A473C8E6B3A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A. Legs", "A. Legs\A. Legs.csproj", "{B44E615E-F582-4035-9525-2E033D51FCDA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "A. Legs", "A. Legs\A. Legs.csproj", "{B44E615E-F582-4035-9525-2E033D51FCDA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A. Recovering a Small String", "A. Recovering a Small String\A. Recovering a Small String.csproj", "{1BB92EFB-FF50-4621-A6B9-200256CF5E51}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "A. Recovering a Small String", "A. Recovering a Small String\A. Recovering a Small String.csproj", "{1BB92EFB-FF50-4621-A6B9-200256CF5E51}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A. Primary Task", "A. Primary Task\A. Primary Task.csproj", "{1E32CE6D-0BE9-420A-95A4-8A923D7F4BF0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C. Showering", "C. Showering\C. Showering.csproj", "{4E697315-B1F4-43A7-8696-1D89F1199507}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -783,6 +787,14 @@ Global
 		{1BB92EFB-FF50-4621-A6B9-200256CF5E51}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1BB92EFB-FF50-4621-A6B9-200256CF5E51}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1BB92EFB-FF50-4621-A6B9-200256CF5E51}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E32CE6D-0BE9-420A-95A4-8A923D7F4BF0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E32CE6D-0BE9-420A-95A4-8A923D7F4BF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E32CE6D-0BE9-420A-95A4-8A923D7F4BF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E32CE6D-0BE9-420A-95A4-8A923D7F4BF0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4E697315-B1F4-43A7-8696-1D89F1199507}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E697315-B1F4-43A7-8696-1D89F1199507}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E697315-B1F4-43A7-8696-1D89F1199507}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E697315-B1F4-43A7-8696-1D89F1199507}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
