@@ -261,9 +261,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "A. Legs", "A. Legs\A. Legs.
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "A. Recovering a Small String", "A. Recovering a Small String\A. Recovering a Small String.csproj", "{1BB92EFB-FF50-4621-A6B9-200256CF5E51}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A. Primary Task", "A. Primary Task\A. Primary Task.csproj", "{1E32CE6D-0BE9-420A-95A4-8A923D7F4BF0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "A. Primary Task", "A. Primary Task\A. Primary Task.csproj", "{1E32CE6D-0BE9-420A-95A4-8A923D7F4BF0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C. Showering", "C. Showering\C. Showering.csproj", "{4E697315-B1F4-43A7-8696-1D89F1199507}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "C. Showering", "C. Showering\C. Showering.csproj", "{4E697315-B1F4-43A7-8696-1D89F1199507}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C. Clock and Strings", "C. Clock and Strings\C. Clock and Strings.csproj", "{F4F7F56E-FE55-4260-9CA9-AF0C96900F10}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -795,6 +797,10 @@ Global
 		{4E697315-B1F4-43A7-8696-1D89F1199507}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4E697315-B1F4-43A7-8696-1D89F1199507}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4E697315-B1F4-43A7-8696-1D89F1199507}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F4F7F56E-FE55-4260-9CA9-AF0C96900F10}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4F7F56E-FE55-4260-9CA9-AF0C96900F10}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4F7F56E-FE55-4260-9CA9-AF0C96900F10}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4F7F56E-FE55-4260-9CA9-AF0C96900F10}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

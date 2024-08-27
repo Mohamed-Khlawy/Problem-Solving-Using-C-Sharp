@@ -258,3 +258,5 @@ A. Primary Task ==> https://codeforces.com/problemset/problem/2000/A
 
 C. Showering ==> https://codeforces.com/problemset/problem/1999/C
 
+C. Clock and Strings ==> https://codeforces.com/problemset/problem/1971/C
+

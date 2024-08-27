@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Clock and Strings\bin\Debug\net8.0\C. Clock and Strings.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Clock and Strings\bin\Debug\net8.0\C. Clock and Strings.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Clock and Strings\bin\Debug\net8.0\C. Clock and Strings.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Clock and Strings\bin\Debug\net8.0\C. Clock and Strings.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Clock and Strings\bin\Debug\net8.0\C. Clock and Strings.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Clock and Strings\obj\Debug\net8.0\C. Clock and Strings.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Clock and Strings\obj\Debug\net8.0\C. Clock and Strings.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Clock and Strings\obj\Debug\net8.0\C. Clock and Strings.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Clock and Strings\obj\Debug\net8.0\C. Clock and Strings.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Clock and Strings\obj\Debug\net8.0\C. Clock and Strings.sourcelink.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Clock and Strings\obj\Debug\net8.0\C. Clock and Strings.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Clock and Strings\obj\Debug\net8.0\refint\C. Clock and Strings.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Clock and Strings\obj\Debug\net8.0\C. Clock and Strings.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Clock and Strings\obj\Debug\net8.0\C. Clock and Strings.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Clock and Strings\obj\Debug\net8.0\ref\C. Clock and Strings.dll
