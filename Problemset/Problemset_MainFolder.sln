@@ -265,7 +265,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "A. Primary Task", "A. Prima
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "C. Showering", "C. Showering\C. Showering.csproj", "{4E697315-B1F4-43A7-8696-1D89F1199507}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C. Clock and Strings", "C. Clock and Strings\C. Clock and Strings.csproj", "{F4F7F56E-FE55-4260-9CA9-AF0C96900F10}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "C. Clock and Strings", "C. Clock and Strings\C. Clock and Strings.csproj", "{F4F7F56E-FE55-4260-9CA9-AF0C96900F10}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A. Desorting", "A. Desorting\A. Desorting.csproj", "{8E83BFD7-E8EF-4AC4-B80D-40BD8D7AF524}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -801,6 +803,10 @@ Global
 		{F4F7F56E-FE55-4260-9CA9-AF0C96900F10}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F4F7F56E-FE55-4260-9CA9-AF0C96900F10}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F4F7F56E-FE55-4260-9CA9-AF0C96900F10}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8E83BFD7-E8EF-4AC4-B80D-40BD8D7AF524}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E83BFD7-E8EF-4AC4-B80D-40BD8D7AF524}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E83BFD7-E8EF-4AC4-B80D-40BD8D7AF524}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E83BFD7-E8EF-4AC4-B80D-40BD8D7AF524}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
