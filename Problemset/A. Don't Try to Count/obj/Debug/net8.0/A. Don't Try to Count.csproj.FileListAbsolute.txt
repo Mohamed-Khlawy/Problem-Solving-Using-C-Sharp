@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Don't Try to Count\bin\Debug\net8.0\A. Don't Try to Count.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Don't Try to Count\bin\Debug\net8.0\A. Don't Try to Count.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Don't Try to Count\bin\Debug\net8.0\A. Don't Try to Count.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Don't Try to Count\bin\Debug\net8.0\A. Don't Try to Count.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Don't Try to Count\bin\Debug\net8.0\A. Don't Try to Count.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Don't Try to Count\obj\Debug\net8.0\A. Don't Try to Count.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Don't Try to Count\obj\Debug\net8.0\A. Don't Try to Count.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Don't Try to Count\obj\Debug\net8.0\A. Don't Try to Count.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Don't Try to Count\obj\Debug\net8.0\A. Don't Try to Count.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Don't Try to Count\obj\Debug\net8.0\A. Don't Try to Count.sourcelink.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Don't Try to Count\obj\Debug\net8.0\A. Don't Try to Count.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Don't Try to Count\obj\Debug\net8.0\refint\A. Don't Try to Count.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Don't Try to Count\obj\Debug\net8.0\A. Don't Try to Count.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Don't Try to Count\obj\Debug\net8.0\A. Don't Try to Count.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Don't Try to Count\obj\Debug\net8.0\ref\A. Don't Try to Count.dll
