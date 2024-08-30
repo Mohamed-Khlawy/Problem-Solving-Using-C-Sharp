@@ -264,3 +264,5 @@ A. Desorting ==> https://codeforces.com/problemset/problem/1853/A
 
 A. Don't Try to Count ==> https://codeforces.com/problemset/problem/1881/A
 
+A. Sasha and the Beautiful Array ==> https://codeforces.com/problemset/problem/1929/A
+
