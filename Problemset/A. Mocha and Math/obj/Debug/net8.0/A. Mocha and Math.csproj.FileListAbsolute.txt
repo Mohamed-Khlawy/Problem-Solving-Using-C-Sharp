@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Mocha and Math\bin\Debug\net8.0\A. Mocha and Math.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Mocha and Math\bin\Debug\net8.0\A. Mocha and Math.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Mocha and Math\bin\Debug\net8.0\A. Mocha and Math.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Mocha and Math\bin\Debug\net8.0\A. Mocha and Math.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Mocha and Math\bin\Debug\net8.0\A. Mocha and Math.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Mocha and Math\obj\Debug\net8.0\A. Mocha and Math.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Mocha and Math\obj\Debug\net8.0\A. Mocha and Math.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Mocha and Math\obj\Debug\net8.0\A. Mocha and Math.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Mocha and Math\obj\Debug\net8.0\A. Mocha and Math.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Mocha and Math\obj\Debug\net8.0\A. Mocha and Math.sourcelink.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Mocha and Math\obj\Debug\net8.0\A. Mocha and Math.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Mocha and Math\obj\Debug\net8.0\refint\A. Mocha and Math.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Mocha and Math\obj\Debug\net8.0\A. Mocha and Math.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Mocha and Math\obj\Debug\net8.0\A. Mocha and Math.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Mocha and Math\obj\Debug\net8.0\ref\A. Mocha and Math.dll

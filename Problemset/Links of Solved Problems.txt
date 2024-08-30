@@ -266,3 +266,7 @@ A. Don't Try to Count ==> https://codeforces.com/problemset/problem/1881/A
 
 A. Sasha and the Beautiful Array ==> https://codeforces.com/problemset/problem/1929/A
 
+A. Digits Sum ==> https://codeforces.com/problemset/problem/1553/A
+
+A. Mocha and Math ==> https://codeforces.com/problemset/problem/1559/A
+
