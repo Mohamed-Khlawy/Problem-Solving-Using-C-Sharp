@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Word Game\bin\Debug\net8.0\C. Word Game.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Word Game\bin\Debug\net8.0\C. Word Game.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Word Game\bin\Debug\net8.0\C. Word Game.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Word Game\bin\Debug\net8.0\C. Word Game.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Word Game\bin\Debug\net8.0\C. Word Game.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Word Game\obj\Debug\net8.0\C. Word Game.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Word Game\obj\Debug\net8.0\C. Word Game.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Word Game\obj\Debug\net8.0\C. Word Game.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Word Game\obj\Debug\net8.0\C. Word Game.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Word Game\obj\Debug\net8.0\C. Word Game.sourcelink.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Word Game\obj\Debug\net8.0\C. Word Game.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Word Game\obj\Debug\net8.0\refint\C. Word Game.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Word Game\obj\Debug\net8.0\C. Word Game.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Word Game\obj\Debug\net8.0\C. Word Game.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Word Game\obj\Debug\net8.0\ref\C. Word Game.dll

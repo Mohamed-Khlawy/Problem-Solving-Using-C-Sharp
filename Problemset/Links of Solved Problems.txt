@@ -274,3 +274,5 @@ A. Filling Shapes ==> https://codeforces.com/problemset/problem/1182/A
 
 B. The Cake Is a Lie ==> https://codeforces.com/problemset/problem/1519/B
 
+C. Word Game ==> https://codeforces.com/problemset/problem/1722/C
+

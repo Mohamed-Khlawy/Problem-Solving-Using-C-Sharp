@@ -277,9 +277,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "A. Digits Sum", "A. Digits 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "A. Mocha and Math", "A. Mocha and Math\A. Mocha and Math.csproj", "{158D4E8B-798F-42CA-8175-C16DBC4CD1D9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A. Filling Shapes", "A. Filling Shapes\A. Filling Shapes.csproj", "{BB6B6F07-4996-4806-881C-23CCDC1D1B27}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "A. Filling Shapes", "A. Filling Shapes\A. Filling Shapes.csproj", "{BB6B6F07-4996-4806-881C-23CCDC1D1B27}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "B. The Cake Is a Lie", "B. The Cake Is a Lie\B. The Cake Is a Lie.csproj", "{B097E0EB-8766-42D6-9039-AD4A8214CDDF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "B. The Cake Is a Lie", "B. The Cake Is a Lie\B. The Cake Is a Lie.csproj", "{B097E0EB-8766-42D6-9039-AD4A8214CDDF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C. Word Game", "C. Word Game\C. Word Game.csproj", "{EA767959-871F-40BE-BC21-5D8E8FE86A0E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -843,6 +845,10 @@ Global
 		{B097E0EB-8766-42D6-9039-AD4A8214CDDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B097E0EB-8766-42D6-9039-AD4A8214CDDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B097E0EB-8766-42D6-9039-AD4A8214CDDF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EA767959-871F-40BE-BC21-5D8E8FE86A0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA767959-871F-40BE-BC21-5D8E8FE86A0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA767959-871F-40BE-BC21-5D8E8FE86A0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA767959-871F-40BE-BC21-5D8E8FE86A0E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
