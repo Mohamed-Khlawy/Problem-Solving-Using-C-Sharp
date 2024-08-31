@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. The Cake Is a Lie\bin\Debug\net8.0\B. The Cake Is a Lie.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. The Cake Is a Lie\bin\Debug\net8.0\B. The Cake Is a Lie.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. The Cake Is a Lie\bin\Debug\net8.0\B. The Cake Is a Lie.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. The Cake Is a Lie\bin\Debug\net8.0\B. The Cake Is a Lie.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. The Cake Is a Lie\bin\Debug\net8.0\B. The Cake Is a Lie.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. The Cake Is a Lie\obj\Debug\net8.0\B. The Cake Is a Lie.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. The Cake Is a Lie\obj\Debug\net8.0\B. The Cake Is a Lie.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. The Cake Is a Lie\obj\Debug\net8.0\B. The Cake Is a Lie.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. The Cake Is a Lie\obj\Debug\net8.0\B. The Cake Is a Lie.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. The Cake Is a Lie\obj\Debug\net8.0\B. The Cake Is a Lie.sourcelink.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. The Cake Is a Lie\obj\Debug\net8.0\B. The Cake Is a Lie.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. The Cake Is a Lie\obj\Debug\net8.0\refint\B. The Cake Is a Lie.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. The Cake Is a Lie\obj\Debug\net8.0\B. The Cake Is a Lie.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. The Cake Is a Lie\obj\Debug\net8.0\B. The Cake Is a Lie.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. The Cake Is a Lie\obj\Debug\net8.0\ref\B. The Cake Is a Lie.dll

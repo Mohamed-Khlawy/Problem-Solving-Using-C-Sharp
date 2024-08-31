@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Filling Shapes\bin\Debug\net8.0\A. Filling Shapes.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Filling Shapes\bin\Debug\net8.0\A. Filling Shapes.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Filling Shapes\bin\Debug\net8.0\A. Filling Shapes.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Filling Shapes\bin\Debug\net8.0\A. Filling Shapes.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Filling Shapes\bin\Debug\net8.0\A. Filling Shapes.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Filling Shapes\obj\Debug\net8.0\A. Filling Shapes.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Filling Shapes\obj\Debug\net8.0\A. Filling Shapes.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Filling Shapes\obj\Debug\net8.0\A. Filling Shapes.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Filling Shapes\obj\Debug\net8.0\A. Filling Shapes.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Filling Shapes\obj\Debug\net8.0\A. Filling Shapes.sourcelink.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Filling Shapes\obj\Debug\net8.0\A. Filling Shapes.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Filling Shapes\obj\Debug\net8.0\refint\A. Filling Shapes.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Filling Shapes\obj\Debug\net8.0\A. Filling Shapes.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Filling Shapes\obj\Debug\net8.0\A. Filling Shapes.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Filling Shapes\obj\Debug\net8.0\ref\A. Filling Shapes.dll

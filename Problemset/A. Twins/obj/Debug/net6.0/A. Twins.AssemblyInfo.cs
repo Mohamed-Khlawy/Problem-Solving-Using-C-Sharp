@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("A. Twins")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5de8fcacb4e2db60fc65f2e147f9410a16050f59")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cb515de04f81eab2425bf38f877a8175f5053fc6")]
 [assembly: System.Reflection.AssemblyProductAttribute("A. Twins")]
 [assembly: System.Reflection.AssemblyTitleAttribute("A. Twins")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

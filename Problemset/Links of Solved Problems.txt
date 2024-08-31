@@ -270,3 +270,7 @@ A. Digits Sum ==> https://codeforces.com/problemset/problem/1553/A
 
 A. Mocha and Math ==> https://codeforces.com/problemset/problem/1559/A
 
+A. Filling Shapes ==> https://codeforces.com/problemset/problem/1182/A
+
+B. The Cake Is a Lie ==> https://codeforces.com/problemset/problem/1519/B
+

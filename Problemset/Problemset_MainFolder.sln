@@ -271,11 +271,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "A. Desorting", "A. Desortin
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "A. Don't Try to Count", "A. Don't Try to Count\A. Don't Try to Count.csproj", "{49F034CE-3494-4C74-92B9-56A8B643CBD2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A. Sasha and the Beautiful Array", "A. Sasha and the Beautiful Array\A. Sasha and the Beautiful Array.csproj", "{583F064D-B93B-4A33-8985-081E280319B5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "A. Sasha and the Beautiful Array", "A. Sasha and the Beautiful Array\A. Sasha and the Beautiful Array.csproj", "{583F064D-B93B-4A33-8985-081E280319B5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A. Digits Sum", "A. Digits Sum\A. Digits Sum.csproj", "{5B1E9D63-B429-4C72-9D79-330C8916BDEA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "A. Digits Sum", "A. Digits Sum\A. Digits Sum.csproj", "{5B1E9D63-B429-4C72-9D79-330C8916BDEA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A. Mocha and Math", "A. Mocha and Math\A. Mocha and Math.csproj", "{158D4E8B-798F-42CA-8175-C16DBC4CD1D9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "A. Mocha and Math", "A. Mocha and Math\A. Mocha and Math.csproj", "{158D4E8B-798F-42CA-8175-C16DBC4CD1D9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A. Filling Shapes", "A. Filling Shapes\A. Filling Shapes.csproj", "{BB6B6F07-4996-4806-881C-23CCDC1D1B27}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "B. The Cake Is a Lie", "B. The Cake Is a Lie\B. The Cake Is a Lie.csproj", "{B097E0EB-8766-42D6-9039-AD4A8214CDDF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -831,6 +835,14 @@ Global
 		{158D4E8B-798F-42CA-8175-C16DBC4CD1D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{158D4E8B-798F-42CA-8175-C16DBC4CD1D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{158D4E8B-798F-42CA-8175-C16DBC4CD1D9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BB6B6F07-4996-4806-881C-23CCDC1D1B27}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB6B6F07-4996-4806-881C-23CCDC1D1B27}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB6B6F07-4996-4806-881C-23CCDC1D1B27}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB6B6F07-4996-4806-881C-23CCDC1D1B27}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B097E0EB-8766-42D6-9039-AD4A8214CDDF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B097E0EB-8766-42D6-9039-AD4A8214CDDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B097E0EB-8766-42D6-9039-AD4A8214CDDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B097E0EB-8766-42D6-9039-AD4A8214CDDF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
