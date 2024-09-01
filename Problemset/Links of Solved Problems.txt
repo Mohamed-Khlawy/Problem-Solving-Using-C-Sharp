@@ -276,3 +276,7 @@ B. The Cake Is a Lie ==> https://codeforces.com/problemset/problem/1519/B
 
 C. Word Game ==> https://codeforces.com/problemset/problem/1722/C
 
+B. Seating in a Bus ==> https://codeforces.com/problemset/problem/2000/B
+
+B. Scale ==> https://codeforces.com/problemset/problem/1996/B
+

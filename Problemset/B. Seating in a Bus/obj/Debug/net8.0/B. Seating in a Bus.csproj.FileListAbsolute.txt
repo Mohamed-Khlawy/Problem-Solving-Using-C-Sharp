@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Seating in a Bus\bin\Debug\net8.0\B. Seating in a Bus.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Seating in a Bus\bin\Debug\net8.0\B. Seating in a Bus.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Seating in a Bus\bin\Debug\net8.0\B. Seating in a Bus.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Seating in a Bus\bin\Debug\net8.0\B. Seating in a Bus.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Seating in a Bus\bin\Debug\net8.0\B. Seating in a Bus.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Seating in a Bus\obj\Debug\net8.0\B. Seating in a Bus.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Seating in a Bus\obj\Debug\net8.0\B. Seating in a Bus.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Seating in a Bus\obj\Debug\net8.0\B. Seating in a Bus.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Seating in a Bus\obj\Debug\net8.0\B. Seating in a Bus.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Seating in a Bus\obj\Debug\net8.0\B. Seating in a Bus.sourcelink.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Seating in a Bus\obj\Debug\net8.0\B. Seating in a Bus.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Seating in a Bus\obj\Debug\net8.0\refint\B. Seating in a Bus.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Seating in a Bus\obj\Debug\net8.0\B. Seating in a Bus.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Seating in a Bus\obj\Debug\net8.0\B. Seating in a Bus.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Seating in a Bus\obj\Debug\net8.0\ref\B. Seating in a Bus.dll
