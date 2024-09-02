@@ -280,3 +280,7 @@ B. Seating in a Bus ==> https://codeforces.com/problemset/problem/2000/B
 
 B. Scale ==> https://codeforces.com/problemset/problem/1996/B
 
+B. Squares and Cubes ==> https://codeforces.com/problemset/problem/1619/B
+
+A. Compare T-Shirt Sizes ==> https://codeforces.com/problemset/problem/1741/A
+

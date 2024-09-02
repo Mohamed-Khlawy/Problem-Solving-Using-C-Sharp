@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "B. Squares and Cubes/1.0.0": {
+        "runtime": {
+          "B. Squares and Cubes.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "B. Squares and Cubes/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

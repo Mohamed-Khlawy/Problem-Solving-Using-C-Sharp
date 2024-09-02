@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Compare T-Shirt Sizes\bin\Debug\net8.0\A. Compare T-Shirt Sizes.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Compare T-Shirt Sizes\bin\Debug\net8.0\A. Compare T-Shirt Sizes.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Compare T-Shirt Sizes\bin\Debug\net8.0\A. Compare T-Shirt Sizes.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Compare T-Shirt Sizes\bin\Debug\net8.0\A. Compare T-Shirt Sizes.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Compare T-Shirt Sizes\bin\Debug\net8.0\A. Compare T-Shirt Sizes.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Compare T-Shirt Sizes\obj\Debug\net8.0\A. Compare T-Shirt Sizes.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Compare T-Shirt Sizes\obj\Debug\net8.0\A. Compare T-Shirt Sizes.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Compare T-Shirt Sizes\obj\Debug\net8.0\A. Compare T-Shirt Sizes.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Compare T-Shirt Sizes\obj\Debug\net8.0\A. Compare T-Shirt Sizes.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Compare T-Shirt Sizes\obj\Debug\net8.0\A. Compare T-Shirt Sizes.sourcelink.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Compare T-Shirt Sizes\obj\Debug\net8.0\A. Compare T-Shirt Sizes.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Compare T-Shirt Sizes\obj\Debug\net8.0\refint\A. Compare T-Shirt Sizes.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Compare T-Shirt Sizes\obj\Debug\net8.0\A. Compare T-Shirt Sizes.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Compare T-Shirt Sizes\obj\Debug\net8.0\A. Compare T-Shirt Sizes.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Compare T-Shirt Sizes\obj\Debug\net8.0\ref\A. Compare T-Shirt Sizes.dll
