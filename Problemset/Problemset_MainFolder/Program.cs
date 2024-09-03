@@ -16,13 +16,6 @@ namespace Problemset_MainFolder
 
             while (tests-- > 0)
             {
-                int[] n_x = Console.ReadLine()!.Split().Select(int.Parse).ToArray();
-
-                int number_of_gas_stations = n_x[0];
-                int final_point = n_x[1];
-
-                List<int> gas_stations = Console.ReadLine()!.Split().Select(int.Parse).ToList();
-
                 
             }
         }

@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Line Trip\bin\Debug\net8.0\A. Line Trip.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Line Trip\bin\Debug\net8.0\A. Line Trip.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Line Trip\bin\Debug\net8.0\A. Line Trip.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Line Trip\bin\Debug\net8.0\A. Line Trip.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Line Trip\bin\Debug\net8.0\A. Line Trip.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Line Trip\obj\Debug\net8.0\A. Line Trip.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Line Trip\obj\Debug\net8.0\A. Line Trip.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Line Trip\obj\Debug\net8.0\A. Line Trip.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Line Trip\obj\Debug\net8.0\A. Line Trip.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Line Trip\obj\Debug\net8.0\A. Line Trip.sourcelink.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Line Trip\obj\Debug\net8.0\A. Line Trip.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Line Trip\obj\Debug\net8.0\refint\A. Line Trip.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Line Trip\obj\Debug\net8.0\A. Line Trip.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Line Trip\obj\Debug\net8.0\A. Line Trip.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Line Trip\obj\Debug\net8.0\ref\A. Line Trip.dll
