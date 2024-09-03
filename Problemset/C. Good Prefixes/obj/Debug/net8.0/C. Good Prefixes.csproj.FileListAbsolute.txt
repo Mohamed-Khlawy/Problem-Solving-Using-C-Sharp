@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Good Prefixes\bin\Debug\net8.0\C. Good Prefixes.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Good Prefixes\bin\Debug\net8.0\C. Good Prefixes.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Good Prefixes\bin\Debug\net8.0\C. Good Prefixes.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Good Prefixes\bin\Debug\net8.0\C. Good Prefixes.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Good Prefixes\bin\Debug\net8.0\C. Good Prefixes.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Good Prefixes\obj\Debug\net8.0\C. Good Prefixes.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Good Prefixes\obj\Debug\net8.0\C. Good Prefixes.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Good Prefixes\obj\Debug\net8.0\C. Good Prefixes.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Good Prefixes\obj\Debug\net8.0\C. Good Prefixes.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Good Prefixes\obj\Debug\net8.0\C. Good Prefixes.sourcelink.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Good Prefixes\obj\Debug\net8.0\C. Good Prefixes.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Good Prefixes\obj\Debug\net8.0\refint\C. Good Prefixes.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Good Prefixes\obj\Debug\net8.0\C. Good Prefixes.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Good Prefixes\obj\Debug\net8.0\C. Good Prefixes.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Good Prefixes\obj\Debug\net8.0\ref\C. Good Prefixes.dll
