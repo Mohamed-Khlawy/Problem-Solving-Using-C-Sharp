@@ -291,9 +291,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "B. Squares and Cubes", "B. 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "A. Compare T-Shirt Sizes", "A. Compare T-Shirt Sizes\A. Compare T-Shirt Sizes.csproj", "{E8DA54A6-51E9-4E16-B986-C0FF1C48A307}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C. Good Prefixes", "C. Good Prefixes\C. Good Prefixes.csproj", "{790A6F14-9F98-4423-BF5F-3954E5814571}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "C. Good Prefixes", "C. Good Prefixes\C. Good Prefixes.csproj", "{790A6F14-9F98-4423-BF5F-3954E5814571}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A. Line Trip", "A. Line Trip\A. Line Trip.csproj", "{77FC53E5-FF56-4B07-BFB5-2D9A1C2299DF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "A. Line Trip", "A. Line Trip\A. Line Trip.csproj", "{77FC53E5-FF56-4B07-BFB5-2D9A1C2299DF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A. Petr and Book", "A. Petr and Book\A. Petr and Book.csproj", "{71509BFB-A38D-482D-AA7F-2C344136ED55}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -885,6 +887,10 @@ Global
 		{77FC53E5-FF56-4B07-BFB5-2D9A1C2299DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{77FC53E5-FF56-4B07-BFB5-2D9A1C2299DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{77FC53E5-FF56-4B07-BFB5-2D9A1C2299DF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{71509BFB-A38D-482D-AA7F-2C344136ED55}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71509BFB-A38D-482D-AA7F-2C344136ED55}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71509BFB-A38D-482D-AA7F-2C344136ED55}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71509BFB-A38D-482D-AA7F-2C344136ED55}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

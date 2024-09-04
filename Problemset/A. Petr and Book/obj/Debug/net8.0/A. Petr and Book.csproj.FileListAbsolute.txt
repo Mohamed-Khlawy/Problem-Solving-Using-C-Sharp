@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Petr and Book\bin\Debug\net8.0\A. Petr and Book.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Petr and Book\bin\Debug\net8.0\A. Petr and Book.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Petr and Book\bin\Debug\net8.0\A. Petr and Book.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Petr and Book\bin\Debug\net8.0\A. Petr and Book.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Petr and Book\bin\Debug\net8.0\A. Petr and Book.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Petr and Book\obj\Debug\net8.0\A. Petr and Book.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Petr and Book\obj\Debug\net8.0\A. Petr and Book.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Petr and Book\obj\Debug\net8.0\A. Petr and Book.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Petr and Book\obj\Debug\net8.0\A. Petr and Book.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Petr and Book\obj\Debug\net8.0\A. Petr and Book.sourcelink.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Petr and Book\obj\Debug\net8.0\A. Petr and Book.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Petr and Book\obj\Debug\net8.0\refint\A. Petr and Book.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Petr and Book\obj\Debug\net8.0\A. Petr and Book.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Petr and Book\obj\Debug\net8.0\A. Petr and Book.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Petr and Book\obj\Debug\net8.0\ref\A. Petr and Book.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "A. Petr and Book/1.0.0": {
+        "runtime": {
+          "A. Petr and Book.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "A. Petr and Book/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

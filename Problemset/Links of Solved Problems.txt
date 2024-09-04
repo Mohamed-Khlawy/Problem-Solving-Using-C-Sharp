@@ -288,3 +288,5 @@ C. Good Prefixes ==> https://codeforces.com/problemset/problem/1985/C
 
 A. Line Trip ==> https://codeforces.com/problemset/problem/1901/A
 
+A. Petr and Book ==> https://codeforces.com/problemset/problem/139/A
+
