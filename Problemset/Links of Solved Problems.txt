@@ -290,3 +290,5 @@ A. Line Trip ==> https://codeforces.com/problemset/problem/1901/A
 
 A. Petr and Book ==> https://codeforces.com/problemset/problem/139/A
 
+A. Strange Table ==> https://codeforces.com/problemset/problem/1506/A
+

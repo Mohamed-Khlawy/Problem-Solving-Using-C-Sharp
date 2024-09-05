@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Strange Table\bin\Debug\net8.0\A. Strange Table.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Strange Table\bin\Debug\net8.0\A. Strange Table.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Strange Table\bin\Debug\net8.0\A. Strange Table.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Strange Table\bin\Debug\net8.0\A. Strange Table.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Strange Table\bin\Debug\net8.0\A. Strange Table.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Strange Table\obj\Debug\net8.0\A. Strange Table.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Strange Table\obj\Debug\net8.0\A. Strange Table.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Strange Table\obj\Debug\net8.0\A. Strange Table.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Strange Table\obj\Debug\net8.0\A. Strange Table.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Strange Table\obj\Debug\net8.0\A. Strange Table.sourcelink.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Strange Table\obj\Debug\net8.0\A. Strange Table.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Strange Table\obj\Debug\net8.0\refint\A. Strange Table.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Strange Table\obj\Debug\net8.0\A. Strange Table.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Strange Table\obj\Debug\net8.0\A. Strange Table.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Strange Table\obj\Debug\net8.0\ref\A. Strange Table.dll
