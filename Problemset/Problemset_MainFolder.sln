@@ -297,7 +297,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "A. Line Trip", "A. Line Tri
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "A. Petr and Book", "A. Petr and Book\A. Petr and Book.csproj", "{71509BFB-A38D-482D-AA7F-2C344136ED55}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A. Strange Table", "A. Strange Table\A. Strange Table.csproj", "{B9B96280-D977-4FAB-A93E-A81A12186AB1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "A. Strange Table", "A. Strange Table\A. Strange Table.csproj", "{B9B96280-D977-4FAB-A93E-A81A12186AB1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A. Halloumi Boxes", "A. Halloumi Boxes\A. Halloumi Boxes.csproj", "{185A18E7-259C-4F00-A4F1-E63738F9BDE3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -897,6 +899,10 @@ Global
 		{B9B96280-D977-4FAB-A93E-A81A12186AB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B9B96280-D977-4FAB-A93E-A81A12186AB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B9B96280-D977-4FAB-A93E-A81A12186AB1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{185A18E7-259C-4F00-A4F1-E63738F9BDE3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{185A18E7-259C-4F00-A4F1-E63738F9BDE3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{185A18E7-259C-4F00-A4F1-E63738F9BDE3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{185A18E7-259C-4F00-A4F1-E63738F9BDE3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
