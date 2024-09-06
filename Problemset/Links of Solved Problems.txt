@@ -294,3 +294,7 @@ A. Strange Table ==> https://codeforces.com/problemset/problem/1506/A
 
 A. Halloumi Boxes ==> https://codeforces.com/problemset/problem/1903/A
 
+A. Beat The Odds ==> https://codeforces.com/problemset/problem/1691/A
+
+B. Array Reodering ==> https://codeforces.com/problemset/problem/1535/B
+

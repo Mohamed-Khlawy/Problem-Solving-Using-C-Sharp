@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Array Reodering\obj\Debug\net8.0\B. Array Reodering.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Array Reodering\obj\Debug\net8.0\B. Array Reodering.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Array Reodering\obj\Debug\net8.0\B. Array Reodering.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Array Reodering\obj\Debug\net8.0\B. Array Reodering.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Array Reodering\obj\Debug\net8.0\B. Array Reodering.sourcelink.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Array Reodering\bin\Debug\net8.0\B. Array Reodering.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Array Reodering\bin\Debug\net8.0\B. Array Reodering.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Array Reodering\bin\Debug\net8.0\B. Array Reodering.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Array Reodering\bin\Debug\net8.0\B. Array Reodering.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Array Reodering\bin\Debug\net8.0\B. Array Reodering.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Array Reodering\obj\Debug\net8.0\B. Array Reodering.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Array Reodering\obj\Debug\net8.0\refint\B. Array Reodering.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Array Reodering\obj\Debug\net8.0\B. Array Reodering.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Array Reodering\obj\Debug\net8.0\B. Array Reodering.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Array Reodering\obj\Debug\net8.0\ref\B. Array Reodering.dll

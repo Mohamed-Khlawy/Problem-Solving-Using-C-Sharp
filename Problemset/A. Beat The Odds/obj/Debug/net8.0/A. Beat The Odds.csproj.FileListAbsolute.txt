@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Beat The Odds\bin\Debug\net8.0\A. Beat The Odds.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Beat The Odds\bin\Debug\net8.0\A. Beat The Odds.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Beat The Odds\bin\Debug\net8.0\A. Beat The Odds.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Beat The Odds\bin\Debug\net8.0\A. Beat The Odds.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Beat The Odds\bin\Debug\net8.0\A. Beat The Odds.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Beat The Odds\obj\Debug\net8.0\A. Beat The Odds.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Beat The Odds\obj\Debug\net8.0\A. Beat The Odds.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Beat The Odds\obj\Debug\net8.0\A. Beat The Odds.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Beat The Odds\obj\Debug\net8.0\A. Beat The Odds.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Beat The Odds\obj\Debug\net8.0\A. Beat The Odds.sourcelink.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Beat The Odds\obj\Debug\net8.0\A. Beat The Odds.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Beat The Odds\obj\Debug\net8.0\refint\A. Beat The Odds.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Beat The Odds\obj\Debug\net8.0\A. Beat The Odds.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Beat The Odds\obj\Debug\net8.0\A. Beat The Odds.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Beat The Odds\obj\Debug\net8.0\ref\A. Beat The Odds.dll
