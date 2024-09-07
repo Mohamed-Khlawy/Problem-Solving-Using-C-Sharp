@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "C. Find and Replace/1.0.0": {
+        "runtime": {
+          "C. Find and Replace.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "C. Find and Replace/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Bad Ugly Numbers\bin\Debug\net8.0\A. Bad Ugly Numbers.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Bad Ugly Numbers\bin\Debug\net8.0\A. Bad Ugly Numbers.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Bad Ugly Numbers\bin\Debug\net8.0\A. Bad Ugly Numbers.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Bad Ugly Numbers\bin\Debug\net8.0\A. Bad Ugly Numbers.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Bad Ugly Numbers\bin\Debug\net8.0\A. Bad Ugly Numbers.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Bad Ugly Numbers\obj\Debug\net8.0\A. Bad Ugly Numbers.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Bad Ugly Numbers\obj\Debug\net8.0\A. Bad Ugly Numbers.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Bad Ugly Numbers\obj\Debug\net8.0\A. Bad Ugly Numbers.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Bad Ugly Numbers\obj\Debug\net8.0\A. Bad Ugly Numbers.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Bad Ugly Numbers\obj\Debug\net8.0\A. Bad Ugly Numbers.sourcelink.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Bad Ugly Numbers\obj\Debug\net8.0\A. Bad Ugly Numbers.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Bad Ugly Numbers\obj\Debug\net8.0\refint\A. Bad Ugly Numbers.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Bad Ugly Numbers\obj\Debug\net8.0\A. Bad Ugly Numbers.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Bad Ugly Numbers\obj\Debug\net8.0\A. Bad Ugly Numbers.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Bad Ugly Numbers\obj\Debug\net8.0\ref\A. Bad Ugly Numbers.dll

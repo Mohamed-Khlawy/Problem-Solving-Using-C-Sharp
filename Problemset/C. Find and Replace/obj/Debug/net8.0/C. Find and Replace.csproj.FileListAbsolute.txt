@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Find and Replace\bin\Debug\net8.0\C. Find and Replace.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Find and Replace\bin\Debug\net8.0\C. Find and Replace.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Find and Replace\bin\Debug\net8.0\C. Find and Replace.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Find and Replace\bin\Debug\net8.0\C. Find and Replace.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Find and Replace\bin\Debug\net8.0\C. Find and Replace.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Find and Replace\obj\Debug\net8.0\C. Find and Replace.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Find and Replace\obj\Debug\net8.0\C. Find and Replace.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Find and Replace\obj\Debug\net8.0\C. Find and Replace.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Find and Replace\obj\Debug\net8.0\C. Find and Replace.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Find and Replace\obj\Debug\net8.0\C. Find and Replace.sourcelink.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Find and Replace\obj\Debug\net8.0\C. Find and Replace.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Find and Replace\obj\Debug\net8.0\refint\C. Find and Replace.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Find and Replace\obj\Debug\net8.0\C. Find and Replace.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Find and Replace\obj\Debug\net8.0\C. Find and Replace.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Find and Replace\obj\Debug\net8.0\ref\C. Find and Replace.dll
