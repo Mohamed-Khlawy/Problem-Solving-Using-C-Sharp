@@ -305,11 +305,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "A. Beat The Odds", "A. Beat
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "B. Array Reodering", "B. Array Reodering\B. Array Reodering.csproj", "{C15748B3-5817-44A7-895F-9EE07BE28396}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A. Shortest Path with Obstacle", "A. Shortest Path with Obstacle\A. Shortest Path with Obstacle.csproj", "{2AD97A89-EDF2-4DD6-80C9-F496D10C035A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "A. Shortest Path with Obstacle", "A. Shortest Path with Obstacle\A. Shortest Path with Obstacle.csproj", "{2AD97A89-EDF2-4DD6-80C9-F496D10C035A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C. Find and Replace", "C. Find and Replace\C. Find and Replace.csproj", "{FB79FCF6-59CD-4C7B-809D-91C1ED99070D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "C. Find and Replace", "C. Find and Replace\C. Find and Replace.csproj", "{FB79FCF6-59CD-4C7B-809D-91C1ED99070D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A. Bad Ugly Numbers", "A. Bad Ugly Numbers\A. Bad Ugly Numbers.csproj", "{9E6E3275-380A-4DB7-8F7F-59207B455DB5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "A. Bad Ugly Numbers", "A. Bad Ugly Numbers\A. Bad Ugly Numbers.csproj", "{9E6E3275-380A-4DB7-8F7F-59207B455DB5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A. Mahmoud and Longest Uncommon Subsequence", "A. Mahmoud and Longest Uncommon Subsequence\A. Mahmoud and Longest Uncommon Subsequence.csproj", "{D012781C-0152-460C-8773-845388275A64}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A. One and Two", "A. One and Two\A. One and Two.csproj", "{98F0D775-2C9C-4DBA-B275-E29AFCD9B6DA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -933,6 +937,14 @@ Global
 		{9E6E3275-380A-4DB7-8F7F-59207B455DB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9E6E3275-380A-4DB7-8F7F-59207B455DB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9E6E3275-380A-4DB7-8F7F-59207B455DB5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D012781C-0152-460C-8773-845388275A64}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D012781C-0152-460C-8773-845388275A64}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D012781C-0152-460C-8773-845388275A64}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D012781C-0152-460C-8773-845388275A64}.Release|Any CPU.Build.0 = Release|Any CPU
+		{98F0D775-2C9C-4DBA-B275-E29AFCD9B6DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98F0D775-2C9C-4DBA-B275-E29AFCD9B6DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98F0D775-2C9C-4DBA-B275-E29AFCD9B6DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98F0D775-2C9C-4DBA-B275-E29AFCD9B6DA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

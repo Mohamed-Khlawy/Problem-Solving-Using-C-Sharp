@@ -304,3 +304,7 @@ C. Find and Replace ==> https://codeforces.com/problemset/problem/1807/C
 
 A. Bad Ugly Numbers ==> https://codeforces.com/problemset/problem/1326/A
 
+A. Mahmoud and Longest Uncommon Subsequence ==> https://codeforces.com/problemset/problem/766/A
+
+A. One and Two ==> https://codeforces.com/problemset/problem/1788/A
+
