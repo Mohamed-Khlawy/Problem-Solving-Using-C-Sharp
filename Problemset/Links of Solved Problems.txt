@@ -308,3 +308,7 @@ A. Mahmoud and Longest Uncommon Subsequence ==> https://codeforces.com/problemse
 
 A. One and Two ==> https://codeforces.com/problemset/problem/1788/A
 
+B. Remove Prefix ==> https://codeforces.com/problemset/problem/1714/B
+
+B. Food Buying ==> https://codeforces.com/problemset/problem/1296/B
+

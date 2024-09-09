@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Food Buying\bin\Debug\net8.0\B. Food Buying.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Food Buying\bin\Debug\net8.0\B. Food Buying.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Food Buying\bin\Debug\net8.0\B. Food Buying.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Food Buying\bin\Debug\net8.0\B. Food Buying.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Food Buying\bin\Debug\net8.0\B. Food Buying.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Food Buying\obj\Debug\net8.0\B. Food Buying.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Food Buying\obj\Debug\net8.0\B. Food Buying.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Food Buying\obj\Debug\net8.0\B. Food Buying.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Food Buying\obj\Debug\net8.0\B. Food Buying.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Food Buying\obj\Debug\net8.0\B. Food Buying.sourcelink.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Food Buying\obj\Debug\net8.0\B. Food Buying.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Food Buying\obj\Debug\net8.0\refint\B. Food Buying.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Food Buying\obj\Debug\net8.0\B. Food Buying.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Food Buying\obj\Debug\net8.0\B. Food Buying.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Food Buying\obj\Debug\net8.0\ref\B. Food Buying.dll

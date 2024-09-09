@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Remove Prefix\bin\Debug\net8.0\B. Remove Prefix.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Remove Prefix\bin\Debug\net8.0\B. Remove Prefix.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Remove Prefix\bin\Debug\net8.0\B. Remove Prefix.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Remove Prefix\bin\Debug\net8.0\B. Remove Prefix.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Remove Prefix\bin\Debug\net8.0\B. Remove Prefix.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Remove Prefix\obj\Debug\net8.0\B. Remove Prefix.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Remove Prefix\obj\Debug\net8.0\B. Remove Prefix.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Remove Prefix\obj\Debug\net8.0\B. Remove Prefix.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Remove Prefix\obj\Debug\net8.0\B. Remove Prefix.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Remove Prefix\obj\Debug\net8.0\B. Remove Prefix.sourcelink.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Remove Prefix\obj\Debug\net8.0\B. Remove Prefix.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Remove Prefix\obj\Debug\net8.0\refint\B. Remove Prefix.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Remove Prefix\obj\Debug\net8.0\B. Remove Prefix.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Remove Prefix\obj\Debug\net8.0\B. Remove Prefix.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Remove Prefix\obj\Debug\net8.0\ref\B. Remove Prefix.dll

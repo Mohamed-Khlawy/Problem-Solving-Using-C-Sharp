@@ -311,9 +311,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "C. Find and Replace", "C. F
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "A. Bad Ugly Numbers", "A. Bad Ugly Numbers\A. Bad Ugly Numbers.csproj", "{9E6E3275-380A-4DB7-8F7F-59207B455DB5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A. Mahmoud and Longest Uncommon Subsequence", "A. Mahmoud and Longest Uncommon Subsequence\A. Mahmoud and Longest Uncommon Subsequence.csproj", "{D012781C-0152-460C-8773-845388275A64}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "A. Mahmoud and Longest Uncommon Subsequence", "A. Mahmoud and Longest Uncommon Subsequence\A. Mahmoud and Longest Uncommon Subsequence.csproj", "{D012781C-0152-460C-8773-845388275A64}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A. One and Two", "A. One and Two\A. One and Two.csproj", "{98F0D775-2C9C-4DBA-B275-E29AFCD9B6DA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "A. One and Two", "A. One and Two\A. One and Two.csproj", "{98F0D775-2C9C-4DBA-B275-E29AFCD9B6DA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "B. Remove Prefix", "B. Remove Prefix\B. Remove Prefix.csproj", "{B61B101C-A8CC-48BE-8FA9-26C71ED7E3BB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "B. Food Buying", "B. Food Buying\B. Food Buying.csproj", "{CB704AD4-0BD1-4EC0-AB22-1A27582D61B3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -945,6 +949,14 @@ Global
 		{98F0D775-2C9C-4DBA-B275-E29AFCD9B6DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{98F0D775-2C9C-4DBA-B275-E29AFCD9B6DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{98F0D775-2C9C-4DBA-B275-E29AFCD9B6DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B61B101C-A8CC-48BE-8FA9-26C71ED7E3BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B61B101C-A8CC-48BE-8FA9-26C71ED7E3BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B61B101C-A8CC-48BE-8FA9-26C71ED7E3BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B61B101C-A8CC-48BE-8FA9-26C71ED7E3BB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CB704AD4-0BD1-4EC0-AB22-1A27582D61B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CB704AD4-0BD1-4EC0-AB22-1A27582D61B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CB704AD4-0BD1-4EC0-AB22-1A27582D61B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CB704AD4-0BD1-4EC0-AB22-1A27582D61B3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
