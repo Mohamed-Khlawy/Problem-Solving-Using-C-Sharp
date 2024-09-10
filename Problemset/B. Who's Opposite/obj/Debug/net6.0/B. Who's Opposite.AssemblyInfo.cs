@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("B. Who\'s Opposite")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dac1e2bfe1867fb05a22102823ce33b5590faa85")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b83aa154c8a5f4e9ef0a667e850135210ca9b784")]
 [assembly: System.Reflection.AssemblyProductAttribute("B. Who\'s Opposite")]
 [assembly: System.Reflection.AssemblyTitleAttribute("B. Who\'s Opposite")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

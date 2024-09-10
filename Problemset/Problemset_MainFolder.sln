@@ -315,9 +315,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "A. Mahmoud and Longest Unco
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "A. One and Two", "A. One and Two\A. One and Two.csproj", "{98F0D775-2C9C-4DBA-B275-E29AFCD9B6DA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "B. Remove Prefix", "B. Remove Prefix\B. Remove Prefix.csproj", "{B61B101C-A8CC-48BE-8FA9-26C71ED7E3BB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "B. Remove Prefix", "B. Remove Prefix\B. Remove Prefix.csproj", "{B61B101C-A8CC-48BE-8FA9-26C71ED7E3BB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "B. Food Buying", "B. Food Buying\B. Food Buying.csproj", "{CB704AD4-0BD1-4EC0-AB22-1A27582D61B3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "B. Food Buying", "B. Food Buying\B. Food Buying.csproj", "{CB704AD4-0BD1-4EC0-AB22-1A27582D61B3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A. Little Nikita", "A. Little Nikita\A. Little Nikita.csproj", "{CE3A7347-9D95-40F6-9B0E-8B6072A1DA3C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -957,6 +959,10 @@ Global
 		{CB704AD4-0BD1-4EC0-AB22-1A27582D61B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CB704AD4-0BD1-4EC0-AB22-1A27582D61B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CB704AD4-0BD1-4EC0-AB22-1A27582D61B3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE3A7347-9D95-40F6-9B0E-8B6072A1DA3C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE3A7347-9D95-40F6-9B0E-8B6072A1DA3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE3A7347-9D95-40F6-9B0E-8B6072A1DA3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE3A7347-9D95-40F6-9B0E-8B6072A1DA3C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

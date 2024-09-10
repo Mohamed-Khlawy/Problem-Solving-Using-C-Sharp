@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Little Nikita\bin\Debug\net8.0\A. Little Nikita.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Little Nikita\bin\Debug\net8.0\A. Little Nikita.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Little Nikita\bin\Debug\net8.0\A. Little Nikita.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Little Nikita\bin\Debug\net8.0\A. Little Nikita.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Little Nikita\bin\Debug\net8.0\A. Little Nikita.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Little Nikita\obj\Debug\net8.0\A. Little Nikita.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Little Nikita\obj\Debug\net8.0\A. Little Nikita.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Little Nikita\obj\Debug\net8.0\A. Little Nikita.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Little Nikita\obj\Debug\net8.0\A. Little Nikita.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Little Nikita\obj\Debug\net8.0\A. Little Nikita.sourcelink.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Little Nikita\obj\Debug\net8.0\A. Little Nikita.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Little Nikita\obj\Debug\net8.0\refint\A. Little Nikita.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Little Nikita\obj\Debug\net8.0\A. Little Nikita.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Little Nikita\obj\Debug\net8.0\A. Little Nikita.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Little Nikita\obj\Debug\net8.0\ref\A. Little Nikita.dll

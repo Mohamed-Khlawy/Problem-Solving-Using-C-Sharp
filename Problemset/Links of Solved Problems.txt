@@ -312,3 +312,5 @@ B. Remove Prefix ==> https://codeforces.com/problemset/problem/1714/B
 
 B. Food Buying ==> https://codeforces.com/problemset/problem/1296/B
 
+A. Little Nikita ==> https://codeforces.com/problemset/problem/1977/A
+
