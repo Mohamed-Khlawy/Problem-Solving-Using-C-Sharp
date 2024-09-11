@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Domino Disaster\bin\Debug\net8.0\A. Domino Disaster.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Domino Disaster\bin\Debug\net8.0\A. Domino Disaster.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Domino Disaster\bin\Debug\net8.0\A. Domino Disaster.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Domino Disaster\bin\Debug\net8.0\A. Domino Disaster.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Domino Disaster\bin\Debug\net8.0\A. Domino Disaster.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Domino Disaster\obj\Debug\net8.0\A. Domino Disaster.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Domino Disaster\obj\Debug\net8.0\A. Domino Disaster.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Domino Disaster\obj\Debug\net8.0\A. Domino Disaster.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Domino Disaster\obj\Debug\net8.0\A. Domino Disaster.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Domino Disaster\obj\Debug\net8.0\A. Domino Disaster.sourcelink.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Domino Disaster\obj\Debug\net8.0\A. Domino Disaster.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Domino Disaster\obj\Debug\net8.0\refint\A. Domino Disaster.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Domino Disaster\obj\Debug\net8.0\A. Domino Disaster.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Domino Disaster\obj\Debug\net8.0\A. Domino Disaster.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Domino Disaster\obj\Debug\net8.0\ref\A. Domino Disaster.dll

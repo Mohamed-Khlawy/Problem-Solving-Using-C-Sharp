@@ -314,3 +314,11 @@ B. Food Buying ==> https://codeforces.com/problemset/problem/1296/B
 
 A. Little Nikita ==> https://codeforces.com/problemset/problem/1977/A
 
+B. Decode String ==> https://codeforces.com/problemset/problem/1729/B
+
+B. Preparing for the Contest ==> https://codeforces.com/problemset/problem/1914/B
+
+A. Domino Disaster ==> https://codeforces.com/problemset/problem/1567/A
+
+A. Construct a Rectangle ==> https://codeforces.com/problemset/problem/1622/A
+

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "B. Preparing for the Contest/1.0.0": {
+        "runtime": {
+          "B. Preparing for the Contest.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "B. Preparing for the Contest/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

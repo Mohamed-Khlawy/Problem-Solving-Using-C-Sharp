@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("B. Upscaling")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b83aa154c8a5f4e9ef0a667e850135210ca9b784")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4a0ca99b731b865aa6d88adda90ed6a557268f61")]
 [assembly: System.Reflection.AssemblyProductAttribute("B. Upscaling")]
 [assembly: System.Reflection.AssemblyTitleAttribute("B. Upscaling")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -319,7 +319,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "B. Remove Prefix", "B. Remo
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "B. Food Buying", "B. Food Buying\B. Food Buying.csproj", "{CB704AD4-0BD1-4EC0-AB22-1A27582D61B3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A. Little Nikita", "A. Little Nikita\A. Little Nikita.csproj", "{CE3A7347-9D95-40F6-9B0E-8B6072A1DA3C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "A. Little Nikita", "A. Little Nikita\A. Little Nikita.csproj", "{CE3A7347-9D95-40F6-9B0E-8B6072A1DA3C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "B. Decode String", "B. Decode String\B. Decode String.csproj", "{92418861-1938-4B3B-9927-5E6B2D3D8BB1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "B. Preparing for the Contest", "B. Preparing for the Contest\B. Preparing for the Contest.csproj", "{80FA1F43-6B11-453C-B914-D5DB93577843}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A. Domino Disaster", "A. Domino Disaster\A. Domino Disaster.csproj", "{9AD92DD5-B784-4792-8227-117BE4BEDD7A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A. Construct a Rectangle", "A. Construct a Rectangle\A. Construct a Rectangle.csproj", "{C86B558C-C764-4ED6-AFC9-E341D0CF74E8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -963,6 +971,22 @@ Global
 		{CE3A7347-9D95-40F6-9B0E-8B6072A1DA3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CE3A7347-9D95-40F6-9B0E-8B6072A1DA3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CE3A7347-9D95-40F6-9B0E-8B6072A1DA3C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{92418861-1938-4B3B-9927-5E6B2D3D8BB1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92418861-1938-4B3B-9927-5E6B2D3D8BB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92418861-1938-4B3B-9927-5E6B2D3D8BB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92418861-1938-4B3B-9927-5E6B2D3D8BB1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{80FA1F43-6B11-453C-B914-D5DB93577843}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80FA1F43-6B11-453C-B914-D5DB93577843}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80FA1F43-6B11-453C-B914-D5DB93577843}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80FA1F43-6B11-453C-B914-D5DB93577843}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9AD92DD5-B784-4792-8227-117BE4BEDD7A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9AD92DD5-B784-4792-8227-117BE4BEDD7A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9AD92DD5-B784-4792-8227-117BE4BEDD7A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9AD92DD5-B784-4792-8227-117BE4BEDD7A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C86B558C-C764-4ED6-AFC9-E341D0CF74E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C86B558C-C764-4ED6-AFC9-E341D0CF74E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C86B558C-C764-4ED6-AFC9-E341D0CF74E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C86B558C-C764-4ED6-AFC9-E341D0CF74E8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

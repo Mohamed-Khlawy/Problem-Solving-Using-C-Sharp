@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Construct a Rectangle\bin\Debug\net8.0\A. Construct a Rectangle.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Construct a Rectangle\bin\Debug\net8.0\A. Construct a Rectangle.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Construct a Rectangle\bin\Debug\net8.0\A. Construct a Rectangle.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Construct a Rectangle\bin\Debug\net8.0\A. Construct a Rectangle.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Construct a Rectangle\bin\Debug\net8.0\A. Construct a Rectangle.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Construct a Rectangle\obj\Debug\net8.0\A. Construct a Rectangle.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Construct a Rectangle\obj\Debug\net8.0\A. Construct a Rectangle.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Construct a Rectangle\obj\Debug\net8.0\A. Construct a Rectangle.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Construct a Rectangle\obj\Debug\net8.0\A. Construct a Rectangle.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Construct a Rectangle\obj\Debug\net8.0\A. Construct a Rectangle.sourcelink.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Construct a Rectangle\obj\Debug\net8.0\A. Construct a Rectangle.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Construct a Rectangle\obj\Debug\net8.0\refint\A. Construct a Rectangle.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Construct a Rectangle\obj\Debug\net8.0\A. Construct a Rectangle.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Construct a Rectangle\obj\Debug\net8.0\A. Construct a Rectangle.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Construct a Rectangle\obj\Debug\net8.0\ref\A. Construct a Rectangle.dll

@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Preparing for the Contest\bin\Debug\net8.0\B. Preparing for the Contest.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Preparing for the Contest\bin\Debug\net8.0\B. Preparing for the Contest.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Preparing for the Contest\bin\Debug\net8.0\B. Preparing for the Contest.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Preparing for the Contest\bin\Debug\net8.0\B. Preparing for the Contest.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Preparing for the Contest\bin\Debug\net8.0\B. Preparing for the Contest.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Preparing for the Contest\obj\Debug\net8.0\B. Preparing for the Contest.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Preparing for the Contest\obj\Debug\net8.0\B. Preparing for the Contest.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Preparing for the Contest\obj\Debug\net8.0\B. Preparing for the Contest.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Preparing for the Contest\obj\Debug\net8.0\B. Preparing for the Contest.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Preparing for the Contest\obj\Debug\net8.0\B. Preparing for the Contest.sourcelink.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Preparing for the Contest\obj\Debug\net8.0\B. Preparing for the Contest.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Preparing for the Contest\obj\Debug\net8.0\refint\B. Preparing for the Contest.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Preparing for the Contest\obj\Debug\net8.0\B. Preparing for the Contest.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Preparing for the Contest\obj\Debug\net8.0\B. Preparing for the Contest.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Preparing for the Contest\obj\Debug\net8.0\ref\B. Preparing for the Contest.dll
