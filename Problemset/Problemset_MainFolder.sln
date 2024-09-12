@@ -321,13 +321,19 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "B. Food Buying", "B. Food B
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "A. Little Nikita", "A. Little Nikita\A. Little Nikita.csproj", "{CE3A7347-9D95-40F6-9B0E-8B6072A1DA3C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "B. Decode String", "B. Decode String\B. Decode String.csproj", "{92418861-1938-4B3B-9927-5E6B2D3D8BB1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "B. Decode String", "B. Decode String\B. Decode String.csproj", "{92418861-1938-4B3B-9927-5E6B2D3D8BB1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "B. Preparing for the Contest", "B. Preparing for the Contest\B. Preparing for the Contest.csproj", "{80FA1F43-6B11-453C-B914-D5DB93577843}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "B. Preparing for the Contest", "B. Preparing for the Contest\B. Preparing for the Contest.csproj", "{80FA1F43-6B11-453C-B914-D5DB93577843}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A. Domino Disaster", "A. Domino Disaster\A. Domino Disaster.csproj", "{9AD92DD5-B784-4792-8227-117BE4BEDD7A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "A. Domino Disaster", "A. Domino Disaster\A. Domino Disaster.csproj", "{9AD92DD5-B784-4792-8227-117BE4BEDD7A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A. Construct a Rectangle", "A. Construct a Rectangle\A. Construct a Rectangle.csproj", "{C86B558C-C764-4ED6-AFC9-E341D0CF74E8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "A. Construct a Rectangle", "A. Construct a Rectangle\A. Construct a Rectangle.csproj", "{C86B558C-C764-4ED6-AFC9-E341D0CF74E8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C. Most Similar Words", "C. Most Similar Words\C. Most Similar Words.csproj", "{58A259FA-538A-4432-AF9E-2456EAC2E9A3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A. Brick Wall", "A. Brick Wall\A. Brick Wall.csproj", "{836CBF38-2C83-4F2C-89B0-A4AC133D006A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A. Lights Out", "A. Lights Out\A. Lights Out.csproj", "{7C4E27C5-66BB-44D0-A56C-D5F5770CB3FB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -987,6 +993,18 @@ Global
 		{C86B558C-C764-4ED6-AFC9-E341D0CF74E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C86B558C-C764-4ED6-AFC9-E341D0CF74E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C86B558C-C764-4ED6-AFC9-E341D0CF74E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{58A259FA-538A-4432-AF9E-2456EAC2E9A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58A259FA-538A-4432-AF9E-2456EAC2E9A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58A259FA-538A-4432-AF9E-2456EAC2E9A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58A259FA-538A-4432-AF9E-2456EAC2E9A3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{836CBF38-2C83-4F2C-89B0-A4AC133D006A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{836CBF38-2C83-4F2C-89B0-A4AC133D006A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{836CBF38-2C83-4F2C-89B0-A4AC133D006A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{836CBF38-2C83-4F2C-89B0-A4AC133D006A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7C4E27C5-66BB-44D0-A56C-D5F5770CB3FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C4E27C5-66BB-44D0-A56C-D5F5770CB3FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C4E27C5-66BB-44D0-A56C-D5F5770CB3FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C4E27C5-66BB-44D0-A56C-D5F5770CB3FB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

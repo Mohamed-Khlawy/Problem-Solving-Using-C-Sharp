@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Most Similar Words\bin\Debug\net8.0\C. Most Similar Words.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Most Similar Words\bin\Debug\net8.0\C. Most Similar Words.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Most Similar Words\bin\Debug\net8.0\C. Most Similar Words.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Most Similar Words\bin\Debug\net8.0\C. Most Similar Words.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Most Similar Words\bin\Debug\net8.0\C. Most Similar Words.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Most Similar Words\obj\Debug\net8.0\C. Most Similar Words.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Most Similar Words\obj\Debug\net8.0\C. Most Similar Words.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Most Similar Words\obj\Debug\net8.0\C. Most Similar Words.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Most Similar Words\obj\Debug\net8.0\C. Most Similar Words.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Most Similar Words\obj\Debug\net8.0\C. Most Similar Words.sourcelink.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Most Similar Words\obj\Debug\net8.0\C. Most Similar Words.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Most Similar Words\obj\Debug\net8.0\refint\C. Most Similar Words.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Most Similar Words\obj\Debug\net8.0\C. Most Similar Words.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Most Similar Words\obj\Debug\net8.0\C. Most Similar Words.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Most Similar Words\obj\Debug\net8.0\ref\C. Most Similar Words.dll

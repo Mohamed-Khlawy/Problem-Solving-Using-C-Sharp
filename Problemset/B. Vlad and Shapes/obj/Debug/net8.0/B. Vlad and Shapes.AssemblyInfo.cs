@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("B. Vlad and Shapes")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4a0ca99b731b865aa6d88adda90ed6a557268f61")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fa65f7783f880484131cec14db5fe940b3829546")]
 [assembly: System.Reflection.AssemblyProductAttribute("B. Vlad and Shapes")]
 [assembly: System.Reflection.AssemblyTitleAttribute("B. Vlad and Shapes")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

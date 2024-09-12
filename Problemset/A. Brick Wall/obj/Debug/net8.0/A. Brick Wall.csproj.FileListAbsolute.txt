@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Brick Wall\bin\Debug\net8.0\A. Brick Wall.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Brick Wall\bin\Debug\net8.0\A. Brick Wall.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Brick Wall\bin\Debug\net8.0\A. Brick Wall.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Brick Wall\bin\Debug\net8.0\A. Brick Wall.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Brick Wall\bin\Debug\net8.0\A. Brick Wall.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Brick Wall\obj\Debug\net8.0\A. Brick Wall.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Brick Wall\obj\Debug\net8.0\A. Brick Wall.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Brick Wall\obj\Debug\net8.0\A. Brick Wall.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Brick Wall\obj\Debug\net8.0\A. Brick Wall.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Brick Wall\obj\Debug\net8.0\A. Brick Wall.sourcelink.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Brick Wall\obj\Debug\net8.0\A. Brick Wall.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Brick Wall\obj\Debug\net8.0\refint\A. Brick Wall.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Brick Wall\obj\Debug\net8.0\A. Brick Wall.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Brick Wall\obj\Debug\net8.0\A. Brick Wall.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Brick Wall\obj\Debug\net8.0\ref\A. Brick Wall.dll

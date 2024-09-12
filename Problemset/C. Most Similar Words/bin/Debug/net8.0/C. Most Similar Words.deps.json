@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "C. Most Similar Words/1.0.0": {
+        "runtime": {
+          "C. Most Similar Words.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "C. Most Similar Words/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
