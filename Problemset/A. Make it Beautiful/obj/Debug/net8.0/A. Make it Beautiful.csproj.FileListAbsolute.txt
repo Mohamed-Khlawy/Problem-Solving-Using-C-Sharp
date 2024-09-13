@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Make it Beautiful\bin\Debug\net8.0\A. Make it Beautiful.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Make it Beautiful\bin\Debug\net8.0\A. Make it Beautiful.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Make it Beautiful\bin\Debug\net8.0\A. Make it Beautiful.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Make it Beautiful\bin\Debug\net8.0\A. Make it Beautiful.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Make it Beautiful\bin\Debug\net8.0\A. Make it Beautiful.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Make it Beautiful\obj\Debug\net8.0\A. Make it Beautiful.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Make it Beautiful\obj\Debug\net8.0\A. Make it Beautiful.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Make it Beautiful\obj\Debug\net8.0\A. Make it Beautiful.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Make it Beautiful\obj\Debug\net8.0\A. Make it Beautiful.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Make it Beautiful\obj\Debug\net8.0\A. Make it Beautiful.sourcelink.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Make it Beautiful\obj\Debug\net8.0\A. Make it Beautiful.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Make it Beautiful\obj\Debug\net8.0\refint\A. Make it Beautiful.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Make it Beautiful\obj\Debug\net8.0\A. Make it Beautiful.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Make it Beautiful\obj\Debug\net8.0\A. Make it Beautiful.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Make it Beautiful\obj\Debug\net8.0\ref\A. Make it Beautiful.dll

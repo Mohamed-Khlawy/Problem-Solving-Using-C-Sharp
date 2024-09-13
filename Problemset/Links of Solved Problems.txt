@@ -328,3 +328,7 @@ A. Brick Wall ==> https://codeforces.com/problemset/problem/1918/A
 
 A. Lights Out ==> https://codeforces.com/problemset/problem/275/A
 
+A. Make it Beautiful ==> https://codeforces.com/problemset/problem/1783/A
+
+A. Frog Jumping ==> https://codeforces.com/problemset/problem/1077/A
+

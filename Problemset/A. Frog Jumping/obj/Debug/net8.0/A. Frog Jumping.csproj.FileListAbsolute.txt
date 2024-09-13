@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Frog Jumping\bin\Debug\net8.0\A. Frog Jumping.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Frog Jumping\bin\Debug\net8.0\A. Frog Jumping.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Frog Jumping\bin\Debug\net8.0\A. Frog Jumping.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Frog Jumping\bin\Debug\net8.0\A. Frog Jumping.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Frog Jumping\bin\Debug\net8.0\A. Frog Jumping.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Frog Jumping\obj\Debug\net8.0\A. Frog Jumping.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Frog Jumping\obj\Debug\net8.0\A. Frog Jumping.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Frog Jumping\obj\Debug\net8.0\A. Frog Jumping.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Frog Jumping\obj\Debug\net8.0\A. Frog Jumping.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Frog Jumping\obj\Debug\net8.0\A. Frog Jumping.sourcelink.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Frog Jumping\obj\Debug\net8.0\A. Frog Jumping.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Frog Jumping\obj\Debug\net8.0\refint\A. Frog Jumping.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Frog Jumping\obj\Debug\net8.0\A. Frog Jumping.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Frog Jumping\obj\Debug\net8.0\A. Frog Jumping.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Frog Jumping\obj\Debug\net8.0\ref\A. Frog Jumping.dll
