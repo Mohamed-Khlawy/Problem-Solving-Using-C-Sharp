@@ -332,3 +332,7 @@ A. Make it Beautiful ==> https://codeforces.com/problemset/problem/1783/A
 
 A. Frog Jumping ==> https://codeforces.com/problemset/problem/1077/A
 
+D. Unnatural Language Processing ==> https://codeforces.com/problemset/problem/1915/D
+
+A. Yes-Yes? ==> https://codeforces.com/problemset/problem/1759/A
+

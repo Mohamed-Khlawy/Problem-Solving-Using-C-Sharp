@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\D. Unnatural Language Processing\bin\Debug\net8.0\D. Unnatural Language Processing.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\D. Unnatural Language Processing\bin\Debug\net8.0\D. Unnatural Language Processing.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\D. Unnatural Language Processing\bin\Debug\net8.0\D. Unnatural Language Processing.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\D. Unnatural Language Processing\bin\Debug\net8.0\D. Unnatural Language Processing.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\D. Unnatural Language Processing\bin\Debug\net8.0\D. Unnatural Language Processing.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\D. Unnatural Language Processing\obj\Debug\net8.0\D. Unnatural Language Processing.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\D. Unnatural Language Processing\obj\Debug\net8.0\D. Unnatural Language Processing.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\D. Unnatural Language Processing\obj\Debug\net8.0\D. Unnatural Language Processing.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\D. Unnatural Language Processing\obj\Debug\net8.0\D. Unnatural Language Processing.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\D. Unnatural Language Processing\obj\Debug\net8.0\D. Unnatural Language Processing.sourcelink.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\D. Unnatural Language Processing\obj\Debug\net8.0\D. Unnatural Language Processing.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\D. Unnatural Language Processing\obj\Debug\net8.0\refint\D. Unnatural Language Processing.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\D. Unnatural Language Processing\obj\Debug\net8.0\D. Unnatural Language Processing.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\D. Unnatural Language Processing\obj\Debug\net8.0\D. Unnatural Language Processing.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\D. Unnatural Language Processing\obj\Debug\net8.0\ref\D. Unnatural Language Processing.dll

@@ -335,9 +335,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "A. Brick Wall", "A. Brick W
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "A. Lights Out", "A. Lights Out\A. Lights Out.csproj", "{7C4E27C5-66BB-44D0-A56C-D5F5770CB3FB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A. Make it Beautiful", "A. Make it Beautiful\A. Make it Beautiful.csproj", "{9E134D72-9061-4D7F-80D5-8B8C18B3B159}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "A. Make it Beautiful", "A. Make it Beautiful\A. Make it Beautiful.csproj", "{9E134D72-9061-4D7F-80D5-8B8C18B3B159}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A. Frog Jumping", "A. Frog Jumping\A. Frog Jumping.csproj", "{AA89818C-D264-4327-899D-7C6A00669BDF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "A. Frog Jumping", "A. Frog Jumping\A. Frog Jumping.csproj", "{AA89818C-D264-4327-899D-7C6A00669BDF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "D. Unnatural Language Processing", "D. Unnatural Language Processing\D. Unnatural Language Processing.csproj", "{2548925B-5F63-4D3F-927D-E425A09C30B7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A. Yes-Yes", "A. Yes-Yes\A. Yes-Yes.csproj", "{5CC7182E-6DB8-41F4-8D67-F75000F5204A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -1017,6 +1021,14 @@ Global
 		{AA89818C-D264-4327-899D-7C6A00669BDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AA89818C-D264-4327-899D-7C6A00669BDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AA89818C-D264-4327-899D-7C6A00669BDF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2548925B-5F63-4D3F-927D-E425A09C30B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2548925B-5F63-4D3F-927D-E425A09C30B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2548925B-5F63-4D3F-927D-E425A09C30B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2548925B-5F63-4D3F-927D-E425A09C30B7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5CC7182E-6DB8-41F4-8D67-F75000F5204A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5CC7182E-6DB8-41F4-8D67-F75000F5204A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5CC7182E-6DB8-41F4-8D67-F75000F5204A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5CC7182E-6DB8-41F4-8D67-F75000F5204A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
