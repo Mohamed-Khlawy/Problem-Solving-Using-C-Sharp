@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Present from Lena\bin\Debug\net8.0\B. Present from Lena.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Present from Lena\bin\Debug\net8.0\B. Present from Lena.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Present from Lena\bin\Debug\net8.0\B. Present from Lena.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Present from Lena\bin\Debug\net8.0\B. Present from Lena.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Present from Lena\bin\Debug\net8.0\B. Present from Lena.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Present from Lena\obj\Debug\net8.0\B. Present from Lena.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Present from Lena\obj\Debug\net8.0\B. Present from Lena.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Present from Lena\obj\Debug\net8.0\B. Present from Lena.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Present from Lena\obj\Debug\net8.0\B. Present from Lena.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Present from Lena\obj\Debug\net8.0\B. Present from Lena.sourcelink.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Present from Lena\obj\Debug\net8.0\B. Present from Lena.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Present from Lena\obj\Debug\net8.0\refint\B. Present from Lena.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Present from Lena\obj\Debug\net8.0\B. Present from Lena.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Present from Lena\obj\Debug\net8.0\B. Present from Lena.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Present from Lena\obj\Debug\net8.0\ref\B. Present from Lena.dll

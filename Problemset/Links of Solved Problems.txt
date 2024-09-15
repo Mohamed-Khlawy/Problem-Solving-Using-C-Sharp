@@ -336,3 +336,5 @@ D. Unnatural Language Processing ==> https://codeforces.com/problemset/problem/1
 
 A. Yes-Yes? ==> https://codeforces.com/problemset/problem/1759/A
 
+B. Present from Lena ==> https://codeforces.com/problemset/problem/118/B
+

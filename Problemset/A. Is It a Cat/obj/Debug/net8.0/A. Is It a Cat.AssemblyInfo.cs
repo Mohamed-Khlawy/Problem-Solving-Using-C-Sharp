@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("A. Is It a Cat")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a0327434378eab970775742e9f3326635aa1f163")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+703629560611d2db05c92f9dfa36b237676aab8a")]
 [assembly: System.Reflection.AssemblyProductAttribute("A. Is It a Cat")]
 [assembly: System.Reflection.AssemblyTitleAttribute("A. Is It a Cat")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
