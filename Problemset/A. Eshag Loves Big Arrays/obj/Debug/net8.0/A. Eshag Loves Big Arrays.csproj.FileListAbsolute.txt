@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Eshag Loves Big Arrays\bin\Debug\net8.0\A. Eshag Loves Big Arrays.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Eshag Loves Big Arrays\bin\Debug\net8.0\A. Eshag Loves Big Arrays.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Eshag Loves Big Arrays\bin\Debug\net8.0\A. Eshag Loves Big Arrays.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Eshag Loves Big Arrays\bin\Debug\net8.0\A. Eshag Loves Big Arrays.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Eshag Loves Big Arrays\bin\Debug\net8.0\A. Eshag Loves Big Arrays.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Eshag Loves Big Arrays\obj\Debug\net8.0\A. Eshag Loves Big Arrays.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Eshag Loves Big Arrays\obj\Debug\net8.0\A. Eshag Loves Big Arrays.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Eshag Loves Big Arrays\obj\Debug\net8.0\A. Eshag Loves Big Arrays.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Eshag Loves Big Arrays\obj\Debug\net8.0\A. Eshag Loves Big Arrays.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Eshag Loves Big Arrays\obj\Debug\net8.0\A. Eshag Loves Big Arrays.sourcelink.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Eshag Loves Big Arrays\obj\Debug\net8.0\A. Eshag Loves Big Arrays.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Eshag Loves Big Arrays\obj\Debug\net8.0\refint\A. Eshag Loves Big Arrays.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Eshag Loves Big Arrays\obj\Debug\net8.0\A. Eshag Loves Big Arrays.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Eshag Loves Big Arrays\obj\Debug\net8.0\A. Eshag Loves Big Arrays.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Eshag Loves Big Arrays\obj\Debug\net8.0\ref\A. Eshag Loves Big Arrays.dll

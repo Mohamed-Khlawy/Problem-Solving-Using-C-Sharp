@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("B. Not Quite Latin Square")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+703629560611d2db05c92f9dfa36b237676aab8a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b648845b32f70c66f71522cccef35fd139f86705")]
 [assembly: System.Reflection.AssemblyProductAttribute("B. Not Quite Latin Square")]
 [assembly: System.Reflection.AssemblyTitleAttribute("B. Not Quite Latin Square")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

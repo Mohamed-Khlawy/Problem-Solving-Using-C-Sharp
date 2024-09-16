@@ -338,3 +338,7 @@ A. Yes-Yes? ==> https://codeforces.com/problemset/problem/1759/A
 
 B. Present from Lena ==> https://codeforces.com/problemset/problem/118/B
 
+B. Card Game ==> https://codeforces.com/problemset/problem/1999/B
+
+A. Eshag Loves Big Arrays ==> https://codeforces.com/problemset/problem/1529/A
+
