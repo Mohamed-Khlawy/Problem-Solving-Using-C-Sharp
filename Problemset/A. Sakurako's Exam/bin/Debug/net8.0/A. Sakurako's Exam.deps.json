@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "A. Sakurako's Exam/1.0.0": {
+        "runtime": {
+          "A. Sakurako's Exam.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "A. Sakurako's Exam/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

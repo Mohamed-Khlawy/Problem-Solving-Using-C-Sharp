@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("A. The number of positions")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b648845b32f70c66f71522cccef35fd139f86705")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7b58bbc2136e048a4befda0c918d3a5874ba3363")]
 [assembly: System.Reflection.AssemblyProductAttribute("A. The number of positions")]
 [assembly: System.Reflection.AssemblyTitleAttribute("A. The number of positions")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

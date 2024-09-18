@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Bad Boy\bin\Debug\net8.0\B. Bad Boy.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Bad Boy\bin\Debug\net8.0\B. Bad Boy.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Bad Boy\bin\Debug\net8.0\B. Bad Boy.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Bad Boy\bin\Debug\net8.0\B. Bad Boy.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Bad Boy\bin\Debug\net8.0\B. Bad Boy.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Bad Boy\obj\Debug\net8.0\B. Bad Boy.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Bad Boy\obj\Debug\net8.0\B. Bad Boy.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Bad Boy\obj\Debug\net8.0\B. Bad Boy.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Bad Boy\obj\Debug\net8.0\B. Bad Boy.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Bad Boy\obj\Debug\net8.0\B. Bad Boy.sourcelink.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Bad Boy\obj\Debug\net8.0\B. Bad Boy.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Bad Boy\obj\Debug\net8.0\refint\B. Bad Boy.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Bad Boy\obj\Debug\net8.0\B. Bad Boy.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Bad Boy\obj\Debug\net8.0\B. Bad Boy.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Bad Boy\obj\Debug\net8.0\ref\B. Bad Boy.dll

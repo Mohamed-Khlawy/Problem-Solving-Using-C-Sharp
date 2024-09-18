@@ -342,3 +342,9 @@ B. Card Game ==> https://codeforces.com/problemset/problem/1999/B
 
 A. Eshag Loves Big Arrays ==> https://codeforces.com/problemset/problem/1529/A
 
+B. Bad Boy ==> https://codeforces.com/problemset/problem/1537/B
+
+A. Sakurako's Exam ==> https://codeforces.com/problemset/problem/2008/A
+
+A. Reconnaissance 2 ==> https://codeforces.com/problemset/problem/34/A
+
