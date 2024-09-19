@@ -348,3 +348,7 @@ A. Sakurako's Exam ==> https://codeforces.com/problemset/problem/2008/A
 
 A. Reconnaissance 2 ==> https://codeforces.com/problemset/problem/34/A
 
+A. Cards ==> https://codeforces.com/problemset/problem/1220/A
+
+B. Plus-Minus Split ==> https://codeforces.com/problemset/problem/1919/B
+

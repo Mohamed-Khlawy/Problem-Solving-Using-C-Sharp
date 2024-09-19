@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Plus-Minus Split\bin\Debug\net8.0\B. Plus-Minus Split.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Plus-Minus Split\bin\Debug\net8.0\B. Plus-Minus Split.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Plus-Minus Split\bin\Debug\net8.0\B. Plus-Minus Split.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Plus-Minus Split\bin\Debug\net8.0\B. Plus-Minus Split.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Plus-Minus Split\bin\Debug\net8.0\B. Plus-Minus Split.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Plus-Minus Split\obj\Debug\net8.0\B. Plus-Minus Split.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Plus-Minus Split\obj\Debug\net8.0\B. Plus-Minus Split.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Plus-Minus Split\obj\Debug\net8.0\B. Plus-Minus Split.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Plus-Minus Split\obj\Debug\net8.0\B. Plus-Minus Split.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Plus-Minus Split\obj\Debug\net8.0\B. Plus-Minus Split.sourcelink.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Plus-Minus Split\obj\Debug\net8.0\B. Plus-Minus Split.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Plus-Minus Split\obj\Debug\net8.0\refint\B. Plus-Minus Split.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Plus-Minus Split\obj\Debug\net8.0\B. Plus-Minus Split.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Plus-Minus Split\obj\Debug\net8.0\B. Plus-Minus Split.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Plus-Minus Split\obj\Debug\net8.0\ref\B. Plus-Minus Split.dll

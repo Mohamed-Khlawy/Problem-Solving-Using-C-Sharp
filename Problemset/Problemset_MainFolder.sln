@@ -349,11 +349,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "B. Card Game", "B. Card Gam
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "A. Eshag Loves Big Arrays", "A. Eshag Loves Big Arrays\A. Eshag Loves Big Arrays.csproj", "{F3154BD8-976A-49D0-842E-4662DD784D13}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "B. Bad Boy", "B. Bad Boy\B. Bad Boy.csproj", "{513036E1-FC8A-41DC-82D7-B5A3905CD954}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "B. Bad Boy", "B. Bad Boy\B. Bad Boy.csproj", "{513036E1-FC8A-41DC-82D7-B5A3905CD954}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A. Sakurako's Exam", "A. Sakurako's Exam\A. Sakurako's Exam.csproj", "{1A56E362-E091-4FC3-8AC8-8E4D79E63D64}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "A. Sakurako's Exam", "A. Sakurako's Exam\A. Sakurako's Exam.csproj", "{1A56E362-E091-4FC3-8AC8-8E4D79E63D64}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A. Reconnaissance 2", "A. Reconnaissance 2\A. Reconnaissance 2.csproj", "{6AE78946-4E52-4843-A549-C55C61DE5860}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "A. Reconnaissance 2", "A. Reconnaissance 2\A. Reconnaissance 2.csproj", "{6AE78946-4E52-4843-A549-C55C61DE5860}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A. Cards", "A. Cards\A. Cards.csproj", "{BC02D53C-6332-426E-B592-6D705BB77F38}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "B. Plus-Minus Split", "B. Plus-Minus Split\B. Plus-Minus Split.csproj", "{8928C4CD-7C1B-43B4-B449-23A6882E6308}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -1065,6 +1069,14 @@ Global
 		{6AE78946-4E52-4843-A549-C55C61DE5860}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6AE78946-4E52-4843-A549-C55C61DE5860}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6AE78946-4E52-4843-A549-C55C61DE5860}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC02D53C-6332-426E-B592-6D705BB77F38}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC02D53C-6332-426E-B592-6D705BB77F38}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC02D53C-6332-426E-B592-6D705BB77F38}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC02D53C-6332-426E-B592-6D705BB77F38}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8928C4CD-7C1B-43B4-B449-23A6882E6308}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8928C4CD-7C1B-43B4-B449-23A6882E6308}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8928C4CD-7C1B-43B4-B449-23A6882E6308}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8928C4CD-7C1B-43B4-B449-23A6882E6308}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

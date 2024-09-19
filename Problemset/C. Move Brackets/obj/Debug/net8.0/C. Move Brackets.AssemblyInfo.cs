@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("C. Move Brackets")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7b58bbc2136e048a4befda0c918d3a5874ba3363")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f9dc5faccde58d8d59b86179ac9e146d9011deb6")]
 [assembly: System.Reflection.AssemblyProductAttribute("C. Move Brackets")]
 [assembly: System.Reflection.AssemblyTitleAttribute("C. Move Brackets")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
