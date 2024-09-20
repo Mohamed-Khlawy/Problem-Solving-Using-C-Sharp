@@ -355,9 +355,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "A. Sakurako's Exam", "A. Sa
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "A. Reconnaissance 2", "A. Reconnaissance 2\A. Reconnaissance 2.csproj", "{6AE78946-4E52-4843-A549-C55C61DE5860}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A. Cards", "A. Cards\A. Cards.csproj", "{BC02D53C-6332-426E-B592-6D705BB77F38}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "A. Cards", "A. Cards\A. Cards.csproj", "{BC02D53C-6332-426E-B592-6D705BB77F38}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "B. Plus-Minus Split", "B. Plus-Minus Split\B. Plus-Minus Split.csproj", "{8928C4CD-7C1B-43B4-B449-23A6882E6308}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "B. Plus-Minus Split", "B. Plus-Minus Split\B. Plus-Minus Split.csproj", "{8928C4CD-7C1B-43B4-B449-23A6882E6308}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A. Everyone Loves to Sleep", "A. Everyone Loves to Sleep\A. Everyone Loves to Sleep.csproj", "{CE9D3A27-AE11-4BE4-A40D-1F17BB981860}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -1077,6 +1079,10 @@ Global
 		{8928C4CD-7C1B-43B4-B449-23A6882E6308}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8928C4CD-7C1B-43B4-B449-23A6882E6308}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8928C4CD-7C1B-43B4-B449-23A6882E6308}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE9D3A27-AE11-4BE4-A40D-1F17BB981860}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE9D3A27-AE11-4BE4-A40D-1F17BB981860}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE9D3A27-AE11-4BE4-A40D-1F17BB981860}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE9D3A27-AE11-4BE4-A40D-1F17BB981860}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -352,3 +352,5 @@ A. Cards ==> https://codeforces.com/problemset/problem/1220/A
 
 B. Plus-Minus Split ==> https://codeforces.com/problemset/problem/1919/B
 
+A. Everyone Loves to Sleep ==> https://codeforces.com/problemset/problem/1714/A
+

@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Everyone Loves to Sleep\bin\Debug\net8.0\A. Everyone Loves to Sleep.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Everyone Loves to Sleep\bin\Debug\net8.0\A. Everyone Loves to Sleep.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Everyone Loves to Sleep\bin\Debug\net8.0\A. Everyone Loves to Sleep.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Everyone Loves to Sleep\bin\Debug\net8.0\A. Everyone Loves to Sleep.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Everyone Loves to Sleep\bin\Debug\net8.0\A. Everyone Loves to Sleep.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Everyone Loves to Sleep\obj\Debug\net8.0\A. Everyone Loves to Sleep.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Everyone Loves to Sleep\obj\Debug\net8.0\A. Everyone Loves to Sleep.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Everyone Loves to Sleep\obj\Debug\net8.0\A. Everyone Loves to Sleep.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Everyone Loves to Sleep\obj\Debug\net8.0\A. Everyone Loves to Sleep.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Everyone Loves to Sleep\obj\Debug\net8.0\A. Everyone Loves to Sleep.sourcelink.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Everyone Loves to Sleep\obj\Debug\net8.0\A. Everyone Loves to Sleep.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Everyone Loves to Sleep\obj\Debug\net8.0\refint\A. Everyone Loves to Sleep.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Everyone Loves to Sleep\obj\Debug\net8.0\A. Everyone Loves to Sleep.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Everyone Loves to Sleep\obj\Debug\net8.0\A. Everyone Loves to Sleep.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Everyone Loves to Sleep\obj\Debug\net8.0\ref\A. Everyone Loves to Sleep.dll
