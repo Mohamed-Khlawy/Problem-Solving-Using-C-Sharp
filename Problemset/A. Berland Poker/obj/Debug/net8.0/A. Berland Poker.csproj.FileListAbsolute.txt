@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Berland Poker\bin\Debug\net8.0\A. Berland Poker.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Berland Poker\bin\Debug\net8.0\A. Berland Poker.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Berland Poker\bin\Debug\net8.0\A. Berland Poker.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Berland Poker\bin\Debug\net8.0\A. Berland Poker.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Berland Poker\bin\Debug\net8.0\A. Berland Poker.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Berland Poker\obj\Debug\net8.0\A. Berland Poker.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Berland Poker\obj\Debug\net8.0\A. Berland Poker.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Berland Poker\obj\Debug\net8.0\A. Berland Poker.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Berland Poker\obj\Debug\net8.0\A. Berland Poker.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Berland Poker\obj\Debug\net8.0\A. Berland Poker.sourcelink.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Berland Poker\obj\Debug\net8.0\A. Berland Poker.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Berland Poker\obj\Debug\net8.0\refint\A. Berland Poker.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Berland Poker\obj\Debug\net8.0\A. Berland Poker.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Berland Poker\obj\Debug\net8.0\A. Berland Poker.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Berland Poker\obj\Debug\net8.0\ref\A. Berland Poker.dll
