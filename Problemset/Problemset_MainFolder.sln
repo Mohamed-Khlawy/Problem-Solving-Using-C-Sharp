@@ -361,9 +361,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "B. Plus-Minus Split", "B. P
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "A. Everyone Loves to Sleep", "A. Everyone Loves to Sleep\A. Everyone Loves to Sleep.csproj", "{CE9D3A27-AE11-4BE4-A40D-1F17BB981860}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "B. Symmetric Encoding", "B. Symmetric Encoding\B. Symmetric Encoding.csproj", "{F27BE834-73E6-46F2-ABC2-D55EB958C8FF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "B. Symmetric Encoding", "B. Symmetric Encoding\B. Symmetric Encoding.csproj", "{F27BE834-73E6-46F2-ABC2-D55EB958C8FF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A. Berland Poker", "A. Berland Poker\A. Berland Poker.csproj", "{AA6B1BDE-E953-43DD-BAAD-4E1B068B3914}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "A. Berland Poker", "A. Berland Poker\A. Berland Poker.csproj", "{AA6B1BDE-E953-43DD-BAAD-4E1B068B3914}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A. Three Doors", "A. Three Doors\A. Three Doors.csproj", "{9635E8F7-B609-44A4-8C72-B7641DF46F53}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A. Escalator Conversations", "A. Escalator Conversations\A. Escalator Conversations.csproj", "{5445E095-B179-4506-B3D6-5114125DB850}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -1095,6 +1099,14 @@ Global
 		{AA6B1BDE-E953-43DD-BAAD-4E1B068B3914}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AA6B1BDE-E953-43DD-BAAD-4E1B068B3914}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AA6B1BDE-E953-43DD-BAAD-4E1B068B3914}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9635E8F7-B609-44A4-8C72-B7641DF46F53}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9635E8F7-B609-44A4-8C72-B7641DF46F53}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9635E8F7-B609-44A4-8C72-B7641DF46F53}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9635E8F7-B609-44A4-8C72-B7641DF46F53}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5445E095-B179-4506-B3D6-5114125DB850}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5445E095-B179-4506-B3D6-5114125DB850}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5445E095-B179-4506-B3D6-5114125DB850}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5445E095-B179-4506-B3D6-5114125DB850}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

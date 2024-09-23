@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Three Doors\bin\Debug\net8.0\A. Three Doors.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Three Doors\bin\Debug\net8.0\A. Three Doors.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Three Doors\bin\Debug\net8.0\A. Three Doors.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Three Doors\bin\Debug\net8.0\A. Three Doors.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Three Doors\bin\Debug\net8.0\A. Three Doors.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Three Doors\obj\Debug\net8.0\A. Three Doors.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Three Doors\obj\Debug\net8.0\A. Three Doors.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Three Doors\obj\Debug\net8.0\A. Three Doors.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Three Doors\obj\Debug\net8.0\A. Three Doors.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Three Doors\obj\Debug\net8.0\A. Three Doors.sourcelink.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Three Doors\obj\Debug\net8.0\A. Three Doors.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Three Doors\obj\Debug\net8.0\refint\A. Three Doors.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Three Doors\obj\Debug\net8.0\A. Three Doors.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Three Doors\obj\Debug\net8.0\A. Three Doors.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Three Doors\obj\Debug\net8.0\ref\A. Three Doors.dll

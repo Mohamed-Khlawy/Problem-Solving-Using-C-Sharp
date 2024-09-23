@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Escalator Conversations\bin\Debug\net8.0\A. Escalator Conversations.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Escalator Conversations\bin\Debug\net8.0\A. Escalator Conversations.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Escalator Conversations\bin\Debug\net8.0\A. Escalator Conversations.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Escalator Conversations\bin\Debug\net8.0\A. Escalator Conversations.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Escalator Conversations\bin\Debug\net8.0\A. Escalator Conversations.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Escalator Conversations\obj\Debug\net8.0\A. Escalator Conversations.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Escalator Conversations\obj\Debug\net8.0\A. Escalator Conversations.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Escalator Conversations\obj\Debug\net8.0\A. Escalator Conversations.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Escalator Conversations\obj\Debug\net8.0\A. Escalator Conversations.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Escalator Conversations\obj\Debug\net8.0\A. Escalator Conversations.sourcelink.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Escalator Conversations\obj\Debug\net8.0\A. Escalator Conversations.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Escalator Conversations\obj\Debug\net8.0\refint\A. Escalator Conversations.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Escalator Conversations\obj\Debug\net8.0\A. Escalator Conversations.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Escalator Conversations\obj\Debug\net8.0\A. Escalator Conversations.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Escalator Conversations\obj\Debug\net8.0\ref\A. Escalator Conversations.dll

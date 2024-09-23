@@ -358,3 +358,7 @@ B. Symmetric Encoding ==> https://codeforces.com/problemset/problem/1974/B
 
 A. Berland Poker ==> https://codeforces.com/problemset/problem/1359/A
 
+A. Three Doors ==> https://codeforces.com/problemset/problem/1709/A
+
+A. Escalator Conversations ==> https://codeforces.com/problemset/problem/1851/A
+
