@@ -362,3 +362,7 @@ A. Three Doors ==> https://codeforces.com/problemset/problem/1709/A
 
 A. Escalator Conversations ==> https://codeforces.com/problemset/problem/1851/A
 
+B. Comparison String ==> https://codeforces.com/problemset/problem/1837/B
+
+A. ABC ==> https://codeforces.com/problemset/problem/1632/A
+
