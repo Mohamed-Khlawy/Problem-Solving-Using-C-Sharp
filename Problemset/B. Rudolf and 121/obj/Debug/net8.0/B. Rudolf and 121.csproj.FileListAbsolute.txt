@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Rudolf and 121\bin\Debug\net8.0\B. Rudolf and 121.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Rudolf and 121\bin\Debug\net8.0\B. Rudolf and 121.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Rudolf and 121\bin\Debug\net8.0\B. Rudolf and 121.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Rudolf and 121\bin\Debug\net8.0\B. Rudolf and 121.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Rudolf and 121\bin\Debug\net8.0\B. Rudolf and 121.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Rudolf and 121\obj\Debug\net8.0\B. Rudolf and 121.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Rudolf and 121\obj\Debug\net8.0\B. Rudolf and 121.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Rudolf and 121\obj\Debug\net8.0\B. Rudolf and 121.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Rudolf and 121\obj\Debug\net8.0\B. Rudolf and 121.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Rudolf and 121\obj\Debug\net8.0\B. Rudolf and 121.sourcelink.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Rudolf and 121\obj\Debug\net8.0\B. Rudolf and 121.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Rudolf and 121\obj\Debug\net8.0\refint\B. Rudolf and 121.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Rudolf and 121\obj\Debug\net8.0\B. Rudolf and 121.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Rudolf and 121\obj\Debug\net8.0\B. Rudolf and 121.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Rudolf and 121\obj\Debug\net8.0\ref\B. Rudolf and 121.dll

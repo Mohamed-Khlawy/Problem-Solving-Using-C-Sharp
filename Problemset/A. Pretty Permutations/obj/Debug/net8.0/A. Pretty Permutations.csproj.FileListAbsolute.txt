@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Pretty Permutations\bin\Debug\net8.0\A. Pretty Permutations.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Pretty Permutations\bin\Debug\net8.0\A. Pretty Permutations.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Pretty Permutations\bin\Debug\net8.0\A. Pretty Permutations.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Pretty Permutations\bin\Debug\net8.0\A. Pretty Permutations.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Pretty Permutations\bin\Debug\net8.0\A. Pretty Permutations.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Pretty Permutations\obj\Debug\net8.0\A. Pretty Permutations.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Pretty Permutations\obj\Debug\net8.0\A. Pretty Permutations.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Pretty Permutations\obj\Debug\net8.0\A. Pretty Permutations.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Pretty Permutations\obj\Debug\net8.0\A. Pretty Permutations.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Pretty Permutations\obj\Debug\net8.0\A. Pretty Permutations.sourcelink.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Pretty Permutations\obj\Debug\net8.0\A. Pretty Permutations.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Pretty Permutations\obj\Debug\net8.0\refint\A. Pretty Permutations.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Pretty Permutations\obj\Debug\net8.0\A. Pretty Permutations.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Pretty Permutations\obj\Debug\net8.0\A. Pretty Permutations.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Pretty Permutations\obj\Debug\net8.0\ref\A. Pretty Permutations.dll
