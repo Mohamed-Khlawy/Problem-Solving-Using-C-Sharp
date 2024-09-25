@@ -366,3 +366,5 @@ B. Comparison String ==> https://codeforces.com/problemset/problem/1837/B
 
 A. ABC ==> https://codeforces.com/problemset/problem/1632/A
 
+D. Black and White Stripe ==> https://codeforces.com/problemset/problem/1690/D
+

@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\D. Black and White Stripe\bin\Debug\net8.0\D. Black and White Stripe.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\D. Black and White Stripe\bin\Debug\net8.0\D. Black and White Stripe.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\D. Black and White Stripe\bin\Debug\net8.0\D. Black and White Stripe.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\D. Black and White Stripe\bin\Debug\net8.0\D. Black and White Stripe.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\D. Black and White Stripe\bin\Debug\net8.0\D. Black and White Stripe.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\D. Black and White Stripe\obj\Debug\net8.0\D. Black and White Stripe.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\D. Black and White Stripe\obj\Debug\net8.0\D. Black and White Stripe.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\D. Black and White Stripe\obj\Debug\net8.0\D. Black and White Stripe.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\D. Black and White Stripe\obj\Debug\net8.0\D. Black and White Stripe.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\D. Black and White Stripe\obj\Debug\net8.0\D. Black and White Stripe.sourcelink.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\D. Black and White Stripe\obj\Debug\net8.0\D. Black and White Stripe.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\D. Black and White Stripe\obj\Debug\net8.0\refint\D. Black and White Stripe.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\D. Black and White Stripe\obj\Debug\net8.0\D. Black and White Stripe.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\D. Black and White Stripe\obj\Debug\net8.0\D. Black and White Stripe.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\D. Black and White Stripe\obj\Debug\net8.0\ref\D. Black and White Stripe.dll

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("A. Vlad and the Best of Five")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+988637ef07713ea0b01215d184ce77f4e4ff0be6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8e7b8879bcff51c07fc90b46dbeafebbba41f3ab")]
 [assembly: System.Reflection.AssemblyProductAttribute("A. Vlad and the Best of Five")]
 [assembly: System.Reflection.AssemblyTitleAttribute("A. Vlad and the Best of Five")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

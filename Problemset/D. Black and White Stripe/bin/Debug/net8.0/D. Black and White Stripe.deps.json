@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "D. Black and White Stripe/1.0.0": {
+        "runtime": {
+          "D. Black and White Stripe.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "D. Black and White Stripe/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
