@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Payment Without Change\bin\Debug\net8.0\A. Payment Without Change.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Payment Without Change\bin\Debug\net8.0\A. Payment Without Change.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Payment Without Change\bin\Debug\net8.0\A. Payment Without Change.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Payment Without Change\bin\Debug\net8.0\A. Payment Without Change.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Payment Without Change\bin\Debug\net8.0\A. Payment Without Change.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Payment Without Change\obj\Debug\net8.0\A. Payment Without Change.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Payment Without Change\obj\Debug\net8.0\A. Payment Without Change.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Payment Without Change\obj\Debug\net8.0\A. Payment Without Change.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Payment Without Change\obj\Debug\net8.0\A. Payment Without Change.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Payment Without Change\obj\Debug\net8.0\A. Payment Without Change.sourcelink.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Payment Without Change\obj\Debug\net8.0\A. Payment Without Change.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Payment Without Change\obj\Debug\net8.0\refint\A. Payment Without Change.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Payment Without Change\obj\Debug\net8.0\A. Payment Without Change.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Payment Without Change\obj\Debug\net8.0\A. Payment Without Change.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Payment Without Change\obj\Debug\net8.0\ref\A. Payment Without Change.dll

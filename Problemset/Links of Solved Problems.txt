@@ -372,3 +372,7 @@ A. Pretty Permutations ==> https://codeforces.com/problemset/problem/1541/A
 
 B. Rudolf and 121 ==> https://codeforces.com/problemset/problem/1941/B
 
+A. Payment Without Change ==> https://codeforces.com/problemset/problem/1256/A
+
+A. Cherry ==> https://codeforces.com/problemset/problem/1554/A
+

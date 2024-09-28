@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("A. Eshag Loves Big Arrays")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d4b570ab970324e0dd9542eb57a7e0eef7e8ea92")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d6298b78d1c8dd602a764517bb8c41a55ad10ed7")]
 [assembly: System.Reflection.AssemblyProductAttribute("A. Eshag Loves Big Arrays")]
 [assembly: System.Reflection.AssemblyTitleAttribute("A. Eshag Loves Big Arrays")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
