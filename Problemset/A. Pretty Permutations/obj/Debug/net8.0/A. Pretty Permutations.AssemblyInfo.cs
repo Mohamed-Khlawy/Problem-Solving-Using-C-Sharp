@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("A. Pretty Permutations")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d6298b78d1c8dd602a764517bb8c41a55ad10ed7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+93e7fe1ffd2ea336eae69048e8ab54cbe0622a80")]
 [assembly: System.Reflection.AssemblyProductAttribute("A. Pretty Permutations")]
 [assembly: System.Reflection.AssemblyTitleAttribute("A. Pretty Permutations")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

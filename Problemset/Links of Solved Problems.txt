@@ -376,3 +376,5 @@ A. Payment Without Change ==> https://codeforces.com/problemset/problem/1256/A
 
 A. Cherry ==> https://codeforces.com/problemset/problem/1554/A
 
+A. Bus to Udayland ==> https://codeforces.com/problemset/problem/711/A
+
