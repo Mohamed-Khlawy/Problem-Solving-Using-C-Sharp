@@ -378,3 +378,7 @@ A. Cherry ==> https://codeforces.com/problemset/problem/1554/A
 
 A. Bus to Udayland ==> https://codeforces.com/problemset/problem/711/A
 
+A. Thorns and Coins ==> https://codeforces.com/problemset/problem/1932/A
+
+B. Anton and Digits ==> https://codeforces.com/problemset/problem/734/B
+

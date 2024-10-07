@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Thorns and Coins\bin\Debug\net8.0\A. Thorns and Coins.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Thorns and Coins\bin\Debug\net8.0\A. Thorns and Coins.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Thorns and Coins\bin\Debug\net8.0\A. Thorns and Coins.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Thorns and Coins\bin\Debug\net8.0\A. Thorns and Coins.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Thorns and Coins\bin\Debug\net8.0\A. Thorns and Coins.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Thorns and Coins\obj\Debug\net8.0\A. Thorns and Coins.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Thorns and Coins\obj\Debug\net8.0\A. Thorns and Coins.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Thorns and Coins\obj\Debug\net8.0\A. Thorns and Coins.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Thorns and Coins\obj\Debug\net8.0\A. Thorns and Coins.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Thorns and Coins\obj\Debug\net8.0\A. Thorns and Coins.sourcelink.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Thorns and Coins\obj\Debug\net8.0\A. Thorns and Coins.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Thorns and Coins\obj\Debug\net8.0\refint\A. Thorns and Coins.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Thorns and Coins\obj\Debug\net8.0\A. Thorns and Coins.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Thorns and Coins\obj\Debug\net8.0\A. Thorns and Coins.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Thorns and Coins\obj\Debug\net8.0\ref\A. Thorns and Coins.dll

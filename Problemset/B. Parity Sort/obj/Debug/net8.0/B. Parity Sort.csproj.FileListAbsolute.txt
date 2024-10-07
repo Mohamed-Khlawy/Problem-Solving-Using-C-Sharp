@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Parity Sort\bin\Debug\net8.0\B. Parity Sort.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Parity Sort\bin\Debug\net8.0\B. Parity Sort.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Parity Sort\bin\Debug\net8.0\B. Parity Sort.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Parity Sort\bin\Debug\net8.0\B. Parity Sort.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Parity Sort\bin\Debug\net8.0\B. Parity Sort.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Parity Sort\obj\Debug\net8.0\B. Parity Sort.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Parity Sort\obj\Debug\net8.0\B. Parity Sort.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Parity Sort\obj\Debug\net8.0\B. Parity Sort.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Parity Sort\obj\Debug\net8.0\B. Parity Sort.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Parity Sort\obj\Debug\net8.0\B. Parity Sort.sourcelink.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Parity Sort\obj\Debug\net8.0\B. Parity Sort.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Parity Sort\obj\Debug\net8.0\refint\B. Parity Sort.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Parity Sort\obj\Debug\net8.0\B. Parity Sort.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Parity Sort\obj\Debug\net8.0\B. Parity Sort.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Parity Sort\obj\Debug\net8.0\ref\B. Parity Sort.dll

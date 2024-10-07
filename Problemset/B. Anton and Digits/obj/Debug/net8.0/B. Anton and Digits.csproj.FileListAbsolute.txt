@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Anton and Digits\bin\Debug\net8.0\B. Anton and Digits.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Anton and Digits\bin\Debug\net8.0\B. Anton and Digits.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Anton and Digits\bin\Debug\net8.0\B. Anton and Digits.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Anton and Digits\bin\Debug\net8.0\B. Anton and Digits.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Anton and Digits\bin\Debug\net8.0\B. Anton and Digits.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Anton and Digits\obj\Debug\net8.0\B. Anton and Digits.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Anton and Digits\obj\Debug\net8.0\B. Anton and Digits.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Anton and Digits\obj\Debug\net8.0\B. Anton and Digits.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Anton and Digits\obj\Debug\net8.0\B. Anton and Digits.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Anton and Digits\obj\Debug\net8.0\B. Anton and Digits.sourcelink.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Anton and Digits\obj\Debug\net8.0\B. Anton and Digits.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Anton and Digits\obj\Debug\net8.0\refint\B. Anton and Digits.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Anton and Digits\obj\Debug\net8.0\B. Anton and Digits.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Anton and Digits\obj\Debug\net8.0\B. Anton and Digits.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Anton and Digits\obj\Debug\net8.0\ref\B. Anton and Digits.dll
