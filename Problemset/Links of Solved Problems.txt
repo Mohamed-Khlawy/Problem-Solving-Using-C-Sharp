@@ -382,3 +382,5 @@ A. Thorns and Coins ==> https://codeforces.com/problemset/problem/1932/A
 
 B. Anton and Digits ==> https://codeforces.com/problemset/problem/734/B
 
+A. Closest Point ==> https://codeforces.com/problemset/problem/2004/A
+

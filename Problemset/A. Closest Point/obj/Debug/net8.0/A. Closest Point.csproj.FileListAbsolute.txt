@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Closest Point\bin\Debug\net8.0\A. Closest Point.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Closest Point\bin\Debug\net8.0\A. Closest Point.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Closest Point\bin\Debug\net8.0\A. Closest Point.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Closest Point\bin\Debug\net8.0\A. Closest Point.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Closest Point\bin\Debug\net8.0\A. Closest Point.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Closest Point\obj\Debug\net8.0\A. Closest Point.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Closest Point\obj\Debug\net8.0\A. Closest Point.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Closest Point\obj\Debug\net8.0\A. Closest Point.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Closest Point\obj\Debug\net8.0\A. Closest Point.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Closest Point\obj\Debug\net8.0\A. Closest Point.sourcelink.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Closest Point\obj\Debug\net8.0\A. Closest Point.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Closest Point\obj\Debug\net8.0\refint\A. Closest Point.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Closest Point\obj\Debug\net8.0\A. Closest Point.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Closest Point\obj\Debug\net8.0\A. Closest Point.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Closest Point\obj\Debug\net8.0\ref\A. Closest Point.dll
