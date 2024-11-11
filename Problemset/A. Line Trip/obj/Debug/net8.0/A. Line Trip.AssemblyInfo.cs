@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("A. Line Trip")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9c1d205d26c2504e8e5f3ba303820020b8ab7b19")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2e5900ae7d59a3595fa3d6639ee51a0b8eb59837")]
 [assembly: System.Reflection.AssemblyProductAttribute("A. Line Trip")]
 [assembly: System.Reflection.AssemblyTitleAttribute("A. Line Trip")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -384,3 +384,7 @@ B. Anton and Digits ==> https://codeforces.com/problemset/problem/734/B
 
 A. Closest Point ==> https://codeforces.com/problemset/problem/2004/A
 
+A. Minimize! ==> https://codeforces.com/problemset/problem/2009/A
+
+B. osu!mania ==> https://codeforces.com/problemset/problem/2009/B
+

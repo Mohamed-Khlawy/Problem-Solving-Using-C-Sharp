@@ -391,7 +391,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "B. Anton and Digits", "B. A
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "B. Parity Sort", "B. Parity Sort\B. Parity Sort.csproj", "{90C8576C-108C-4BCE-83F7-91FEDD61F994}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A. Closest Point", "A. Closest Point\A. Closest Point.csproj", "{169EB705-4619-482F-AD7B-CF06EADD497B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "A. Closest Point", "A. Closest Point\A. Closest Point.csproj", "{169EB705-4619-482F-AD7B-CF06EADD497B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A. Minimize!", "A. Minimize!\A. Minimize!.csproj", "{BE5E23F7-4F32-4D3F-8B7D-F644042A4C18}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "B. osu!mania", "B. osu!mania\B. osu!mania.csproj", "{D71635B0-1B83-49BD-873F-F0840D9FBA3A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -1179,6 +1183,14 @@ Global
 		{169EB705-4619-482F-AD7B-CF06EADD497B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{169EB705-4619-482F-AD7B-CF06EADD497B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{169EB705-4619-482F-AD7B-CF06EADD497B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE5E23F7-4F32-4D3F-8B7D-F644042A4C18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE5E23F7-4F32-4D3F-8B7D-F644042A4C18}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE5E23F7-4F32-4D3F-8B7D-F644042A4C18}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE5E23F7-4F32-4D3F-8B7D-F644042A4C18}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D71635B0-1B83-49BD-873F-F0840D9FBA3A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D71635B0-1B83-49BD-873F-F0840D9FBA3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D71635B0-1B83-49BD-873F-F0840D9FBA3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D71635B0-1B83-49BD-873F-F0840D9FBA3A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
