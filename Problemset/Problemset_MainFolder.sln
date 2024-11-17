@@ -393,9 +393,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "B. Parity Sort", "B. Parity
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "A. Closest Point", "A. Closest Point\A. Closest Point.csproj", "{169EB705-4619-482F-AD7B-CF06EADD497B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A. Minimize!", "A. Minimize!\A. Minimize!.csproj", "{BE5E23F7-4F32-4D3F-8B7D-F644042A4C18}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "A. Minimize!", "A. Minimize!\A. Minimize!.csproj", "{BE5E23F7-4F32-4D3F-8B7D-F644042A4C18}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "B. osu!mania", "B. osu!mania\B. osu!mania.csproj", "{D71635B0-1B83-49BD-873F-F0840D9FBA3A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "B. osu!mania", "B. osu!mania\B. osu!mania.csproj", "{D71635B0-1B83-49BD-873F-F0840D9FBA3A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A. Robin Helps", "A. Robin Helps\A. Robin Helps.csproj", "{9F687715-7D3C-412A-B700-ACE838A49718}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A. Sakurako and Kosuke", "A. Sakurako and Kosuke\A. Sakurako and Kosuke.csproj", "{53F067BA-F875-4A04-8EB8-17117CF33AE4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -1191,6 +1195,14 @@ Global
 		{D71635B0-1B83-49BD-873F-F0840D9FBA3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D71635B0-1B83-49BD-873F-F0840D9FBA3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D71635B0-1B83-49BD-873F-F0840D9FBA3A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F687715-7D3C-412A-B700-ACE838A49718}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F687715-7D3C-412A-B700-ACE838A49718}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F687715-7D3C-412A-B700-ACE838A49718}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F687715-7D3C-412A-B700-ACE838A49718}.Release|Any CPU.Build.0 = Release|Any CPU
+		{53F067BA-F875-4A04-8EB8-17117CF33AE4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53F067BA-F875-4A04-8EB8-17117CF33AE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53F067BA-F875-4A04-8EB8-17117CF33AE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53F067BA-F875-4A04-8EB8-17117CF33AE4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

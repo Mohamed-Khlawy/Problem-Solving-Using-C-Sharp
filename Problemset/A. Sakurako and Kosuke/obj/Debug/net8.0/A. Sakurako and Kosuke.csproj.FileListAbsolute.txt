@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Sakurako and Kosuke\bin\Debug\net8.0\A. Sakurako and Kosuke.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Sakurako and Kosuke\bin\Debug\net8.0\A. Sakurako and Kosuke.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Sakurako and Kosuke\bin\Debug\net8.0\A. Sakurako and Kosuke.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Sakurako and Kosuke\bin\Debug\net8.0\A. Sakurako and Kosuke.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Sakurako and Kosuke\bin\Debug\net8.0\A. Sakurako and Kosuke.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Sakurako and Kosuke\obj\Debug\net8.0\A. Sakurako and Kosuke.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Sakurako and Kosuke\obj\Debug\net8.0\A. Sakurako and Kosuke.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Sakurako and Kosuke\obj\Debug\net8.0\A. Sakurako and Kosuke.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Sakurako and Kosuke\obj\Debug\net8.0\A. Sakurako and Kosuke.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Sakurako and Kosuke\obj\Debug\net8.0\A. Sakurako and Kosuke.sourcelink.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Sakurako and Kosuke\obj\Debug\net8.0\A. Sakurako and Kosuke.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Sakurako and Kosuke\obj\Debug\net8.0\refint\A. Sakurako and Kosuke.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Sakurako and Kosuke\obj\Debug\net8.0\A. Sakurako and Kosuke.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Sakurako and Kosuke\obj\Debug\net8.0\A. Sakurako and Kosuke.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Sakurako and Kosuke\obj\Debug\net8.0\ref\A. Sakurako and Kosuke.dll

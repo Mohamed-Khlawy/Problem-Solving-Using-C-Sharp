@@ -388,3 +388,7 @@ A. Minimize! ==> https://codeforces.com/problemset/problem/2009/A
 
 B. osu!mania ==> https://codeforces.com/problemset/problem/2009/B
 
+A. Robin Helps ==> https://codeforces.com/problemset/problem/2014/A
+
+A. Sakurako and Kosuke ==> https://codeforces.com/problemset/problem/2033/A
+
