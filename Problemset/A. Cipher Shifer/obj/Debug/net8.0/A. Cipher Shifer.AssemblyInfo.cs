@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("A. Cipher Shifer")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bb873ca6575e44b87ee8a4ac97206a4b0e22814f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f3f6cd25721776da0340f7bdc90165b7f60a08a1")]
 [assembly: System.Reflection.AssemblyProductAttribute("A. Cipher Shifer")]
 [assembly: System.Reflection.AssemblyTitleAttribute("A. Cipher Shifer")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

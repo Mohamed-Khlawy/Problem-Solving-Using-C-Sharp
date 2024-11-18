@@ -397,9 +397,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "A. Minimize!", "A. Minimize
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "B. osu!mania", "B. osu!mania\B. osu!mania.csproj", "{D71635B0-1B83-49BD-873F-F0840D9FBA3A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A. Robin Helps", "A. Robin Helps\A. Robin Helps.csproj", "{9F687715-7D3C-412A-B700-ACE838A49718}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "A. Robin Helps", "A. Robin Helps\A. Robin Helps.csproj", "{9F687715-7D3C-412A-B700-ACE838A49718}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A. Sakurako and Kosuke", "A. Sakurako and Kosuke\A. Sakurako and Kosuke.csproj", "{53F067BA-F875-4A04-8EB8-17117CF33AE4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "A. Sakurako and Kosuke", "A. Sakurako and Kosuke\A. Sakurako and Kosuke.csproj", "{53F067BA-F875-4A04-8EB8-17117CF33AE4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C. Longest Good Array", "C. Longest Good Array\C. Longest Good Array.csproj", "{C870F4D5-7015-4A6D-B2A6-5C24C5E27EFB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A. Coins", "A. Coins\A. Coins.csproj", "{591416B9-6A74-4832-843A-55671DC8D867}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -1203,6 +1207,14 @@ Global
 		{53F067BA-F875-4A04-8EB8-17117CF33AE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{53F067BA-F875-4A04-8EB8-17117CF33AE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{53F067BA-F875-4A04-8EB8-17117CF33AE4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C870F4D5-7015-4A6D-B2A6-5C24C5E27EFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C870F4D5-7015-4A6D-B2A6-5C24C5E27EFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C870F4D5-7015-4A6D-B2A6-5C24C5E27EFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C870F4D5-7015-4A6D-B2A6-5C24C5E27EFB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{591416B9-6A74-4832-843A-55671DC8D867}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{591416B9-6A74-4832-843A-55671DC8D867}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{591416B9-6A74-4832-843A-55671DC8D867}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{591416B9-6A74-4832-843A-55671DC8D867}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

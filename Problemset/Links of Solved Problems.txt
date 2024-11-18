@@ -392,3 +392,7 @@ A. Robin Helps ==> https://codeforces.com/problemset/problem/2014/A
 
 A. Sakurako and Kosuke ==> https://codeforces.com/problemset/problem/2033/A
 
+C. Longest Good Array ==> https://codeforces.com/problemset/problem/2008/C
+
+A. Coins ==> https://codeforces.com/problemset/problem/1814/A
+
