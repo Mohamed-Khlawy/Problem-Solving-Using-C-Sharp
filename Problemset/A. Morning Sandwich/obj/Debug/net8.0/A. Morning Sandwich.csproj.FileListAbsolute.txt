@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Morning Sandwich\bin\Debug\net8.0\A. Morning Sandwich.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Morning Sandwich\bin\Debug\net8.0\A. Morning Sandwich.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Morning Sandwich\bin\Debug\net8.0\A. Morning Sandwich.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Morning Sandwich\bin\Debug\net8.0\A. Morning Sandwich.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Morning Sandwich\bin\Debug\net8.0\A. Morning Sandwich.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Morning Sandwich\obj\Debug\net8.0\A. Morning Sandwich.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Morning Sandwich\obj\Debug\net8.0\A. Morning Sandwich.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Morning Sandwich\obj\Debug\net8.0\A. Morning Sandwich.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Morning Sandwich\obj\Debug\net8.0\A. Morning Sandwich.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Morning Sandwich\obj\Debug\net8.0\A. Morning Sandwich.sourcelink.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Morning Sandwich\obj\Debug\net8.0\A. Morning Sandwich.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Morning Sandwich\obj\Debug\net8.0\refint\A. Morning Sandwich.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Morning Sandwich\obj\Debug\net8.0\A. Morning Sandwich.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Morning Sandwich\obj\Debug\net8.0\A. Morning Sandwich.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Morning Sandwich\obj\Debug\net8.0\ref\A. Morning Sandwich.dll

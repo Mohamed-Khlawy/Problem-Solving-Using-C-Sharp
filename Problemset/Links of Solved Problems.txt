@@ -396,3 +396,7 @@ C. Longest Good Array ==> https://codeforces.com/problemset/problem/2008/C
 
 A. Coins ==> https://codeforces.com/problemset/problem/1814/A
 
+A. Quintomania ==> https://codeforces.com/problemset/problem/2036/A
+
+A. Morning Sandwich ==> https://codeforces.com/problemset/problem/1849/A
+

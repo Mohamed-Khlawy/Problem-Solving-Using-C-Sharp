@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("A. Stair, Peak, or Neither")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f3f6cd25721776da0340f7bdc90165b7f60a08a1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b5fe33f15b8e8192ffa8064ee7bd738657d85c25")]
 [assembly: System.Reflection.AssemblyProductAttribute("A. Stair, Peak, or Neither")]
 [assembly: System.Reflection.AssemblyTitleAttribute("A. Stair, Peak, or Neither")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

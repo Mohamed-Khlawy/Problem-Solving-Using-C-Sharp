@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("B. Make Equal")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f3f6cd25721776da0340f7bdc90165b7f60a08a1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b5fe33f15b8e8192ffa8064ee7bd738657d85c25")]
 [assembly: System.Reflection.AssemblyProductAttribute("B. Make Equal")]
 [assembly: System.Reflection.AssemblyTitleAttribute("B. Make Equal")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
