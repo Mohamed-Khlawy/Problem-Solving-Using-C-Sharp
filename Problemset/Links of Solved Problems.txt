@@ -400,3 +400,5 @@ A. Quintomania ==> https://codeforces.com/problemset/problem/2036/A
 
 A. Morning Sandwich ==> https://codeforces.com/problemset/problem/1849/A
 
+C. Sending Messages ==> https://codeforces.com/problemset/problem/1921/C
+
