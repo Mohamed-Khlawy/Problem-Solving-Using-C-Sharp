@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B1. Wonderful Coloring - 1\bin\Debug\net8.0\B1. Wonderful Coloring - 1.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B1. Wonderful Coloring - 1\bin\Debug\net8.0\B1. Wonderful Coloring - 1.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B1. Wonderful Coloring - 1\bin\Debug\net8.0\B1. Wonderful Coloring - 1.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B1. Wonderful Coloring - 1\bin\Debug\net8.0\B1. Wonderful Coloring - 1.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B1. Wonderful Coloring - 1\bin\Debug\net8.0\B1. Wonderful Coloring - 1.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B1. Wonderful Coloring - 1\obj\Debug\net8.0\B1. Wonderful Coloring - 1.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B1. Wonderful Coloring - 1\obj\Debug\net8.0\B1. Wonderful Coloring - 1.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B1. Wonderful Coloring - 1\obj\Debug\net8.0\B1. Wonderful Coloring - 1.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B1. Wonderful Coloring - 1\obj\Debug\net8.0\B1. Wonderful Coloring - 1.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B1. Wonderful Coloring - 1\obj\Debug\net8.0\B1. Wonderful Coloring - 1.sourcelink.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B1. Wonderful Coloring - 1\obj\Debug\net8.0\B1. Wonderful Coloring - 1.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B1. Wonderful Coloring - 1\obj\Debug\net8.0\refint\B1. Wonderful Coloring - 1.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B1. Wonderful Coloring - 1\obj\Debug\net8.0\B1. Wonderful Coloring - 1.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B1. Wonderful Coloring - 1\obj\Debug\net8.0\B1. Wonderful Coloring - 1.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B1. Wonderful Coloring - 1\obj\Debug\net8.0\ref\B1. Wonderful Coloring - 1.dll

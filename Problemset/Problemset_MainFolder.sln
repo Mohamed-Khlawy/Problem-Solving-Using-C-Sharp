@@ -409,7 +409,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "A. Quintomania", "A. Quinto
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "A. Morning Sandwich", "A. Morning Sandwich\A. Morning Sandwich.csproj", "{43488643-9BB2-466B-BAD5-EB1DAE93A704}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C. Sending Messages", "C. Sending Messages\C. Sending Messages.csproj", "{3825FC9C-E313-4F39-85DA-98BF47DF4327}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "C. Sending Messages", "C. Sending Messages\C. Sending Messages.csproj", "{3825FC9C-E313-4F39-85DA-98BF47DF4327}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "B1. Wonderful Coloring - 1", "B1. Wonderful Coloring - 1\B1. Wonderful Coloring - 1.csproj", "{B99C2678-75C3-43D9-B6B1-4921548655AD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -1233,6 +1235,10 @@ Global
 		{3825FC9C-E313-4F39-85DA-98BF47DF4327}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3825FC9C-E313-4F39-85DA-98BF47DF4327}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3825FC9C-E313-4F39-85DA-98BF47DF4327}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B99C2678-75C3-43D9-B6B1-4921548655AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B99C2678-75C3-43D9-B6B1-4921548655AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B99C2678-75C3-43D9-B6B1-4921548655AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B99C2678-75C3-43D9-B6B1-4921548655AD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -402,3 +402,5 @@ A. Morning Sandwich ==> https://codeforces.com/problemset/problem/1849/A
 
 C. Sending Messages ==> https://codeforces.com/problemset/problem/1921/C
 
+B1. Wonderful Coloring - 1 ==> https://codeforces.com/problemset/problem/1551/B1
+
