@@ -404,3 +404,5 @@ C. Sending Messages ==> https://codeforces.com/problemset/problem/1921/C
 
 B1. Wonderful Coloring - 1 ==> https://codeforces.com/problemset/problem/1551/B1
 
+A. Min Max Swap ==> https://codeforces.com/problemset/problem/1631/A
+

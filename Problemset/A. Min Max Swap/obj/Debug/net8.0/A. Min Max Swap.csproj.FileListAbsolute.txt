@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Min Max Swap\bin\Debug\net8.0\A. Min Max Swap.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Min Max Swap\bin\Debug\net8.0\A. Min Max Swap.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Min Max Swap\bin\Debug\net8.0\A. Min Max Swap.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Min Max Swap\bin\Debug\net8.0\A. Min Max Swap.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Min Max Swap\bin\Debug\net8.0\A. Min Max Swap.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Min Max Swap\obj\Debug\net8.0\A. Min Max Swap.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Min Max Swap\obj\Debug\net8.0\A. Min Max Swap.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Min Max Swap\obj\Debug\net8.0\A. Min Max Swap.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Min Max Swap\obj\Debug\net8.0\A. Min Max Swap.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Min Max Swap\obj\Debug\net8.0\A. Min Max Swap.sourcelink.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Min Max Swap\obj\Debug\net8.0\A. Min Max Swap.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Min Max Swap\obj\Debug\net8.0\refint\A. Min Max Swap.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Min Max Swap\obj\Debug\net8.0\A. Min Max Swap.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Min Max Swap\obj\Debug\net8.0\A. Min Max Swap.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Min Max Swap\obj\Debug\net8.0\ref\A. Min Max Swap.dll
