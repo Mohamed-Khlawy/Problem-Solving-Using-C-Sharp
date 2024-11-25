@@ -406,3 +406,5 @@ B1. Wonderful Coloring - 1 ==> https://codeforces.com/problemset/problem/1551/B1
 
 A. Min Max Swap ==> https://codeforces.com/problemset/problem/1631/A
 
+A. Make All Equal ==> https://codeforces.com/problemset/problem/2001/A
+
