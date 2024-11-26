@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("D. Unnatural Language Processing")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e255f55a1a6ca53c9c38817175efe13e52afca0d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7cf8aad99f3d3c1ad9b57ba967b82f8b119abdb8")]
 [assembly: System.Reflection.AssemblyProductAttribute("D. Unnatural Language Processing")]
 [assembly: System.Reflection.AssemblyTitleAttribute("D. Unnatural Language Processing")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

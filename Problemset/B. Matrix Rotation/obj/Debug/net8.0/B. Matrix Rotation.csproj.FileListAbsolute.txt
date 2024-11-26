@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Matrix Rotation\bin\Debug\net8.0\B. Matrix Rotation.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Matrix Rotation\bin\Debug\net8.0\B. Matrix Rotation.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Matrix Rotation\bin\Debug\net8.0\B. Matrix Rotation.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Matrix Rotation\bin\Debug\net8.0\B. Matrix Rotation.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Matrix Rotation\bin\Debug\net8.0\B. Matrix Rotation.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Matrix Rotation\obj\Debug\net8.0\B. Matrix Rotation.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Matrix Rotation\obj\Debug\net8.0\B. Matrix Rotation.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Matrix Rotation\obj\Debug\net8.0\B. Matrix Rotation.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Matrix Rotation\obj\Debug\net8.0\B. Matrix Rotation.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Matrix Rotation\obj\Debug\net8.0\B. Matrix Rotation.sourcelink.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Matrix Rotation\obj\Debug\net8.0\B. Matrix Rotation.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Matrix Rotation\obj\Debug\net8.0\refint\B. Matrix Rotation.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Matrix Rotation\obj\Debug\net8.0\B. Matrix Rotation.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Matrix Rotation\obj\Debug\net8.0\B. Matrix Rotation.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Matrix Rotation\obj\Debug\net8.0\ref\B. Matrix Rotation.dll
