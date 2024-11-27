@@ -417,7 +417,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "A. Min Max Swap", "A. Min M
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "A. Make All Equal", "A. Make All Equal\A. Make All Equal.csproj", "{0BDB2645-9B79-4A95-A2F5-68DB2D014FCA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "B. Matrix Rotation", "B. Matrix Rotation\B. Matrix Rotation.csproj", "{6C9D9D30-1F9C-44EC-9F2D-76F2DD7ECDD1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "B. Matrix Rotation", "B. Matrix Rotation\B. Matrix Rotation.csproj", "{6C9D9D30-1F9C-44EC-9F2D-76F2DD7ECDD1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A. Question Marks", "A. Question Marks\A. Question Marks.csproj", "{9416D907-8FBA-46D5-9F1F-D2691919B4D5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -1257,6 +1259,10 @@ Global
 		{6C9D9D30-1F9C-44EC-9F2D-76F2DD7ECDD1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6C9D9D30-1F9C-44EC-9F2D-76F2DD7ECDD1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6C9D9D30-1F9C-44EC-9F2D-76F2DD7ECDD1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9416D907-8FBA-46D5-9F1F-D2691919B4D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9416D907-8FBA-46D5-9F1F-D2691919B4D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9416D907-8FBA-46D5-9F1F-D2691919B4D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9416D907-8FBA-46D5-9F1F-D2691919B4D5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

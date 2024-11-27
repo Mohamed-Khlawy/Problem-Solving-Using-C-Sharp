@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Question Marks\bin\Debug\net8.0\A. Question Marks.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Question Marks\bin\Debug\net8.0\A. Question Marks.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Question Marks\bin\Debug\net8.0\A. Question Marks.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Question Marks\bin\Debug\net8.0\A. Question Marks.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Question Marks\bin\Debug\net8.0\A. Question Marks.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Question Marks\obj\Debug\net8.0\A. Question Marks.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Question Marks\obj\Debug\net8.0\A. Question Marks.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Question Marks\obj\Debug\net8.0\A. Question Marks.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Question Marks\obj\Debug\net8.0\A. Question Marks.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Question Marks\obj\Debug\net8.0\A. Question Marks.sourcelink.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Question Marks\obj\Debug\net8.0\A. Question Marks.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Question Marks\obj\Debug\net8.0\refint\A. Question Marks.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Question Marks\obj\Debug\net8.0\A. Question Marks.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Question Marks\obj\Debug\net8.0\A. Question Marks.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Question Marks\obj\Debug\net8.0\ref\A. Question Marks.dll
