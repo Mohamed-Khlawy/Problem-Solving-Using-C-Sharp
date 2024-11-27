@@ -412,3 +412,5 @@ B. Matrix Rotation ==> https://codeforces.com/problemset/problem/1772/B
 
 A. Question Marks ==> https://codeforces.com/problemset/problem/1993/A
 
+A. XORwice ==> https://codeforces.com/problemset/problem/1421/A
+
