@@ -414,3 +414,5 @@ A. Question Marks ==> https://codeforces.com/problemset/problem/1993/A
 
 A. XORwice ==> https://codeforces.com/problemset/problem/1421/A
 
+C. Make Equal Again ==> https://codeforces.com/problemset/problem/1931/C
+

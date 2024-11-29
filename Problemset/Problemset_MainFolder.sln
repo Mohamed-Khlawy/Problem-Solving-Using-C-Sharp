@@ -421,7 +421,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "B. Matrix Rotation", "B. Ma
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "A. Question Marks", "A. Question Marks\A. Question Marks.csproj", "{9416D907-8FBA-46D5-9F1F-D2691919B4D5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A. XORwice", "A. XORwice\A. XORwice.csproj", "{5B57B422-D695-4ABD-8D64-E06903B5A12D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "A. XORwice", "A. XORwice\A. XORwice.csproj", "{5B57B422-D695-4ABD-8D64-E06903B5A12D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C. Make Equal Again", "C. Make Equal Again\C. Make Equal Again.csproj", "{F3B378DE-1B74-471B-9497-1A188241F927}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -1269,6 +1271,10 @@ Global
 		{5B57B422-D695-4ABD-8D64-E06903B5A12D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5B57B422-D695-4ABD-8D64-E06903B5A12D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5B57B422-D695-4ABD-8D64-E06903B5A12D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F3B378DE-1B74-471B-9497-1A188241F927}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3B378DE-1B74-471B-9497-1A188241F927}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3B378DE-1B74-471B-9497-1A188241F927}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3B378DE-1B74-471B-9497-1A188241F927}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

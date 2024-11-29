@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("A. Rudolf and the Ticket")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1e3f94f3a24de634e2c1ab30a4b27b1f393ebe1d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fafc7955bdd9173d01d24396474cfd682908de70")]
 [assembly: System.Reflection.AssemblyProductAttribute("A. Rudolf and the Ticket")]
 [assembly: System.Reflection.AssemblyTitleAttribute("A. Rudolf and the Ticket")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

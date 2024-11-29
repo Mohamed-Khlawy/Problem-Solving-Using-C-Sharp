@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Make Equal Again\bin\Debug\net8.0\C. Make Equal Again.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Make Equal Again\bin\Debug\net8.0\C. Make Equal Again.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Make Equal Again\bin\Debug\net8.0\C. Make Equal Again.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Make Equal Again\bin\Debug\net8.0\C. Make Equal Again.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Make Equal Again\bin\Debug\net8.0\C. Make Equal Again.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Make Equal Again\obj\Debug\net8.0\C. Make Equal Again.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Make Equal Again\obj\Debug\net8.0\C. Make Equal Again.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Make Equal Again\obj\Debug\net8.0\C. Make Equal Again.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Make Equal Again\obj\Debug\net8.0\C. Make Equal Again.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Make Equal Again\obj\Debug\net8.0\C. Make Equal Again.sourcelink.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Make Equal Again\obj\Debug\net8.0\C. Make Equal Again.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Make Equal Again\obj\Debug\net8.0\refint\C. Make Equal Again.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Make Equal Again\obj\Debug\net8.0\C. Make Equal Again.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Make Equal Again\obj\Debug\net8.0\C. Make Equal Again.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Make Equal Again\obj\Debug\net8.0\ref\C. Make Equal Again.dll
