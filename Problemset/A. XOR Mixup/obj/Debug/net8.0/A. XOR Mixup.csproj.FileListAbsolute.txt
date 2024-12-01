@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. XOR Mixup\bin\Debug\net8.0\A. XOR Mixup.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. XOR Mixup\bin\Debug\net8.0\A. XOR Mixup.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. XOR Mixup\bin\Debug\net8.0\A. XOR Mixup.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. XOR Mixup\bin\Debug\net8.0\A. XOR Mixup.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. XOR Mixup\bin\Debug\net8.0\A. XOR Mixup.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. XOR Mixup\obj\Debug\net8.0\A. XOR Mixup.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. XOR Mixup\obj\Debug\net8.0\A. XOR Mixup.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. XOR Mixup\obj\Debug\net8.0\A. XOR Mixup.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. XOR Mixup\obj\Debug\net8.0\A. XOR Mixup.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. XOR Mixup\obj\Debug\net8.0\A. XOR Mixup.sourcelink.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. XOR Mixup\obj\Debug\net8.0\A. XOR Mixup.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. XOR Mixup\obj\Debug\net8.0\refint\A. XOR Mixup.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. XOR Mixup\obj\Debug\net8.0\A. XOR Mixup.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. XOR Mixup\obj\Debug\net8.0\A. XOR Mixup.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. XOR Mixup\obj\Debug\net8.0\ref\A. XOR Mixup.dll
