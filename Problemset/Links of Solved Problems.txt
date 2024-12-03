@@ -418,3 +418,5 @@ C. Make Equal Again ==> https://codeforces.com/problemset/problem/1931/C
 
 A. XOR Mixup ==> https://codeforces.com/problemset/problem/1698/A
 
+A. Cover in Water ==> https://codeforces.com/problemset/problem/1900/A
+

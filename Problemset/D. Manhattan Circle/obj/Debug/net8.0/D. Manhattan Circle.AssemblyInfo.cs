@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("D. Manhattan Circle")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4ce2be23de4cb59cdeb751ce2bcf8429a5f830ba")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+16c5cce274130873ce44a89c1fb4fa63cb65591a")]
 [assembly: System.Reflection.AssemblyProductAttribute("D. Manhattan Circle")]
 [assembly: System.Reflection.AssemblyTitleAttribute("D. Manhattan Circle")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

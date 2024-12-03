@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Cover in Water\bin\Debug\net8.0\A. Cover in Water.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Cover in Water\bin\Debug\net8.0\A. Cover in Water.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Cover in Water\bin\Debug\net8.0\A. Cover in Water.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Cover in Water\bin\Debug\net8.0\A. Cover in Water.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Cover in Water\bin\Debug\net8.0\A. Cover in Water.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Cover in Water\obj\Debug\net8.0\A. Cover in Water.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Cover in Water\obj\Debug\net8.0\A. Cover in Water.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Cover in Water\obj\Debug\net8.0\A. Cover in Water.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Cover in Water\obj\Debug\net8.0\A. Cover in Water.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Cover in Water\obj\Debug\net8.0\A. Cover in Water.sourcelink.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Cover in Water\obj\Debug\net8.0\A. Cover in Water.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Cover in Water\obj\Debug\net8.0\refint\A. Cover in Water.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Cover in Water\obj\Debug\net8.0\A. Cover in Water.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Cover in Water\obj\Debug\net8.0\A. Cover in Water.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Cover in Water\obj\Debug\net8.0\ref\A. Cover in Water.dll
