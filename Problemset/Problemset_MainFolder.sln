@@ -427,7 +427,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "C. Make Equal Again", "C. M
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "A. XOR Mixup", "A. XOR Mixup\A. XOR Mixup.csproj", "{7B91D53D-7E37-4607-89AE-EB84B1194C20}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A. Cover in Water", "A. Cover in Water\A. Cover in Water.csproj", "{45C7DDBC-50F8-432C-97B6-BD8A9931B22F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "A. Cover in Water", "A. Cover in Water\A. Cover in Water.csproj", "{45C7DDBC-50F8-432C-97B6-BD8A9931B22F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A. Strong Password", "A. Strong Password\A. Strong Password.csproj", "{9A365CE5-801C-411B-A7CC-8AAA1EBDCE83}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -1287,6 +1289,10 @@ Global
 		{45C7DDBC-50F8-432C-97B6-BD8A9931B22F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{45C7DDBC-50F8-432C-97B6-BD8A9931B22F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{45C7DDBC-50F8-432C-97B6-BD8A9931B22F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9A365CE5-801C-411B-A7CC-8AAA1EBDCE83}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A365CE5-801C-411B-A7CC-8AAA1EBDCE83}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A365CE5-801C-411B-A7CC-8AAA1EBDCE83}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A365CE5-801C-411B-A7CC-8AAA1EBDCE83}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

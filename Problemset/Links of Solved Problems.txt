@@ -420,3 +420,5 @@ A. XOR Mixup ==> https://codeforces.com/problemset/problem/1698/A
 
 A. Cover in Water ==> https://codeforces.com/problemset/problem/1900/A
 
+A. Strong Password ==> https://codeforces.com/problemset/problem/1997/A
+
