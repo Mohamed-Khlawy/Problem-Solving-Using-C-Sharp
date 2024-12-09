@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "A. Download More RAM/1.0.0": {
+        "runtime": {
+          "A. Download More RAM.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "A. Download More RAM/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

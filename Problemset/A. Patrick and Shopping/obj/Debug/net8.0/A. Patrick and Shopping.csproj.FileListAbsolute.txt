@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Patrick and Shopping\bin\Debug\net8.0\A. Patrick and Shopping.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Patrick and Shopping\bin\Debug\net8.0\A. Patrick and Shopping.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Patrick and Shopping\bin\Debug\net8.0\A. Patrick and Shopping.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Patrick and Shopping\bin\Debug\net8.0\A. Patrick and Shopping.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Patrick and Shopping\bin\Debug\net8.0\A. Patrick and Shopping.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Patrick and Shopping\obj\Debug\net8.0\A. Patrick and Shopping.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Patrick and Shopping\obj\Debug\net8.0\A. Patrick and Shopping.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Patrick and Shopping\obj\Debug\net8.0\A. Patrick and Shopping.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Patrick and Shopping\obj\Debug\net8.0\A. Patrick and Shopping.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Patrick and Shopping\obj\Debug\net8.0\A. Patrick and Shopping.sourcelink.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Patrick and Shopping\obj\Debug\net8.0\A. Patrick and Shopping.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Patrick and Shopping\obj\Debug\net8.0\refint\A. Patrick and Shopping.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Patrick and Shopping\obj\Debug\net8.0\A. Patrick and Shopping.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Patrick and Shopping\obj\Debug\net8.0\A. Patrick and Shopping.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Patrick and Shopping\obj\Debug\net8.0\ref\A. Patrick and Shopping.dll
