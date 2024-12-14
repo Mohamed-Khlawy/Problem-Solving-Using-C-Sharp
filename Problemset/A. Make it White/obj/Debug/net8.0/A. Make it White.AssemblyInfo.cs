@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("A. Make it White")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e8e5c721321e27540fb774b8672fcecf7d6cdb39")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+86b1e8caaa67bb564771bab565c3bed8f9bc1afb")]
 [assembly: System.Reflection.AssemblyProductAttribute("A. Make it White")]
 [assembly: System.Reflection.AssemblyTitleAttribute("A. Make it White")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

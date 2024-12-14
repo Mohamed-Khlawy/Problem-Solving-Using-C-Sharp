@@ -426,3 +426,5 @@ A. Download More RAM ==> https://codeforces.com/problemset/problem/1629/A
 
 A. Patrick and Shopping ==> https://codeforces.com/problemset/problem/599/A
 
+A. Turtle and Good Strings ==> https://codeforces.com/problemset/problem/2003/A
+

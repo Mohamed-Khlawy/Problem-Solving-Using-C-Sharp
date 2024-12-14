@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Turtle and Good Strings\bin\Debug\net8.0\A. Turtle and Good Strings.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Turtle and Good Strings\bin\Debug\net8.0\A. Turtle and Good Strings.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Turtle and Good Strings\bin\Debug\net8.0\A. Turtle and Good Strings.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Turtle and Good Strings\bin\Debug\net8.0\A. Turtle and Good Strings.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Turtle and Good Strings\bin\Debug\net8.0\A. Turtle and Good Strings.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Turtle and Good Strings\obj\Debug\net8.0\A. Turtle and Good Strings.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Turtle and Good Strings\obj\Debug\net8.0\A. Turtle and Good Strings.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Turtle and Good Strings\obj\Debug\net8.0\A. Turtle and Good Strings.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Turtle and Good Strings\obj\Debug\net8.0\A. Turtle and Good Strings.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Turtle and Good Strings\obj\Debug\net8.0\A. Turtle and Good Strings.sourcelink.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Turtle and Good Strings\obj\Debug\net8.0\A. Turtle and Good Strings.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Turtle and Good Strings\obj\Debug\net8.0\refint\A. Turtle and Good Strings.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Turtle and Good Strings\obj\Debug\net8.0\A. Turtle and Good Strings.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Turtle and Good Strings\obj\Debug\net8.0\A. Turtle and Good Strings.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Turtle and Good Strings\obj\Debug\net8.0\ref\A. Turtle and Good Strings.dll
