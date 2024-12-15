@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Guess the Maximum\bin\Debug\net8.0\A. Guess the Maximum.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Guess the Maximum\bin\Debug\net8.0\A. Guess the Maximum.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Guess the Maximum\bin\Debug\net8.0\A. Guess the Maximum.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Guess the Maximum\bin\Debug\net8.0\A. Guess the Maximum.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Guess the Maximum\bin\Debug\net8.0\A. Guess the Maximum.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Guess the Maximum\obj\Debug\net8.0\A. Guess the Maximum.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Guess the Maximum\obj\Debug\net8.0\A. Guess the Maximum.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Guess the Maximum\obj\Debug\net8.0\A. Guess the Maximum.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Guess the Maximum\obj\Debug\net8.0\A. Guess the Maximum.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Guess the Maximum\obj\Debug\net8.0\A. Guess the Maximum.sourcelink.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Guess the Maximum\obj\Debug\net8.0\A. Guess the Maximum.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Guess the Maximum\obj\Debug\net8.0\refint\A. Guess the Maximum.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Guess the Maximum\obj\Debug\net8.0\A. Guess the Maximum.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Guess the Maximum\obj\Debug\net8.0\A. Guess the Maximum.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Guess the Maximum\obj\Debug\net8.0\ref\A. Guess the Maximum.dll

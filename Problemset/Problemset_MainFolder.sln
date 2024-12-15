@@ -435,7 +435,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "A. Download More RAM", "A. 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "A. Patrick and Shopping", "A. Patrick and Shopping\A. Patrick and Shopping.csproj", "{20C35563-31CA-4082-9296-91DDC21216CA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A. Turtle and Good Strings", "A. Turtle and Good Strings\A. Turtle and Good Strings.csproj", "{71CABCC1-0267-435F-B304-EC1EAFE8AE53}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "A. Turtle and Good Strings", "A. Turtle and Good Strings\A. Turtle and Good Strings.csproj", "{71CABCC1-0267-435F-B304-EC1EAFE8AE53}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A. Guess the Maximum", "A. Guess the Maximum\A. Guess the Maximum.csproj", "{632014EA-3B07-4E95-B965-C020D6B2D9E7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -1311,6 +1313,10 @@ Global
 		{71CABCC1-0267-435F-B304-EC1EAFE8AE53}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{71CABCC1-0267-435F-B304-EC1EAFE8AE53}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{71CABCC1-0267-435F-B304-EC1EAFE8AE53}.Release|Any CPU.Build.0 = Release|Any CPU
+		{632014EA-3B07-4E95-B965-C020D6B2D9E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{632014EA-3B07-4E95-B965-C020D6B2D9E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{632014EA-3B07-4E95-B965-C020D6B2D9E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{632014EA-3B07-4E95-B965-C020D6B2D9E7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

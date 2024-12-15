@@ -428,3 +428,5 @@ A. Patrick and Shopping ==> https://codeforces.com/problemset/problem/599/A
 
 A. Turtle and Good Strings ==> https://codeforces.com/problemset/problem/2003/A
 
+A. Guess the Maximum ==> https://codeforces.com/problemset/problem/1979/A
+
