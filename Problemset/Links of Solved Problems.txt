@@ -430,3 +430,7 @@ A. Turtle and Good Strings ==> https://codeforces.com/problemset/problem/2003/A
 
 A. Guess the Maximum ==> https://codeforces.com/problemset/problem/1979/A
 
+A. Nastya and Rice ==> https://codeforces.com/problemset/problem/1341/A
+
+A. Equidistant Letters ==> https://codeforces.com/problemset/problem/1626/A
+

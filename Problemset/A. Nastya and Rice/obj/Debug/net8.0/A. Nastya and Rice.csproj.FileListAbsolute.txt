@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Nastya and Rice\bin\Debug\net8.0\A. Nastya and Rice.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Nastya and Rice\bin\Debug\net8.0\A. Nastya and Rice.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Nastya and Rice\bin\Debug\net8.0\A. Nastya and Rice.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Nastya and Rice\bin\Debug\net8.0\A. Nastya and Rice.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Nastya and Rice\bin\Debug\net8.0\A. Nastya and Rice.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Nastya and Rice\obj\Debug\net8.0\A. Nastya and Rice.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Nastya and Rice\obj\Debug\net8.0\A. Nastya and Rice.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Nastya and Rice\obj\Debug\net8.0\A. Nastya and Rice.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Nastya and Rice\obj\Debug\net8.0\A. Nastya and Rice.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Nastya and Rice\obj\Debug\net8.0\A. Nastya and Rice.sourcelink.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Nastya and Rice\obj\Debug\net8.0\A. Nastya and Rice.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Nastya and Rice\obj\Debug\net8.0\refint\A. Nastya and Rice.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Nastya and Rice\obj\Debug\net8.0\A. Nastya and Rice.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Nastya and Rice\obj\Debug\net8.0\A. Nastya and Rice.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Nastya and Rice\obj\Debug\net8.0\ref\A. Nastya and Rice.dll

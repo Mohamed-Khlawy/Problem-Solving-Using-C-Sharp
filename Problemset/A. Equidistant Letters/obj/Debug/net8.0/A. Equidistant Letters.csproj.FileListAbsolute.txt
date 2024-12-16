@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Equidistant Letters\bin\Debug\net8.0\A. Equidistant Letters.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Equidistant Letters\bin\Debug\net8.0\A. Equidistant Letters.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Equidistant Letters\bin\Debug\net8.0\A. Equidistant Letters.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Equidistant Letters\bin\Debug\net8.0\A. Equidistant Letters.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Equidistant Letters\bin\Debug\net8.0\A. Equidistant Letters.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Equidistant Letters\obj\Debug\net8.0\A. Equidistant Letters.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Equidistant Letters\obj\Debug\net8.0\A. Equidistant Letters.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Equidistant Letters\obj\Debug\net8.0\A. Equidistant Letters.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Equidistant Letters\obj\Debug\net8.0\A. Equidistant Letters.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Equidistant Letters\obj\Debug\net8.0\A. Equidistant Letters.sourcelink.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Equidistant Letters\obj\Debug\net8.0\A. Equidistant Letters.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Equidistant Letters\obj\Debug\net8.0\refint\A. Equidistant Letters.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Equidistant Letters\obj\Debug\net8.0\A. Equidistant Letters.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Equidistant Letters\obj\Debug\net8.0\A. Equidistant Letters.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Equidistant Letters\obj\Debug\net8.0\ref\A. Equidistant Letters.dll
