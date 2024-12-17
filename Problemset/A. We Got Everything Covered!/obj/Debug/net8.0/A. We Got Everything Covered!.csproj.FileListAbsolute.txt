@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. We Got Everything Covered!\bin\Debug\net8.0\A. We Got Everything Covered!.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. We Got Everything Covered!\bin\Debug\net8.0\A. We Got Everything Covered!.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. We Got Everything Covered!\bin\Debug\net8.0\A. We Got Everything Covered!.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. We Got Everything Covered!\bin\Debug\net8.0\A. We Got Everything Covered!.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. We Got Everything Covered!\bin\Debug\net8.0\A. We Got Everything Covered!.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. We Got Everything Covered!\obj\Debug\net8.0\A. We Got Everything Covered!.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. We Got Everything Covered!\obj\Debug\net8.0\A. We Got Everything Covered!.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. We Got Everything Covered!\obj\Debug\net8.0\A. We Got Everything Covered!.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. We Got Everything Covered!\obj\Debug\net8.0\A. We Got Everything Covered!.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. We Got Everything Covered!\obj\Debug\net8.0\A. We Got Everything Covered!.sourcelink.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. We Got Everything Covered!\obj\Debug\net8.0\A. We Got Everything Covered!.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. We Got Everything Covered!\obj\Debug\net8.0\refint\A. We Got Everything Covered!.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. We Got Everything Covered!\obj\Debug\net8.0\A. We Got Everything Covered!.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. We Got Everything Covered!\obj\Debug\net8.0\A. We Got Everything Covered!.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. We Got Everything Covered!\obj\Debug\net8.0\ref\A. We Got Everything Covered!.dll

@@ -434,3 +434,7 @@ A. Nastya and Rice ==> https://codeforces.com/problemset/problem/1341/A
 
 A. Equidistant Letters ==> https://codeforces.com/problemset/problem/1626/A
 
+A. We Got Everything Covered! ==> https://codeforces.com/problemset/problem/1925/A
+
+C. Mr. Perfectly Fine ==> https://codeforces.com/problemset/problem/1829/C
+

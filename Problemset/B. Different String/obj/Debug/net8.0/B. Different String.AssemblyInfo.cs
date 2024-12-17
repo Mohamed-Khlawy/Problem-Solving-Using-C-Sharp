@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("B. Different String")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9406d49d2eeb8106b21e3d56939602959d6f7cd2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+596a4a4b60f4e174ee745e4e61687f294a0e097c")]
 [assembly: System.Reflection.AssemblyProductAttribute("B. Different String")]
 [assembly: System.Reflection.AssemblyTitleAttribute("B. Different String")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

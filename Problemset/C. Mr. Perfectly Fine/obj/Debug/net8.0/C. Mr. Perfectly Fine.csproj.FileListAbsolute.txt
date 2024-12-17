@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Mr. Perfectly Fine\bin\Debug\net8.0\C. Mr. Perfectly Fine.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Mr. Perfectly Fine\bin\Debug\net8.0\C. Mr. Perfectly Fine.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Mr. Perfectly Fine\bin\Debug\net8.0\C. Mr. Perfectly Fine.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Mr. Perfectly Fine\bin\Debug\net8.0\C. Mr. Perfectly Fine.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Mr. Perfectly Fine\bin\Debug\net8.0\C. Mr. Perfectly Fine.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Mr. Perfectly Fine\obj\Debug\net8.0\C. Mr. Perfectly Fine.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Mr. Perfectly Fine\obj\Debug\net8.0\C. Mr. Perfectly Fine.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Mr. Perfectly Fine\obj\Debug\net8.0\C. Mr. Perfectly Fine.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Mr. Perfectly Fine\obj\Debug\net8.0\C. Mr. Perfectly Fine.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Mr. Perfectly Fine\obj\Debug\net8.0\C. Mr. Perfectly Fine.sourcelink.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Mr. Perfectly Fine\obj\Debug\net8.0\C. Mr. Perfectly Fine.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Mr. Perfectly Fine\obj\Debug\net8.0\refint\C. Mr. Perfectly Fine.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Mr. Perfectly Fine\obj\Debug\net8.0\C. Mr. Perfectly Fine.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Mr. Perfectly Fine\obj\Debug\net8.0\C. Mr. Perfectly Fine.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Mr. Perfectly Fine\obj\Debug\net8.0\ref\C. Mr. Perfectly Fine.dll
