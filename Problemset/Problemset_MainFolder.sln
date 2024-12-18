@@ -443,9 +443,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "A. Nastya and Rice", "A. Na
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "A. Equidistant Letters", "A. Equidistant Letters\A. Equidistant Letters.csproj", "{C93A7BD2-94F0-4E24-B33E-F39F6DF27D9A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A. We Got Everything Covered!", "A. We Got Everything Covered!\A. We Got Everything Covered!.csproj", "{B2107070-4F67-4AE3-BB9A-74731AE06FF4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "A. We Got Everything Covered!", "A. We Got Everything Covered!\A. We Got Everything Covered!.csproj", "{B2107070-4F67-4AE3-BB9A-74731AE06FF4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C. Mr. Perfectly Fine", "C. Mr. Perfectly Fine\C. Mr. Perfectly Fine.csproj", "{CEF9A4FD-6678-47ED-B073-DBCBB0B88AE1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "C. Mr. Perfectly Fine", "C. Mr. Perfectly Fine\C. Mr. Perfectly Fine.csproj", "{CEF9A4FD-6678-47ED-B073-DBCBB0B88AE1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A. Greatest Convex", "A. Greatest Convex\A. Greatest Convex.csproj", "{7AF42E7D-4F4D-4DE0-8E2C-71B8F49DF0B5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -1341,6 +1343,10 @@ Global
 		{CEF9A4FD-6678-47ED-B073-DBCBB0B88AE1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CEF9A4FD-6678-47ED-B073-DBCBB0B88AE1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CEF9A4FD-6678-47ED-B073-DBCBB0B88AE1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7AF42E7D-4F4D-4DE0-8E2C-71B8F49DF0B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7AF42E7D-4F4D-4DE0-8E2C-71B8F49DF0B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7AF42E7D-4F4D-4DE0-8E2C-71B8F49DF0B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7AF42E7D-4F4D-4DE0-8E2C-71B8F49DF0B5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

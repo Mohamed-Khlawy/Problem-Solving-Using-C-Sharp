@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Greatest Convex\bin\Debug\net8.0\A. Greatest Convex.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Greatest Convex\bin\Debug\net8.0\A. Greatest Convex.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Greatest Convex\bin\Debug\net8.0\A. Greatest Convex.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Greatest Convex\bin\Debug\net8.0\A. Greatest Convex.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Greatest Convex\bin\Debug\net8.0\A. Greatest Convex.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Greatest Convex\obj\Debug\net8.0\A. Greatest Convex.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Greatest Convex\obj\Debug\net8.0\A. Greatest Convex.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Greatest Convex\obj\Debug\net8.0\A. Greatest Convex.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Greatest Convex\obj\Debug\net8.0\A. Greatest Convex.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Greatest Convex\obj\Debug\net8.0\A. Greatest Convex.sourcelink.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Greatest Convex\obj\Debug\net8.0\A. Greatest Convex.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Greatest Convex\obj\Debug\net8.0\refint\A. Greatest Convex.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Greatest Convex\obj\Debug\net8.0\A. Greatest Convex.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Greatest Convex\obj\Debug\net8.0\A. Greatest Convex.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Greatest Convex\obj\Debug\net8.0\ref\A. Greatest Convex.dll

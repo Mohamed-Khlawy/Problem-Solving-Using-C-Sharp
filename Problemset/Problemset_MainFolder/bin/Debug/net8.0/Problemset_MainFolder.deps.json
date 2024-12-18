@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Problemset_MainFolder/1.0.0": {
+        "runtime": {
+          "Problemset_MainFolder.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Problemset_MainFolder/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

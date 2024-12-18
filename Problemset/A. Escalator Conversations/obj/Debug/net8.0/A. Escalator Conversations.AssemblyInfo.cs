@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("A. Escalator Conversations")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+596a4a4b60f4e174ee745e4e61687f294a0e097c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dadf7f1bb462fff6cf5731b9b2fa515587e14d25")]
 [assembly: System.Reflection.AssemblyProductAttribute("A. Escalator Conversations")]
 [assembly: System.Reflection.AssemblyTitleAttribute("A. Escalator Conversations")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
