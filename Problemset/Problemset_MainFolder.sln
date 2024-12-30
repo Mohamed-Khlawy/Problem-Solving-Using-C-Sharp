@@ -447,7 +447,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "A. We Got Everything Covere
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "C. Mr. Perfectly Fine", "C. Mr. Perfectly Fine\C. Mr. Perfectly Fine.csproj", "{CEF9A4FD-6678-47ED-B073-DBCBB0B88AE1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A. Greatest Convex", "A. Greatest Convex\A. Greatest Convex.csproj", "{7AF42E7D-4F4D-4DE0-8E2C-71B8F49DF0B5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "A. Greatest Convex", "A. Greatest Convex\A. Greatest Convex.csproj", "{7AF42E7D-4F4D-4DE0-8E2C-71B8F49DF0B5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "B. Square or Not", "B. Square or Not\B. Square or Not.csproj", "{BC0CC3CE-4D37-414E-B1CE-55BBA9830A20}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -1347,6 +1349,10 @@ Global
 		{7AF42E7D-4F4D-4DE0-8E2C-71B8F49DF0B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7AF42E7D-4F4D-4DE0-8E2C-71B8F49DF0B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7AF42E7D-4F4D-4DE0-8E2C-71B8F49DF0B5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC0CC3CE-4D37-414E-B1CE-55BBA9830A20}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC0CC3CE-4D37-414E-B1CE-55BBA9830A20}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC0CC3CE-4D37-414E-B1CE-55BBA9830A20}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC0CC3CE-4D37-414E-B1CE-55BBA9830A20}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

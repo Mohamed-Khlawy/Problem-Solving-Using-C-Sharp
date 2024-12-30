@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Square or Not\bin\Debug\net8.0\B. Square or Not.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Square or Not\bin\Debug\net8.0\B. Square or Not.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Square or Not\bin\Debug\net8.0\B. Square or Not.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Square or Not\bin\Debug\net8.0\B. Square or Not.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Square or Not\bin\Debug\net8.0\B. Square or Not.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Square or Not\obj\Debug\net8.0\B. Square or Not.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Square or Not\obj\Debug\net8.0\B. Square or Not.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Square or Not\obj\Debug\net8.0\B. Square or Not.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Square or Not\obj\Debug\net8.0\B. Square or Not.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Square or Not\obj\Debug\net8.0\B. Square or Not.sourcelink.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Square or Not\obj\Debug\net8.0\B. Square or Not.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Square or Not\obj\Debug\net8.0\refint\B. Square or Not.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Square or Not\obj\Debug\net8.0\B. Square or Not.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Square or Not\obj\Debug\net8.0\B. Square or Not.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Square or Not\obj\Debug\net8.0\ref\B. Square or Not.dll

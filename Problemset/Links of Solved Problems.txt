@@ -440,3 +440,5 @@ C. Mr. Perfectly Fine ==> https://codeforces.com/problemset/problem/1829/C
 
 A. Greatest Convex ==> https://codeforces.com/problemset/problem/1768/A
 
+B. Square or Not ==> https://codeforces.com/problemset/problem/2008/B
+
