@@ -444,3 +444,5 @@ B. Square or Not ==> https://codeforces.com/problemset/problem/2008/B
 
 A. Verify Password ==> https://codeforces.com/problemset/problem/1976/A
 
+B. Swap and Delete ==> https://codeforces.com/problemset/problem/1913/B
+

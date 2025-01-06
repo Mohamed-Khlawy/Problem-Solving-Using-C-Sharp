@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Swap and Delete\bin\Debug\net8.0\B. Swap and Delete.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Swap and Delete\bin\Debug\net8.0\B. Swap and Delete.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Swap and Delete\bin\Debug\net8.0\B. Swap and Delete.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Swap and Delete\bin\Debug\net8.0\B. Swap and Delete.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Swap and Delete\bin\Debug\net8.0\B. Swap and Delete.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Swap and Delete\obj\Debug\net8.0\B. Swap and Delete.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Swap and Delete\obj\Debug\net8.0\B. Swap and Delete.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Swap and Delete\obj\Debug\net8.0\B. Swap and Delete.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Swap and Delete\obj\Debug\net8.0\B. Swap and Delete.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Swap and Delete\obj\Debug\net8.0\B. Swap and Delete.sourcelink.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Swap and Delete\obj\Debug\net8.0\B. Swap and Delete.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Swap and Delete\obj\Debug\net8.0\refint\B. Swap and Delete.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Swap and Delete\obj\Debug\net8.0\B. Swap and Delete.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Swap and Delete\obj\Debug\net8.0\B. Swap and Delete.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Swap and Delete\obj\Debug\net8.0\ref\B. Swap and Delete.dll

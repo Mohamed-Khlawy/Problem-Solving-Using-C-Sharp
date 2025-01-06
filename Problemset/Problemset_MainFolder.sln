@@ -453,6 +453,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "B. Square or Not", "B. Squa
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A. Verify Password", "A. Verify Password\A. Verify Password.csproj", "{B5AE9CC3-F5F9-42EB-8212-0ECACA6B8C51}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "B. Swap and Delete", "B. Swap and Delete\B. Swap and Delete.csproj", "{ECCAD728-A854-444B-8F63-76EDA0C57A27}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -1359,6 +1361,10 @@ Global
 		{B5AE9CC3-F5F9-42EB-8212-0ECACA6B8C51}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B5AE9CC3-F5F9-42EB-8212-0ECACA6B8C51}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B5AE9CC3-F5F9-42EB-8212-0ECACA6B8C51}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ECCAD728-A854-444B-8F63-76EDA0C57A27}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECCAD728-A854-444B-8F63-76EDA0C57A27}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECCAD728-A854-444B-8F63-76EDA0C57A27}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECCAD728-A854-444B-8F63-76EDA0C57A27}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
