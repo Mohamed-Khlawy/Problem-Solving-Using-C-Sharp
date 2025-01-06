@@ -11,3 +11,5 @@ build_property.RootNamespace = A._Frog_Jumping
 build_property.ProjectDir = G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Frog Jumping\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.EffectiveAnalysisLevelStyle = 8.0
+build_property.EnableCodeStyleSeverity = 

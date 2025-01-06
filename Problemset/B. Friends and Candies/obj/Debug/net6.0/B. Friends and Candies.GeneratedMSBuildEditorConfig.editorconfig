@@ -11,3 +11,5 @@ build_property.RootNamespace = B._Friends_and_Candies
 build_property.ProjectDir = G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Friends and Candies\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.EffectiveAnalysisLevelStyle = 6.0
+build_property.EnableCodeStyleSeverity = 

@@ -11,3 +11,5 @@ build_property.RootNamespace = A._Bus_to_Udayland
 build_property.ProjectDir = G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Bus to Udayland\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.EffectiveAnalysisLevelStyle = 8.0
+build_property.EnableCodeStyleSeverity = 

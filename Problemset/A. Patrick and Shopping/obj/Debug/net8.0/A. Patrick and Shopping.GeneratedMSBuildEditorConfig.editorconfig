@@ -11,3 +11,5 @@ build_property.RootNamespace = A._Patrick_and_Shopping
 build_property.ProjectDir = G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Patrick and Shopping\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.EffectiveAnalysisLevelStyle = 8.0
+build_property.EnableCodeStyleSeverity = 

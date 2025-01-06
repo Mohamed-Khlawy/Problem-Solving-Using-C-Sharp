@@ -442,3 +442,5 @@ A. Greatest Convex ==> https://codeforces.com/problemset/problem/1768/A
 
 B. Square or Not ==> https://codeforces.com/problemset/problem/2008/B
 
+A. Verify Password ==> https://codeforces.com/problemset/problem/1976/A
+

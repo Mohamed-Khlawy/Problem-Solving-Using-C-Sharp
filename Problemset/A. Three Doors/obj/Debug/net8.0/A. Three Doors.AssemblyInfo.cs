@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("A. Three Doors")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+66d1015cef968c051ff4b840b15d4c3f46ab2f0a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8eb9ef89a886468c0206f4daaa6e3f5c73af012d")]
 [assembly: System.Reflection.AssemblyProductAttribute("A. Three Doors")]
 [assembly: System.Reflection.AssemblyTitleAttribute("A. Three Doors")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

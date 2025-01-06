@@ -11,3 +11,5 @@ build_property.RootNamespace = B._Kana_and_Dragon_Quest_game
 build_property.ProjectDir = G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Kana and Dragon Quest game\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.EffectiveAnalysisLevelStyle = 6.0
+build_property.EnableCodeStyleSeverity = 
