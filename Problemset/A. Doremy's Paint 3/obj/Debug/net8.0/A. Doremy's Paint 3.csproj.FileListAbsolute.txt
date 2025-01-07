@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Doremy's Paint 3\bin\Debug\net8.0\A. Doremy's Paint 3.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Doremy's Paint 3\bin\Debug\net8.0\A. Doremy's Paint 3.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Doremy's Paint 3\bin\Debug\net8.0\A. Doremy's Paint 3.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Doremy's Paint 3\bin\Debug\net8.0\A. Doremy's Paint 3.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Doremy's Paint 3\bin\Debug\net8.0\A. Doremy's Paint 3.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Doremy's Paint 3\obj\Debug\net8.0\A. Doremy's Paint 3.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Doremy's Paint 3\obj\Debug\net8.0\A. Doremy's Paint 3.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Doremy's Paint 3\obj\Debug\net8.0\A. Doremy's Paint 3.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Doremy's Paint 3\obj\Debug\net8.0\A. Doremy's Paint 3.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Doremy's Paint 3\obj\Debug\net8.0\A. Doremy's Paint 3.sourcelink.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Doremy's Paint 3\obj\Debug\net8.0\A. Doremy's Paint 3.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Doremy's Paint 3\obj\Debug\net8.0\refint\A. Doremy's Paint 3.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Doremy's Paint 3\obj\Debug\net8.0\A. Doremy's Paint 3.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Doremy's Paint 3\obj\Debug\net8.0\A. Doremy's Paint 3.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Doremy's Paint 3\obj\Debug\net8.0\ref\A. Doremy's Paint 3.dll

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("B. Matrix Rotation")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f297a641520f0663ca4ea52c2f5c56b288872c65")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cb040dedc7d82965c70afa19fd594e3602a5d980")]
 [assembly: System.Reflection.AssemblyProductAttribute("B. Matrix Rotation")]
 [assembly: System.Reflection.AssemblyTitleAttribute("B. Matrix Rotation")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

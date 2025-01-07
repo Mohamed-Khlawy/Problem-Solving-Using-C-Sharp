@@ -446,3 +446,5 @@ A. Verify Password ==> https://codeforces.com/problemset/problem/1976/A
 
 B. Swap and Delete ==> https://codeforces.com/problemset/problem/1913/B
 
+A. Doremy's Paint 3 ==> https://codeforces.com/problemset/problem/1890/A
+

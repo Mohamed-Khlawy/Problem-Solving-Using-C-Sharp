@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "A. Doremy's Paint 3/1.0.0": {
+        "runtime": {
+          "A. Doremy's Paint 3.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "A. Doremy's Paint 3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
