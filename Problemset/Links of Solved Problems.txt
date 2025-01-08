@@ -448,3 +448,7 @@ B. Swap and Delete ==> https://codeforces.com/problemset/problem/1913/B
 
 A. Doremy's Paint 3 ==> https://codeforces.com/problemset/problem/1890/A
 
+A. Special Characters ==> https://codeforces.com/problemset/problem/1948/A
+
+B. Robin Hood and the Major Oak ==> https://codeforces.com/problemset/problem/2014/B
+

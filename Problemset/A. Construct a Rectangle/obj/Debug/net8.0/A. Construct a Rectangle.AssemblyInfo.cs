@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("A. Construct a Rectangle")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cb040dedc7d82965c70afa19fd594e3602a5d980")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ad1ca4138056ffd72d755474c31bc2dd030f3681")]
 [assembly: System.Reflection.AssemblyProductAttribute("A. Construct a Rectangle")]
 [assembly: System.Reflection.AssemblyTitleAttribute("A. Construct a Rectangle")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

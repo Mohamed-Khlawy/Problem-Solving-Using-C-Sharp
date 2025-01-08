@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "B. Robin Hood and the Major Oak/1.0.0": {
+        "runtime": {
+          "B. Robin Hood and the Major Oak.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "B. Robin Hood and the Major Oak/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Robin Hood and the Major Oak\bin\Debug\net8.0\B. Robin Hood and the Major Oak.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Robin Hood and the Major Oak\bin\Debug\net8.0\B. Robin Hood and the Major Oak.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Robin Hood and the Major Oak\bin\Debug\net8.0\B. Robin Hood and the Major Oak.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Robin Hood and the Major Oak\bin\Debug\net8.0\B. Robin Hood and the Major Oak.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Robin Hood and the Major Oak\bin\Debug\net8.0\B. Robin Hood and the Major Oak.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Robin Hood and the Major Oak\obj\Debug\net8.0\B. Robin Hood and the Major Oak.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Robin Hood and the Major Oak\obj\Debug\net8.0\B. Robin Hood and the Major Oak.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Robin Hood and the Major Oak\obj\Debug\net8.0\B. Robin Hood and the Major Oak.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Robin Hood and the Major Oak\obj\Debug\net8.0\B. Robin Hood and the Major Oak.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Robin Hood and the Major Oak\obj\Debug\net8.0\B. Robin Hood and the Major Oak.sourcelink.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Robin Hood and the Major Oak\obj\Debug\net8.0\B. Robin Hood and the Major Oak.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Robin Hood and the Major Oak\obj\Debug\net8.0\refint\B. Robin Hood and the Major Oak.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Robin Hood and the Major Oak\obj\Debug\net8.0\B. Robin Hood and the Major Oak.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Robin Hood and the Major Oak\obj\Debug\net8.0\B. Robin Hood and the Major Oak.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Robin Hood and the Major Oak\obj\Debug\net8.0\ref\B. Robin Hood and the Major Oak.dll

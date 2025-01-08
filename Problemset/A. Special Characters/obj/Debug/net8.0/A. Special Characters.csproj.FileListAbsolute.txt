@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Special Characters\bin\Debug\net8.0\A. Special Characters.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Special Characters\bin\Debug\net8.0\A. Special Characters.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Special Characters\bin\Debug\net8.0\A. Special Characters.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Special Characters\bin\Debug\net8.0\A. Special Characters.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Special Characters\bin\Debug\net8.0\A. Special Characters.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Special Characters\obj\Debug\net8.0\A. Special Characters.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Special Characters\obj\Debug\net8.0\A. Special Characters.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Special Characters\obj\Debug\net8.0\A. Special Characters.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Special Characters\obj\Debug\net8.0\A. Special Characters.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Special Characters\obj\Debug\net8.0\A. Special Characters.sourcelink.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Special Characters\obj\Debug\net8.0\A. Special Characters.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Special Characters\obj\Debug\net8.0\refint\A. Special Characters.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Special Characters\obj\Debug\net8.0\A. Special Characters.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Special Characters\obj\Debug\net8.0\A. Special Characters.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Special Characters\obj\Debug\net8.0\ref\A. Special Characters.dll

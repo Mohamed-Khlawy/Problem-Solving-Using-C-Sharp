@@ -457,6 +457,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "B. Swap and Delete", "B. Sw
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A. Doremy's Paint 3", "A. Doremy's Paint 3\A. Doremy's Paint 3.csproj", "{A8A4DC39-78B9-4B00-BBA3-7203BA7E14C5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A. Special Characters", "A. Special Characters\A. Special Characters.csproj", "{2C19F86B-009D-415E-ABD0-8BBE029E70A6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "B. Robin Hood and the Major Oak", "B. Robin Hood and the Major Oak\B. Robin Hood and the Major Oak.csproj", "{76FDAC24-A2F3-4ABD-853B-386D14B0CE8A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -1371,6 +1375,14 @@ Global
 		{A8A4DC39-78B9-4B00-BBA3-7203BA7E14C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A8A4DC39-78B9-4B00-BBA3-7203BA7E14C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A8A4DC39-78B9-4B00-BBA3-7203BA7E14C5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2C19F86B-009D-415E-ABD0-8BBE029E70A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C19F86B-009D-415E-ABD0-8BBE029E70A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C19F86B-009D-415E-ABD0-8BBE029E70A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C19F86B-009D-415E-ABD0-8BBE029E70A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{76FDAC24-A2F3-4ABD-853B-386D14B0CE8A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76FDAC24-A2F3-4ABD-853B-386D14B0CE8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76FDAC24-A2F3-4ABD-853B-386D14B0CE8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76FDAC24-A2F3-4ABD-853B-386D14B0CE8A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
