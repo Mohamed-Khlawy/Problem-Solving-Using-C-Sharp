@@ -465,6 +465,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A. Greg's Workout", "A. Gre
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A. Forbidden Integer", "A. Forbidden Integer\A. Forbidden Integer.csproj", "{4E9BD674-D6F3-427C-9ABC-E80ADD695957}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A. Cakeminator", "A. Cakeminator\A. Cakeminator.csproj", "{4ABB1CA6-8394-48B3-BBFB-B8F30501406D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -1395,6 +1397,10 @@ Global
 		{4E9BD674-D6F3-427C-9ABC-E80ADD695957}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4E9BD674-D6F3-427C-9ABC-E80ADD695957}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4E9BD674-D6F3-427C-9ABC-E80ADD695957}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4ABB1CA6-8394-48B3-BBFB-B8F30501406D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4ABB1CA6-8394-48B3-BBFB-B8F30501406D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4ABB1CA6-8394-48B3-BBFB-B8F30501406D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4ABB1CA6-8394-48B3-BBFB-B8F30501406D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

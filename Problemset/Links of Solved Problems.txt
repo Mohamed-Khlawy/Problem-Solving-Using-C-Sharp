@@ -456,3 +456,5 @@ A. Greg's Workout ==> https://codeforces.com/problemset/problem/255/A
 
 A. Forbidden Integer ==> https://codeforces.com/problemset/problem/1845/A
 
+A. Cakeminator ==> https://codeforces.com/problemset/problem/330/A
+

@@ -1,4 +1,5 @@
-﻿using System.Diagnostics;
+﻿using System.Data.Common;
+using System.Diagnostics;
 using System.IO.Pipes;
 using System.Linq.Expressions;
 using System.Numerics;
@@ -17,7 +18,7 @@ namespace Problemset_MainFolder
 
             while (tests-- > 0)
             {
-                
+
             }
         }
     }
