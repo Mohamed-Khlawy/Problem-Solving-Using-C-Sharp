@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Forbidden Integer\bin\Debug\net8.0\A. Forbidden Integer.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Forbidden Integer\bin\Debug\net8.0\A. Forbidden Integer.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Forbidden Integer\bin\Debug\net8.0\A. Forbidden Integer.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Forbidden Integer\bin\Debug\net8.0\A. Forbidden Integer.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Forbidden Integer\bin\Debug\net8.0\A. Forbidden Integer.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Forbidden Integer\obj\Debug\net8.0\A. Forbidden Integer.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Forbidden Integer\obj\Debug\net8.0\A. Forbidden Integer.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Forbidden Integer\obj\Debug\net8.0\A. Forbidden Integer.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Forbidden Integer\obj\Debug\net8.0\A. Forbidden Integer.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Forbidden Integer\obj\Debug\net8.0\A. Forbidden Integer.sourcelink.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Forbidden Integer\obj\Debug\net8.0\A. Forbidden Integer.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Forbidden Integer\obj\Debug\net8.0\refint\A. Forbidden Integer.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Forbidden Integer\obj\Debug\net8.0\A. Forbidden Integer.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Forbidden Integer\obj\Debug\net8.0\A. Forbidden Integer.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Forbidden Integer\obj\Debug\net8.0\ref\A. Forbidden Integer.dll

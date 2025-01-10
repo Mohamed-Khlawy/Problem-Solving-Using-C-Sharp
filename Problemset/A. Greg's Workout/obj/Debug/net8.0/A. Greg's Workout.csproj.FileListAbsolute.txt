@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Greg's Workout\bin\Debug\net8.0\A. Greg's Workout.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Greg's Workout\bin\Debug\net8.0\A. Greg's Workout.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Greg's Workout\bin\Debug\net8.0\A. Greg's Workout.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Greg's Workout\bin\Debug\net8.0\A. Greg's Workout.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Greg's Workout\bin\Debug\net8.0\A. Greg's Workout.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Greg's Workout\obj\Debug\net8.0\A. Greg's Workout.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Greg's Workout\obj\Debug\net8.0\A. Greg's Workout.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Greg's Workout\obj\Debug\net8.0\A. Greg's Workout.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Greg's Workout\obj\Debug\net8.0\A. Greg's Workout.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Greg's Workout\obj\Debug\net8.0\A. Greg's Workout.sourcelink.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Greg's Workout\obj\Debug\net8.0\A. Greg's Workout.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Greg's Workout\obj\Debug\net8.0\refint\A. Greg's Workout.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Greg's Workout\obj\Debug\net8.0\A. Greg's Workout.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Greg's Workout\obj\Debug\net8.0\A. Greg's Workout.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Greg's Workout\obj\Debug\net8.0\ref\A. Greg's Workout.dll

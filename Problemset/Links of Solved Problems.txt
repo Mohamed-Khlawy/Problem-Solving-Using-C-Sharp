@@ -452,3 +452,7 @@ A. Special Characters ==> https://codeforces.com/problemset/problem/1948/A
 
 B. Robin Hood and the Major Oak ==> https://codeforces.com/problemset/problem/2014/B
 
+A. Greg's Workout ==> https://codeforces.com/problemset/problem/255/A
+
+A. Forbidden Integer ==> https://codeforces.com/problemset/problem/1845/A
+
