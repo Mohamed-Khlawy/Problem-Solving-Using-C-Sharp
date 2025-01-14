@@ -458,3 +458,9 @@ A. Forbidden Integer ==> https://codeforces.com/problemset/problem/1845/A
 
 A. Cakeminator ==> https://codeforces.com/problemset/problem/330/A
 
+C. Traffic Light ==> https://codeforces.com/problemset/problem/1744/C
+
+A. Juggling Letters ==> https://codeforces.com/problemset/problem/1397/A
+
+B. Yet Another Bookshelf ==> https://codeforces.com/problemset/problem/1433/B
+

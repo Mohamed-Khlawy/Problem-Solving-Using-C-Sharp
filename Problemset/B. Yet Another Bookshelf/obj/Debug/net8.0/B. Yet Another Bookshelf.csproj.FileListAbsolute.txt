@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Yet Another Bookshelf\bin\Debug\net8.0\B. Yet Another Bookshelf.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Yet Another Bookshelf\bin\Debug\net8.0\B. Yet Another Bookshelf.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Yet Another Bookshelf\bin\Debug\net8.0\B. Yet Another Bookshelf.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Yet Another Bookshelf\bin\Debug\net8.0\B. Yet Another Bookshelf.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Yet Another Bookshelf\bin\Debug\net8.0\B. Yet Another Bookshelf.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Yet Another Bookshelf\obj\Debug\net8.0\B. Yet Another Bookshelf.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Yet Another Bookshelf\obj\Debug\net8.0\B. Yet Another Bookshelf.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Yet Another Bookshelf\obj\Debug\net8.0\B. Yet Another Bookshelf.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Yet Another Bookshelf\obj\Debug\net8.0\B. Yet Another Bookshelf.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Yet Another Bookshelf\obj\Debug\net8.0\B. Yet Another Bookshelf.sourcelink.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Yet Another Bookshelf\obj\Debug\net8.0\B. Yet Another Bookshelf.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Yet Another Bookshelf\obj\Debug\net8.0\refint\B. Yet Another Bookshelf.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Yet Another Bookshelf\obj\Debug\net8.0\B. Yet Another Bookshelf.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Yet Another Bookshelf\obj\Debug\net8.0\B. Yet Another Bookshelf.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Yet Another Bookshelf\obj\Debug\net8.0\ref\B. Yet Another Bookshelf.dll

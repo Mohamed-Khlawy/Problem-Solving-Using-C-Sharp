@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Juggling Letters\bin\Debug\net8.0\A. Juggling Letters.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Juggling Letters\bin\Debug\net8.0\A. Juggling Letters.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Juggling Letters\bin\Debug\net8.0\A. Juggling Letters.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Juggling Letters\bin\Debug\net8.0\A. Juggling Letters.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Juggling Letters\bin\Debug\net8.0\A. Juggling Letters.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Juggling Letters\obj\Debug\net8.0\A. Juggling Letters.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Juggling Letters\obj\Debug\net8.0\A. Juggling Letters.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Juggling Letters\obj\Debug\net8.0\A. Juggling Letters.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Juggling Letters\obj\Debug\net8.0\A. Juggling Letters.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Juggling Letters\obj\Debug\net8.0\A. Juggling Letters.sourcelink.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Juggling Letters\obj\Debug\net8.0\A. Juggling Letters.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Juggling Letters\obj\Debug\net8.0\refint\A. Juggling Letters.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Juggling Letters\obj\Debug\net8.0\A. Juggling Letters.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Juggling Letters\obj\Debug\net8.0\A. Juggling Letters.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Juggling Letters\obj\Debug\net8.0\ref\A. Juggling Letters.dll

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("A. Robin Helps")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+42efa186751745e0cbf7b0d45abfa860beaf90ba")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0fcc7d838b5fcc95acca39206b1a7a80441ee1a3")]
 [assembly: System.Reflection.AssemblyProductAttribute("A. Robin Helps")]
 [assembly: System.Reflection.AssemblyTitleAttribute("A. Robin Helps")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

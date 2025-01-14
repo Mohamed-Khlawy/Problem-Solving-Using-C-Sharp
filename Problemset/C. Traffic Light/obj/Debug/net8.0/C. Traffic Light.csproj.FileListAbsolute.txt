@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Traffic Light\bin\Debug\net8.0\C. Traffic Light.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Traffic Light\bin\Debug\net8.0\C. Traffic Light.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Traffic Light\bin\Debug\net8.0\C. Traffic Light.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Traffic Light\bin\Debug\net8.0\C. Traffic Light.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Traffic Light\bin\Debug\net8.0\C. Traffic Light.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Traffic Light\obj\Debug\net8.0\C. Traffic Light.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Traffic Light\obj\Debug\net8.0\C. Traffic Light.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Traffic Light\obj\Debug\net8.0\C. Traffic Light.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Traffic Light\obj\Debug\net8.0\C. Traffic Light.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Traffic Light\obj\Debug\net8.0\C. Traffic Light.sourcelink.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Traffic Light\obj\Debug\net8.0\C. Traffic Light.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Traffic Light\obj\Debug\net8.0\refint\C. Traffic Light.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Traffic Light\obj\Debug\net8.0\C. Traffic Light.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Traffic Light\obj\Debug\net8.0\C. Traffic Light.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Traffic Light\obj\Debug\net8.0\ref\C. Traffic Light.dll
