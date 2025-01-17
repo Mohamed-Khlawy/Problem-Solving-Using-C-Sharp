@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Twin Permutations\bin\Debug\net8.0\A. Twin Permutations.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Twin Permutations\bin\Debug\net8.0\A. Twin Permutations.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Twin Permutations\bin\Debug\net8.0\A. Twin Permutations.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Twin Permutations\bin\Debug\net8.0\A. Twin Permutations.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Twin Permutations\bin\Debug\net8.0\A. Twin Permutations.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Twin Permutations\obj\Debug\net8.0\A. Twin Permutations.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Twin Permutations\obj\Debug\net8.0\A. Twin Permutations.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Twin Permutations\obj\Debug\net8.0\A. Twin Permutations.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Twin Permutations\obj\Debug\net8.0\A. Twin Permutations.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Twin Permutations\obj\Debug\net8.0\A. Twin Permutations.sourcelink.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Twin Permutations\obj\Debug\net8.0\A. Twin Permutations.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Twin Permutations\obj\Debug\net8.0\refint\A. Twin Permutations.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Twin Permutations\obj\Debug\net8.0\A. Twin Permutations.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Twin Permutations\obj\Debug\net8.0\A. Twin Permutations.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Twin Permutations\obj\Debug\net8.0\ref\A. Twin Permutations.dll

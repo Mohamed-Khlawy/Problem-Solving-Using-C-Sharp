@@ -473,6 +473,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A. Juggling Letters", "A. J
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "B. Yet Another Bookshelf", "B. Yet Another Bookshelf\B. Yet Another Bookshelf.csproj", "{E6E17A6B-4A49-470D-936F-F0C3BC5D2DE8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A. Twin Permutations", "A. Twin Permutations\A. Twin Permutations.csproj", "{DA0CB1BD-8ADB-4901-91AB-33B2818E3104}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "B. Make It Increasing", "B. Make It Increasing\B. Make It Increasing.csproj", "{F609B856-9F8D-49E2-9AD6-29FBE1F50D55}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -1419,6 +1423,14 @@ Global
 		{E6E17A6B-4A49-470D-936F-F0C3BC5D2DE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E6E17A6B-4A49-470D-936F-F0C3BC5D2DE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E6E17A6B-4A49-470D-936F-F0C3BC5D2DE8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA0CB1BD-8ADB-4901-91AB-33B2818E3104}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA0CB1BD-8ADB-4901-91AB-33B2818E3104}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA0CB1BD-8ADB-4901-91AB-33B2818E3104}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA0CB1BD-8ADB-4901-91AB-33B2818E3104}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F609B856-9F8D-49E2-9AD6-29FBE1F50D55}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F609B856-9F8D-49E2-9AD6-29FBE1F50D55}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F609B856-9F8D-49E2-9AD6-29FBE1F50D55}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F609B856-9F8D-49E2-9AD6-29FBE1F50D55}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

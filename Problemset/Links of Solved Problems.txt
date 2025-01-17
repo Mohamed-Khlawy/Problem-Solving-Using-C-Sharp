@@ -464,3 +464,7 @@ A. Juggling Letters ==> https://codeforces.com/problemset/problem/1397/A
 
 B. Yet Another Bookshelf ==> https://codeforces.com/problemset/problem/1433/B
 
+A. Twin Permutations ==> https://codeforces.com/problemset/problem/1831/A
+
+B. Make It Increasing ==> https://codeforces.com/problemset/problem/1675/B
+

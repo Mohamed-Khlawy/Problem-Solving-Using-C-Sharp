@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Make It Increasing\bin\Debug\net8.0\B. Make It Increasing.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Make It Increasing\bin\Debug\net8.0\B. Make It Increasing.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Make It Increasing\bin\Debug\net8.0\B. Make It Increasing.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Make It Increasing\bin\Debug\net8.0\B. Make It Increasing.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Make It Increasing\bin\Debug\net8.0\B. Make It Increasing.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Make It Increasing\obj\Debug\net8.0\B. Make It Increasing.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Make It Increasing\obj\Debug\net8.0\B. Make It Increasing.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Make It Increasing\obj\Debug\net8.0\B. Make It Increasing.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Make It Increasing\obj\Debug\net8.0\B. Make It Increasing.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Make It Increasing\obj\Debug\net8.0\B. Make It Increasing.sourcelink.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Make It Increasing\obj\Debug\net8.0\B. Make It Increasing.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Make It Increasing\obj\Debug\net8.0\refint\B. Make It Increasing.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Make It Increasing\obj\Debug\net8.0\B. Make It Increasing.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Make It Increasing\obj\Debug\net8.0\B. Make It Increasing.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Make It Increasing\obj\Debug\net8.0\ref\B. Make It Increasing.dll
