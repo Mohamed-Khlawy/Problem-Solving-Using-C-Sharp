@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "B. Unique Bid Auction/1.0.0": {
+        "runtime": {
+          "B. Unique Bid Auction.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "B. Unique Bid Auction/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

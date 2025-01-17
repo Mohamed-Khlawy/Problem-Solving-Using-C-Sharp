@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Unique Bid Auction\bin\Debug\net8.0\B. Unique Bid Auction.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Unique Bid Auction\bin\Debug\net8.0\B. Unique Bid Auction.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Unique Bid Auction\bin\Debug\net8.0\B. Unique Bid Auction.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Unique Bid Auction\bin\Debug\net8.0\B. Unique Bid Auction.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Unique Bid Auction\bin\Debug\net8.0\B. Unique Bid Auction.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Unique Bid Auction\obj\Debug\net8.0\B. Unique Bid Auction.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Unique Bid Auction\obj\Debug\net8.0\B. Unique Bid Auction.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Unique Bid Auction\obj\Debug\net8.0\B. Unique Bid Auction.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Unique Bid Auction\obj\Debug\net8.0\B. Unique Bid Auction.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Unique Bid Auction\obj\Debug\net8.0\B. Unique Bid Auction.sourcelink.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Unique Bid Auction\obj\Debug\net8.0\B. Unique Bid Auction.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Unique Bid Auction\obj\Debug\net8.0\refint\B. Unique Bid Auction.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Unique Bid Auction\obj\Debug\net8.0\B. Unique Bid Auction.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Unique Bid Auction\obj\Debug\net8.0\B. Unique Bid Auction.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Unique Bid Auction\obj\Debug\net8.0\ref\B. Unique Bid Auction.dll
