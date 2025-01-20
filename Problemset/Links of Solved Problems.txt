@@ -470,3 +470,7 @@ B. Make It Increasing ==> https://codeforces.com/problemset/problem/1675/B
 
 B. Unique Bid Auction ==> https://codeforces.com/problemset/problem/1454/B
 
+A. Twice ==> https://codeforces.com/problemset/problem/2037/A
+
+B. Decoding ==> https://codeforces.com/problemset/problem/746/B
+
