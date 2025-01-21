@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Progressive Square\bin\Debug\net8.0\B. Progressive Square.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Progressive Square\bin\Debug\net8.0\B. Progressive Square.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Progressive Square\bin\Debug\net8.0\B. Progressive Square.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Progressive Square\bin\Debug\net8.0\B. Progressive Square.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Progressive Square\bin\Debug\net8.0\B. Progressive Square.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Progressive Square\obj\Debug\net8.0\B. Progressive Square.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Progressive Square\obj\Debug\net8.0\B. Progressive Square.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Progressive Square\obj\Debug\net8.0\B. Progressive Square.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Progressive Square\obj\Debug\net8.0\B. Progressive Square.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Progressive Square\obj\Debug\net8.0\B. Progressive Square.sourcelink.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Progressive Square\obj\Debug\net8.0\B. Progressive Square.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Progressive Square\obj\Debug\net8.0\refint\B. Progressive Square.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Progressive Square\obj\Debug\net8.0\B. Progressive Square.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Progressive Square\obj\Debug\net8.0\B. Progressive Square.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Progressive Square\obj\Debug\net8.0\ref\B. Progressive Square.dll

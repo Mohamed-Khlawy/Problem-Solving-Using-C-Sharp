@@ -474,3 +474,9 @@ A. Twice ==> https://codeforces.com/problemset/problem/2037/A
 
 B. Decoding ==> https://codeforces.com/problemset/problem/746/B
 
+B. Journey ==> https://codeforces.com/problemset/problem/2051/B
+
+B. Longest Divisors Interval ==> https://codeforces.com/problemset/problem/1855/B
+
+B. Progressive Square ==> https://codeforces.com/problemset/problem/1955/B
+
