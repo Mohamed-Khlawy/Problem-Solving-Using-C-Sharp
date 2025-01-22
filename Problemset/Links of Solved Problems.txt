@@ -480,3 +480,7 @@ B. Longest Divisors Interval ==> https://codeforces.com/problemset/problem/1855/
 
 B. Progressive Square ==> https://codeforces.com/problemset/problem/1955/B
 
+A. k-String ==> https://codeforces.com/problemset/problem/219/A
+
+A. Entertainment in MAC ==> https://codeforces.com/problemset/problem/1935/A
+

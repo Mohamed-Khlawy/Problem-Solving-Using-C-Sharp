@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Entertainment in MAC\bin\Debug\net8.0\A. Entertainment in MAC.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Entertainment in MAC\bin\Debug\net8.0\A. Entertainment in MAC.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Entertainment in MAC\bin\Debug\net8.0\A. Entertainment in MAC.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Entertainment in MAC\bin\Debug\net8.0\A. Entertainment in MAC.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Entertainment in MAC\bin\Debug\net8.0\A. Entertainment in MAC.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Entertainment in MAC\obj\Debug\net8.0\A. Entertainment in MAC.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Entertainment in MAC\obj\Debug\net8.0\A. Entertainment in MAC.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Entertainment in MAC\obj\Debug\net8.0\A. Entertainment in MAC.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Entertainment in MAC\obj\Debug\net8.0\A. Entertainment in MAC.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Entertainment in MAC\obj\Debug\net8.0\A. Entertainment in MAC.sourcelink.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Entertainment in MAC\obj\Debug\net8.0\A. Entertainment in MAC.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Entertainment in MAC\obj\Debug\net8.0\refint\A. Entertainment in MAC.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Entertainment in MAC\obj\Debug\net8.0\A. Entertainment in MAC.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Entertainment in MAC\obj\Debug\net8.0\A. Entertainment in MAC.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Entertainment in MAC\obj\Debug\net8.0\ref\A. Entertainment in MAC.dll
