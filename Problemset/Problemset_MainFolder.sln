@@ -493,6 +493,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A. k-String", "A. k-String\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A. Entertainment in MAC", "A. Entertainment in MAC\A. Entertainment in MAC.csproj", "{DC42BC9D-2D37-4B64-BC93-7A5045FD4DEE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A. GamingForces", "A. GamingForces\A. GamingForces.csproj", "{B15ADE2B-DDDD-4488-A335-D4A00D23E262}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -1479,6 +1481,10 @@ Global
 		{DC42BC9D-2D37-4B64-BC93-7A5045FD4DEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DC42BC9D-2D37-4B64-BC93-7A5045FD4DEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DC42BC9D-2D37-4B64-BC93-7A5045FD4DEE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B15ADE2B-DDDD-4488-A335-D4A00D23E262}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B15ADE2B-DDDD-4488-A335-D4A00D23E262}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B15ADE2B-DDDD-4488-A335-D4A00D23E262}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B15ADE2B-DDDD-4488-A335-D4A00D23E262}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
