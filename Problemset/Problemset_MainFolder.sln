@@ -497,6 +497,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A. GamingForces", "A. Gamin
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A. PizzaForces", "A. PizzaForces\A. PizzaForces.csproj", "{0A2A11E2-4580-4B78-AF78-EFBDB01CD072}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A. Mezo Playing Zoma", "A. Mezo Playing Zoma\A. Mezo Playing Zoma.csproj", "{901B12F4-035F-4D55-83EE-5FFA2EC07AAF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -1491,6 +1493,10 @@ Global
 		{0A2A11E2-4580-4B78-AF78-EFBDB01CD072}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0A2A11E2-4580-4B78-AF78-EFBDB01CD072}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0A2A11E2-4580-4B78-AF78-EFBDB01CD072}.Release|Any CPU.Build.0 = Release|Any CPU
+		{901B12F4-035F-4D55-83EE-5FFA2EC07AAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{901B12F4-035F-4D55-83EE-5FFA2EC07AAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{901B12F4-035F-4D55-83EE-5FFA2EC07AAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{901B12F4-035F-4D55-83EE-5FFA2EC07AAF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

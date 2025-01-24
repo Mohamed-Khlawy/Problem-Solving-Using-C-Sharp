@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("C. Word Game")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+788429ccfd6bb3ac15b108c48a88e2ef0c52525a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5b09bd22d0c2f7ed84c6362b739c7241650e637e")]
 [assembly: System.Reflection.AssemblyProductAttribute("C. Word Game")]
 [assembly: System.Reflection.AssemblyTitleAttribute("C. Word Game")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

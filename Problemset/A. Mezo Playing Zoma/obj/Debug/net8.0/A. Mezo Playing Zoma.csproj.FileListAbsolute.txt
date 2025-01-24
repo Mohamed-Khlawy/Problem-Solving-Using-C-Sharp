@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Mezo Playing Zoma\bin\Debug\net8.0\A. Mezo Playing Zoma.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Mezo Playing Zoma\bin\Debug\net8.0\A. Mezo Playing Zoma.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Mezo Playing Zoma\bin\Debug\net8.0\A. Mezo Playing Zoma.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Mezo Playing Zoma\bin\Debug\net8.0\A. Mezo Playing Zoma.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Mezo Playing Zoma\bin\Debug\net8.0\A. Mezo Playing Zoma.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Mezo Playing Zoma\obj\Debug\net8.0\A. Mezo Playing Zoma.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Mezo Playing Zoma\obj\Debug\net8.0\A. Mezo Playing Zoma.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Mezo Playing Zoma\obj\Debug\net8.0\A. Mezo Playing Zoma.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Mezo Playing Zoma\obj\Debug\net8.0\A. Mezo Playing Zoma.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Mezo Playing Zoma\obj\Debug\net8.0\A. Mezo Playing Zoma.sourcelink.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Mezo Playing Zoma\obj\Debug\net8.0\A. Mezo Playing Zoma.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Mezo Playing Zoma\obj\Debug\net8.0\refint\A. Mezo Playing Zoma.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Mezo Playing Zoma\obj\Debug\net8.0\A. Mezo Playing Zoma.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Mezo Playing Zoma\obj\Debug\net8.0\A. Mezo Playing Zoma.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Mezo Playing Zoma\obj\Debug\net8.0\ref\A. Mezo Playing Zoma.dll

@@ -488,3 +488,5 @@ A. GamingForces ==> https://codeforces.com/problemset/problem/1792/A
 
 A. PizzaForces ==> https://codeforces.com/problemset/problem/1555/A
 
+A. Mezo Playing Zoma ==> https://codeforces.com/problemset/problem/1285/A
+
