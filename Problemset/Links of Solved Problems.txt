@@ -486,3 +486,5 @@ A. Entertainment in MAC ==> https://codeforces.com/problemset/problem/1935/A
 
 A. GamingForces ==> https://codeforces.com/problemset/problem/1792/A
 
+A. PizzaForces ==> https://codeforces.com/problemset/problem/1555/A
+

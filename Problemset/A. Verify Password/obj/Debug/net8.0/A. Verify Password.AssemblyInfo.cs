@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("A. Verify Password")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bbfd50c2c21f37d8abba7248b548de48cd96e8fe")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+788429ccfd6bb3ac15b108c48a88e2ef0c52525a")]
 [assembly: System.Reflection.AssemblyProductAttribute("A. Verify Password")]
 [assembly: System.Reflection.AssemblyTitleAttribute("A. Verify Password")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
