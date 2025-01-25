@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("C. Where\'s the Bishop")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5b09bd22d0c2f7ed84c6362b739c7241650e637e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b02d7318b4d25a388d2893a83e60e3a06c5de844")]
 [assembly: System.Reflection.AssemblyProductAttribute("C. Where\'s the Bishop")]
 [assembly: System.Reflection.AssemblyTitleAttribute("C. Where\'s the Bishop")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

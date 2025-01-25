@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Preparing for the Olympiad\bin\Debug\net8.0\A. Preparing for the Olympiad.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Preparing for the Olympiad\bin\Debug\net8.0\A. Preparing for the Olympiad.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Preparing for the Olympiad\bin\Debug\net8.0\A. Preparing for the Olympiad.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Preparing for the Olympiad\bin\Debug\net8.0\A. Preparing for the Olympiad.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Preparing for the Olympiad\bin\Debug\net8.0\A. Preparing for the Olympiad.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Preparing for the Olympiad\obj\Debug\net8.0\A. Preparing for the Olympiad.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Preparing for the Olympiad\obj\Debug\net8.0\A. Preparing for the Olympiad.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Preparing for the Olympiad\obj\Debug\net8.0\A. Preparing for the Olympiad.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Preparing for the Olympiad\obj\Debug\net8.0\A. Preparing for the Olympiad.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Preparing for the Olympiad\obj\Debug\net8.0\A. Preparing for the Olympiad.sourcelink.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Preparing for the Olympiad\obj\Debug\net8.0\A. Preparing for the Olympiad.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Preparing for the Olympiad\obj\Debug\net8.0\refint\A. Preparing for the Olympiad.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Preparing for the Olympiad\obj\Debug\net8.0\A. Preparing for the Olympiad.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Preparing for the Olympiad\obj\Debug\net8.0\A. Preparing for the Olympiad.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Preparing for the Olympiad\obj\Debug\net8.0\ref\A. Preparing for the Olympiad.dll
