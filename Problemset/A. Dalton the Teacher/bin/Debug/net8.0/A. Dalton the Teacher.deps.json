@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "A. Dalton the Teacher/1.0.0": {
+        "runtime": {
+          "A. Dalton the Teacher.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "A. Dalton the Teacher/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

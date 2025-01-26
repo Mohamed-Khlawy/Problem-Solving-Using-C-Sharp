@@ -494,3 +494,9 @@ B. Prefiquence ==> https://codeforces.com/problemset/problem/1968/B
 
 A. Preparing for the Olympiad ==> https://codeforces.com/problemset/problem/2051/A
 
+B. The Corridor or There and Back Again ==> https://codeforces.com/problemset/problem/1872/B
+
+A. Dalton the Teacher ==> https://codeforces.com/problemset/problem/1855/A
+
+A. Find The Array ==> https://codeforces.com/problemset/problem/1550/A
+

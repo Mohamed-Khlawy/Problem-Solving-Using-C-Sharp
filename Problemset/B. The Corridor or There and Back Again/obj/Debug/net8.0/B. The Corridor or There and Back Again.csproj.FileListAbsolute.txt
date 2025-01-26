@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. The Corridor or There and Back Again\bin\Debug\net8.0\B. The Corridor or There and Back Again.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. The Corridor or There and Back Again\bin\Debug\net8.0\B. The Corridor or There and Back Again.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. The Corridor or There and Back Again\bin\Debug\net8.0\B. The Corridor or There and Back Again.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. The Corridor or There and Back Again\bin\Debug\net8.0\B. The Corridor or There and Back Again.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. The Corridor or There and Back Again\bin\Debug\net8.0\B. The Corridor or There and Back Again.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. The Corridor or There and Back Again\obj\Debug\net8.0\B. The Corridor or There and Back Again.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. The Corridor or There and Back Again\obj\Debug\net8.0\B. The Corridor or There and Back Again.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. The Corridor or There and Back Again\obj\Debug\net8.0\B. The Corridor or There and Back Again.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. The Corridor or There and Back Again\obj\Debug\net8.0\B. The Corridor or There and Back Again.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. The Corridor or There and Back Again\obj\Debug\net8.0\B. The Corridor or There and Back Again.sourcelink.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. The Corridor or There and Back Again\obj\Debug\net8.0\B. The Corridor or There and Back Again.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. The Corridor or There and Back Again\obj\Debug\net8.0\refint\B. The Corridor or There and Back Again.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. The Corridor or There and Back Again\obj\Debug\net8.0\B. The Corridor or There and Back Again.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. The Corridor or There and Back Again\obj\Debug\net8.0\B. The Corridor or There and Back Again.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. The Corridor or There and Back Again\obj\Debug\net8.0\ref\B. The Corridor or There and Back Again.dll

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("B. Swap and Delete")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b02d7318b4d25a388d2893a83e60e3a06c5de844")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0bed4b462cd085200986e0c15aaf187a414dede5")]
 [assembly: System.Reflection.AssemblyProductAttribute("B. Swap and Delete")]
 [assembly: System.Reflection.AssemblyTitleAttribute("B. Swap and Delete")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

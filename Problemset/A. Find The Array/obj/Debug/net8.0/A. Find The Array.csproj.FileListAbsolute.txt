@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Find The Array\bin\Debug\net8.0\A. Find The Array.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Find The Array\bin\Debug\net8.0\A. Find The Array.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Find The Array\bin\Debug\net8.0\A. Find The Array.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Find The Array\bin\Debug\net8.0\A. Find The Array.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Find The Array\bin\Debug\net8.0\A. Find The Array.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Find The Array\obj\Debug\net8.0\A. Find The Array.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Find The Array\obj\Debug\net8.0\A. Find The Array.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Find The Array\obj\Debug\net8.0\A. Find The Array.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Find The Array\obj\Debug\net8.0\A. Find The Array.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Find The Array\obj\Debug\net8.0\A. Find The Array.sourcelink.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Find The Array\obj\Debug\net8.0\A. Find The Array.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Find The Array\obj\Debug\net8.0\refint\A. Find The Array.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Find The Array\obj\Debug\net8.0\A. Find The Array.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Find The Array\obj\Debug\net8.0\A. Find The Array.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Find The Array\obj\Debug\net8.0\ref\A. Find The Array.dll

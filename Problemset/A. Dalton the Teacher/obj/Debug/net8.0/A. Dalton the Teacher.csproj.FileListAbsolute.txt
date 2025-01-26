@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Dalton the Teacher\bin\Debug\net8.0\A. Dalton the Teacher.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Dalton the Teacher\bin\Debug\net8.0\A. Dalton the Teacher.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Dalton the Teacher\bin\Debug\net8.0\A. Dalton the Teacher.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Dalton the Teacher\bin\Debug\net8.0\A. Dalton the Teacher.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Dalton the Teacher\bin\Debug\net8.0\A. Dalton the Teacher.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Dalton the Teacher\obj\Debug\net8.0\A. Dalton the Teacher.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Dalton the Teacher\obj\Debug\net8.0\A. Dalton the Teacher.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Dalton the Teacher\obj\Debug\net8.0\A. Dalton the Teacher.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Dalton the Teacher\obj\Debug\net8.0\A. Dalton the Teacher.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Dalton the Teacher\obj\Debug\net8.0\A. Dalton the Teacher.sourcelink.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Dalton the Teacher\obj\Debug\net8.0\A. Dalton the Teacher.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Dalton the Teacher\obj\Debug\net8.0\refint\A. Dalton the Teacher.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Dalton the Teacher\obj\Debug\net8.0\A. Dalton the Teacher.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Dalton the Teacher\obj\Debug\net8.0\A. Dalton the Teacher.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Dalton the Teacher\obj\Debug\net8.0\ref\A. Dalton the Teacher.dll
