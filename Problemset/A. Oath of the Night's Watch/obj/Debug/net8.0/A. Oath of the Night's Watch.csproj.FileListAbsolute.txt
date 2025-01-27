@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Oath of the Night's Watch\bin\Debug\net8.0\A. Oath of the Night's Watch.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Oath of the Night's Watch\bin\Debug\net8.0\A. Oath of the Night's Watch.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Oath of the Night's Watch\bin\Debug\net8.0\A. Oath of the Night's Watch.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Oath of the Night's Watch\bin\Debug\net8.0\A. Oath of the Night's Watch.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Oath of the Night's Watch\bin\Debug\net8.0\A. Oath of the Night's Watch.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Oath of the Night's Watch\obj\Debug\net8.0\A. Oath of the Night's Watch.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Oath of the Night's Watch\obj\Debug\net8.0\A. Oath of the Night's Watch.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Oath of the Night's Watch\obj\Debug\net8.0\A. Oath of the Night's Watch.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Oath of the Night's Watch\obj\Debug\net8.0\A. Oath of the Night's Watch.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Oath of the Night's Watch\obj\Debug\net8.0\A. Oath of the Night's Watch.sourcelink.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Oath of the Night's Watch\obj\Debug\net8.0\A. Oath of the Night's Watch.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Oath of the Night's Watch\obj\Debug\net8.0\refint\A. Oath of the Night's Watch.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Oath of the Night's Watch\obj\Debug\net8.0\A. Oath of the Night's Watch.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Oath of the Night's Watch\obj\Debug\net8.0\A. Oath of the Night's Watch.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Oath of the Night's Watch\obj\Debug\net8.0\ref\A. Oath of the Night's Watch.dll

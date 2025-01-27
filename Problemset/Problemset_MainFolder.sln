@@ -515,6 +515,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A. Setting up Camp", "A. Se
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A. Zhan's Blender", "A. Zhan's Blender\A. Zhan's Blender.csproj", "{07A1E5B3-61FD-4F23-8E8B-5EB7B66E0968}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "B. Bogosort", "B. Bogosort\B. Bogosort.csproj", "{6BC9EBC5-E79C-47A2-8268-966CAD697571}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A. Oath of the Night's Watch", "A. Oath of the Night's Watch\A. Oath of the Night's Watch.csproj", "{6184B941-7BF6-4A69-B208-4CE481C4A543}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -1545,6 +1549,14 @@ Global
 		{07A1E5B3-61FD-4F23-8E8B-5EB7B66E0968}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{07A1E5B3-61FD-4F23-8E8B-5EB7B66E0968}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{07A1E5B3-61FD-4F23-8E8B-5EB7B66E0968}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6BC9EBC5-E79C-47A2-8268-966CAD697571}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6BC9EBC5-E79C-47A2-8268-966CAD697571}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6BC9EBC5-E79C-47A2-8268-966CAD697571}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6BC9EBC5-E79C-47A2-8268-966CAD697571}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6184B941-7BF6-4A69-B208-4CE481C4A543}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6184B941-7BF6-4A69-B208-4CE481C4A543}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6184B941-7BF6-4A69-B208-4CE481C4A543}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6184B941-7BF6-4A69-B208-4CE481C4A543}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

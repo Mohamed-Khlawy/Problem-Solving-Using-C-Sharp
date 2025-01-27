@@ -506,3 +506,7 @@ A. Setting up Camp ==> https://codeforces.com/problemset/problem/1945/A
 
 A. Zhan's Blender ==> https://codeforces.com/problemset/problem/2013/A
 
+B. Bogosort ==> https://codeforces.com/problemset/problem/1312/B
+
+A. Oath of the Night's Watch ==> https://codeforces.com/problemset/problem/768/A
+
