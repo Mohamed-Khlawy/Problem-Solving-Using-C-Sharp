@@ -1,0 +1,5 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Setting up Camp\obj\Debug\net8.0\A. Setting up Camp.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Setting up Camp\obj\Debug\net8.0\A. Setting up Camp.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Setting up Camp\obj\Debug\net8.0\A. Setting up Camp.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Setting up Camp\obj\Debug\net8.0\A. Setting up Camp.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Setting up Camp\obj\Debug\net8.0\A. Setting up Camp.sourcelink.json

@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Zhan's Blender\bin\Debug\net8.0\A. Zhan's Blender.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Zhan's Blender\bin\Debug\net8.0\A. Zhan's Blender.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Zhan's Blender\bin\Debug\net8.0\A. Zhan's Blender.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Zhan's Blender\bin\Debug\net8.0\A. Zhan's Blender.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Zhan's Blender\bin\Debug\net8.0\A. Zhan's Blender.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Zhan's Blender\obj\Debug\net8.0\A. Zhan's Blender.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Zhan's Blender\obj\Debug\net8.0\A. Zhan's Blender.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Zhan's Blender\obj\Debug\net8.0\A. Zhan's Blender.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Zhan's Blender\obj\Debug\net8.0\A. Zhan's Blender.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Zhan's Blender\obj\Debug\net8.0\A. Zhan's Blender.sourcelink.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Zhan's Blender\obj\Debug\net8.0\A. Zhan's Blender.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Zhan's Blender\obj\Debug\net8.0\refint\A. Zhan's Blender.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Zhan's Blender\obj\Debug\net8.0\A. Zhan's Blender.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Zhan's Blender\obj\Debug\net8.0\A. Zhan's Blender.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Zhan's Blender\obj\Debug\net8.0\ref\A. Zhan's Blender.dll

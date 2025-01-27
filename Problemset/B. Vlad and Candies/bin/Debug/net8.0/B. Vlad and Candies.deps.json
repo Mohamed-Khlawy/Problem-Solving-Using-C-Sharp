@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "B. Vlad and Candies/1.0.0": {
+        "runtime": {
+          "B. Vlad and Candies.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "B. Vlad and Candies/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
