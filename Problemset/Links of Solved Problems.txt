@@ -514,3 +514,7 @@ A. Satisfying Constraints ==> https://codeforces.com/problemset/problem/1920/A
 
 B. DIV + MOD ==> https://codeforces.com/problemset/problem/1650/B
 
+A. Equalize Prices Again ==> https://codeforces.com/problemset/problem/1234/A
+
+A. Ezzat and Two Subsequences ==> https://codeforces.com/problemset/problem/1557/A
+

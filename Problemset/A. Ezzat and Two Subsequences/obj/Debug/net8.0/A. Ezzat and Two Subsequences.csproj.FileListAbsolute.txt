@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Ezzat and Two Subsequences\bin\Debug\net8.0\A. Ezzat and Two Subsequences.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Ezzat and Two Subsequences\bin\Debug\net8.0\A. Ezzat and Two Subsequences.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Ezzat and Two Subsequences\bin\Debug\net8.0\A. Ezzat and Two Subsequences.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Ezzat and Two Subsequences\bin\Debug\net8.0\A. Ezzat and Two Subsequences.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Ezzat and Two Subsequences\bin\Debug\net8.0\A. Ezzat and Two Subsequences.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Ezzat and Two Subsequences\obj\Debug\net8.0\A. Ezzat and Two Subsequences.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Ezzat and Two Subsequences\obj\Debug\net8.0\A. Ezzat and Two Subsequences.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Ezzat and Two Subsequences\obj\Debug\net8.0\A. Ezzat and Two Subsequences.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Ezzat and Two Subsequences\obj\Debug\net8.0\A. Ezzat and Two Subsequences.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Ezzat and Two Subsequences\obj\Debug\net8.0\A. Ezzat and Two Subsequences.sourcelink.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Ezzat and Two Subsequences\obj\Debug\net8.0\A. Ezzat and Two Subsequences.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Ezzat and Two Subsequences\obj\Debug\net8.0\refint\A. Ezzat and Two Subsequences.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Ezzat and Two Subsequences\obj\Debug\net8.0\A. Ezzat and Two Subsequences.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Ezzat and Two Subsequences\obj\Debug\net8.0\A. Ezzat and Two Subsequences.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Ezzat and Two Subsequences\obj\Debug\net8.0\ref\A. Ezzat and Two Subsequences.dll

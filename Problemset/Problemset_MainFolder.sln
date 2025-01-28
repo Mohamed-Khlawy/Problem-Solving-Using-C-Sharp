@@ -523,6 +523,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A. Satisfying Constraints",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "B. DIV + MOD", "B. DIV + MOD\B. DIV + MOD.csproj", "{694B8428-61FA-4087-9BEE-A136B0C83F20}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A. Equalize Prices Again", "A. Equalize Prices Again\A. Equalize Prices Again.csproj", "{998BF289-CD0B-4ECC-BDE2-E431792D2850}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A. Ezzat and Two Subsequences", "A. Ezzat and Two Subsequences\A. Ezzat and Two Subsequences.csproj", "{3B9AC854-85D4-4028-B13B-E3CC32404EF1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -1569,6 +1573,14 @@ Global
 		{694B8428-61FA-4087-9BEE-A136B0C83F20}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{694B8428-61FA-4087-9BEE-A136B0C83F20}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{694B8428-61FA-4087-9BEE-A136B0C83F20}.Release|Any CPU.Build.0 = Release|Any CPU
+		{998BF289-CD0B-4ECC-BDE2-E431792D2850}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{998BF289-CD0B-4ECC-BDE2-E431792D2850}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{998BF289-CD0B-4ECC-BDE2-E431792D2850}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{998BF289-CD0B-4ECC-BDE2-E431792D2850}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B9AC854-85D4-4028-B13B-E3CC32404EF1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B9AC854-85D4-4028-B13B-E3CC32404EF1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B9AC854-85D4-4028-B13B-E3CC32404EF1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B9AC854-85D4-4028-B13B-E3CC32404EF1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Equalize Prices Again\bin\Debug\net8.0\A. Equalize Prices Again.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Equalize Prices Again\bin\Debug\net8.0\A. Equalize Prices Again.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Equalize Prices Again\bin\Debug\net8.0\A. Equalize Prices Again.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Equalize Prices Again\bin\Debug\net8.0\A. Equalize Prices Again.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Equalize Prices Again\bin\Debug\net8.0\A. Equalize Prices Again.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Equalize Prices Again\obj\Debug\net8.0\A. Equalize Prices Again.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Equalize Prices Again\obj\Debug\net8.0\A. Equalize Prices Again.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Equalize Prices Again\obj\Debug\net8.0\A. Equalize Prices Again.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Equalize Prices Again\obj\Debug\net8.0\A. Equalize Prices Again.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Equalize Prices Again\obj\Debug\net8.0\A. Equalize Prices Again.sourcelink.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Equalize Prices Again\obj\Debug\net8.0\A. Equalize Prices Again.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Equalize Prices Again\obj\Debug\net8.0\refint\A. Equalize Prices Again.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Equalize Prices Again\obj\Debug\net8.0\A. Equalize Prices Again.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Equalize Prices Again\obj\Debug\net8.0\A. Equalize Prices Again.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Equalize Prices Again\obj\Debug\net8.0\ref\A. Equalize Prices Again.dll
