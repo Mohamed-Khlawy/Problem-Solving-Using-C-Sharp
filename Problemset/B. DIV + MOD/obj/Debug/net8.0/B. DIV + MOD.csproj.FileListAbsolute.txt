@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. DIV + MOD\bin\Debug\net8.0\B. DIV + MOD.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. DIV + MOD\bin\Debug\net8.0\B. DIV + MOD.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. DIV + MOD\bin\Debug\net8.0\B. DIV + MOD.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. DIV + MOD\bin\Debug\net8.0\B. DIV + MOD.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. DIV + MOD\bin\Debug\net8.0\B. DIV + MOD.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. DIV + MOD\obj\Debug\net8.0\B. DIV + MOD.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. DIV + MOD\obj\Debug\net8.0\B. DIV + MOD.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. DIV + MOD\obj\Debug\net8.0\B. DIV + MOD.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. DIV + MOD\obj\Debug\net8.0\B. DIV + MOD.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. DIV + MOD\obj\Debug\net8.0\B. DIV + MOD.sourcelink.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. DIV + MOD\obj\Debug\net8.0\B. DIV + MOD.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. DIV + MOD\obj\Debug\net8.0\refint\B. DIV + MOD.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. DIV + MOD\obj\Debug\net8.0\B. DIV + MOD.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. DIV + MOD\obj\Debug\net8.0\B. DIV + MOD.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. DIV + MOD\obj\Debug\net8.0\ref\B. DIV + MOD.dll

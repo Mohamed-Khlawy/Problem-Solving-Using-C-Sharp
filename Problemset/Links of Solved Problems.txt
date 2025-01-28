@@ -510,3 +510,7 @@ B. Bogosort ==> https://codeforces.com/problemset/problem/1312/B
 
 A. Oath of the Night's Watch ==> https://codeforces.com/problemset/problem/768/A
 
+A. Satisfying Constraints ==> https://codeforces.com/problemset/problem/1920/A
+
+B. DIV + MOD ==> https://codeforces.com/problemset/problem/1650/B
+

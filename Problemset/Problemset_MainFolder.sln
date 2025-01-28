@@ -519,6 +519,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "B. Bogosort", "B. Bogosort\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A. Oath of the Night's Watch", "A. Oath of the Night's Watch\A. Oath of the Night's Watch.csproj", "{6184B941-7BF6-4A69-B208-4CE481C4A543}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A. Satisfying Constraints", "A. Satisfying Constraints\A. Satisfying Constraints.csproj", "{C75FD28A-B4E0-4F6F-B782-97ECF5804A83}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "B. DIV + MOD", "B. DIV + MOD\B. DIV + MOD.csproj", "{694B8428-61FA-4087-9BEE-A136B0C83F20}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -1557,6 +1561,14 @@ Global
 		{6184B941-7BF6-4A69-B208-4CE481C4A543}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6184B941-7BF6-4A69-B208-4CE481C4A543}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6184B941-7BF6-4A69-B208-4CE481C4A543}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C75FD28A-B4E0-4F6F-B782-97ECF5804A83}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C75FD28A-B4E0-4F6F-B782-97ECF5804A83}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C75FD28A-B4E0-4F6F-B782-97ECF5804A83}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C75FD28A-B4E0-4F6F-B782-97ECF5804A83}.Release|Any CPU.Build.0 = Release|Any CPU
+		{694B8428-61FA-4087-9BEE-A136B0C83F20}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{694B8428-61FA-4087-9BEE-A136B0C83F20}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{694B8428-61FA-4087-9BEE-A136B0C83F20}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{694B8428-61FA-4087-9BEE-A136B0C83F20}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

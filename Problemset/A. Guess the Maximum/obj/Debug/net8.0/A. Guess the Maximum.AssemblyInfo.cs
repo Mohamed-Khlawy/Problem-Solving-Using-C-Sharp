@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("A. Guess the Maximum")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2bf9c33218a17028ea2164524ea296f724e2d80f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c4090a6e4bb2999753e2343995fc20b9e1598a63")]
 [assembly: System.Reflection.AssemblyProductAttribute("A. Guess the Maximum")]
 [assembly: System.Reflection.AssemblyTitleAttribute("A. Guess the Maximum")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
