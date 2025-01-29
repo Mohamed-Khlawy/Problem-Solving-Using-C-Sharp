@@ -527,6 +527,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A. Equalize Prices Again", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A. Ezzat and Two Subsequences", "A. Ezzat and Two Subsequences\A. Ezzat and Two Subsequences.csproj", "{3B9AC854-85D4-4028-B13B-E3CC32404EF1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A. Jellyfish and Undertale", "A. Jellyfish and Undertale\A. Jellyfish and Undertale.csproj", "{1030013F-522D-46AC-A9EB-78F3112B5EE7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -1581,6 +1583,10 @@ Global
 		{3B9AC854-85D4-4028-B13B-E3CC32404EF1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3B9AC854-85D4-4028-B13B-E3CC32404EF1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3B9AC854-85D4-4028-B13B-E3CC32404EF1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1030013F-522D-46AC-A9EB-78F3112B5EE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1030013F-522D-46AC-A9EB-78F3112B5EE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1030013F-522D-46AC-A9EB-78F3112B5EE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1030013F-522D-46AC-A9EB-78F3112B5EE7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Jellyfish and Undertale\bin\Debug\net8.0\A. Jellyfish and Undertale.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Jellyfish and Undertale\bin\Debug\net8.0\A. Jellyfish and Undertale.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Jellyfish and Undertale\bin\Debug\net8.0\A. Jellyfish and Undertale.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Jellyfish and Undertale\bin\Debug\net8.0\A. Jellyfish and Undertale.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Jellyfish and Undertale\bin\Debug\net8.0\A. Jellyfish and Undertale.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Jellyfish and Undertale\obj\Debug\net8.0\A. Jellyfish and Undertale.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Jellyfish and Undertale\obj\Debug\net8.0\A. Jellyfish and Undertale.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Jellyfish and Undertale\obj\Debug\net8.0\A. Jellyfish and Undertale.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Jellyfish and Undertale\obj\Debug\net8.0\A. Jellyfish and Undertale.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Jellyfish and Undertale\obj\Debug\net8.0\A. Jellyfish and Undertale.sourcelink.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Jellyfish and Undertale\obj\Debug\net8.0\A. Jellyfish and Undertale.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Jellyfish and Undertale\obj\Debug\net8.0\refint\A. Jellyfish and Undertale.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Jellyfish and Undertale\obj\Debug\net8.0\A. Jellyfish and Undertale.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Jellyfish and Undertale\obj\Debug\net8.0\A. Jellyfish and Undertale.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Jellyfish and Undertale\obj\Debug\net8.0\ref\A. Jellyfish and Undertale.dll

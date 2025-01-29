@@ -518,3 +518,5 @@ A. Equalize Prices Again ==> https://codeforces.com/problemset/problem/1234/A
 
 A. Ezzat and Two Subsequences ==> https://codeforces.com/problemset/problem/1557/A
 
+A. Jellyfish and Undertale ==> https://codeforces.com/problemset/problem/1875/A
+
