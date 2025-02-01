@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("B. Seating in a Bus")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7774dc3a21a6debcbfa067756965fdcdf3acfa64")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8e8c5ece04ea8af662ef4650dab026e02edf6863")]
 [assembly: System.Reflection.AssemblyProductAttribute("B. Seating in a Bus")]
 [assembly: System.Reflection.AssemblyTitleAttribute("B. Seating in a Bus")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

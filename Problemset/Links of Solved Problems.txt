@@ -520,3 +520,9 @@ A. Ezzat and Two Subsequences ==> https://codeforces.com/problemset/problem/1557
 
 A. Jellyfish and Undertale ==> https://codeforces.com/problemset/problem/1875/A
 
+B. New Theatre Square ==> https://codeforces.com/problemset/problem/1359/B
+
+A. Three Piles of Candies ==> https://codeforces.com/problemset/problem/1196/A
+
+A. Lunch Rush ==> https://codeforces.com/problemset/problem/276/A
+

@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Lunch Rush\bin\Debug\net8.0\A. Lunch Rush.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Lunch Rush\bin\Debug\net8.0\A. Lunch Rush.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Lunch Rush\bin\Debug\net8.0\A. Lunch Rush.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Lunch Rush\bin\Debug\net8.0\A. Lunch Rush.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Lunch Rush\bin\Debug\net8.0\A. Lunch Rush.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Lunch Rush\obj\Debug\net8.0\A. Lunch Rush.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Lunch Rush\obj\Debug\net8.0\A. Lunch Rush.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Lunch Rush\obj\Debug\net8.0\A. Lunch Rush.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Lunch Rush\obj\Debug\net8.0\A. Lunch Rush.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Lunch Rush\obj\Debug\net8.0\A. Lunch Rush.sourcelink.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Lunch Rush\obj\Debug\net8.0\A. Lunch Rush.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Lunch Rush\obj\Debug\net8.0\refint\A. Lunch Rush.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Lunch Rush\obj\Debug\net8.0\A. Lunch Rush.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Lunch Rush\obj\Debug\net8.0\A. Lunch Rush.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Lunch Rush\obj\Debug\net8.0\ref\A. Lunch Rush.dll

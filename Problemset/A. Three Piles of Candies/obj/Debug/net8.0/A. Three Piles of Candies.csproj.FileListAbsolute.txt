@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Three Piles of Candies\bin\Debug\net8.0\A. Three Piles of Candies.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Three Piles of Candies\bin\Debug\net8.0\A. Three Piles of Candies.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Three Piles of Candies\bin\Debug\net8.0\A. Three Piles of Candies.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Three Piles of Candies\bin\Debug\net8.0\A. Three Piles of Candies.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Three Piles of Candies\bin\Debug\net8.0\A. Three Piles of Candies.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Three Piles of Candies\obj\Debug\net8.0\A. Three Piles of Candies.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Three Piles of Candies\obj\Debug\net8.0\A. Three Piles of Candies.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Three Piles of Candies\obj\Debug\net8.0\A. Three Piles of Candies.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Three Piles of Candies\obj\Debug\net8.0\A. Three Piles of Candies.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Three Piles of Candies\obj\Debug\net8.0\A. Three Piles of Candies.sourcelink.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Three Piles of Candies\obj\Debug\net8.0\A. Three Piles of Candies.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Three Piles of Candies\obj\Debug\net8.0\refint\A. Three Piles of Candies.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Three Piles of Candies\obj\Debug\net8.0\A. Three Piles of Candies.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Three Piles of Candies\obj\Debug\net8.0\A. Three Piles of Candies.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Three Piles of Candies\obj\Debug\net8.0\ref\A. Three Piles of Candies.dll

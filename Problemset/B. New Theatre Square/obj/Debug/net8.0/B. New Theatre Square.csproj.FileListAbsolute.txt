@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. New Theatre Square\bin\Debug\net8.0\B. New Theatre Square.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. New Theatre Square\bin\Debug\net8.0\B. New Theatre Square.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. New Theatre Square\bin\Debug\net8.0\B. New Theatre Square.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. New Theatre Square\bin\Debug\net8.0\B. New Theatre Square.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. New Theatre Square\bin\Debug\net8.0\B. New Theatre Square.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. New Theatre Square\obj\Debug\net8.0\B. New Theatre Square.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. New Theatre Square\obj\Debug\net8.0\B. New Theatre Square.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. New Theatre Square\obj\Debug\net8.0\B. New Theatre Square.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. New Theatre Square\obj\Debug\net8.0\B. New Theatre Square.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. New Theatre Square\obj\Debug\net8.0\B. New Theatre Square.sourcelink.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. New Theatre Square\obj\Debug\net8.0\B. New Theatre Square.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. New Theatre Square\obj\Debug\net8.0\refint\B. New Theatre Square.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. New Theatre Square\obj\Debug\net8.0\B. New Theatre Square.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. New Theatre Square\obj\Debug\net8.0\B. New Theatre Square.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. New Theatre Square\obj\Debug\net8.0\ref\B. New Theatre Square.dll

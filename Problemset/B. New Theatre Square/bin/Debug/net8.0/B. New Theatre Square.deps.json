@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "B. New Theatre Square/1.0.0": {
+        "runtime": {
+          "B. New Theatre Square.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "B. New Theatre Square/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
