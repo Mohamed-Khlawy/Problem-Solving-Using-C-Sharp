@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\D. Gold Rush\bin\Debug\net8.0\D. Gold Rush.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\D. Gold Rush\bin\Debug\net8.0\D. Gold Rush.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\D. Gold Rush\bin\Debug\net8.0\D. Gold Rush.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\D. Gold Rush\bin\Debug\net8.0\D. Gold Rush.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\D. Gold Rush\bin\Debug\net8.0\D. Gold Rush.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\D. Gold Rush\obj\Debug\net8.0\D. Gold Rush.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\D. Gold Rush\obj\Debug\net8.0\D. Gold Rush.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\D. Gold Rush\obj\Debug\net8.0\D. Gold Rush.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\D. Gold Rush\obj\Debug\net8.0\D. Gold Rush.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\D. Gold Rush\obj\Debug\net8.0\D. Gold Rush.sourcelink.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\D. Gold Rush\obj\Debug\net8.0\D. Gold Rush.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\D. Gold Rush\obj\Debug\net8.0\refint\D. Gold Rush.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\D. Gold Rush\obj\Debug\net8.0\D. Gold Rush.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\D. Gold Rush\obj\Debug\net8.0\D. Gold Rush.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\D. Gold Rush\obj\Debug\net8.0\ref\D. Gold Rush.dll

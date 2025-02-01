@@ -1,0 +1,5 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Minority\obj\Debug\net8.0\B. Minority.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Minority\obj\Debug\net8.0\B. Minority.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Minority\obj\Debug\net8.0\B. Minority.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Minority\obj\Debug\net8.0\B. Minority.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Minority\obj\Debug\net8.0\B. Minority.sourcelink.json

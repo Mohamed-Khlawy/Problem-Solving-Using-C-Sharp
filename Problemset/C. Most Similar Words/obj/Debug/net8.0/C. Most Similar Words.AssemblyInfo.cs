@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("C. Most Similar Words")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8e8c5ece04ea8af662ef4650dab026e02edf6863")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+49450095ef5fc97a2dd5c1bad78c0d592bcf5c8a")]
 [assembly: System.Reflection.AssemblyProductAttribute("C. Most Similar Words")]
 [assembly: System.Reflection.AssemblyTitleAttribute("C. Most Similar Words")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

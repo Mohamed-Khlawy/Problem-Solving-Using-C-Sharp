@@ -526,3 +526,9 @@ A. Three Piles of Candies ==> https://codeforces.com/problemset/problem/1196/A
 
 A. Lunch Rush ==> https://codeforces.com/problemset/problem/276/A
 
+D. Gold Rush ==> https://codeforces.com/problemset/problem/1829/D
+
+B. Minority ==> https://codeforces.com/problemset/problem/1633/B
+
+B. Red and Blue ==> https://codeforces.com/problemset/problem/1469/B
+

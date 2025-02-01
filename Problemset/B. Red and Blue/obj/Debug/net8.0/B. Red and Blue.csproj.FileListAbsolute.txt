@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Red and Blue\bin\Debug\net8.0\B. Red and Blue.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Red and Blue\bin\Debug\net8.0\B. Red and Blue.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Red and Blue\bin\Debug\net8.0\B. Red and Blue.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Red and Blue\bin\Debug\net8.0\B. Red and Blue.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Red and Blue\bin\Debug\net8.0\B. Red and Blue.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Red and Blue\obj\Debug\net8.0\B. Red and Blue.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Red and Blue\obj\Debug\net8.0\B. Red and Blue.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Red and Blue\obj\Debug\net8.0\B. Red and Blue.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Red and Blue\obj\Debug\net8.0\B. Red and Blue.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Red and Blue\obj\Debug\net8.0\B. Red and Blue.sourcelink.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Red and Blue\obj\Debug\net8.0\B. Red and Blue.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Red and Blue\obj\Debug\net8.0\refint\B. Red and Blue.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Red and Blue\obj\Debug\net8.0\B. Red and Blue.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Red and Blue\obj\Debug\net8.0\B. Red and Blue.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Red and Blue\obj\Debug\net8.0\ref\B. Red and Blue.dll
