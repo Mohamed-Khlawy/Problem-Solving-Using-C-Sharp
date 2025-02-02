@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Polycarp Writes a String from Memory\bin\Debug\net8.0\B. Polycarp Writes a String from Memory.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Polycarp Writes a String from Memory\bin\Debug\net8.0\B. Polycarp Writes a String from Memory.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Polycarp Writes a String from Memory\bin\Debug\net8.0\B. Polycarp Writes a String from Memory.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Polycarp Writes a String from Memory\bin\Debug\net8.0\B. Polycarp Writes a String from Memory.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Polycarp Writes a String from Memory\bin\Debug\net8.0\B. Polycarp Writes a String from Memory.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Polycarp Writes a String from Memory\obj\Debug\net8.0\B. Polycarp Writes a String from Memory.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Polycarp Writes a String from Memory\obj\Debug\net8.0\B. Polycarp Writes a String from Memory.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Polycarp Writes a String from Memory\obj\Debug\net8.0\B. Polycarp Writes a String from Memory.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Polycarp Writes a String from Memory\obj\Debug\net8.0\B. Polycarp Writes a String from Memory.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Polycarp Writes a String from Memory\obj\Debug\net8.0\B. Polycarp Writes a String from Memory.sourcelink.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Polycarp Writes a String from Memory\obj\Debug\net8.0\B. Polycarp Writes a String from Memory.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Polycarp Writes a String from Memory\obj\Debug\net8.0\refint\B. Polycarp Writes a String from Memory.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Polycarp Writes a String from Memory\obj\Debug\net8.0\B. Polycarp Writes a String from Memory.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Polycarp Writes a String from Memory\obj\Debug\net8.0\B. Polycarp Writes a String from Memory.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Polycarp Writes a String from Memory\obj\Debug\net8.0\ref\B. Polycarp Writes a String from Memory.dll

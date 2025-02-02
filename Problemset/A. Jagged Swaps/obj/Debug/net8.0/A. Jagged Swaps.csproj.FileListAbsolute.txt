@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Jagged Swaps\bin\Debug\net8.0\A. Jagged Swaps.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Jagged Swaps\bin\Debug\net8.0\A. Jagged Swaps.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Jagged Swaps\bin\Debug\net8.0\A. Jagged Swaps.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Jagged Swaps\bin\Debug\net8.0\A. Jagged Swaps.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Jagged Swaps\bin\Debug\net8.0\A. Jagged Swaps.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Jagged Swaps\obj\Debug\net8.0\A. Jagged Swaps.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Jagged Swaps\obj\Debug\net8.0\A. Jagged Swaps.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Jagged Swaps\obj\Debug\net8.0\A. Jagged Swaps.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Jagged Swaps\obj\Debug\net8.0\A. Jagged Swaps.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Jagged Swaps\obj\Debug\net8.0\A. Jagged Swaps.sourcelink.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Jagged Swaps\obj\Debug\net8.0\A. Jagged Swaps.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Jagged Swaps\obj\Debug\net8.0\refint\A. Jagged Swaps.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Jagged Swaps\obj\Debug\net8.0\A. Jagged Swaps.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Jagged Swaps\obj\Debug\net8.0\A. Jagged Swaps.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Jagged Swaps\obj\Debug\net8.0\ref\A. Jagged Swaps.dll

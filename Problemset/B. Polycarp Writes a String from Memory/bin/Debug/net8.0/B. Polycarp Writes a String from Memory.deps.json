@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "B. Polycarp Writes a String from Memory/1.0.0": {
+        "runtime": {
+          "B. Polycarp Writes a String from Memory.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "B. Polycarp Writes a String from Memory/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

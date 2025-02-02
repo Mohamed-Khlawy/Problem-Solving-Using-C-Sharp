@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Regular Bracket Sequence\bin\Debug\net8.0\A. Regular Bracket Sequence.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Regular Bracket Sequence\bin\Debug\net8.0\A. Regular Bracket Sequence.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Regular Bracket Sequence\bin\Debug\net8.0\A. Regular Bracket Sequence.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Regular Bracket Sequence\bin\Debug\net8.0\A. Regular Bracket Sequence.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Regular Bracket Sequence\bin\Debug\net8.0\A. Regular Bracket Sequence.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Regular Bracket Sequence\obj\Debug\net8.0\A. Regular Bracket Sequence.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Regular Bracket Sequence\obj\Debug\net8.0\A. Regular Bracket Sequence.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Regular Bracket Sequence\obj\Debug\net8.0\A. Regular Bracket Sequence.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Regular Bracket Sequence\obj\Debug\net8.0\A. Regular Bracket Sequence.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Regular Bracket Sequence\obj\Debug\net8.0\A. Regular Bracket Sequence.sourcelink.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Regular Bracket Sequence\obj\Debug\net8.0\A. Regular Bracket Sequence.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Regular Bracket Sequence\obj\Debug\net8.0\refint\A. Regular Bracket Sequence.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Regular Bracket Sequence\obj\Debug\net8.0\A. Regular Bracket Sequence.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Regular Bracket Sequence\obj\Debug\net8.0\A. Regular Bracket Sequence.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Regular Bracket Sequence\obj\Debug\net8.0\ref\A. Regular Bracket Sequence.dll

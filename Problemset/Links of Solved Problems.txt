@@ -532,3 +532,9 @@ B. Minority ==> https://codeforces.com/problemset/problem/1633/B
 
 B. Red and Blue ==> https://codeforces.com/problemset/problem/1469/B
 
+A. Jagged Swaps ==> https://codeforces.com/problemset/problem/1896/A
+
+A. Regular Bracket Sequence ==> https://codeforces.com/problemset/problem/1469/A
+
+B. Polycarp Writes a String from Memory ==> https://codeforces.com/problemset/problem/1702/B
+

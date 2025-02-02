@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "A. Regular Bracket Sequence/1.0.0": {
+        "runtime": {
+          "A. Regular Bracket Sequence.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "A. Regular Bracket Sequence/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
