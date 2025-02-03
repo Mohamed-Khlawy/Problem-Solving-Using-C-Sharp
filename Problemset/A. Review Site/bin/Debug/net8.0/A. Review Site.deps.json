@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "A. Review Site/1.0.0": {
+        "runtime": {
+          "A. Review Site.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "A. Review Site/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

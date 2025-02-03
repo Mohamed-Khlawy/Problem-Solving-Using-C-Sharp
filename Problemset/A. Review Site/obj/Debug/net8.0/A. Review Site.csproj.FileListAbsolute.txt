@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Review Site\bin\Debug\net8.0\A. Review Site.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Review Site\bin\Debug\net8.0\A. Review Site.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Review Site\bin\Debug\net8.0\A. Review Site.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Review Site\bin\Debug\net8.0\A. Review Site.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Review Site\bin\Debug\net8.0\A. Review Site.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Review Site\obj\Debug\net8.0\A. Review Site.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Review Site\obj\Debug\net8.0\A. Review Site.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Review Site\obj\Debug\net8.0\A. Review Site.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Review Site\obj\Debug\net8.0\A. Review Site.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Review Site\obj\Debug\net8.0\A. Review Site.sourcelink.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Review Site\obj\Debug\net8.0\A. Review Site.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Review Site\obj\Debug\net8.0\refint\A. Review Site.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Review Site\obj\Debug\net8.0\A. Review Site.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Review Site\obj\Debug\net8.0\A. Review Site.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Review Site\obj\Debug\net8.0\ref\A. Review Site.dll

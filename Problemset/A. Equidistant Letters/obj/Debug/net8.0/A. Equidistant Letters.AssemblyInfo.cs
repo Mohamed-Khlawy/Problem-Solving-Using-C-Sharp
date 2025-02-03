@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("A. Equidistant Letters")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1e8167bb0761856a3eeaa6046a4cc387c5876b4a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+26b93b9037a0bf7181acf7c180219bac68721755")]
 [assembly: System.Reflection.AssemblyProductAttribute("A. Equidistant Letters")]
 [assembly: System.Reflection.AssemblyTitleAttribute("A. Equidistant Letters")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

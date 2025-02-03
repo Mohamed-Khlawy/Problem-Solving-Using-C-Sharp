@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Odd Grasshopper\bin\Debug\net8.0\B. Odd Grasshopper.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Odd Grasshopper\bin\Debug\net8.0\B. Odd Grasshopper.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Odd Grasshopper\bin\Debug\net8.0\B. Odd Grasshopper.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Odd Grasshopper\bin\Debug\net8.0\B. Odd Grasshopper.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Odd Grasshopper\bin\Debug\net8.0\B. Odd Grasshopper.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Odd Grasshopper\obj\Debug\net8.0\B. Odd Grasshopper.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Odd Grasshopper\obj\Debug\net8.0\B. Odd Grasshopper.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Odd Grasshopper\obj\Debug\net8.0\B. Odd Grasshopper.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Odd Grasshopper\obj\Debug\net8.0\B. Odd Grasshopper.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Odd Grasshopper\obj\Debug\net8.0\B. Odd Grasshopper.sourcelink.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Odd Grasshopper\obj\Debug\net8.0\B. Odd Grasshopper.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Odd Grasshopper\obj\Debug\net8.0\refint\B. Odd Grasshopper.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Odd Grasshopper\obj\Debug\net8.0\B. Odd Grasshopper.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Odd Grasshopper\obj\Debug\net8.0\B. Odd Grasshopper.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Odd Grasshopper\obj\Debug\net8.0\ref\B. Odd Grasshopper.dll

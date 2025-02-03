@@ -538,3 +538,9 @@ A. Regular Bracket Sequence ==> https://codeforces.com/problemset/problem/1469/A
 
 B. Polycarp Writes a String from Memory ==> https://codeforces.com/problemset/problem/1702/B
 
+B. Odd Grasshopper ==> https://codeforces.com/problemset/problem/1607/B
+
+A. Review Site ==> https://codeforces.com/problemset/problem/1511/A
+
+B. Fix You ==> https://codeforces.com/problemset/problem/1391/B
+

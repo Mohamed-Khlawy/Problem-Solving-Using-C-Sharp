@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Fix You\bin\Debug\net8.0\B. Fix You.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Fix You\bin\Debug\net8.0\B. Fix You.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Fix You\bin\Debug\net8.0\B. Fix You.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Fix You\bin\Debug\net8.0\B. Fix You.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Fix You\bin\Debug\net8.0\B. Fix You.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Fix You\obj\Debug\net8.0\B. Fix You.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Fix You\obj\Debug\net8.0\B. Fix You.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Fix You\obj\Debug\net8.0\B. Fix You.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Fix You\obj\Debug\net8.0\B. Fix You.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Fix You\obj\Debug\net8.0\B. Fix You.sourcelink.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Fix You\obj\Debug\net8.0\B. Fix You.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Fix You\obj\Debug\net8.0\refint\B. Fix You.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Fix You\obj\Debug\net8.0\B. Fix You.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Fix You\obj\Debug\net8.0\B. Fix You.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Fix You\obj\Debug\net8.0\ref\B. Fix You.dll
