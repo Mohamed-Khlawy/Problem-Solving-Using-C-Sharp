@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Bad Triangle\bin\Debug\net8.0\A. Bad Triangle.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Bad Triangle\bin\Debug\net8.0\A. Bad Triangle.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Bad Triangle\bin\Debug\net8.0\A. Bad Triangle.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Bad Triangle\bin\Debug\net8.0\A. Bad Triangle.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Bad Triangle\bin\Debug\net8.0\A. Bad Triangle.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Bad Triangle\obj\Debug\net8.0\A. Bad Triangle.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Bad Triangle\obj\Debug\net8.0\A. Bad Triangle.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Bad Triangle\obj\Debug\net8.0\A. Bad Triangle.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Bad Triangle\obj\Debug\net8.0\A. Bad Triangle.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Bad Triangle\obj\Debug\net8.0\A. Bad Triangle.sourcelink.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Bad Triangle\obj\Debug\net8.0\A. Bad Triangle.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Bad Triangle\obj\Debug\net8.0\refint\A. Bad Triangle.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Bad Triangle\obj\Debug\net8.0\A. Bad Triangle.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Bad Triangle\obj\Debug\net8.0\A. Bad Triangle.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Bad Triangle\obj\Debug\net8.0\ref\A. Bad Triangle.dll

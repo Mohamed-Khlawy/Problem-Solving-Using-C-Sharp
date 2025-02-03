@@ -544,3 +544,5 @@ A. Review Site ==> https://codeforces.com/problemset/problem/1511/A
 
 B. Fix You ==> https://codeforces.com/problemset/problem/1391/B
 
+A. Bad Triangle ==> https://codeforces.com/problemset/problem/1398/A
+
