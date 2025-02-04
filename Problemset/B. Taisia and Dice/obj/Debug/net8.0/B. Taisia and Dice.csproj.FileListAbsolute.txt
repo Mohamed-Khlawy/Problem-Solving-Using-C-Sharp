@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Taisia and Dice\bin\Debug\net8.0\B. Taisia and Dice.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Taisia and Dice\bin\Debug\net8.0\B. Taisia and Dice.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Taisia and Dice\bin\Debug\net8.0\B. Taisia and Dice.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Taisia and Dice\bin\Debug\net8.0\B. Taisia and Dice.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Taisia and Dice\bin\Debug\net8.0\B. Taisia and Dice.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Taisia and Dice\obj\Debug\net8.0\B. Taisia and Dice.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Taisia and Dice\obj\Debug\net8.0\B. Taisia and Dice.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Taisia and Dice\obj\Debug\net8.0\B. Taisia and Dice.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Taisia and Dice\obj\Debug\net8.0\B. Taisia and Dice.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Taisia and Dice\obj\Debug\net8.0\B. Taisia and Dice.sourcelink.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Taisia and Dice\obj\Debug\net8.0\B. Taisia and Dice.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Taisia and Dice\obj\Debug\net8.0\refint\B. Taisia and Dice.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Taisia and Dice\obj\Debug\net8.0\B. Taisia and Dice.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Taisia and Dice\obj\Debug\net8.0\B. Taisia and Dice.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Taisia and Dice\obj\Debug\net8.0\ref\B. Taisia and Dice.dll

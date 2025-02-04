@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("A. My First Sorting Problem")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+29cde7dcee5c762574138fdb3c255638266450e7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4ea4b2245e1782699d4af41f1148709ab8a54a33")]
 [assembly: System.Reflection.AssemblyProductAttribute("A. My First Sorting Problem")]
 [assembly: System.Reflection.AssemblyTitleAttribute("A. My First Sorting Problem")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

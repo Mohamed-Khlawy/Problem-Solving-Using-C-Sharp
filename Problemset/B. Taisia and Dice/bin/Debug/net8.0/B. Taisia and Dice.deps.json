@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "B. Taisia and Dice/1.0.0": {
+        "runtime": {
+          "B. Taisia and Dice.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "B. Taisia and Dice/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

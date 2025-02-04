@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Two Frogs\bin\Debug\net8.0\A. Two Frogs.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Two Frogs\bin\Debug\net8.0\A. Two Frogs.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Two Frogs\bin\Debug\net8.0\A. Two Frogs.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Two Frogs\bin\Debug\net8.0\A. Two Frogs.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Two Frogs\bin\Debug\net8.0\A. Two Frogs.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Two Frogs\obj\Debug\net8.0\A. Two Frogs.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Two Frogs\obj\Debug\net8.0\A. Two Frogs.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Two Frogs\obj\Debug\net8.0\A. Two Frogs.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Two Frogs\obj\Debug\net8.0\A. Two Frogs.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Two Frogs\obj\Debug\net8.0\A. Two Frogs.sourcelink.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Two Frogs\obj\Debug\net8.0\A. Two Frogs.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Two Frogs\obj\Debug\net8.0\refint\A. Two Frogs.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Two Frogs\obj\Debug\net8.0\A. Two Frogs.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Two Frogs\obj\Debug\net8.0\A. Two Frogs.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Two Frogs\obj\Debug\net8.0\ref\A. Two Frogs.dll

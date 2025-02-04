@@ -555,6 +555,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "B. Fix You", "B. Fix You\B.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A. Bad Triangle", "A. Bad Triangle\A. Bad Triangle.csproj", "{C54BA8AB-1C27-41A4-9BC8-33E1DA0CEBB3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A. Two Frogs", "A. Two Frogs\A. Two Frogs.csproj", "{12FA8859-5302-4ABE-9A88-74B0EB37F57C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "B. Taisia and Dice", "B. Taisia and Dice\B. Taisia and Dice.csproj", "{406CF019-9F75-4A4A-8032-0DD6717FE5D2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -1665,6 +1669,14 @@ Global
 		{C54BA8AB-1C27-41A4-9BC8-33E1DA0CEBB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C54BA8AB-1C27-41A4-9BC8-33E1DA0CEBB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C54BA8AB-1C27-41A4-9BC8-33E1DA0CEBB3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{12FA8859-5302-4ABE-9A88-74B0EB37F57C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12FA8859-5302-4ABE-9A88-74B0EB37F57C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12FA8859-5302-4ABE-9A88-74B0EB37F57C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12FA8859-5302-4ABE-9A88-74B0EB37F57C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{406CF019-9F75-4A4A-8032-0DD6717FE5D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{406CF019-9F75-4A4A-8032-0DD6717FE5D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{406CF019-9F75-4A4A-8032-0DD6717FE5D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{406CF019-9F75-4A4A-8032-0DD6717FE5D2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

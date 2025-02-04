@@ -546,3 +546,7 @@ B. Fix You ==> https://codeforces.com/problemset/problem/1391/B
 
 A. Bad Triangle ==> https://codeforces.com/problemset/problem/1398/A
 
+A. Two Frogs ==> https://codeforces.com/problemset/problem/2055/A
+
+B. Taisia and Dice ==> https://codeforces.com/problemset/problem/1790/B
+
