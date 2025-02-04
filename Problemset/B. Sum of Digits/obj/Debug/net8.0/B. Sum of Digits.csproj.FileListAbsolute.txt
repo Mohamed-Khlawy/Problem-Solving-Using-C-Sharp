@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Sum of Digits\bin\Debug\net8.0\B. Sum of Digits.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Sum of Digits\bin\Debug\net8.0\B. Sum of Digits.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Sum of Digits\bin\Debug\net8.0\B. Sum of Digits.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Sum of Digits\bin\Debug\net8.0\B. Sum of Digits.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Sum of Digits\bin\Debug\net8.0\B. Sum of Digits.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Sum of Digits\obj\Debug\net8.0\B. Sum of Digits.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Sum of Digits\obj\Debug\net8.0\B. Sum of Digits.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Sum of Digits\obj\Debug\net8.0\B. Sum of Digits.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Sum of Digits\obj\Debug\net8.0\B. Sum of Digits.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Sum of Digits\obj\Debug\net8.0\B. Sum of Digits.sourcelink.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Sum of Digits\obj\Debug\net8.0\B. Sum of Digits.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Sum of Digits\obj\Debug\net8.0\refint\B. Sum of Digits.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Sum of Digits\obj\Debug\net8.0\B. Sum of Digits.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Sum of Digits\obj\Debug\net8.0\B. Sum of Digits.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Sum of Digits\obj\Debug\net8.0\ref\B. Sum of Digits.dll

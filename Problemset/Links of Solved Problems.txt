@@ -550,3 +550,7 @@ A. Two Frogs ==> https://codeforces.com/problemset/problem/2055/A
 
 B. Taisia and Dice ==> https://codeforces.com/problemset/problem/1790/B
 
+A. Remove Duplicates ==> https://codeforces.com/problemset/problem/978/A
+
+B. Sum of Digits ==> https://codeforces.com/problemset/problem/102/B
+

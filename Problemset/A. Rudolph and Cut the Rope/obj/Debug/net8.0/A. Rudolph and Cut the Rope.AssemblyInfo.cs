@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("A. Rudolph and Cut the Rope")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4ea4b2245e1782699d4af41f1148709ab8a54a33")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6708904ba41e2d3f714c0e7fd71f88f8c5ccb534")]
 [assembly: System.Reflection.AssemblyProductAttribute("A. Rudolph and Cut the Rope")]
 [assembly: System.Reflection.AssemblyTitleAttribute("A. Rudolph and Cut the Rope")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

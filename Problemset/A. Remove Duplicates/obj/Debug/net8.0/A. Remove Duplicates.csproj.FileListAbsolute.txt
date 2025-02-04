@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Remove Duplicates\bin\Debug\net8.0\A. Remove Duplicates.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Remove Duplicates\bin\Debug\net8.0\A. Remove Duplicates.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Remove Duplicates\bin\Debug\net8.0\A. Remove Duplicates.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Remove Duplicates\bin\Debug\net8.0\A. Remove Duplicates.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Remove Duplicates\bin\Debug\net8.0\A. Remove Duplicates.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Remove Duplicates\obj\Debug\net8.0\A. Remove Duplicates.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Remove Duplicates\obj\Debug\net8.0\A. Remove Duplicates.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Remove Duplicates\obj\Debug\net8.0\A. Remove Duplicates.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Remove Duplicates\obj\Debug\net8.0\A. Remove Duplicates.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Remove Duplicates\obj\Debug\net8.0\A. Remove Duplicates.sourcelink.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Remove Duplicates\obj\Debug\net8.0\A. Remove Duplicates.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Remove Duplicates\obj\Debug\net8.0\refint\A. Remove Duplicates.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Remove Duplicates\obj\Debug\net8.0\A. Remove Duplicates.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Remove Duplicates\obj\Debug\net8.0\A. Remove Duplicates.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Remove Duplicates\obj\Debug\net8.0\ref\A. Remove Duplicates.dll
