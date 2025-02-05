@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("D. 1D Eraser")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6708904ba41e2d3f714c0e7fd71f88f8c5ccb534")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+85bbab6fbb7161887ae9a456b3a15ea00f7eb7e3")]
 [assembly: System.Reflection.AssemblyProductAttribute("D. 1D Eraser")]
 [assembly: System.Reflection.AssemblyTitleAttribute("D. 1D Eraser")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

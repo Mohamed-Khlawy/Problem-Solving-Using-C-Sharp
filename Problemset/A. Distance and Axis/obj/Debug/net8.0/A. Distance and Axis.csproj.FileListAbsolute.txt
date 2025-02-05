@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Distance and Axis\bin\Debug\net8.0\A. Distance and Axis.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Distance and Axis\bin\Debug\net8.0\A. Distance and Axis.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Distance and Axis\bin\Debug\net8.0\A. Distance and Axis.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Distance and Axis\bin\Debug\net8.0\A. Distance and Axis.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Distance and Axis\bin\Debug\net8.0\A. Distance and Axis.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Distance and Axis\obj\Debug\net8.0\A. Distance and Axis.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Distance and Axis\obj\Debug\net8.0\A. Distance and Axis.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Distance and Axis\obj\Debug\net8.0\A. Distance and Axis.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Distance and Axis\obj\Debug\net8.0\A. Distance and Axis.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Distance and Axis\obj\Debug\net8.0\A. Distance and Axis.sourcelink.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Distance and Axis\obj\Debug\net8.0\A. Distance and Axis.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Distance and Axis\obj\Debug\net8.0\refint\A. Distance and Axis.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Distance and Axis\obj\Debug\net8.0\A. Distance and Axis.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Distance and Axis\obj\Debug\net8.0\A. Distance and Axis.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Distance and Axis\obj\Debug\net8.0\ref\A. Distance and Axis.dll

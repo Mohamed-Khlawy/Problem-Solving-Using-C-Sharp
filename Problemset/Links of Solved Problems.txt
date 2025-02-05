@@ -554,3 +554,9 @@ A. Remove Duplicates ==> https://codeforces.com/problemset/problem/978/A
 
 B. Sum of Digits ==> https://codeforces.com/problemset/problem/102/B
 
+A. Epic Game ==> https://codeforces.com/problemset/problem/119/A
+
+A. Strange Partition ==> https://codeforces.com/problemset/problem/1471/A
+
+A. Distance and Axis ==> https://codeforces.com/problemset/problem/1401/A
+

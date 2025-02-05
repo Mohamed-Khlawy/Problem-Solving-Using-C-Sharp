@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Epic Game\bin\Debug\net8.0\A. Epic Game.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Epic Game\bin\Debug\net8.0\A. Epic Game.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Epic Game\bin\Debug\net8.0\A. Epic Game.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Epic Game\bin\Debug\net8.0\A. Epic Game.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Epic Game\bin\Debug\net8.0\A. Epic Game.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Epic Game\obj\Debug\net8.0\A. Epic Game.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Epic Game\obj\Debug\net8.0\A. Epic Game.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Epic Game\obj\Debug\net8.0\A. Epic Game.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Epic Game\obj\Debug\net8.0\A. Epic Game.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Epic Game\obj\Debug\net8.0\A. Epic Game.sourcelink.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Epic Game\obj\Debug\net8.0\A. Epic Game.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Epic Game\obj\Debug\net8.0\refint\A. Epic Game.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Epic Game\obj\Debug\net8.0\A. Epic Game.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Epic Game\obj\Debug\net8.0\A. Epic Game.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Epic Game\obj\Debug\net8.0\ref\A. Epic Game.dll

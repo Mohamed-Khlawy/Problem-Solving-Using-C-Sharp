@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Strange Partition\bin\Debug\net8.0\A. Strange Partition.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Strange Partition\bin\Debug\net8.0\A. Strange Partition.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Strange Partition\bin\Debug\net8.0\A. Strange Partition.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Strange Partition\bin\Debug\net8.0\A. Strange Partition.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Strange Partition\bin\Debug\net8.0\A. Strange Partition.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Strange Partition\obj\Debug\net8.0\A. Strange Partition.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Strange Partition\obj\Debug\net8.0\A. Strange Partition.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Strange Partition\obj\Debug\net8.0\A. Strange Partition.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Strange Partition\obj\Debug\net8.0\A. Strange Partition.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Strange Partition\obj\Debug\net8.0\A. Strange Partition.sourcelink.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Strange Partition\obj\Debug\net8.0\A. Strange Partition.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Strange Partition\obj\Debug\net8.0\refint\A. Strange Partition.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Strange Partition\obj\Debug\net8.0\A. Strange Partition.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Strange Partition\obj\Debug\net8.0\A. Strange Partition.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Strange Partition\obj\Debug\net8.0\ref\A. Strange Partition.dll
