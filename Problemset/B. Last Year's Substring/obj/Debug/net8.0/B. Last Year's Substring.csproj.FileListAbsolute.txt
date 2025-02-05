@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Last Year's Substring\bin\Debug\net8.0\B. Last Year's Substring.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Last Year's Substring\bin\Debug\net8.0\B. Last Year's Substring.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Last Year's Substring\bin\Debug\net8.0\B. Last Year's Substring.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Last Year's Substring\bin\Debug\net8.0\B. Last Year's Substring.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Last Year's Substring\bin\Debug\net8.0\B. Last Year's Substring.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Last Year's Substring\obj\Debug\net8.0\B. Last Year's Substring.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Last Year's Substring\obj\Debug\net8.0\B. Last Year's Substring.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Last Year's Substring\obj\Debug\net8.0\B. Last Year's Substring.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Last Year's Substring\obj\Debug\net8.0\B. Last Year's Substring.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Last Year's Substring\obj\Debug\net8.0\B. Last Year's Substring.sourcelink.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Last Year's Substring\obj\Debug\net8.0\B. Last Year's Substring.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Last Year's Substring\obj\Debug\net8.0\refint\B. Last Year's Substring.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Last Year's Substring\obj\Debug\net8.0\B. Last Year's Substring.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Last Year's Substring\obj\Debug\net8.0\B. Last Year's Substring.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Last Year's Substring\obj\Debug\net8.0\ref\B. Last Year's Substring.dll

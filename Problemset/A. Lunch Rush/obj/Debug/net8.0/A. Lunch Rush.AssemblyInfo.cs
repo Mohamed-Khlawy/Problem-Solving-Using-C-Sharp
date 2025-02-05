@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("A. Lunch Rush")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+85bbab6fbb7161887ae9a456b3a15ea00f7eb7e3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c42966c3b43d6a2f9419eb81c2575ba113f0d858")]
 [assembly: System.Reflection.AssemblyProductAttribute("A. Lunch Rush")]
 [assembly: System.Reflection.AssemblyTitleAttribute("A. Lunch Rush")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Polycarp's Pockets\bin\Debug\net8.0\A. Polycarp's Pockets.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Polycarp's Pockets\bin\Debug\net8.0\A. Polycarp's Pockets.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Polycarp's Pockets\bin\Debug\net8.0\A. Polycarp's Pockets.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Polycarp's Pockets\bin\Debug\net8.0\A. Polycarp's Pockets.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Polycarp's Pockets\bin\Debug\net8.0\A. Polycarp's Pockets.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Polycarp's Pockets\obj\Debug\net8.0\A. Polycarp's Pockets.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Polycarp's Pockets\obj\Debug\net8.0\A. Polycarp's Pockets.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Polycarp's Pockets\obj\Debug\net8.0\A. Polycarp's Pockets.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Polycarp's Pockets\obj\Debug\net8.0\A. Polycarp's Pockets.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Polycarp's Pockets\obj\Debug\net8.0\A. Polycarp's Pockets.sourcelink.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Polycarp's Pockets\obj\Debug\net8.0\A. Polycarp's Pockets.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Polycarp's Pockets\obj\Debug\net8.0\refint\A. Polycarp's Pockets.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Polycarp's Pockets\obj\Debug\net8.0\A. Polycarp's Pockets.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Polycarp's Pockets\obj\Debug\net8.0\A. Polycarp's Pockets.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Polycarp's Pockets\obj\Debug\net8.0\ref\A. Polycarp's Pockets.dll

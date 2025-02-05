@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Three Indices\bin\Debug\net8.0\A. Three Indices.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Three Indices\bin\Debug\net8.0\A. Three Indices.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Three Indices\bin\Debug\net8.0\A. Three Indices.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Three Indices\bin\Debug\net8.0\A. Three Indices.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Three Indices\bin\Debug\net8.0\A. Three Indices.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Three Indices\obj\Debug\net8.0\A. Three Indices.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Three Indices\obj\Debug\net8.0\A. Three Indices.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Three Indices\obj\Debug\net8.0\A. Three Indices.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Three Indices\obj\Debug\net8.0\A. Three Indices.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Three Indices\obj\Debug\net8.0\A. Three Indices.sourcelink.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Three Indices\obj\Debug\net8.0\A. Three Indices.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Three Indices\obj\Debug\net8.0\refint\A. Three Indices.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Three Indices\obj\Debug\net8.0\A. Three Indices.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Three Indices\obj\Debug\net8.0\A. Three Indices.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Three Indices\obj\Debug\net8.0\ref\A. Three Indices.dll

@@ -569,6 +569,12 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A. Strange Partition", "A. 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A. Distance and Axis", "A. Distance and Axis\A. Distance and Axis.csproj", "{11FF662B-0E77-4412-B240-ADBC535584F9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "B. Last Year's Substring", "B. Last Year's Substring\B. Last Year's Substring.csproj", "{348D5C84-22D8-45B1-A3BA-4F3FA8E6D52E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A. Polycarp's Pockets", "A. Polycarp's Pockets\A. Polycarp's Pockets.csproj", "{1EA59C7A-6AC5-44E9-BFDC-D5681CE97708}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A. Three Indices", "A. Three Indices\A. Three Indices.csproj", "{C700AD9C-5F93-42A9-8930-FED16A4B9119}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -1707,6 +1713,18 @@ Global
 		{11FF662B-0E77-4412-B240-ADBC535584F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{11FF662B-0E77-4412-B240-ADBC535584F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{11FF662B-0E77-4412-B240-ADBC535584F9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{348D5C84-22D8-45B1-A3BA-4F3FA8E6D52E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{348D5C84-22D8-45B1-A3BA-4F3FA8E6D52E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{348D5C84-22D8-45B1-A3BA-4F3FA8E6D52E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{348D5C84-22D8-45B1-A3BA-4F3FA8E6D52E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1EA59C7A-6AC5-44E9-BFDC-D5681CE97708}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1EA59C7A-6AC5-44E9-BFDC-D5681CE97708}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1EA59C7A-6AC5-44E9-BFDC-D5681CE97708}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1EA59C7A-6AC5-44E9-BFDC-D5681CE97708}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C700AD9C-5F93-42A9-8930-FED16A4B9119}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C700AD9C-5F93-42A9-8930-FED16A4B9119}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C700AD9C-5F93-42A9-8930-FED16A4B9119}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C700AD9C-5F93-42A9-8930-FED16A4B9119}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

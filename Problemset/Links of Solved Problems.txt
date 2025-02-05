@@ -560,3 +560,9 @@ A. Strange Partition ==> https://codeforces.com/problemset/problem/1471/A
 
 A. Distance and Axis ==> https://codeforces.com/problemset/problem/1401/A
 
+B. Last Year's Substring ==> https://codeforces.com/problemset/problem/1462/B
+
+A. Polycarp's Pockets ==> https://codeforces.com/problemset/problem/1003/A
+
+A. Three Indices ==> https://codeforces.com/problemset/problem/1380/A
+
