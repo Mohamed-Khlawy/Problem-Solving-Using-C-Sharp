@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("A. Entertainment in MAC")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c42966c3b43d6a2f9419eb81c2575ba113f0d858")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4666e42fe7b77caba4b3516435b225b5c407cc43")]
 [assembly: System.Reflection.AssemblyProductAttribute("A. Entertainment in MAC")]
 [assembly: System.Reflection.AssemblyTitleAttribute("A. Entertainment in MAC")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

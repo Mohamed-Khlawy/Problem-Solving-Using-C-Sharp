@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "A. Doors and Keys/1.0.0": {
+        "runtime": {
+          "A. Doors and Keys.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "A. Doors and Keys/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Doors and Keys\bin\Debug\net8.0\A. Doors and Keys.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Doors and Keys\bin\Debug\net8.0\A. Doors and Keys.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Doors and Keys\bin\Debug\net8.0\A. Doors and Keys.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Doors and Keys\bin\Debug\net8.0\A. Doors and Keys.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Doors and Keys\bin\Debug\net8.0\A. Doors and Keys.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Doors and Keys\obj\Debug\net8.0\A. Doors and Keys.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Doors and Keys\obj\Debug\net8.0\A. Doors and Keys.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Doors and Keys\obj\Debug\net8.0\A. Doors and Keys.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Doors and Keys\obj\Debug\net8.0\A. Doors and Keys.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Doors and Keys\obj\Debug\net8.0\A. Doors and Keys.sourcelink.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Doors and Keys\obj\Debug\net8.0\A. Doors and Keys.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Doors and Keys\obj\Debug\net8.0\refint\A. Doors and Keys.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Doors and Keys\obj\Debug\net8.0\A. Doors and Keys.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Doors and Keys\obj\Debug\net8.0\A. Doors and Keys.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Doors and Keys\obj\Debug\net8.0\ref\A. Doors and Keys.dll

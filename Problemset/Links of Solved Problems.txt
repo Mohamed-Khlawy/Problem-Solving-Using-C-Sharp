@@ -566,3 +566,5 @@ A. Polycarp's Pockets ==> https://codeforces.com/problemset/problem/1003/A
 
 A. Three Indices ==> https://codeforces.com/problemset/problem/1380/A
 
+A. Doors and Keys ==> https://codeforces.com/problemset/problem/1644/A
+
