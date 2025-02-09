@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("B. Make It Increasing")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4666e42fe7b77caba4b3516435b225b5c407cc43")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+63532abb361ff5d2f07c556ce3de9dd2e76bbdf4")]
 [assembly: System.Reflection.AssemblyProductAttribute("B. Make It Increasing")]
 [assembly: System.Reflection.AssemblyTitleAttribute("B. Make It Increasing")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

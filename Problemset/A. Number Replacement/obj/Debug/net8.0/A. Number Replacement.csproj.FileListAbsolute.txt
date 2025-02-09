@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Number Replacement\bin\Debug\net8.0\A. Number Replacement.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Number Replacement\bin\Debug\net8.0\A. Number Replacement.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Number Replacement\bin\Debug\net8.0\A. Number Replacement.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Number Replacement\bin\Debug\net8.0\A. Number Replacement.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Number Replacement\bin\Debug\net8.0\A. Number Replacement.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Number Replacement\obj\Debug\net8.0\A. Number Replacement.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Number Replacement\obj\Debug\net8.0\A. Number Replacement.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Number Replacement\obj\Debug\net8.0\A. Number Replacement.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Number Replacement\obj\Debug\net8.0\A. Number Replacement.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Number Replacement\obj\Debug\net8.0\A. Number Replacement.sourcelink.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Number Replacement\obj\Debug\net8.0\A. Number Replacement.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Number Replacement\obj\Debug\net8.0\refint\A. Number Replacement.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Number Replacement\obj\Debug\net8.0\A. Number Replacement.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Number Replacement\obj\Debug\net8.0\A. Number Replacement.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Number Replacement\obj\Debug\net8.0\ref\A. Number Replacement.dll

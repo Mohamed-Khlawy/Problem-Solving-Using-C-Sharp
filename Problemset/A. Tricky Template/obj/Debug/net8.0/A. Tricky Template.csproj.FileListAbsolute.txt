@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Tricky Template\bin\Debug\net8.0\A. Tricky Template.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Tricky Template\bin\Debug\net8.0\A. Tricky Template.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Tricky Template\bin\Debug\net8.0\A. Tricky Template.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Tricky Template\bin\Debug\net8.0\A. Tricky Template.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Tricky Template\bin\Debug\net8.0\A. Tricky Template.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Tricky Template\obj\Debug\net8.0\A. Tricky Template.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Tricky Template\obj\Debug\net8.0\A. Tricky Template.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Tricky Template\obj\Debug\net8.0\A. Tricky Template.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Tricky Template\obj\Debug\net8.0\A. Tricky Template.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Tricky Template\obj\Debug\net8.0\A. Tricky Template.sourcelink.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Tricky Template\obj\Debug\net8.0\A. Tricky Template.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Tricky Template\obj\Debug\net8.0\refint\A. Tricky Template.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Tricky Template\obj\Debug\net8.0\A. Tricky Template.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Tricky Template\obj\Debug\net8.0\A. Tricky Template.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Tricky Template\obj\Debug\net8.0\ref\A. Tricky Template.dll

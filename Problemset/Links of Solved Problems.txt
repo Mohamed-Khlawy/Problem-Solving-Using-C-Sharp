@@ -568,3 +568,9 @@ A. Three Indices ==> https://codeforces.com/problemset/problem/1380/A
 
 A. Doors and Keys ==> https://codeforces.com/problemset/problem/1644/A
 
+A. Number Replacement ==> https://codeforces.com/problemset/problem/1744/A
+
+A. Donut Shops ==> https://codeforces.com/problemset/problem/1373/A
+
+A. Tricky Template ==> https://codeforces.com/problemset/problem/1922/A
+

@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Donut Shops\bin\Debug\net8.0\A. Donut Shops.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Donut Shops\bin\Debug\net8.0\A. Donut Shops.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Donut Shops\bin\Debug\net8.0\A. Donut Shops.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Donut Shops\bin\Debug\net8.0\A. Donut Shops.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Donut Shops\bin\Debug\net8.0\A. Donut Shops.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Donut Shops\obj\Debug\net8.0\A. Donut Shops.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Donut Shops\obj\Debug\net8.0\A. Donut Shops.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Donut Shops\obj\Debug\net8.0\A. Donut Shops.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Donut Shops\obj\Debug\net8.0\A. Donut Shops.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Donut Shops\obj\Debug\net8.0\A. Donut Shops.sourcelink.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Donut Shops\obj\Debug\net8.0\A. Donut Shops.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Donut Shops\obj\Debug\net8.0\refint\A. Donut Shops.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Donut Shops\obj\Debug\net8.0\A. Donut Shops.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Donut Shops\obj\Debug\net8.0\A. Donut Shops.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Donut Shops\obj\Debug\net8.0\ref\A. Donut Shops.dll
