@@ -574,3 +574,5 @@ A. Donut Shops ==> https://codeforces.com/problemset/problem/1373/A
 
 A. Tricky Template ==> https://codeforces.com/problemset/problem/1922/A
 
+A. Tricky Sum ==> https://codeforces.com/problemset/problem/598/A
+

@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Tricky Sum\bin\Debug\net8.0\A. Tricky Sum.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Tricky Sum\bin\Debug\net8.0\A. Tricky Sum.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Tricky Sum\bin\Debug\net8.0\A. Tricky Sum.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Tricky Sum\bin\Debug\net8.0\A. Tricky Sum.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Tricky Sum\bin\Debug\net8.0\A. Tricky Sum.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Tricky Sum\obj\Debug\net8.0\A. Tricky Sum.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Tricky Sum\obj\Debug\net8.0\A. Tricky Sum.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Tricky Sum\obj\Debug\net8.0\A. Tricky Sum.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Tricky Sum\obj\Debug\net8.0\A. Tricky Sum.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Tricky Sum\obj\Debug\net8.0\A. Tricky Sum.sourcelink.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Tricky Sum\obj\Debug\net8.0\A. Tricky Sum.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Tricky Sum\obj\Debug\net8.0\refint\A. Tricky Sum.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Tricky Sum\obj\Debug\net8.0\A. Tricky Sum.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Tricky Sum\obj\Debug\net8.0\A. Tricky Sum.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Tricky Sum\obj\Debug\net8.0\ref\A. Tricky Sum.dll
