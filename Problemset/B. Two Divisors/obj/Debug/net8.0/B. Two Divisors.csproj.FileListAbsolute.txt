@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Two Divisors\bin\Debug\net8.0\B. Two Divisors.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Two Divisors\bin\Debug\net8.0\B. Two Divisors.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Two Divisors\bin\Debug\net8.0\B. Two Divisors.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Two Divisors\bin\Debug\net8.0\B. Two Divisors.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Two Divisors\bin\Debug\net8.0\B. Two Divisors.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Two Divisors\obj\Debug\net8.0\B. Two Divisors.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Two Divisors\obj\Debug\net8.0\B. Two Divisors.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Two Divisors\obj\Debug\net8.0\B. Two Divisors.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Two Divisors\obj\Debug\net8.0\B. Two Divisors.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Two Divisors\obj\Debug\net8.0\B. Two Divisors.sourcelink.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Two Divisors\obj\Debug\net8.0\B. Two Divisors.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Two Divisors\obj\Debug\net8.0\refint\B. Two Divisors.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Two Divisors\obj\Debug\net8.0\B. Two Divisors.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Two Divisors\obj\Debug\net8.0\B. Two Divisors.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Two Divisors\obj\Debug\net8.0\ref\B. Two Divisors.dll

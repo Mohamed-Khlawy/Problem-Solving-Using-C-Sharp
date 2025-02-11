@@ -576,3 +576,9 @@ A. Tricky Template ==> https://codeforces.com/problemset/problem/1922/A
 
 A. Tricky Sum ==> https://codeforces.com/problemset/problem/598/A
 
+B. Rudolph and Tic-Tac-Toe ==> https://codeforces.com/problemset/problem/1846/B
+
+B. Two Divisors ==> https://codeforces.com/problemset/problem/1916/B
+
+B. Promo ==> https://codeforces.com/problemset/problem/1697/B
+

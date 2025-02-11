@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "B. Rudolph and Tic-Tac-Toe/1.0.0": {
+        "runtime": {
+          "B. Rudolph and Tic-Tac-Toe.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "B. Rudolph and Tic-Tac-Toe/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

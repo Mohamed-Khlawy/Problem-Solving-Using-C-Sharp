@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Rudolph and Tic-Tac-Toe\bin\Debug\net8.0\B. Rudolph and Tic-Tac-Toe.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Rudolph and Tic-Tac-Toe\bin\Debug\net8.0\B. Rudolph and Tic-Tac-Toe.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Rudolph and Tic-Tac-Toe\bin\Debug\net8.0\B. Rudolph and Tic-Tac-Toe.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Rudolph and Tic-Tac-Toe\bin\Debug\net8.0\B. Rudolph and Tic-Tac-Toe.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Rudolph and Tic-Tac-Toe\bin\Debug\net8.0\B. Rudolph and Tic-Tac-Toe.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Rudolph and Tic-Tac-Toe\obj\Debug\net8.0\B. Rudolph and Tic-Tac-Toe.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Rudolph and Tic-Tac-Toe\obj\Debug\net8.0\B. Rudolph and Tic-Tac-Toe.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Rudolph and Tic-Tac-Toe\obj\Debug\net8.0\B. Rudolph and Tic-Tac-Toe.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Rudolph and Tic-Tac-Toe\obj\Debug\net8.0\B. Rudolph and Tic-Tac-Toe.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Rudolph and Tic-Tac-Toe\obj\Debug\net8.0\B. Rudolph and Tic-Tac-Toe.sourcelink.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Rudolph and Tic-Tac-Toe\obj\Debug\net8.0\B. Rudolph and Tic-Tac-Toe.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Rudolph and Tic-Tac-Toe\obj\Debug\net8.0\refint\B. Rudolph and Tic-Tac-Toe.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Rudolph and Tic-Tac-Toe\obj\Debug\net8.0\B. Rudolph and Tic-Tac-Toe.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Rudolph and Tic-Tac-Toe\obj\Debug\net8.0\B. Rudolph and Tic-Tac-Toe.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Rudolph and Tic-Tac-Toe\obj\Debug\net8.0\ref\B. Rudolph and Tic-Tac-Toe.dll
