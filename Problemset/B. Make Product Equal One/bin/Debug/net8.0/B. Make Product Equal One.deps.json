@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "B. Make Product Equal One/1.0.0": {
+        "runtime": {
+          "B. Make Product Equal One.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "B. Make Product Equal One/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

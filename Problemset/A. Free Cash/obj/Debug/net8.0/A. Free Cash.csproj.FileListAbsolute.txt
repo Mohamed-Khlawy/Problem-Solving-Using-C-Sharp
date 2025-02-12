@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Free Cash\bin\Debug\net8.0\A. Free Cash.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Free Cash\bin\Debug\net8.0\A. Free Cash.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Free Cash\bin\Debug\net8.0\A. Free Cash.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Free Cash\bin\Debug\net8.0\A. Free Cash.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Free Cash\bin\Debug\net8.0\A. Free Cash.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Free Cash\obj\Debug\net8.0\A. Free Cash.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Free Cash\obj\Debug\net8.0\A. Free Cash.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Free Cash\obj\Debug\net8.0\A. Free Cash.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Free Cash\obj\Debug\net8.0\A. Free Cash.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Free Cash\obj\Debug\net8.0\A. Free Cash.sourcelink.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Free Cash\obj\Debug\net8.0\A. Free Cash.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Free Cash\obj\Debug\net8.0\refint\A. Free Cash.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Free Cash\obj\Debug\net8.0\A. Free Cash.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Free Cash\obj\Debug\net8.0\A. Free Cash.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Free Cash\obj\Debug\net8.0\ref\A. Free Cash.dll

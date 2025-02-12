@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Make Product Equal One\bin\Debug\net8.0\B. Make Product Equal One.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Make Product Equal One\bin\Debug\net8.0\B. Make Product Equal One.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Make Product Equal One\bin\Debug\net8.0\B. Make Product Equal One.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Make Product Equal One\bin\Debug\net8.0\B. Make Product Equal One.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Make Product Equal One\bin\Debug\net8.0\B. Make Product Equal One.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Make Product Equal One\obj\Debug\net8.0\B. Make Product Equal One.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Make Product Equal One\obj\Debug\net8.0\B. Make Product Equal One.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Make Product Equal One\obj\Debug\net8.0\B. Make Product Equal One.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Make Product Equal One\obj\Debug\net8.0\B. Make Product Equal One.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Make Product Equal One\obj\Debug\net8.0\B. Make Product Equal One.sourcelink.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Make Product Equal One\obj\Debug\net8.0\B. Make Product Equal One.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Make Product Equal One\obj\Debug\net8.0\refint\B. Make Product Equal One.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Make Product Equal One\obj\Debug\net8.0\B. Make Product Equal One.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Make Product Equal One\obj\Debug\net8.0\B. Make Product Equal One.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Make Product Equal One\obj\Debug\net8.0\ref\B. Make Product Equal One.dll

@@ -582,3 +582,7 @@ B. Two Divisors ==> https://codeforces.com/problemset/problem/1916/B
 
 B. Promo ==> https://codeforces.com/problemset/problem/1697/B
 
+B. Make Product Equal One ==> https://codeforces.com/problemset/problem/1206/B
+
+A. Free Cash ==> https://codeforces.com/problemset/problem/237/A
+
