@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Dominant Piranha\bin\Debug\net8.0\C. Dominant Piranha.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Dominant Piranha\bin\Debug\net8.0\C. Dominant Piranha.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Dominant Piranha\bin\Debug\net8.0\C. Dominant Piranha.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Dominant Piranha\bin\Debug\net8.0\C. Dominant Piranha.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Dominant Piranha\bin\Debug\net8.0\C. Dominant Piranha.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Dominant Piranha\obj\Debug\net8.0\C. Dominant Piranha.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Dominant Piranha\obj\Debug\net8.0\C. Dominant Piranha.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Dominant Piranha\obj\Debug\net8.0\C. Dominant Piranha.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Dominant Piranha\obj\Debug\net8.0\C. Dominant Piranha.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Dominant Piranha\obj\Debug\net8.0\C. Dominant Piranha.sourcelink.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Dominant Piranha\obj\Debug\net8.0\C. Dominant Piranha.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Dominant Piranha\obj\Debug\net8.0\refint\C. Dominant Piranha.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Dominant Piranha\obj\Debug\net8.0\C. Dominant Piranha.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Dominant Piranha\obj\Debug\net8.0\C. Dominant Piranha.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Dominant Piranha\obj\Debug\net8.0\ref\C. Dominant Piranha.dll

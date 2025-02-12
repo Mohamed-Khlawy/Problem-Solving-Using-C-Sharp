@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Restore the Weather\bin\Debug\net8.0\B. Restore the Weather.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Restore the Weather\bin\Debug\net8.0\B. Restore the Weather.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Restore the Weather\bin\Debug\net8.0\B. Restore the Weather.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Restore the Weather\bin\Debug\net8.0\B. Restore the Weather.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Restore the Weather\bin\Debug\net8.0\B. Restore the Weather.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Restore the Weather\obj\Debug\net8.0\B. Restore the Weather.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Restore the Weather\obj\Debug\net8.0\B. Restore the Weather.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Restore the Weather\obj\Debug\net8.0\B. Restore the Weather.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Restore the Weather\obj\Debug\net8.0\B. Restore the Weather.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Restore the Weather\obj\Debug\net8.0\B. Restore the Weather.sourcelink.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Restore the Weather\obj\Debug\net8.0\B. Restore the Weather.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Restore the Weather\obj\Debug\net8.0\refint\B. Restore the Weather.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Restore the Weather\obj\Debug\net8.0\B. Restore the Weather.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Restore the Weather\obj\Debug\net8.0\B. Restore the Weather.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Restore the Weather\obj\Debug\net8.0\ref\B. Restore the Weather.dll

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("A. Mezo Playing Zoma")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+26f58e987ff655ac9692128fa4f199f41f48e436")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1c6a6d9b393bb08d80ac6f350de01ec8785c687f")]
 [assembly: System.Reflection.AssemblyProductAttribute("A. Mezo Playing Zoma")]
 [assembly: System.Reflection.AssemblyTitleAttribute("A. Mezo Playing Zoma")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

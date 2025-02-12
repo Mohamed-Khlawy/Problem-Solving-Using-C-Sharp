@@ -586,3 +586,9 @@ B. Make Product Equal One ==> https://codeforces.com/problemset/problem/1206/B
 
 A. Free Cash ==> https://codeforces.com/problemset/problem/237/A
 
+C. Dominant Piranha ==> https://codeforces.com/problemset/problem/1433/C
+
+B. Restore the Weather ==> https://codeforces.com/problemset/problem/1833/B
+
+A. Password ==> https://codeforces.com/problemset/problem/1743/A
+
