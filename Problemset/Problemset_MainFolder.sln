@@ -601,6 +601,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "B. Restore the Weather", "B
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A. Password", "A. Password\A. Password.csproj", "{FFFC4082-46C3-429F-B5CC-2F58A5788382}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A. Hexadecimal's theorem", "A. Hexadecimal's theorem\A. Hexadecimal's theorem.csproj", "{52049986-0F5B-4221-9C5C-91C90795AE7A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A. Goals of Victory", "A. Goals of Victory\A. Goals of Victory.csproj", "{872BEF33-0BD5-478E-9874-6F11EAEAD270}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -1803,6 +1807,14 @@ Global
 		{FFFC4082-46C3-429F-B5CC-2F58A5788382}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FFFC4082-46C3-429F-B5CC-2F58A5788382}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FFFC4082-46C3-429F-B5CC-2F58A5788382}.Release|Any CPU.Build.0 = Release|Any CPU
+		{52049986-0F5B-4221-9C5C-91C90795AE7A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52049986-0F5B-4221-9C5C-91C90795AE7A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52049986-0F5B-4221-9C5C-91C90795AE7A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52049986-0F5B-4221-9C5C-91C90795AE7A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{872BEF33-0BD5-478E-9874-6F11EAEAD270}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{872BEF33-0BD5-478E-9874-6F11EAEAD270}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{872BEF33-0BD5-478E-9874-6F11EAEAD270}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{872BEF33-0BD5-478E-9874-6F11EAEAD270}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

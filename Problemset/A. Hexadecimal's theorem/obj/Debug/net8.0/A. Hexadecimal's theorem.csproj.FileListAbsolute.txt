@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Hexadecimal's theorem\bin\Debug\net8.0\A. Hexadecimal's theorem.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Hexadecimal's theorem\bin\Debug\net8.0\A. Hexadecimal's theorem.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Hexadecimal's theorem\bin\Debug\net8.0\A. Hexadecimal's theorem.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Hexadecimal's theorem\bin\Debug\net8.0\A. Hexadecimal's theorem.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Hexadecimal's theorem\bin\Debug\net8.0\A. Hexadecimal's theorem.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Hexadecimal's theorem\obj\Debug\net8.0\A. Hexadecimal's theorem.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Hexadecimal's theorem\obj\Debug\net8.0\A. Hexadecimal's theorem.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Hexadecimal's theorem\obj\Debug\net8.0\A. Hexadecimal's theorem.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Hexadecimal's theorem\obj\Debug\net8.0\A. Hexadecimal's theorem.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Hexadecimal's theorem\obj\Debug\net8.0\A. Hexadecimal's theorem.sourcelink.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Hexadecimal's theorem\obj\Debug\net8.0\A. Hexadecimal's theorem.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Hexadecimal's theorem\obj\Debug\net8.0\refint\A. Hexadecimal's theorem.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Hexadecimal's theorem\obj\Debug\net8.0\A. Hexadecimal's theorem.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Hexadecimal's theorem\obj\Debug\net8.0\A. Hexadecimal's theorem.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Hexadecimal's theorem\obj\Debug\net8.0\ref\A. Hexadecimal's theorem.dll

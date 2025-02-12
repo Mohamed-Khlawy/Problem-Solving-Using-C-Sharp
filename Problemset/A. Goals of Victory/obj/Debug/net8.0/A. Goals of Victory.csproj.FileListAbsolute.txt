@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Goals of Victory\bin\Debug\net8.0\A. Goals of Victory.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Goals of Victory\bin\Debug\net8.0\A. Goals of Victory.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Goals of Victory\bin\Debug\net8.0\A. Goals of Victory.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Goals of Victory\bin\Debug\net8.0\A. Goals of Victory.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Goals of Victory\bin\Debug\net8.0\A. Goals of Victory.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Goals of Victory\obj\Debug\net8.0\A. Goals of Victory.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Goals of Victory\obj\Debug\net8.0\A. Goals of Victory.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Goals of Victory\obj\Debug\net8.0\A. Goals of Victory.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Goals of Victory\obj\Debug\net8.0\A. Goals of Victory.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Goals of Victory\obj\Debug\net8.0\A. Goals of Victory.sourcelink.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Goals of Victory\obj\Debug\net8.0\A. Goals of Victory.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Goals of Victory\obj\Debug\net8.0\refint\A. Goals of Victory.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Goals of Victory\obj\Debug\net8.0\A. Goals of Victory.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Goals of Victory\obj\Debug\net8.0\A. Goals of Victory.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Goals of Victory\obj\Debug\net8.0\ref\A. Goals of Victory.dll
