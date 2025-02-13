@@ -596,3 +596,9 @@ A. Hexadecimal's theorem ==> https://codeforces.com/problemset/problem/199/A
 
 A. Goals of Victory ==> https://codeforces.com/problemset/problem/1877/A
 
+A. Unit Array ==> https://codeforces.com/problemset/problem/1834/A
+
+A. Walking Master ==> https://codeforces.com/problemset/problem/1806/A
+
+A. String Similarity ==> https://codeforces.com/problemset/problem/1400/A
+

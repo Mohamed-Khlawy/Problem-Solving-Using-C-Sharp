@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Walking Master\bin\Debug\net8.0\A. Walking Master.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Walking Master\bin\Debug\net8.0\A. Walking Master.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Walking Master\bin\Debug\net8.0\A. Walking Master.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Walking Master\bin\Debug\net8.0\A. Walking Master.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Walking Master\bin\Debug\net8.0\A. Walking Master.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Walking Master\obj\Debug\net8.0\A. Walking Master.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Walking Master\obj\Debug\net8.0\A. Walking Master.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Walking Master\obj\Debug\net8.0\A. Walking Master.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Walking Master\obj\Debug\net8.0\A. Walking Master.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Walking Master\obj\Debug\net8.0\A. Walking Master.sourcelink.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Walking Master\obj\Debug\net8.0\A. Walking Master.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Walking Master\obj\Debug\net8.0\refint\A. Walking Master.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Walking Master\obj\Debug\net8.0\A. Walking Master.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Walking Master\obj\Debug\net8.0\A. Walking Master.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Walking Master\obj\Debug\net8.0\ref\A. Walking Master.dll

@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Unit Array\bin\Debug\net8.0\A. Unit Array.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Unit Array\bin\Debug\net8.0\A. Unit Array.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Unit Array\bin\Debug\net8.0\A. Unit Array.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Unit Array\bin\Debug\net8.0\A. Unit Array.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Unit Array\bin\Debug\net8.0\A. Unit Array.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Unit Array\obj\Debug\net8.0\A. Unit Array.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Unit Array\obj\Debug\net8.0\A. Unit Array.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Unit Array\obj\Debug\net8.0\A. Unit Array.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Unit Array\obj\Debug\net8.0\A. Unit Array.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Unit Array\obj\Debug\net8.0\A. Unit Array.sourcelink.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Unit Array\obj\Debug\net8.0\A. Unit Array.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Unit Array\obj\Debug\net8.0\refint\A. Unit Array.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Unit Array\obj\Debug\net8.0\A. Unit Array.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Unit Array\obj\Debug\net8.0\A. Unit Array.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Unit Array\obj\Debug\net8.0\ref\A. Unit Array.dll
