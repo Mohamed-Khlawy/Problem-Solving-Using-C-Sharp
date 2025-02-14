@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Extremely Round\bin\Debug\net8.0\A. Extremely Round.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Extremely Round\bin\Debug\net8.0\A. Extremely Round.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Extremely Round\bin\Debug\net8.0\A. Extremely Round.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Extremely Round\bin\Debug\net8.0\A. Extremely Round.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Extremely Round\bin\Debug\net8.0\A. Extremely Round.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Extremely Round\obj\Debug\net8.0\A. Extremely Round.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Extremely Round\obj\Debug\net8.0\A. Extremely Round.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Extremely Round\obj\Debug\net8.0\A. Extremely Round.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Extremely Round\obj\Debug\net8.0\A. Extremely Round.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Extremely Round\obj\Debug\net8.0\A. Extremely Round.sourcelink.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Extremely Round\obj\Debug\net8.0\A. Extremely Round.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Extremely Round\obj\Debug\net8.0\refint\A. Extremely Round.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Extremely Round\obj\Debug\net8.0\A. Extremely Round.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Extremely Round\obj\Debug\net8.0\A. Extremely Round.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Extremely Round\obj\Debug\net8.0\ref\A. Extremely Round.dll

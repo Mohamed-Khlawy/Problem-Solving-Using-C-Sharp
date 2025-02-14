@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "B. Olya and Game with Arrays/1.0.0": {
+        "runtime": {
+          "B. Olya and Game with Arrays.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "B. Olya and Game with Arrays/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

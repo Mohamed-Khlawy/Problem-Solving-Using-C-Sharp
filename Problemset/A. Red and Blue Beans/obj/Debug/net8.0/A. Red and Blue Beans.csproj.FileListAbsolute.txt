@@ -1,0 +1,5 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Red and Blue Beans\obj\Debug\net8.0\A. Red and Blue Beans.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Red and Blue Beans\obj\Debug\net8.0\A. Red and Blue Beans.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Red and Blue Beans\obj\Debug\net8.0\A. Red and Blue Beans.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Red and Blue Beans\obj\Debug\net8.0\A. Red and Blue Beans.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Red and Blue Beans\obj\Debug\net8.0\A. Red and Blue Beans.sourcelink.json

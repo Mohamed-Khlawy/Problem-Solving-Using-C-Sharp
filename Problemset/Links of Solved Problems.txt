@@ -602,3 +602,9 @@ A. Walking Master ==> https://codeforces.com/problemset/problem/1806/A
 
 A. String Similarity ==> https://codeforces.com/problemset/problem/1400/A
 
+B. Olya and Game with Arrays ==> https://codeforces.com/problemset/problem/1859/B
+
+A. Red and Blue Beans ==> https://codeforces.com/problemset/problem/1519/A
+
+A. Extremely Round ==> https://codeforces.com/problemset/problem/1766/A
+

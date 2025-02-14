@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Olya and Game with Arrays\bin\Debug\net8.0\B. Olya and Game with Arrays.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Olya and Game with Arrays\bin\Debug\net8.0\B. Olya and Game with Arrays.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Olya and Game with Arrays\bin\Debug\net8.0\B. Olya and Game with Arrays.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Olya and Game with Arrays\bin\Debug\net8.0\B. Olya and Game with Arrays.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Olya and Game with Arrays\bin\Debug\net8.0\B. Olya and Game with Arrays.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Olya and Game with Arrays\obj\Debug\net8.0\B. Olya and Game with Arrays.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Olya and Game with Arrays\obj\Debug\net8.0\B. Olya and Game with Arrays.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Olya and Game with Arrays\obj\Debug\net8.0\B. Olya and Game with Arrays.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Olya and Game with Arrays\obj\Debug\net8.0\B. Olya and Game with Arrays.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Olya and Game with Arrays\obj\Debug\net8.0\B. Olya and Game with Arrays.sourcelink.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Olya and Game with Arrays\obj\Debug\net8.0\B. Olya and Game with Arrays.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Olya and Game with Arrays\obj\Debug\net8.0\refint\B. Olya and Game with Arrays.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Olya and Game with Arrays\obj\Debug\net8.0\B. Olya and Game with Arrays.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Olya and Game with Arrays\obj\Debug\net8.0\B. Olya and Game with Arrays.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Olya and Game with Arrays\obj\Debug\net8.0\ref\B. Olya and Game with Arrays.dll
