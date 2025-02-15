@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("A. System of Equations")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+78f99643227e9e642f1f0c2139bdcddd0ab830fe")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+894c92217d9a5eb94c2a9360676ee0dd7921fad2")]
 [assembly: System.Reflection.AssemblyProductAttribute("A. System of Equations")]
 [assembly: System.Reflection.AssemblyTitleAttribute("A. System of Equations")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

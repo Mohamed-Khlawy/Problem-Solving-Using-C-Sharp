@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("B1. Wonderful Coloring - 1")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+78f99643227e9e642f1f0c2139bdcddd0ab830fe")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+894c92217d9a5eb94c2a9360676ee0dd7921fad2")]
 [assembly: System.Reflection.AssemblyProductAttribute("B1. Wonderful Coloring - 1")]
 [assembly: System.Reflection.AssemblyTitleAttribute("B1. Wonderful Coloring - 1")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -608,3 +608,9 @@ A. Red and Blue Beans ==> https://codeforces.com/problemset/problem/1519/A
 
 A. Extremely Round ==> https://codeforces.com/problemset/problem/1766/A
 
+C. Choose the Different Ones! ==> https://codeforces.com/problemset/problem/1927/C
+
+A. Image ==> https://codeforces.com/problemset/problem/1721/A
+
+B. Buttons ==> https://codeforces.com/problemset/problem/268/B
+

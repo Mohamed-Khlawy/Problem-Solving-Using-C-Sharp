@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Choose the Different Ones!\bin\Debug\net8.0\C. Choose the Different Ones!.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Choose the Different Ones!\bin\Debug\net8.0\C. Choose the Different Ones!.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Choose the Different Ones!\bin\Debug\net8.0\C. Choose the Different Ones!.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Choose the Different Ones!\bin\Debug\net8.0\C. Choose the Different Ones!.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Choose the Different Ones!\bin\Debug\net8.0\C. Choose the Different Ones!.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Choose the Different Ones!\obj\Debug\net8.0\C. Choose the Different Ones!.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Choose the Different Ones!\obj\Debug\net8.0\C. Choose the Different Ones!.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Choose the Different Ones!\obj\Debug\net8.0\C. Choose the Different Ones!.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Choose the Different Ones!\obj\Debug\net8.0\C. Choose the Different Ones!.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Choose the Different Ones!\obj\Debug\net8.0\C. Choose the Different Ones!.sourcelink.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Choose the Different Ones!\obj\Debug\net8.0\C. Choose the Different Ones!.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Choose the Different Ones!\obj\Debug\net8.0\refint\C. Choose the Different Ones!.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Choose the Different Ones!\obj\Debug\net8.0\C. Choose the Different Ones!.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Choose the Different Ones!\obj\Debug\net8.0\C. Choose the Different Ones!.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Choose the Different Ones!\obj\Debug\net8.0\ref\C. Choose the Different Ones!.dll
