@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "C. Not Adjacent Matrix/1.0.0": {
+        "runtime": {
+          "C. Not Adjacent Matrix.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "C. Not Adjacent Matrix/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

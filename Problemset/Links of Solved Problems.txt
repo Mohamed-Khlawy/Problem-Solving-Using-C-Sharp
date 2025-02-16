@@ -614,3 +614,9 @@ A. Image ==> https://codeforces.com/problemset/problem/1721/A
 
 B. Buttons ==> https://codeforces.com/problemset/problem/268/B
 
+A. Fibonacciness ==> https://codeforces.com/problemset/problem/2060/A
+
+C. Not Adjacent Matrix ==> https://codeforces.com/problemset/problem/1520/C
+
+A. Line Breaks ==> https://codeforces.com/problemset/problem/2050/A
+

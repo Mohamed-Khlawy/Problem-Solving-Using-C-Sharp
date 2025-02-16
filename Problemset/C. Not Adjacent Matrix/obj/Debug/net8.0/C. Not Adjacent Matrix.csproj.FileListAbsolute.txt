@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Not Adjacent Matrix\bin\Debug\net8.0\C. Not Adjacent Matrix.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Not Adjacent Matrix\bin\Debug\net8.0\C. Not Adjacent Matrix.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Not Adjacent Matrix\bin\Debug\net8.0\C. Not Adjacent Matrix.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Not Adjacent Matrix\bin\Debug\net8.0\C. Not Adjacent Matrix.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Not Adjacent Matrix\bin\Debug\net8.0\C. Not Adjacent Matrix.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Not Adjacent Matrix\obj\Debug\net8.0\C. Not Adjacent Matrix.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Not Adjacent Matrix\obj\Debug\net8.0\C. Not Adjacent Matrix.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Not Adjacent Matrix\obj\Debug\net8.0\C. Not Adjacent Matrix.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Not Adjacent Matrix\obj\Debug\net8.0\C. Not Adjacent Matrix.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Not Adjacent Matrix\obj\Debug\net8.0\C. Not Adjacent Matrix.sourcelink.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Not Adjacent Matrix\obj\Debug\net8.0\C. Not Adjacent Matrix.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Not Adjacent Matrix\obj\Debug\net8.0\refint\C. Not Adjacent Matrix.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Not Adjacent Matrix\obj\Debug\net8.0\C. Not Adjacent Matrix.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Not Adjacent Matrix\obj\Debug\net8.0\C. Not Adjacent Matrix.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Not Adjacent Matrix\obj\Debug\net8.0\ref\C. Not Adjacent Matrix.dll

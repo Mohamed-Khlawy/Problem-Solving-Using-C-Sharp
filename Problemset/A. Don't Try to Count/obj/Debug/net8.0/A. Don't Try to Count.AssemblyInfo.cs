@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("A. Don\'t Try to Count")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+894c92217d9a5eb94c2a9360676ee0dd7921fad2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+80121b9a63c5d8133ddfe94e947359e5751777ec")]
 [assembly: System.Reflection.AssemblyProductAttribute("A. Don\'t Try to Count")]
 [assembly: System.Reflection.AssemblyTitleAttribute("A. Don\'t Try to Count")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
