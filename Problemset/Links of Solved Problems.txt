@@ -620,3 +620,7 @@ C. Not Adjacent Matrix ==> https://codeforces.com/problemset/problem/1520/C
 
 A. Line Breaks ==> https://codeforces.com/problemset/problem/2050/A
 
+A. Everybody Likes Good Arrays! ==> https://codeforces.com/problemset/problem/1777/A
+
+C. Numeric String Template ==> https://codeforces.com/problemset/problem/2000/C
+

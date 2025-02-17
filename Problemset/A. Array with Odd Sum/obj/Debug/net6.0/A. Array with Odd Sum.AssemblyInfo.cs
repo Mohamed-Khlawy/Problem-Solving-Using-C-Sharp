@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("A. Array with Odd Sum")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+80121b9a63c5d8133ddfe94e947359e5751777ec")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5e88ed8cab02a429790d35177b33a2a7a261610b")]
 [assembly: System.Reflection.AssemblyProductAttribute("A. Array with Odd Sum")]
 [assembly: System.Reflection.AssemblyTitleAttribute("A. Array with Odd Sum")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

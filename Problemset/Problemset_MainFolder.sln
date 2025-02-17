@@ -629,6 +629,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C. Not Adjacent Matrix", "C
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A. Line Breaks", "A. Line Breaks\A. Line Breaks.csproj", "{BB859B09-499A-4357-A4D0-463ADDE5F666}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A. Everybody Likes Good Arrays!", "A. Everybody Likes Good Arrays!\A. Everybody Likes Good Arrays!.csproj", "{DDFD92D1-8CC7-4A6A-9E7D-05BD73C96785}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C. Numeric String Template", "C. Numeric String Template\C. Numeric String Template.csproj", "{7076C862-8BBB-4457-8DF0-3B0F923015F2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -1887,6 +1891,14 @@ Global
 		{BB859B09-499A-4357-A4D0-463ADDE5F666}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BB859B09-499A-4357-A4D0-463ADDE5F666}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BB859B09-499A-4357-A4D0-463ADDE5F666}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DDFD92D1-8CC7-4A6A-9E7D-05BD73C96785}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDFD92D1-8CC7-4A6A-9E7D-05BD73C96785}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDFD92D1-8CC7-4A6A-9E7D-05BD73C96785}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDFD92D1-8CC7-4A6A-9E7D-05BD73C96785}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7076C862-8BBB-4457-8DF0-3B0F923015F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7076C862-8BBB-4457-8DF0-3B0F923015F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7076C862-8BBB-4457-8DF0-3B0F923015F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7076C862-8BBB-4457-8DF0-3B0F923015F2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

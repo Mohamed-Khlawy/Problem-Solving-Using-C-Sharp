@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Everybody Likes Good Arrays!\bin\Debug\net8.0\A. Everybody Likes Good Arrays!.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Everybody Likes Good Arrays!\bin\Debug\net8.0\A. Everybody Likes Good Arrays!.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Everybody Likes Good Arrays!\bin\Debug\net8.0\A. Everybody Likes Good Arrays!.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Everybody Likes Good Arrays!\bin\Debug\net8.0\A. Everybody Likes Good Arrays!.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Everybody Likes Good Arrays!\bin\Debug\net8.0\A. Everybody Likes Good Arrays!.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Everybody Likes Good Arrays!\obj\Debug\net8.0\A. Everybody Likes Good Arrays!.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Everybody Likes Good Arrays!\obj\Debug\net8.0\A. Everybody Likes Good Arrays!.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Everybody Likes Good Arrays!\obj\Debug\net8.0\A. Everybody Likes Good Arrays!.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Everybody Likes Good Arrays!\obj\Debug\net8.0\A. Everybody Likes Good Arrays!.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Everybody Likes Good Arrays!\obj\Debug\net8.0\A. Everybody Likes Good Arrays!.sourcelink.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Everybody Likes Good Arrays!\obj\Debug\net8.0\A. Everybody Likes Good Arrays!.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Everybody Likes Good Arrays!\obj\Debug\net8.0\refint\A. Everybody Likes Good Arrays!.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Everybody Likes Good Arrays!\obj\Debug\net8.0\A. Everybody Likes Good Arrays!.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Everybody Likes Good Arrays!\obj\Debug\net8.0\A. Everybody Likes Good Arrays!.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Everybody Likes Good Arrays!\obj\Debug\net8.0\ref\A. Everybody Likes Good Arrays!.dll
