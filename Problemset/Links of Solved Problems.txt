@@ -624,3 +624,9 @@ A. Everybody Likes Good Arrays! ==> https://codeforces.com/problemset/problem/17
 
 C. Numeric String Template ==> https://codeforces.com/problemset/problem/2000/C
 
+A. Catch the Coin ==> https://codeforces.com/problemset/problem/1989/A
+
+B. Maximum Cost Deletion ==> https://codeforces.com/problemset/problem/1550/B
+
+B. Teams Forming ==> https://codeforces.com/problemset/problem/1092/B
+

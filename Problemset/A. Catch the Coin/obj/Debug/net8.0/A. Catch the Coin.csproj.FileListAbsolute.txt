@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Catch the Coin\bin\Debug\net8.0\A. Catch the Coin.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Catch the Coin\bin\Debug\net8.0\A. Catch the Coin.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Catch the Coin\bin\Debug\net8.0\A. Catch the Coin.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Catch the Coin\bin\Debug\net8.0\A. Catch the Coin.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Catch the Coin\bin\Debug\net8.0\A. Catch the Coin.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Catch the Coin\obj\Debug\net8.0\A. Catch the Coin.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Catch the Coin\obj\Debug\net8.0\A. Catch the Coin.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Catch the Coin\obj\Debug\net8.0\A. Catch the Coin.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Catch the Coin\obj\Debug\net8.0\A. Catch the Coin.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Catch the Coin\obj\Debug\net8.0\A. Catch the Coin.sourcelink.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Catch the Coin\obj\Debug\net8.0\A. Catch the Coin.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Catch the Coin\obj\Debug\net8.0\refint\A. Catch the Coin.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Catch the Coin\obj\Debug\net8.0\A. Catch the Coin.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Catch the Coin\obj\Debug\net8.0\A. Catch the Coin.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Catch the Coin\obj\Debug\net8.0\ref\A. Catch the Coin.dll

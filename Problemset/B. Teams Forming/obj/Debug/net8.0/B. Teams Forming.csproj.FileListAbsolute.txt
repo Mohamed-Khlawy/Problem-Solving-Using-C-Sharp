@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Teams Forming\bin\Debug\net8.0\B. Teams Forming.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Teams Forming\bin\Debug\net8.0\B. Teams Forming.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Teams Forming\bin\Debug\net8.0\B. Teams Forming.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Teams Forming\bin\Debug\net8.0\B. Teams Forming.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Teams Forming\bin\Debug\net8.0\B. Teams Forming.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Teams Forming\obj\Debug\net8.0\B. Teams Forming.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Teams Forming\obj\Debug\net8.0\B. Teams Forming.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Teams Forming\obj\Debug\net8.0\B. Teams Forming.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Teams Forming\obj\Debug\net8.0\B. Teams Forming.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Teams Forming\obj\Debug\net8.0\B. Teams Forming.sourcelink.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Teams Forming\obj\Debug\net8.0\B. Teams Forming.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Teams Forming\obj\Debug\net8.0\refint\B. Teams Forming.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Teams Forming\obj\Debug\net8.0\B. Teams Forming.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Teams Forming\obj\Debug\net8.0\B. Teams Forming.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Teams Forming\obj\Debug\net8.0\ref\B. Teams Forming.dll

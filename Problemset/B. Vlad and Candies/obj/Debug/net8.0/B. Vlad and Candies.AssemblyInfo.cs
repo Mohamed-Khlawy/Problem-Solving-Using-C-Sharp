@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("B. Vlad and Candies")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5e88ed8cab02a429790d35177b33a2a7a261610b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8fb7503730b55f2a8a9b69dd23826694286e1d52")]
 [assembly: System.Reflection.AssemblyProductAttribute("B. Vlad and Candies")]
 [assembly: System.Reflection.AssemblyTitleAttribute("B. Vlad and Candies")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

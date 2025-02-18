@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Maximum Cost Deletion\bin\Debug\net8.0\B. Maximum Cost Deletion.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Maximum Cost Deletion\bin\Debug\net8.0\B. Maximum Cost Deletion.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Maximum Cost Deletion\bin\Debug\net8.0\B. Maximum Cost Deletion.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Maximum Cost Deletion\bin\Debug\net8.0\B. Maximum Cost Deletion.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Maximum Cost Deletion\bin\Debug\net8.0\B. Maximum Cost Deletion.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Maximum Cost Deletion\obj\Debug\net8.0\B. Maximum Cost Deletion.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Maximum Cost Deletion\obj\Debug\net8.0\B. Maximum Cost Deletion.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Maximum Cost Deletion\obj\Debug\net8.0\B. Maximum Cost Deletion.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Maximum Cost Deletion\obj\Debug\net8.0\B. Maximum Cost Deletion.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Maximum Cost Deletion\obj\Debug\net8.0\B. Maximum Cost Deletion.sourcelink.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Maximum Cost Deletion\obj\Debug\net8.0\B. Maximum Cost Deletion.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Maximum Cost Deletion\obj\Debug\net8.0\refint\B. Maximum Cost Deletion.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Maximum Cost Deletion\obj\Debug\net8.0\B. Maximum Cost Deletion.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Maximum Cost Deletion\obj\Debug\net8.0\B. Maximum Cost Deletion.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Maximum Cost Deletion\obj\Debug\net8.0\ref\B. Maximum Cost Deletion.dll

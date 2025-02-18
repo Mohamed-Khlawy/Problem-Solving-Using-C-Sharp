@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "B. Maximum Cost Deletion/1.0.0": {
+        "runtime": {
+          "B. Maximum Cost Deletion.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "B. Maximum Cost Deletion/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
