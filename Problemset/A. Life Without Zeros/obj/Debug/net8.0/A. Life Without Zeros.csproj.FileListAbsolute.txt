@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Life Without Zeros\bin\Debug\net8.0\A. Life Without Zeros.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Life Without Zeros\bin\Debug\net8.0\A. Life Without Zeros.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Life Without Zeros\bin\Debug\net8.0\A. Life Without Zeros.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Life Without Zeros\bin\Debug\net8.0\A. Life Without Zeros.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Life Without Zeros\bin\Debug\net8.0\A. Life Without Zeros.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Life Without Zeros\obj\Debug\net8.0\A. Life Without Zeros.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Life Without Zeros\obj\Debug\net8.0\A. Life Without Zeros.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Life Without Zeros\obj\Debug\net8.0\A. Life Without Zeros.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Life Without Zeros\obj\Debug\net8.0\A. Life Without Zeros.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Life Without Zeros\obj\Debug\net8.0\A. Life Without Zeros.sourcelink.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Life Without Zeros\obj\Debug\net8.0\A. Life Without Zeros.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Life Without Zeros\obj\Debug\net8.0\refint\A. Life Without Zeros.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Life Without Zeros\obj\Debug\net8.0\A. Life Without Zeros.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Life Without Zeros\obj\Debug\net8.0\A. Life Without Zeros.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Life Without Zeros\obj\Debug\net8.0\ref\A. Life Without Zeros.dll

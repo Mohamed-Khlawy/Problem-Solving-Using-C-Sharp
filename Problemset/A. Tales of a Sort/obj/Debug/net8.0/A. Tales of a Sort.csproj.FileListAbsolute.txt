@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Tales of a Sort\bin\Debug\net8.0\A. Tales of a Sort.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Tales of a Sort\bin\Debug\net8.0\A. Tales of a Sort.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Tales of a Sort\bin\Debug\net8.0\A. Tales of a Sort.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Tales of a Sort\bin\Debug\net8.0\A. Tales of a Sort.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Tales of a Sort\bin\Debug\net8.0\A. Tales of a Sort.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Tales of a Sort\obj\Debug\net8.0\A. Tales of a Sort.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Tales of a Sort\obj\Debug\net8.0\A. Tales of a Sort.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Tales of a Sort\obj\Debug\net8.0\A. Tales of a Sort.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Tales of a Sort\obj\Debug\net8.0\A. Tales of a Sort.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Tales of a Sort\obj\Debug\net8.0\A. Tales of a Sort.sourcelink.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Tales of a Sort\obj\Debug\net8.0\A. Tales of a Sort.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Tales of a Sort\obj\Debug\net8.0\refint\A. Tales of a Sort.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Tales of a Sort\obj\Debug\net8.0\A. Tales of a Sort.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Tales of a Sort\obj\Debug\net8.0\A. Tales of a Sort.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Tales of a Sort\obj\Debug\net8.0\ref\A. Tales of a Sort.dll

@@ -630,3 +630,7 @@ B. Maximum Cost Deletion ==> https://codeforces.com/problemset/problem/1550/B
 
 B. Teams Forming ==> https://codeforces.com/problemset/problem/1092/B
 
+A. Life Without Zeros ==> https://codeforces.com/problemset/problem/75/A
+
+A. Tales of a Sort ==> https://codeforces.com/problemset/problem/1856/A
+
