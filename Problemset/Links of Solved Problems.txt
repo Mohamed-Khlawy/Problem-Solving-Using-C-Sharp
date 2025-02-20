@@ -634,3 +634,7 @@ A. Life Without Zeros ==> https://codeforces.com/problemset/problem/75/A
 
 A. Tales of a Sort ==> https://codeforces.com/problemset/problem/1856/A
 
+A. 2023 ==> https://codeforces.com/problemset/problem/1916/A
+
+B. Dictionary ==> https://codeforces.com/problemset/problem/1674/B
+

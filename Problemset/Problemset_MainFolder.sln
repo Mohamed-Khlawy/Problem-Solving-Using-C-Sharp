@@ -643,6 +643,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A. Life Without Zeros", "A.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A. Tales of a Sort", "A. Tales of a Sort\A. Tales of a Sort.csproj", "{482A9A5F-B800-404D-A10B-6BE1FEA409BB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A. 2023", "A. 2023\A. 2023.csproj", "{582EC0F0-A08F-469B-AD1A-A9AF2E2DB07E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "B. Dictionary", "B. Dictionary\B. Dictionary.csproj", "{BF6ED923-CA44-4C71-8FEF-1F750E5CEAE9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -1929,6 +1933,14 @@ Global
 		{482A9A5F-B800-404D-A10B-6BE1FEA409BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{482A9A5F-B800-404D-A10B-6BE1FEA409BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{482A9A5F-B800-404D-A10B-6BE1FEA409BB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{582EC0F0-A08F-469B-AD1A-A9AF2E2DB07E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{582EC0F0-A08F-469B-AD1A-A9AF2E2DB07E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{582EC0F0-A08F-469B-AD1A-A9AF2E2DB07E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{582EC0F0-A08F-469B-AD1A-A9AF2E2DB07E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BF6ED923-CA44-4C71-8FEF-1F750E5CEAE9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF6ED923-CA44-4C71-8FEF-1F750E5CEAE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF6ED923-CA44-4C71-8FEF-1F750E5CEAE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF6ED923-CA44-4C71-8FEF-1F750E5CEAE9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
