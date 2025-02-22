@@ -638,3 +638,7 @@ A. 2023 ==> https://codeforces.com/problemset/problem/1916/A
 
 B. Dictionary ==> https://codeforces.com/problemset/problem/1674/B
 
+A. Median of an Array ==> https://codeforces.com/problemset/problem/1946/A
+
+B. Alphabetical Strings ==> https://codeforces.com/problemset/problem/1547/B
+

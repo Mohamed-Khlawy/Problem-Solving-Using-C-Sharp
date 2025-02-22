@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Median of an Array\bin\Debug\net8.0\A. Median of an Array.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Median of an Array\bin\Debug\net8.0\A. Median of an Array.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Median of an Array\bin\Debug\net8.0\A. Median of an Array.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Median of an Array\bin\Debug\net8.0\A. Median of an Array.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Median of an Array\bin\Debug\net8.0\A. Median of an Array.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Median of an Array\obj\Debug\net8.0\A. Median of an Array.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Median of an Array\obj\Debug\net8.0\A. Median of an Array.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Median of an Array\obj\Debug\net8.0\A. Median of an Array.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Median of an Array\obj\Debug\net8.0\A. Median of an Array.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Median of an Array\obj\Debug\net8.0\A. Median of an Array.sourcelink.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Median of an Array\obj\Debug\net8.0\A. Median of an Array.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Median of an Array\obj\Debug\net8.0\refint\A. Median of an Array.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Median of an Array\obj\Debug\net8.0\A. Median of an Array.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Median of an Array\obj\Debug\net8.0\A. Median of an Array.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Median of an Array\obj\Debug\net8.0\ref\A. Median of an Array.dll

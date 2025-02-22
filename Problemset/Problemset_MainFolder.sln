@@ -647,6 +647,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A. 2023", "A. 2023\A. 2023.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "B. Dictionary", "B. Dictionary\B. Dictionary.csproj", "{BF6ED923-CA44-4C71-8FEF-1F750E5CEAE9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A. Median of an Array", "A. Median of an Array\A. Median of an Array.csproj", "{B9083B28-C7F2-4C71-B668-B5638431CF2A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "B. Alphabetical Strings", "B. Alphabetical Strings\B. Alphabetical Strings.csproj", "{28C46366-B04E-4B33-BCC9-E4B48391C9A4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -1941,6 +1945,14 @@ Global
 		{BF6ED923-CA44-4C71-8FEF-1F750E5CEAE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BF6ED923-CA44-4C71-8FEF-1F750E5CEAE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BF6ED923-CA44-4C71-8FEF-1F750E5CEAE9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B9083B28-C7F2-4C71-B668-B5638431CF2A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9083B28-C7F2-4C71-B668-B5638431CF2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9083B28-C7F2-4C71-B668-B5638431CF2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9083B28-C7F2-4C71-B668-B5638431CF2A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{28C46366-B04E-4B33-BCC9-E4B48391C9A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28C46366-B04E-4B33-BCC9-E4B48391C9A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28C46366-B04E-4B33-BCC9-E4B48391C9A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28C46366-B04E-4B33-BCC9-E4B48391C9A4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

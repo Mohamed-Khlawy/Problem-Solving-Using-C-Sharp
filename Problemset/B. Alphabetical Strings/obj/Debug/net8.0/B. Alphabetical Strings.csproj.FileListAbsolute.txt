@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Alphabetical Strings\bin\Debug\net8.0\B. Alphabetical Strings.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Alphabetical Strings\bin\Debug\net8.0\B. Alphabetical Strings.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Alphabetical Strings\bin\Debug\net8.0\B. Alphabetical Strings.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Alphabetical Strings\bin\Debug\net8.0\B. Alphabetical Strings.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Alphabetical Strings\bin\Debug\net8.0\B. Alphabetical Strings.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Alphabetical Strings\obj\Debug\net8.0\B. Alphabetical Strings.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Alphabetical Strings\obj\Debug\net8.0\B. Alphabetical Strings.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Alphabetical Strings\obj\Debug\net8.0\B. Alphabetical Strings.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Alphabetical Strings\obj\Debug\net8.0\B. Alphabetical Strings.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Alphabetical Strings\obj\Debug\net8.0\B. Alphabetical Strings.sourcelink.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Alphabetical Strings\obj\Debug\net8.0\B. Alphabetical Strings.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Alphabetical Strings\obj\Debug\net8.0\refint\B. Alphabetical Strings.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Alphabetical Strings\obj\Debug\net8.0\B. Alphabetical Strings.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Alphabetical Strings\obj\Debug\net8.0\B. Alphabetical Strings.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Alphabetical Strings\obj\Debug\net8.0\ref\B. Alphabetical Strings.dll
