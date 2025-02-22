@@ -642,3 +642,7 @@ A. Median of an Array ==> https://codeforces.com/problemset/problem/1946/A
 
 B. Alphabetical Strings ==> https://codeforces.com/problemset/problem/1547/B
 
+A. Nezzar and Colorful Balls ==> https://codeforces.com/problemset/problem/1478/A
+
+A. Arena ==> https://codeforces.com/problemset/problem/1487/A
+

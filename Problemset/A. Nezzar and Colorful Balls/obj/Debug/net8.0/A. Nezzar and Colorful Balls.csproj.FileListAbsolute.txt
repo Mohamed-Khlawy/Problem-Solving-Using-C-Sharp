@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Nezzar and Colorful Balls\bin\Debug\net8.0\A. Nezzar and Colorful Balls.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Nezzar and Colorful Balls\bin\Debug\net8.0\A. Nezzar and Colorful Balls.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Nezzar and Colorful Balls\bin\Debug\net8.0\A. Nezzar and Colorful Balls.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Nezzar and Colorful Balls\bin\Debug\net8.0\A. Nezzar and Colorful Balls.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Nezzar and Colorful Balls\bin\Debug\net8.0\A. Nezzar and Colorful Balls.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Nezzar and Colorful Balls\obj\Debug\net8.0\A. Nezzar and Colorful Balls.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Nezzar and Colorful Balls\obj\Debug\net8.0\A. Nezzar and Colorful Balls.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Nezzar and Colorful Balls\obj\Debug\net8.0\A. Nezzar and Colorful Balls.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Nezzar and Colorful Balls\obj\Debug\net8.0\A. Nezzar and Colorful Balls.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Nezzar and Colorful Balls\obj\Debug\net8.0\A. Nezzar and Colorful Balls.sourcelink.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Nezzar and Colorful Balls\obj\Debug\net8.0\A. Nezzar and Colorful Balls.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Nezzar and Colorful Balls\obj\Debug\net8.0\refint\A. Nezzar and Colorful Balls.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Nezzar and Colorful Balls\obj\Debug\net8.0\A. Nezzar and Colorful Balls.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Nezzar and Colorful Balls\obj\Debug\net8.0\A. Nezzar and Colorful Balls.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Nezzar and Colorful Balls\obj\Debug\net8.0\ref\A. Nezzar and Colorful Balls.dll
