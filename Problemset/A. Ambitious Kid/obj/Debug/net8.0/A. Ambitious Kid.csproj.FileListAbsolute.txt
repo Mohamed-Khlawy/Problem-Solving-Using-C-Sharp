@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Ambitious Kid\bin\Debug\net8.0\A. Ambitious Kid.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Ambitious Kid\bin\Debug\net8.0\A. Ambitious Kid.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Ambitious Kid\bin\Debug\net8.0\A. Ambitious Kid.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Ambitious Kid\bin\Debug\net8.0\A. Ambitious Kid.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Ambitious Kid\bin\Debug\net8.0\A. Ambitious Kid.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Ambitious Kid\obj\Debug\net8.0\A. Ambitious Kid.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Ambitious Kid\obj\Debug\net8.0\A. Ambitious Kid.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Ambitious Kid\obj\Debug\net8.0\A. Ambitious Kid.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Ambitious Kid\obj\Debug\net8.0\A. Ambitious Kid.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Ambitious Kid\obj\Debug\net8.0\A. Ambitious Kid.sourcelink.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Ambitious Kid\obj\Debug\net8.0\A. Ambitious Kid.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Ambitious Kid\obj\Debug\net8.0\refint\A. Ambitious Kid.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Ambitious Kid\obj\Debug\net8.0\A. Ambitious Kid.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Ambitious Kid\obj\Debug\net8.0\A. Ambitious Kid.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Ambitious Kid\obj\Debug\net8.0\ref\A. Ambitious Kid.dll

@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Strange Functions\bin\Debug\net8.0\A. Strange Functions.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Strange Functions\bin\Debug\net8.0\A. Strange Functions.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Strange Functions\bin\Debug\net8.0\A. Strange Functions.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Strange Functions\bin\Debug\net8.0\A. Strange Functions.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Strange Functions\bin\Debug\net8.0\A. Strange Functions.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Strange Functions\obj\Debug\net8.0\A. Strange Functions.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Strange Functions\obj\Debug\net8.0\A. Strange Functions.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Strange Functions\obj\Debug\net8.0\A. Strange Functions.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Strange Functions\obj\Debug\net8.0\A. Strange Functions.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Strange Functions\obj\Debug\net8.0\A. Strange Functions.sourcelink.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Strange Functions\obj\Debug\net8.0\A. Strange Functions.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Strange Functions\obj\Debug\net8.0\refint\A. Strange Functions.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Strange Functions\obj\Debug\net8.0\A. Strange Functions.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Strange Functions\obj\Debug\net8.0\A. Strange Functions.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Strange Functions\obj\Debug\net8.0\ref\A. Strange Functions.dll

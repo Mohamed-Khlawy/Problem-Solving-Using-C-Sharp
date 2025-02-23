@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Number Transformation\bin\Debug\net8.0\A. Number Transformation.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Number Transformation\bin\Debug\net8.0\A. Number Transformation.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Number Transformation\bin\Debug\net8.0\A. Number Transformation.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Number Transformation\bin\Debug\net8.0\A. Number Transformation.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Number Transformation\bin\Debug\net8.0\A. Number Transformation.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Number Transformation\obj\Debug\net8.0\A. Number Transformation.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Number Transformation\obj\Debug\net8.0\A. Number Transformation.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Number Transformation\obj\Debug\net8.0\A. Number Transformation.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Number Transformation\obj\Debug\net8.0\A. Number Transformation.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Number Transformation\obj\Debug\net8.0\A. Number Transformation.sourcelink.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Number Transformation\obj\Debug\net8.0\A. Number Transformation.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Number Transformation\obj\Debug\net8.0\refint\A. Number Transformation.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Number Transformation\obj\Debug\net8.0\A. Number Transformation.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Number Transformation\obj\Debug\net8.0\A. Number Transformation.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Number Transformation\obj\Debug\net8.0\ref\A. Number Transformation.dll

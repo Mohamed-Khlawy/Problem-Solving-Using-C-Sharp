@@ -646,3 +646,11 @@ A. Nezzar and Colorful Balls ==> https://codeforces.com/problemset/problem/1478/
 
 A. Arena ==> https://codeforces.com/problemset/problem/1487/A
 
+A. Ambitious Kid ==> https://codeforces.com/problemset/problem/1866/A
+
+C. Double-ended Strings ==> https://codeforces.com/problemset/problem/1506/C
+
+A. Number Transformation ==> https://codeforces.com/problemset/problem/1674/A
+
+A. Strange Functions ==> https://codeforces.com/problemset/problem/1455/A
+

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("A. Two Frogs")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+aa68cfc02ccc106a11d859024674911ece1e8d81")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f706f12e48726e3763d163e1a058f0ee9fabb640")]
 [assembly: System.Reflection.AssemblyProductAttribute("A. Two Frogs")]
 [assembly: System.Reflection.AssemblyTitleAttribute("A. Two Frogs")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

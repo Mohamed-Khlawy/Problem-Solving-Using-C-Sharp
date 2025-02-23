@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Double-ended Strings\bin\Debug\net8.0\C. Double-ended Strings.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Double-ended Strings\bin\Debug\net8.0\C. Double-ended Strings.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Double-ended Strings\bin\Debug\net8.0\C. Double-ended Strings.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Double-ended Strings\bin\Debug\net8.0\C. Double-ended Strings.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Double-ended Strings\bin\Debug\net8.0\C. Double-ended Strings.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Double-ended Strings\obj\Debug\net8.0\C. Double-ended Strings.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Double-ended Strings\obj\Debug\net8.0\C. Double-ended Strings.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Double-ended Strings\obj\Debug\net8.0\C. Double-ended Strings.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Double-ended Strings\obj\Debug\net8.0\C. Double-ended Strings.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Double-ended Strings\obj\Debug\net8.0\C. Double-ended Strings.sourcelink.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Double-ended Strings\obj\Debug\net8.0\C. Double-ended Strings.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Double-ended Strings\obj\Debug\net8.0\refint\C. Double-ended Strings.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Double-ended Strings\obj\Debug\net8.0\C. Double-ended Strings.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Double-ended Strings\obj\Debug\net8.0\C. Double-ended Strings.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Double-ended Strings\obj\Debug\net8.0\ref\C. Double-ended Strings.dll
