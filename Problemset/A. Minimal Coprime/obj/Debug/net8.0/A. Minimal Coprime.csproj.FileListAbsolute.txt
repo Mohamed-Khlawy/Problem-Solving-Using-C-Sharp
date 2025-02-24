@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Minimal Coprime\bin\Debug\net8.0\A. Minimal Coprime.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Minimal Coprime\bin\Debug\net8.0\A. Minimal Coprime.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Minimal Coprime\bin\Debug\net8.0\A. Minimal Coprime.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Minimal Coprime\bin\Debug\net8.0\A. Minimal Coprime.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Minimal Coprime\bin\Debug\net8.0\A. Minimal Coprime.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Minimal Coprime\obj\Debug\net8.0\A. Minimal Coprime.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Minimal Coprime\obj\Debug\net8.0\A. Minimal Coprime.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Minimal Coprime\obj\Debug\net8.0\A. Minimal Coprime.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Minimal Coprime\obj\Debug\net8.0\A. Minimal Coprime.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Minimal Coprime\obj\Debug\net8.0\A. Minimal Coprime.sourcelink.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Minimal Coprime\obj\Debug\net8.0\A. Minimal Coprime.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Minimal Coprime\obj\Debug\net8.0\refint\A. Minimal Coprime.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Minimal Coprime\obj\Debug\net8.0\A. Minimal Coprime.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Minimal Coprime\obj\Debug\net8.0\A. Minimal Coprime.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Minimal Coprime\obj\Debug\net8.0\ref\A. Minimal Coprime.dll

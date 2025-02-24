@@ -654,3 +654,7 @@ A. Number Transformation ==> https://codeforces.com/problemset/problem/1674/A
 
 A. Strange Functions ==> https://codeforces.com/problemset/problem/1455/A
 
+A. Minimal Coprime ==> https://codeforces.com/problemset/problem/2063/A
+
+A. AvtoBus ==> https://codeforces.com/problemset/problem/1679/A
+

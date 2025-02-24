@@ -663,6 +663,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A. Number Transformation", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A. Strange Functions", "A. Strange Functions\A. Strange Functions.csproj", "{35D6FA5A-3F4D-4931-8529-EF2615E421D8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A. Minimal Coprime", "A. Minimal Coprime\A. Minimal Coprime.csproj", "{98E0BA28-7709-46F0-84B2-524EC54F98B6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A. AvtoBus", "A. AvtoBus\A. AvtoBus.csproj", "{18D31EC1-A549-4597-B082-37A0A7799421}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -1989,6 +1993,14 @@ Global
 		{35D6FA5A-3F4D-4931-8529-EF2615E421D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{35D6FA5A-3F4D-4931-8529-EF2615E421D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{35D6FA5A-3F4D-4931-8529-EF2615E421D8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{98E0BA28-7709-46F0-84B2-524EC54F98B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98E0BA28-7709-46F0-84B2-524EC54F98B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98E0BA28-7709-46F0-84B2-524EC54F98B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98E0BA28-7709-46F0-84B2-524EC54F98B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{18D31EC1-A549-4597-B082-37A0A7799421}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18D31EC1-A549-4597-B082-37A0A7799421}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18D31EC1-A549-4597-B082-37A0A7799421}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18D31EC1-A549-4597-B082-37A0A7799421}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
