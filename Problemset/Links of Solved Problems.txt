@@ -658,3 +658,9 @@ A. Minimal Coprime ==> https://codeforces.com/problemset/problem/2063/A
 
 A. AvtoBus ==> https://codeforces.com/problemset/problem/1679/A
 
+A. Common Subsequence ==> https://codeforces.com/problemset/problem/1382/A
+
+C. Restoring the Duration of Tasks ==> https://codeforces.com/problemset/problem/1690/C
+
+A. AB Balance ==> https://codeforces.com/problemset/problem/1606/A
+

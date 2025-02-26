@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Restoring the Duration of Tasks\bin\Debug\net8.0\C. Restoring the Duration of Tasks.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Restoring the Duration of Tasks\bin\Debug\net8.0\C. Restoring the Duration of Tasks.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Restoring the Duration of Tasks\bin\Debug\net8.0\C. Restoring the Duration of Tasks.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Restoring the Duration of Tasks\bin\Debug\net8.0\C. Restoring the Duration of Tasks.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Restoring the Duration of Tasks\bin\Debug\net8.0\C. Restoring the Duration of Tasks.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Restoring the Duration of Tasks\obj\Debug\net8.0\C. Restoring the Duration of Tasks.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Restoring the Duration of Tasks\obj\Debug\net8.0\C. Restoring the Duration of Tasks.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Restoring the Duration of Tasks\obj\Debug\net8.0\C. Restoring the Duration of Tasks.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Restoring the Duration of Tasks\obj\Debug\net8.0\C. Restoring the Duration of Tasks.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Restoring the Duration of Tasks\obj\Debug\net8.0\C. Restoring the Duration of Tasks.sourcelink.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Restoring the Duration of Tasks\obj\Debug\net8.0\C. Restoring the Duration of Tasks.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Restoring the Duration of Tasks\obj\Debug\net8.0\refint\C. Restoring the Duration of Tasks.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Restoring the Duration of Tasks\obj\Debug\net8.0\C. Restoring the Duration of Tasks.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Restoring the Duration of Tasks\obj\Debug\net8.0\C. Restoring the Duration of Tasks.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Restoring the Duration of Tasks\obj\Debug\net8.0\ref\C. Restoring the Duration of Tasks.dll

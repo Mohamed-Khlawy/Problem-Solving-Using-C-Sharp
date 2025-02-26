@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. AB Balance\bin\Debug\net8.0\A. AB Balance.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. AB Balance\bin\Debug\net8.0\A. AB Balance.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. AB Balance\bin\Debug\net8.0\A. AB Balance.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. AB Balance\bin\Debug\net8.0\A. AB Balance.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. AB Balance\bin\Debug\net8.0\A. AB Balance.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. AB Balance\obj\Debug\net8.0\A. AB Balance.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. AB Balance\obj\Debug\net8.0\A. AB Balance.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. AB Balance\obj\Debug\net8.0\A. AB Balance.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. AB Balance\obj\Debug\net8.0\A. AB Balance.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. AB Balance\obj\Debug\net8.0\A. AB Balance.sourcelink.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. AB Balance\obj\Debug\net8.0\A. AB Balance.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. AB Balance\obj\Debug\net8.0\refint\A. AB Balance.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. AB Balance\obj\Debug\net8.0\A. AB Balance.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. AB Balance\obj\Debug\net8.0\A. AB Balance.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. AB Balance\obj\Debug\net8.0\ref\A. AB Balance.dll

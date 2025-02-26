@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Common Subsequence\bin\Debug\net8.0\A. Common Subsequence.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Common Subsequence\bin\Debug\net8.0\A. Common Subsequence.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Common Subsequence\bin\Debug\net8.0\A. Common Subsequence.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Common Subsequence\bin\Debug\net8.0\A. Common Subsequence.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Common Subsequence\bin\Debug\net8.0\A. Common Subsequence.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Common Subsequence\obj\Debug\net8.0\A. Common Subsequence.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Common Subsequence\obj\Debug\net8.0\A. Common Subsequence.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Common Subsequence\obj\Debug\net8.0\A. Common Subsequence.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Common Subsequence\obj\Debug\net8.0\A. Common Subsequence.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Common Subsequence\obj\Debug\net8.0\A. Common Subsequence.sourcelink.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Common Subsequence\obj\Debug\net8.0\A. Common Subsequence.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Common Subsequence\obj\Debug\net8.0\refint\A. Common Subsequence.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Common Subsequence\obj\Debug\net8.0\A. Common Subsequence.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Common Subsequence\obj\Debug\net8.0\A. Common Subsequence.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Common Subsequence\obj\Debug\net8.0\ref\A. Common Subsequence.dll
