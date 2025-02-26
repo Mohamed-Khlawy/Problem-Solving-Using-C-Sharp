@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Balanced Remainders\bin\Debug\net8.0\B. Balanced Remainders.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Balanced Remainders\bin\Debug\net8.0\B. Balanced Remainders.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Balanced Remainders\bin\Debug\net8.0\B. Balanced Remainders.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Balanced Remainders\bin\Debug\net8.0\B. Balanced Remainders.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Balanced Remainders\bin\Debug\net8.0\B. Balanced Remainders.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Balanced Remainders\obj\Debug\net8.0\B. Balanced Remainders.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Balanced Remainders\obj\Debug\net8.0\B. Balanced Remainders.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Balanced Remainders\obj\Debug\net8.0\B. Balanced Remainders.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Balanced Remainders\obj\Debug\net8.0\B. Balanced Remainders.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Balanced Remainders\obj\Debug\net8.0\B. Balanced Remainders.sourcelink.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Balanced Remainders\obj\Debug\net8.0\B. Balanced Remainders.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Balanced Remainders\obj\Debug\net8.0\refint\B. Balanced Remainders.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Balanced Remainders\obj\Debug\net8.0\B. Balanced Remainders.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Balanced Remainders\obj\Debug\net8.0\B. Balanced Remainders.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Balanced Remainders\obj\Debug\net8.0\ref\B. Balanced Remainders.dll

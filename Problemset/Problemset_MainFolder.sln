@@ -673,6 +673,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C. Restoring the Duration o
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A. AB Balance", "A. AB Balance\A. AB Balance.csproj", "{5EA0D82D-64FD-443A-AD4A-5E51332EE860}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "B. Balanced Remainders", "B. Balanced Remainders\B. Balanced Remainders.csproj", "{B338AF5B-1CF9-4C5C-99CD-E117114B7E9D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -2019,6 +2021,10 @@ Global
 		{5EA0D82D-64FD-443A-AD4A-5E51332EE860}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5EA0D82D-64FD-443A-AD4A-5E51332EE860}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5EA0D82D-64FD-443A-AD4A-5E51332EE860}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B338AF5B-1CF9-4C5C-99CD-E117114B7E9D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B338AF5B-1CF9-4C5C-99CD-E117114B7E9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B338AF5B-1CF9-4C5C-99CD-E117114B7E9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B338AF5B-1CF9-4C5C-99CD-E117114B7E9D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

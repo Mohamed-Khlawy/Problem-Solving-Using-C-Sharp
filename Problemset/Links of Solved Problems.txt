@@ -664,3 +664,5 @@ C. Restoring the Duration of Tasks ==> https://codeforces.com/problemset/problem
 
 A. AB Balance ==> https://codeforces.com/problemset/problem/1606/A
 
+B. Balanced Remainders ==> https://codeforces.com/problemset/problem/1490/B
+
