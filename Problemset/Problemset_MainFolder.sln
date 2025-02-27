@@ -675,6 +675,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A. AB Balance", "A. AB Bala
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "B. Balanced Remainders", "B. Balanced Remainders\B. Balanced Remainders.csproj", "{B338AF5B-1CF9-4C5C-99CD-E117114B7E9D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A. Grass Field", "A. Grass Field\A. Grass Field.csproj", "{0B7B649D-FE82-4D68-8835-90C01C0E393A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C. Letters", "C. Letters\C. Letters.csproj", "{4A02C483-26E5-4037-9562-589CF6E162A2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -2025,6 +2029,14 @@ Global
 		{B338AF5B-1CF9-4C5C-99CD-E117114B7E9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B338AF5B-1CF9-4C5C-99CD-E117114B7E9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B338AF5B-1CF9-4C5C-99CD-E117114B7E9D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0B7B649D-FE82-4D68-8835-90C01C0E393A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B7B649D-FE82-4D68-8835-90C01C0E393A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B7B649D-FE82-4D68-8835-90C01C0E393A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B7B649D-FE82-4D68-8835-90C01C0E393A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4A02C483-26E5-4037-9562-589CF6E162A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A02C483-26E5-4037-9562-589CF6E162A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A02C483-26E5-4037-9562-589CF6E162A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A02C483-26E5-4037-9562-589CF6E162A2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

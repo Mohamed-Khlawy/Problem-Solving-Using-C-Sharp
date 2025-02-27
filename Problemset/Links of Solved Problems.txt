@@ -666,3 +666,7 @@ A. AB Balance ==> https://codeforces.com/problemset/problem/1606/A
 
 B. Balanced Remainders ==> https://codeforces.com/problemset/problem/1490/B
 
+A. Grass Field ==> https://codeforces.com/problemset/problem/1701/A
+
+C. Letters ==> https://codeforces.com/problemset/problem/978/C
+

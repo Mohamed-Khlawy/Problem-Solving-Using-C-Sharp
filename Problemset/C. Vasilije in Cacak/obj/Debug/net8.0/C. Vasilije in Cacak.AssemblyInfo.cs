@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("C. Vasilije in Cacak")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ee33399beb7abfd11703548cf1301ed59cc1baa7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8f5122a777d16dfdd510ef25caa3b544cea43919")]
 [assembly: System.Reflection.AssemblyProductAttribute("C. Vasilije in Cacak")]
 [assembly: System.Reflection.AssemblyTitleAttribute("C. Vasilije in Cacak")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

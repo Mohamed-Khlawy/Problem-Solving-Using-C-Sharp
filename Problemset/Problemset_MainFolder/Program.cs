@@ -20,17 +20,7 @@ namespace Problemset_MainFolder
 
             while (tests-- > 0)
             {
-                int[] dimensionsInput = Console.ReadLine()!.Split().Select(int.Parse).ToArray();
 
-                int numberOfRows = dimensionsInput[0];    /// n
-                int numberOfColumns = dimensionsInput[1]; /// m
-
-                int maxSumForBishop = 0;
-                int maxSidesSum = 0;
-
-                List<List<int>> chessBoard = new List<List<int>>();
-
-                
             }
         } 
     }

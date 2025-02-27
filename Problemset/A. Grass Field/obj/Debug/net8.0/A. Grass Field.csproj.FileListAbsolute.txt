@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Grass Field\bin\Debug\net8.0\A. Grass Field.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Grass Field\bin\Debug\net8.0\A. Grass Field.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Grass Field\bin\Debug\net8.0\A. Grass Field.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Grass Field\bin\Debug\net8.0\A. Grass Field.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Grass Field\bin\Debug\net8.0\A. Grass Field.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Grass Field\obj\Debug\net8.0\A. Grass Field.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Grass Field\obj\Debug\net8.0\A. Grass Field.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Grass Field\obj\Debug\net8.0\A. Grass Field.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Grass Field\obj\Debug\net8.0\A. Grass Field.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Grass Field\obj\Debug\net8.0\A. Grass Field.sourcelink.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Grass Field\obj\Debug\net8.0\A. Grass Field.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Grass Field\obj\Debug\net8.0\refint\A. Grass Field.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Grass Field\obj\Debug\net8.0\A. Grass Field.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Grass Field\obj\Debug\net8.0\A. Grass Field.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Grass Field\obj\Debug\net8.0\ref\A. Grass Field.dll
