@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("C. Can I Square")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+00c89df25c6c508a5e2782cebf075a47a8c1aac5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+351d0af094418e739e0cfe66dd594cc62e805f0b")]
 [assembly: System.Reflection.AssemblyProductAttribute("C. Can I Square")]
 [assembly: System.Reflection.AssemblyTitleAttribute("C. Can I Square")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

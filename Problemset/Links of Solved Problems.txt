@@ -670,3 +670,7 @@ A. Grass Field ==> https://codeforces.com/problemset/problem/1701/A
 
 C. Letters ==> https://codeforces.com/problemset/problem/978/C
 
+A. Morning ==> https://codeforces.com/problemset/problem/1883/A
+
+C. Vlad Building Beautiful Array ==> https://codeforces.com/problemset/problem/1833/C
+

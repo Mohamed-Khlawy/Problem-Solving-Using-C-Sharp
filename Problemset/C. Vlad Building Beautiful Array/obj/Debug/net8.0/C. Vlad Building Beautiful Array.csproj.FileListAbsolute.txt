@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Vlad Building Beautiful Array\bin\Debug\net8.0\C. Vlad Building Beautiful Array.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Vlad Building Beautiful Array\bin\Debug\net8.0\C. Vlad Building Beautiful Array.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Vlad Building Beautiful Array\bin\Debug\net8.0\C. Vlad Building Beautiful Array.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Vlad Building Beautiful Array\bin\Debug\net8.0\C. Vlad Building Beautiful Array.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Vlad Building Beautiful Array\bin\Debug\net8.0\C. Vlad Building Beautiful Array.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Vlad Building Beautiful Array\obj\Debug\net8.0\C. Vlad Building Beautiful Array.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Vlad Building Beautiful Array\obj\Debug\net8.0\C. Vlad Building Beautiful Array.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Vlad Building Beautiful Array\obj\Debug\net8.0\C. Vlad Building Beautiful Array.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Vlad Building Beautiful Array\obj\Debug\net8.0\C. Vlad Building Beautiful Array.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Vlad Building Beautiful Array\obj\Debug\net8.0\C. Vlad Building Beautiful Array.sourcelink.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Vlad Building Beautiful Array\obj\Debug\net8.0\C. Vlad Building Beautiful Array.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Vlad Building Beautiful Array\obj\Debug\net8.0\refint\C. Vlad Building Beautiful Array.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Vlad Building Beautiful Array\obj\Debug\net8.0\C. Vlad Building Beautiful Array.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Vlad Building Beautiful Array\obj\Debug\net8.0\C. Vlad Building Beautiful Array.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Vlad Building Beautiful Array\obj\Debug\net8.0\ref\C. Vlad Building Beautiful Array.dll

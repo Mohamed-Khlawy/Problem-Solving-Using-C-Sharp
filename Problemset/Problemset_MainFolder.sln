@@ -681,6 +681,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C. Letters", "C. Letters\C.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A. Array Divisibility", "A. Array Divisibility\A. Array Divisibility.csproj", "{FA2B97BF-0C1C-4285-B29C-FBBD6ECF66F4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A. Morning", "A. Morning\A. Morning.csproj", "{258B2571-7BD7-4413-AD28-3D3290D7EBEB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C. Vlad Building Beautiful Array", "C. Vlad Building Beautiful Array\C. Vlad Building Beautiful Array.csproj", "{B4393020-E7BF-4667-B4A2-8CCEB29F19EB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -2043,6 +2047,14 @@ Global
 		{FA2B97BF-0C1C-4285-B29C-FBBD6ECF66F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FA2B97BF-0C1C-4285-B29C-FBBD6ECF66F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FA2B97BF-0C1C-4285-B29C-FBBD6ECF66F4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{258B2571-7BD7-4413-AD28-3D3290D7EBEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{258B2571-7BD7-4413-AD28-3D3290D7EBEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{258B2571-7BD7-4413-AD28-3D3290D7EBEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{258B2571-7BD7-4413-AD28-3D3290D7EBEB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B4393020-E7BF-4667-B4A2-8CCEB29F19EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4393020-E7BF-4667-B4A2-8CCEB29F19EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4393020-E7BF-4667-B4A2-8CCEB29F19EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4393020-E7BF-4667-B4A2-8CCEB29F19EB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
