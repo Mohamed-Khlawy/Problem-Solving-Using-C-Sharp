@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. We Need the Zero\bin\Debug\net8.0\A. We Need the Zero.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. We Need the Zero\bin\Debug\net8.0\A. We Need the Zero.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. We Need the Zero\bin\Debug\net8.0\A. We Need the Zero.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. We Need the Zero\bin\Debug\net8.0\A. We Need the Zero.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. We Need the Zero\bin\Debug\net8.0\A. We Need the Zero.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. We Need the Zero\obj\Debug\net8.0\A. We Need the Zero.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. We Need the Zero\obj\Debug\net8.0\A. We Need the Zero.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. We Need the Zero\obj\Debug\net8.0\A. We Need the Zero.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. We Need the Zero\obj\Debug\net8.0\A. We Need the Zero.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. We Need the Zero\obj\Debug\net8.0\A. We Need the Zero.sourcelink.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. We Need the Zero\obj\Debug\net8.0\A. We Need the Zero.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. We Need the Zero\obj\Debug\net8.0\refint\A. We Need the Zero.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. We Need the Zero\obj\Debug\net8.0\A. We Need the Zero.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. We Need the Zero\obj\Debug\net8.0\A. We Need the Zero.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. We Need the Zero\obj\Debug\net8.0\ref\A. We Need the Zero.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "A. We Need the Zero/1.0.0": {
+        "runtime": {
+          "A. We Need the Zero.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "A. We Need the Zero/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

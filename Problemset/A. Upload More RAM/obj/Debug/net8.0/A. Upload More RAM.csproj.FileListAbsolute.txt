@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Upload More RAM\bin\Debug\net8.0\A. Upload More RAM.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Upload More RAM\bin\Debug\net8.0\A. Upload More RAM.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Upload More RAM\bin\Debug\net8.0\A. Upload More RAM.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Upload More RAM\bin\Debug\net8.0\A. Upload More RAM.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Upload More RAM\bin\Debug\net8.0\A. Upload More RAM.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Upload More RAM\obj\Debug\net8.0\A. Upload More RAM.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Upload More RAM\obj\Debug\net8.0\A. Upload More RAM.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Upload More RAM\obj\Debug\net8.0\A. Upload More RAM.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Upload More RAM\obj\Debug\net8.0\A. Upload More RAM.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Upload More RAM\obj\Debug\net8.0\A. Upload More RAM.sourcelink.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Upload More RAM\obj\Debug\net8.0\A. Upload More RAM.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Upload More RAM\obj\Debug\net8.0\refint\A. Upload More RAM.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Upload More RAM\obj\Debug\net8.0\A. Upload More RAM.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Upload More RAM\obj\Debug\net8.0\A. Upload More RAM.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Upload More RAM\obj\Debug\net8.0\ref\A. Upload More RAM.dll

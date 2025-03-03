@@ -674,3 +674,9 @@ A. Morning ==> https://codeforces.com/problemset/problem/1883/A
 
 C. Vlad Building Beautiful Array ==> https://codeforces.com/problemset/problem/1833/C
 
+A. Alice and Books ==> https://codeforces.com/problemset/problem/1978/A
+
+A. We Need the Zero ==> https://codeforces.com/problemset/problem/1805/A
+
+A. Upload More RAM ==> https://codeforces.com/problemset/problem/1987/A
+

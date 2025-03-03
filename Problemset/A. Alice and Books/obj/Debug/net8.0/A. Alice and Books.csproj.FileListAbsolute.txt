@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Alice and Books\bin\Debug\net8.0\A. Alice and Books.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Alice and Books\bin\Debug\net8.0\A. Alice and Books.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Alice and Books\bin\Debug\net8.0\A. Alice and Books.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Alice and Books\bin\Debug\net8.0\A. Alice and Books.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Alice and Books\bin\Debug\net8.0\A. Alice and Books.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Alice and Books\obj\Debug\net8.0\A. Alice and Books.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Alice and Books\obj\Debug\net8.0\A. Alice and Books.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Alice and Books\obj\Debug\net8.0\A. Alice and Books.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Alice and Books\obj\Debug\net8.0\A. Alice and Books.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Alice and Books\obj\Debug\net8.0\A. Alice and Books.sourcelink.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Alice and Books\obj\Debug\net8.0\A. Alice and Books.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Alice and Books\obj\Debug\net8.0\refint\A. Alice and Books.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Alice and Books\obj\Debug\net8.0\A. Alice and Books.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Alice and Books\obj\Debug\net8.0\A. Alice and Books.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Alice and Books\obj\Debug\net8.0\ref\A. Alice and Books.dll
