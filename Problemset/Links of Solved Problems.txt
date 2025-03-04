@@ -680,3 +680,7 @@ A. We Need the Zero ==> https://codeforces.com/problemset/problem/1805/A
 
 A. Upload More RAM ==> https://codeforces.com/problemset/problem/1987/A
 
+A. Two Regular Polygons ==> https://codeforces.com/problemset/problem/1312/A
+
+A. Jeff and Digits ==> https://codeforces.com/problemset/problem/352/A
+

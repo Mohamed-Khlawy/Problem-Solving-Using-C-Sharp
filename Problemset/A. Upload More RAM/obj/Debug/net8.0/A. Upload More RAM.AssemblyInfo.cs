@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("A. Upload More RAM")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ef3906786725d4ad208ed1907925abdae9408577")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+759bff13ca2fa20b136df2eed16ca7ccf7ed5740")]
 [assembly: System.Reflection.AssemblyProductAttribute("A. Upload More RAM")]
 [assembly: System.Reflection.AssemblyTitleAttribute("A. Upload More RAM")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
