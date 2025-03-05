@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("B. Rudolph and Tic-Tac-Toe")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+759bff13ca2fa20b136df2eed16ca7ccf7ed5740")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+08941315e05271c1fbce287971d4b6a56653a222")]
 [assembly: System.Reflection.AssemblyProductAttribute("B. Rudolph and Tic-Tac-Toe")]
 [assembly: System.Reflection.AssemblyTitleAttribute("B. Rudolph and Tic-Tac-Toe")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

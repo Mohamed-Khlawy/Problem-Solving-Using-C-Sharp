@@ -684,3 +684,7 @@ A. Two Regular Polygons ==> https://codeforces.com/problemset/problem/1312/A
 
 A. Jeff and Digits ==> https://codeforces.com/problemset/problem/352/A
 
+A. Sum of Three ==> https://codeforces.com/problemset/problem/1886/A
+
+A. New Palindrome ==> https://codeforces.com/problemset/problem/1832/A
+

@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Sum of Three\bin\Debug\net8.0\A. Sum of Three.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Sum of Three\bin\Debug\net8.0\A. Sum of Three.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Sum of Three\bin\Debug\net8.0\A. Sum of Three.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Sum of Three\bin\Debug\net8.0\A. Sum of Three.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Sum of Three\bin\Debug\net8.0\A. Sum of Three.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Sum of Three\obj\Debug\net8.0\A. Sum of Three.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Sum of Three\obj\Debug\net8.0\A. Sum of Three.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Sum of Three\obj\Debug\net8.0\A. Sum of Three.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Sum of Three\obj\Debug\net8.0\A. Sum of Three.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Sum of Three\obj\Debug\net8.0\A. Sum of Three.sourcelink.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Sum of Three\obj\Debug\net8.0\A. Sum of Three.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Sum of Three\obj\Debug\net8.0\refint\A. Sum of Three.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Sum of Three\obj\Debug\net8.0\A. Sum of Three.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Sum of Three\obj\Debug\net8.0\A. Sum of Three.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Sum of Three\obj\Debug\net8.0\ref\A. Sum of Three.dll

@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. New Palindrome\bin\Debug\net8.0\A. New Palindrome.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. New Palindrome\bin\Debug\net8.0\A. New Palindrome.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. New Palindrome\bin\Debug\net8.0\A. New Palindrome.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. New Palindrome\bin\Debug\net8.0\A. New Palindrome.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. New Palindrome\bin\Debug\net8.0\A. New Palindrome.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. New Palindrome\obj\Debug\net8.0\A. New Palindrome.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. New Palindrome\obj\Debug\net8.0\A. New Palindrome.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. New Palindrome\obj\Debug\net8.0\A. New Palindrome.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. New Palindrome\obj\Debug\net8.0\A. New Palindrome.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. New Palindrome\obj\Debug\net8.0\A. New Palindrome.sourcelink.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. New Palindrome\obj\Debug\net8.0\A. New Palindrome.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. New Palindrome\obj\Debug\net8.0\refint\A. New Palindrome.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. New Palindrome\obj\Debug\net8.0\A. New Palindrome.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. New Palindrome\obj\Debug\net8.0\A. New Palindrome.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. New Palindrome\obj\Debug\net8.0\ref\A. New Palindrome.dll

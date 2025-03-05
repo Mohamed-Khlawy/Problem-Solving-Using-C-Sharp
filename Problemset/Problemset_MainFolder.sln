@@ -695,6 +695,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A. Two Regular Polygons", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A. Jeff and Digits", "A. Jeff and Digits\A. Jeff and Digits.csproj", "{820DC266-933D-4B57-BCB1-5057646CD7C6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A. Sum of Three", "A. Sum of Three\A. Sum of Three.csproj", "{5A08B3E8-C087-4945-B3A6-4364C7CF8F33}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A. New Palindrome", "A. New Palindrome\A. New Palindrome.csproj", "{CC18E3CB-B7AE-41BB-9096-CCEB1B0427F3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -2085,6 +2089,14 @@ Global
 		{820DC266-933D-4B57-BCB1-5057646CD7C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{820DC266-933D-4B57-BCB1-5057646CD7C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{820DC266-933D-4B57-BCB1-5057646CD7C6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5A08B3E8-C087-4945-B3A6-4364C7CF8F33}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A08B3E8-C087-4945-B3A6-4364C7CF8F33}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A08B3E8-C087-4945-B3A6-4364C7CF8F33}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A08B3E8-C087-4945-B3A6-4364C7CF8F33}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC18E3CB-B7AE-41BB-9096-CCEB1B0427F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC18E3CB-B7AE-41BB-9096-CCEB1B0427F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC18E3CB-B7AE-41BB-9096-CCEB1B0427F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC18E3CB-B7AE-41BB-9096-CCEB1B0427F3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
