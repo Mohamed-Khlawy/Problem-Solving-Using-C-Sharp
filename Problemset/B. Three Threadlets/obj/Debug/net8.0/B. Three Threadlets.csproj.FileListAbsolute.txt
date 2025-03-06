@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Three Threadlets\bin\Debug\net8.0\B. Three Threadlets.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Three Threadlets\bin\Debug\net8.0\B. Three Threadlets.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Three Threadlets\bin\Debug\net8.0\B. Three Threadlets.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Three Threadlets\bin\Debug\net8.0\B. Three Threadlets.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Three Threadlets\bin\Debug\net8.0\B. Three Threadlets.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Three Threadlets\obj\Debug\net8.0\B. Three Threadlets.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Three Threadlets\obj\Debug\net8.0\B. Three Threadlets.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Three Threadlets\obj\Debug\net8.0\B. Three Threadlets.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Three Threadlets\obj\Debug\net8.0\B. Three Threadlets.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Three Threadlets\obj\Debug\net8.0\B. Three Threadlets.sourcelink.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Three Threadlets\obj\Debug\net8.0\B. Three Threadlets.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Three Threadlets\obj\Debug\net8.0\refint\B. Three Threadlets.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Three Threadlets\obj\Debug\net8.0\B. Three Threadlets.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Three Threadlets\obj\Debug\net8.0\B. Three Threadlets.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Three Threadlets\obj\Debug\net8.0\ref\B. Three Threadlets.dll

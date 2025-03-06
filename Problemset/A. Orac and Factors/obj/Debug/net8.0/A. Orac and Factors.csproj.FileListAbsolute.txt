@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Orac and Factors\bin\Debug\net8.0\A. Orac and Factors.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Orac and Factors\bin\Debug\net8.0\A. Orac and Factors.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Orac and Factors\bin\Debug\net8.0\A. Orac and Factors.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Orac and Factors\bin\Debug\net8.0\A. Orac and Factors.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Orac and Factors\bin\Debug\net8.0\A. Orac and Factors.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Orac and Factors\obj\Debug\net8.0\A. Orac and Factors.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Orac and Factors\obj\Debug\net8.0\A. Orac and Factors.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Orac and Factors\obj\Debug\net8.0\A. Orac and Factors.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Orac and Factors\obj\Debug\net8.0\A. Orac and Factors.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Orac and Factors\obj\Debug\net8.0\A. Orac and Factors.sourcelink.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Orac and Factors\obj\Debug\net8.0\A. Orac and Factors.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Orac and Factors\obj\Debug\net8.0\refint\A. Orac and Factors.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Orac and Factors\obj\Debug\net8.0\A. Orac and Factors.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Orac and Factors\obj\Debug\net8.0\A. Orac and Factors.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Orac and Factors\obj\Debug\net8.0\ref\A. Orac and Factors.dll

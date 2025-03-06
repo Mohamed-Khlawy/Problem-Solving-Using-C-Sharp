@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("A. Minimal Coprime")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+08941315e05271c1fbce287971d4b6a56653a222")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+201a690820b1bbb667de0170e2debb5913da6924")]
 [assembly: System.Reflection.AssemblyProductAttribute("A. Minimal Coprime")]
 [assembly: System.Reflection.AssemblyTitleAttribute("A. Minimal Coprime")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

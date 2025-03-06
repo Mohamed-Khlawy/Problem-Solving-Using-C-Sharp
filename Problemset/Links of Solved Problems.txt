@@ -688,3 +688,9 @@ A. Sum of Three ==> https://codeforces.com/problemset/problem/1886/A
 
 A. New Palindrome ==> https://codeforces.com/problemset/problem/1832/A
 
+B. Three Threadlets ==> https://codeforces.com/problemset/problem/1881/B
+
+A. Orac and Factors ==> https://codeforces.com/problemset/problem/1350/A
+
+C. Assembly via Remainders ==> https://codeforces.com/problemset/problem/1968/C
+
