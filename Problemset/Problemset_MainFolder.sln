@@ -705,6 +705,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A. Orac and Factors", "A. O
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C. Assembly via Remainders", "C. Assembly via Remainders\C. Assembly via Remainders.csproj", "{02EBAFE9-D5C2-46EF-8710-0168E012F1B3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "B. Count the Number of Pairs", "B. Count the Number of Pairs\B. Count the Number of Pairs.csproj", "{920F6497-28FC-459E-A17E-F3CDF65B8B4D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A. Love Triangle", "A. Love Triangle\A. Love Triangle.csproj", "{D01A2814-F078-4E04-AC31-3FAB8B8AEA23}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -2115,6 +2119,14 @@ Global
 		{02EBAFE9-D5C2-46EF-8710-0168E012F1B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{02EBAFE9-D5C2-46EF-8710-0168E012F1B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{02EBAFE9-D5C2-46EF-8710-0168E012F1B3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{920F6497-28FC-459E-A17E-F3CDF65B8B4D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{920F6497-28FC-459E-A17E-F3CDF65B8B4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{920F6497-28FC-459E-A17E-F3CDF65B8B4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{920F6497-28FC-459E-A17E-F3CDF65B8B4D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D01A2814-F078-4E04-AC31-3FAB8B8AEA23}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D01A2814-F078-4E04-AC31-3FAB8B8AEA23}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D01A2814-F078-4E04-AC31-3FAB8B8AEA23}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D01A2814-F078-4E04-AC31-3FAB8B8AEA23}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

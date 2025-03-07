@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Love Triangle\bin\Debug\net8.0\A. Love Triangle.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Love Triangle\bin\Debug\net8.0\A. Love Triangle.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Love Triangle\bin\Debug\net8.0\A. Love Triangle.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Love Triangle\bin\Debug\net8.0\A. Love Triangle.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Love Triangle\bin\Debug\net8.0\A. Love Triangle.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Love Triangle\obj\Debug\net8.0\A. Love Triangle.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Love Triangle\obj\Debug\net8.0\A. Love Triangle.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Love Triangle\obj\Debug\net8.0\A. Love Triangle.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Love Triangle\obj\Debug\net8.0\A. Love Triangle.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Love Triangle\obj\Debug\net8.0\A. Love Triangle.sourcelink.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Love Triangle\obj\Debug\net8.0\A. Love Triangle.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Love Triangle\obj\Debug\net8.0\refint\A. Love Triangle.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Love Triangle\obj\Debug\net8.0\A. Love Triangle.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Love Triangle\obj\Debug\net8.0\A. Love Triangle.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Love Triangle\obj\Debug\net8.0\ref\A. Love Triangle.dll

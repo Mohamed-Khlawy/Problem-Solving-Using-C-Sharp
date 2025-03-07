@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Count the Number of Pairs\bin\Debug\net8.0\B. Count the Number of Pairs.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Count the Number of Pairs\bin\Debug\net8.0\B. Count the Number of Pairs.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Count the Number of Pairs\bin\Debug\net8.0\B. Count the Number of Pairs.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Count the Number of Pairs\bin\Debug\net8.0\B. Count the Number of Pairs.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Count the Number of Pairs\bin\Debug\net8.0\B. Count the Number of Pairs.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Count the Number of Pairs\obj\Debug\net8.0\B. Count the Number of Pairs.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Count the Number of Pairs\obj\Debug\net8.0\B. Count the Number of Pairs.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Count the Number of Pairs\obj\Debug\net8.0\B. Count the Number of Pairs.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Count the Number of Pairs\obj\Debug\net8.0\B. Count the Number of Pairs.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Count the Number of Pairs\obj\Debug\net8.0\B. Count the Number of Pairs.sourcelink.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Count the Number of Pairs\obj\Debug\net8.0\B. Count the Number of Pairs.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Count the Number of Pairs\obj\Debug\net8.0\refint\B. Count the Number of Pairs.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Count the Number of Pairs\obj\Debug\net8.0\B. Count the Number of Pairs.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Count the Number of Pairs\obj\Debug\net8.0\B. Count the Number of Pairs.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Count the Number of Pairs\obj\Debug\net8.0\ref\B. Count the Number of Pairs.dll

@@ -694,3 +694,7 @@ A. Orac and Factors ==> https://codeforces.com/problemset/problem/1350/A
 
 C. Assembly via Remainders ==> https://codeforces.com/problemset/problem/1968/C
 
+B. Count the Number of Pairs ==> https://codeforces.com/problemset/problem/1800/B
+
+A. Love Triangle ==> https://codeforces.com/problemset/problem/939/A
+

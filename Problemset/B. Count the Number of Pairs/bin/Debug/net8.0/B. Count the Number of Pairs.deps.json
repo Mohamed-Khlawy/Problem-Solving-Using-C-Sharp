@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "B. Count the Number of Pairs/1.0.0": {
+        "runtime": {
+          "B. Count the Number of Pairs.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "B. Count the Number of Pairs/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
