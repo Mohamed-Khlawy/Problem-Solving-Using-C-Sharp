@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Average Height\bin\Debug\net8.0\A. Average Height.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Average Height\bin\Debug\net8.0\A. Average Height.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Average Height\bin\Debug\net8.0\A. Average Height.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Average Height\bin\Debug\net8.0\A. Average Height.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Average Height\bin\Debug\net8.0\A. Average Height.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Average Height\obj\Debug\net8.0\A. Average Height.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Average Height\obj\Debug\net8.0\A. Average Height.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Average Height\obj\Debug\net8.0\A. Average Height.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Average Height\obj\Debug\net8.0\A. Average Height.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Average Height\obj\Debug\net8.0\A. Average Height.sourcelink.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Average Height\obj\Debug\net8.0\A. Average Height.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Average Height\obj\Debug\net8.0\refint\A. Average Height.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Average Height\obj\Debug\net8.0\A. Average Height.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Average Height\obj\Debug\net8.0\A. Average Height.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Average Height\obj\Debug\net8.0\ref\A. Average Height.dll

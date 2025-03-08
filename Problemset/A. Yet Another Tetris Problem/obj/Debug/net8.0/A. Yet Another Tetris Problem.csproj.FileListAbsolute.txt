@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Yet Another Tetris Problem\bin\Debug\net8.0\A. Yet Another Tetris Problem.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Yet Another Tetris Problem\bin\Debug\net8.0\A. Yet Another Tetris Problem.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Yet Another Tetris Problem\bin\Debug\net8.0\A. Yet Another Tetris Problem.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Yet Another Tetris Problem\bin\Debug\net8.0\A. Yet Another Tetris Problem.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Yet Another Tetris Problem\bin\Debug\net8.0\A. Yet Another Tetris Problem.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Yet Another Tetris Problem\obj\Debug\net8.0\A. Yet Another Tetris Problem.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Yet Another Tetris Problem\obj\Debug\net8.0\A. Yet Another Tetris Problem.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Yet Another Tetris Problem\obj\Debug\net8.0\A. Yet Another Tetris Problem.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Yet Another Tetris Problem\obj\Debug\net8.0\A. Yet Another Tetris Problem.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Yet Another Tetris Problem\obj\Debug\net8.0\A. Yet Another Tetris Problem.sourcelink.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Yet Another Tetris Problem\obj\Debug\net8.0\A. Yet Another Tetris Problem.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Yet Another Tetris Problem\obj\Debug\net8.0\refint\A. Yet Another Tetris Problem.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Yet Another Tetris Problem\obj\Debug\net8.0\A. Yet Another Tetris Problem.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Yet Another Tetris Problem\obj\Debug\net8.0\A. Yet Another Tetris Problem.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Yet Another Tetris Problem\obj\Debug\net8.0\ref\A. Yet Another Tetris Problem.dll

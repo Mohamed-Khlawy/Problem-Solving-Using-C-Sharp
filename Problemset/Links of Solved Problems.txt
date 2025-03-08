@@ -698,3 +698,9 @@ B. Count the Number of Pairs ==> https://codeforces.com/problemset/problem/1800/
 
 A. Love Triangle ==> https://codeforces.com/problemset/problem/939/A
 
+A. Yet Another Tetris Problem ==> https://codeforces.com/problemset/problem/1324/A
+
+B. Startup ==> https://codeforces.com/problemset/problem/2036/B
+
+A. Average Height ==> https://codeforces.com/problemset/problem/1509/A
+
