@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Yet Another String Game\bin\Debug\net8.0\A. Yet Another String Game.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Yet Another String Game\bin\Debug\net8.0\A. Yet Another String Game.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Yet Another String Game\bin\Debug\net8.0\A. Yet Another String Game.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Yet Another String Game\bin\Debug\net8.0\A. Yet Another String Game.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Yet Another String Game\bin\Debug\net8.0\A. Yet Another String Game.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Yet Another String Game\obj\Debug\net8.0\A. Yet Another String Game.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Yet Another String Game\obj\Debug\net8.0\A. Yet Another String Game.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Yet Another String Game\obj\Debug\net8.0\A. Yet Another String Game.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Yet Another String Game\obj\Debug\net8.0\A. Yet Another String Game.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Yet Another String Game\obj\Debug\net8.0\A. Yet Another String Game.sourcelink.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Yet Another String Game\obj\Debug\net8.0\A. Yet Another String Game.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Yet Another String Game\obj\Debug\net8.0\refint\A. Yet Another String Game.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Yet Another String Game\obj\Debug\net8.0\A. Yet Another String Game.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Yet Another String Game\obj\Debug\net8.0\A. Yet Another String Game.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Yet Another String Game\obj\Debug\net8.0\ref\A. Yet Another String Game.dll

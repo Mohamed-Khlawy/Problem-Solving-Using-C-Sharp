@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Permutation Swap\bin\Debug\net8.0\B. Permutation Swap.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Permutation Swap\bin\Debug\net8.0\B. Permutation Swap.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Permutation Swap\bin\Debug\net8.0\B. Permutation Swap.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Permutation Swap\bin\Debug\net8.0\B. Permutation Swap.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Permutation Swap\bin\Debug\net8.0\B. Permutation Swap.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Permutation Swap\obj\Debug\net8.0\B. Permutation Swap.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Permutation Swap\obj\Debug\net8.0\B. Permutation Swap.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Permutation Swap\obj\Debug\net8.0\B. Permutation Swap.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Permutation Swap\obj\Debug\net8.0\B. Permutation Swap.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Permutation Swap\obj\Debug\net8.0\B. Permutation Swap.sourcelink.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Permutation Swap\obj\Debug\net8.0\B. Permutation Swap.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Permutation Swap\obj\Debug\net8.0\refint\B. Permutation Swap.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Permutation Swap\obj\Debug\net8.0\B. Permutation Swap.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Permutation Swap\obj\Debug\net8.0\B. Permutation Swap.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Permutation Swap\obj\Debug\net8.0\ref\B. Permutation Swap.dll

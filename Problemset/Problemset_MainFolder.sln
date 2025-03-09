@@ -715,6 +715,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "B. Startup", "B. Startup\B.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A. Average Height", "A. Average Height\A. Average Height.csproj", "{3CF4880F-A851-454E-A46A-C5CF6FA6E38C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A. Yet Another String Game", "A. Yet Another String Game\A. Yet Another String Game.csproj", "{05345635-E03F-46C3-87F4-4EE13E22BB76}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "B. Permutation Swap", "B. Permutation Swap\B. Permutation Swap.csproj", "{DC2FE071-87A3-4960-A232-FD1B0B428B73}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -2145,6 +2149,14 @@ Global
 		{3CF4880F-A851-454E-A46A-C5CF6FA6E38C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3CF4880F-A851-454E-A46A-C5CF6FA6E38C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3CF4880F-A851-454E-A46A-C5CF6FA6E38C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{05345635-E03F-46C3-87F4-4EE13E22BB76}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05345635-E03F-46C3-87F4-4EE13E22BB76}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05345635-E03F-46C3-87F4-4EE13E22BB76}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05345635-E03F-46C3-87F4-4EE13E22BB76}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC2FE071-87A3-4960-A232-FD1B0B428B73}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC2FE071-87A3-4960-A232-FD1B0B428B73}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC2FE071-87A3-4960-A232-FD1B0B428B73}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC2FE071-87A3-4960-A232-FD1B0B428B73}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

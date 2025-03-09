@@ -704,3 +704,7 @@ B. Startup ==> https://codeforces.com/problemset/problem/2036/B
 
 A. Average Height ==> https://codeforces.com/problemset/problem/1509/A
 
+A. Yet Another String Game ==> https://codeforces.com/problemset/problem/1480/A
+
+B. Permutation Swap ==> https://codeforces.com/problemset/problem/1828/B
+

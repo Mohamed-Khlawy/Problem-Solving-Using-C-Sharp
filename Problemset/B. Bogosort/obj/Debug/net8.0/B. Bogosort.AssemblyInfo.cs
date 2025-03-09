@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("B. Bogosort")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+64f55443dd3fa66d6a13dbb06a75410d9c046a0b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3cb9dc89b55a53f44cf68a799cdab4a90244f076")]
 [assembly: System.Reflection.AssemblyProductAttribute("B. Bogosort")]
 [assembly: System.Reflection.AssemblyTitleAttribute("B. Bogosort")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
