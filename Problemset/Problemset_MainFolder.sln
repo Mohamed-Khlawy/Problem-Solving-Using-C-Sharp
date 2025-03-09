@@ -719,6 +719,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A. Yet Another String Game"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "B. Permutation Swap", "B. Permutation Swap\B. Permutation Swap.csproj", "{DC2FE071-87A3-4960-A232-FD1B0B428B73}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A. Least Product", "A. Least Product\A. Least Product.csproj", "{D6DB6BBC-E06A-4F8C-BB8C-A8CE9A0D7DBD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -2157,6 +2159,10 @@ Global
 		{DC2FE071-87A3-4960-A232-FD1B0B428B73}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DC2FE071-87A3-4960-A232-FD1B0B428B73}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DC2FE071-87A3-4960-A232-FD1B0B428B73}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D6DB6BBC-E06A-4F8C-BB8C-A8CE9A0D7DBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6DB6BBC-E06A-4F8C-BB8C-A8CE9A0D7DBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6DB6BBC-E06A-4F8C-BB8C-A8CE9A0D7DBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6DB6BBC-E06A-4F8C-BB8C-A8CE9A0D7DBD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

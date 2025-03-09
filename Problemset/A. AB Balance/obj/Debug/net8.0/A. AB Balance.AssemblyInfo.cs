@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("A. AB Balance")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3cb9dc89b55a53f44cf68a799cdab4a90244f076")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+205dc857a6aeb57100c959804ba25e4af1df1390")]
 [assembly: System.Reflection.AssemblyProductAttribute("A. AB Balance")]
 [assembly: System.Reflection.AssemblyTitleAttribute("A. AB Balance")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

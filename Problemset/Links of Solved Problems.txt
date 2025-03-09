@@ -708,3 +708,5 @@ A. Yet Another String Game ==> https://codeforces.com/problemset/problem/1480/A
 
 B. Permutation Swap ==> https://codeforces.com/problemset/problem/1828/B
 
+A. Least Product ==> https://codeforces.com/problemset/problem/1917/A
+
