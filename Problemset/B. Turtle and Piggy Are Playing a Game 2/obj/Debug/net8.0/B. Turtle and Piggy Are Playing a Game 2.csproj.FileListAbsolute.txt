@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Turtle and Piggy Are Playing a Game 2\bin\Debug\net8.0\B. Turtle and Piggy Are Playing a Game 2.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Turtle and Piggy Are Playing a Game 2\bin\Debug\net8.0\B. Turtle and Piggy Are Playing a Game 2.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Turtle and Piggy Are Playing a Game 2\bin\Debug\net8.0\B. Turtle and Piggy Are Playing a Game 2.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Turtle and Piggy Are Playing a Game 2\bin\Debug\net8.0\B. Turtle and Piggy Are Playing a Game 2.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Turtle and Piggy Are Playing a Game 2\bin\Debug\net8.0\B. Turtle and Piggy Are Playing a Game 2.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Turtle and Piggy Are Playing a Game 2\obj\Debug\net8.0\B. Turtle and Piggy Are Playing a Game 2.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Turtle and Piggy Are Playing a Game 2\obj\Debug\net8.0\B. Turtle and Piggy Are Playing a Game 2.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Turtle and Piggy Are Playing a Game 2\obj\Debug\net8.0\B. Turtle and Piggy Are Playing a Game 2.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Turtle and Piggy Are Playing a Game 2\obj\Debug\net8.0\B. Turtle and Piggy Are Playing a Game 2.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Turtle and Piggy Are Playing a Game 2\obj\Debug\net8.0\B. Turtle and Piggy Are Playing a Game 2.sourcelink.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Turtle and Piggy Are Playing a Game 2\obj\Debug\net8.0\B. Turtle and Piggy Are Playing a Game 2.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Turtle and Piggy Are Playing a Game 2\obj\Debug\net8.0\refint\B. Turtle and Piggy Are Playing a Game 2.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Turtle and Piggy Are Playing a Game 2\obj\Debug\net8.0\B. Turtle and Piggy Are Playing a Game 2.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Turtle and Piggy Are Playing a Game 2\obj\Debug\net8.0\B. Turtle and Piggy Are Playing a Game 2.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Turtle and Piggy Are Playing a Game 2\obj\Debug\net8.0\ref\B. Turtle and Piggy Are Playing a Game 2.dll

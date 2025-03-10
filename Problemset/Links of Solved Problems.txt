@@ -710,3 +710,9 @@ B. Permutation Swap ==> https://codeforces.com/problemset/problem/1828/B
 
 A. Least Product ==> https://codeforces.com/problemset/problem/1917/A
 
+A. Diverse Team ==> https://codeforces.com/problemset/problem/988/A
+
+A. Parkway Walk ==> https://codeforces.com/problemset/problem/1697/A
+
+B. Turtle and Piggy Are Playing a Game 2 ==> https://codeforces.com/problemset/problem/2003/B
+

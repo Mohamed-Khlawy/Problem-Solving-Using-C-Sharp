@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Parkway Walk\bin\Debug\net8.0\A. Parkway Walk.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Parkway Walk\bin\Debug\net8.0\A. Parkway Walk.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Parkway Walk\bin\Debug\net8.0\A. Parkway Walk.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Parkway Walk\bin\Debug\net8.0\A. Parkway Walk.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Parkway Walk\bin\Debug\net8.0\A. Parkway Walk.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Parkway Walk\obj\Debug\net8.0\A. Parkway Walk.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Parkway Walk\obj\Debug\net8.0\A. Parkway Walk.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Parkway Walk\obj\Debug\net8.0\A. Parkway Walk.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Parkway Walk\obj\Debug\net8.0\A. Parkway Walk.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Parkway Walk\obj\Debug\net8.0\A. Parkway Walk.sourcelink.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Parkway Walk\obj\Debug\net8.0\A. Parkway Walk.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Parkway Walk\obj\Debug\net8.0\refint\A. Parkway Walk.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Parkway Walk\obj\Debug\net8.0\A. Parkway Walk.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Parkway Walk\obj\Debug\net8.0\A. Parkway Walk.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Parkway Walk\obj\Debug\net8.0\ref\A. Parkway Walk.dll

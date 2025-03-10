@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "A. Parkway Walk/1.0.0": {
+        "runtime": {
+          "A. Parkway Walk.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "A. Parkway Walk/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

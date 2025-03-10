@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Diverse Team\bin\Debug\net8.0\A. Diverse Team.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Diverse Team\bin\Debug\net8.0\A. Diverse Team.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Diverse Team\bin\Debug\net8.0\A. Diverse Team.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Diverse Team\bin\Debug\net8.0\A. Diverse Team.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Diverse Team\bin\Debug\net8.0\A. Diverse Team.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Diverse Team\obj\Debug\net8.0\A. Diverse Team.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Diverse Team\obj\Debug\net8.0\A. Diverse Team.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Diverse Team\obj\Debug\net8.0\A. Diverse Team.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Diverse Team\obj\Debug\net8.0\A. Diverse Team.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Diverse Team\obj\Debug\net8.0\A. Diverse Team.sourcelink.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Diverse Team\obj\Debug\net8.0\A. Diverse Team.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Diverse Team\obj\Debug\net8.0\refint\A. Diverse Team.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Diverse Team\obj\Debug\net8.0\A. Diverse Team.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Diverse Team\obj\Debug\net8.0\A. Diverse Team.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Diverse Team\obj\Debug\net8.0\ref\A. Diverse Team.dll

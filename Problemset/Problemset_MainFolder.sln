@@ -721,6 +721,12 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "B. Permutation Swap", "B. P
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A. Least Product", "A. Least Product\A. Least Product.csproj", "{D6DB6BBC-E06A-4F8C-BB8C-A8CE9A0D7DBD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A. Diverse Team", "A. Diverse Team\A. Diverse Team.csproj", "{5CDEF09E-00E3-48AA-95D3-48B86709B672}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A. Parkway Walk", "A. Parkway Walk\A. Parkway Walk.csproj", "{E47D8D3D-95DC-4F9F-A3A3-050E72B3D5EB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "B. Turtle and Piggy Are Playing a Game 2", "B. Turtle and Piggy Are Playing a Game 2\B. Turtle and Piggy Are Playing a Game 2.csproj", "{ED32C904-6663-4166-9002-AA663CB0C616}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -2163,6 +2169,18 @@ Global
 		{D6DB6BBC-E06A-4F8C-BB8C-A8CE9A0D7DBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D6DB6BBC-E06A-4F8C-BB8C-A8CE9A0D7DBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D6DB6BBC-E06A-4F8C-BB8C-A8CE9A0D7DBD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5CDEF09E-00E3-48AA-95D3-48B86709B672}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5CDEF09E-00E3-48AA-95D3-48B86709B672}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5CDEF09E-00E3-48AA-95D3-48B86709B672}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5CDEF09E-00E3-48AA-95D3-48B86709B672}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E47D8D3D-95DC-4F9F-A3A3-050E72B3D5EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E47D8D3D-95DC-4F9F-A3A3-050E72B3D5EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E47D8D3D-95DC-4F9F-A3A3-050E72B3D5EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E47D8D3D-95DC-4F9F-A3A3-050E72B3D5EB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ED32C904-6663-4166-9002-AA663CB0C616}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED32C904-6663-4166-9002-AA663CB0C616}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED32C904-6663-4166-9002-AA663CB0C616}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED32C904-6663-4166-9002-AA663CB0C616}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
