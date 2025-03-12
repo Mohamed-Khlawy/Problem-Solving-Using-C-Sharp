@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("A. United We Stand")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fe27d84f0731c9e6c66adb737a4b413546d68fae")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+18da2293bf2752255ff94207eb76103e60fa931b")]
 [assembly: System.Reflection.AssemblyProductAttribute("A. United We Stand")]
 [assembly: System.Reflection.AssemblyTitleAttribute("A. United We Stand")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

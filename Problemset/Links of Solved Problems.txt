@@ -722,3 +722,9 @@ A. Too Min Too Max ==> https://codeforces.com/problemset/problem/1934/A
 
 A. Soccer ==> https://codeforces.com/problemset/problem/1982/A
 
+B. Array Decrements ==> https://codeforces.com/problemset/problem/1690/B
+
+A. Chess For Three ==> https://codeforces.com/problemset/problem/1973/A
+
+A. Playoff ==> https://codeforces.com/problemset/problem/1651/A
+

@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Array Decrements\bin\Debug\net8.0\B. Array Decrements.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Array Decrements\bin\Debug\net8.0\B. Array Decrements.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Array Decrements\bin\Debug\net8.0\B. Array Decrements.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Array Decrements\bin\Debug\net8.0\B. Array Decrements.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Array Decrements\bin\Debug\net8.0\B. Array Decrements.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Array Decrements\obj\Debug\net8.0\B. Array Decrements.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Array Decrements\obj\Debug\net8.0\B. Array Decrements.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Array Decrements\obj\Debug\net8.0\B. Array Decrements.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Array Decrements\obj\Debug\net8.0\B. Array Decrements.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Array Decrements\obj\Debug\net8.0\B. Array Decrements.sourcelink.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Array Decrements\obj\Debug\net8.0\B. Array Decrements.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Array Decrements\obj\Debug\net8.0\refint\B. Array Decrements.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Array Decrements\obj\Debug\net8.0\B. Array Decrements.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Array Decrements\obj\Debug\net8.0\B. Array Decrements.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Array Decrements\obj\Debug\net8.0\ref\B. Array Decrements.dll

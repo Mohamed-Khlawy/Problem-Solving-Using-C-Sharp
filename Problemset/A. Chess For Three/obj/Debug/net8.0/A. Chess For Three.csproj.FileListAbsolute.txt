@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Chess For Three\bin\Debug\net8.0\A. Chess For Three.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Chess For Three\bin\Debug\net8.0\A. Chess For Three.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Chess For Three\bin\Debug\net8.0\A. Chess For Three.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Chess For Three\bin\Debug\net8.0\A. Chess For Three.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Chess For Three\bin\Debug\net8.0\A. Chess For Three.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Chess For Three\obj\Debug\net8.0\A. Chess For Three.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Chess For Three\obj\Debug\net8.0\A. Chess For Three.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Chess For Three\obj\Debug\net8.0\A. Chess For Three.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Chess For Three\obj\Debug\net8.0\A. Chess For Three.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Chess For Three\obj\Debug\net8.0\A. Chess For Three.sourcelink.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Chess For Three\obj\Debug\net8.0\A. Chess For Three.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Chess For Three\obj\Debug\net8.0\refint\A. Chess For Three.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Chess For Three\obj\Debug\net8.0\A. Chess For Three.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Chess For Three\obj\Debug\net8.0\A. Chess For Three.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Chess For Three\obj\Debug\net8.0\ref\A. Chess For Three.dll
