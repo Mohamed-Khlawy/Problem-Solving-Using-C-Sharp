@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("B. Last Year\'s Substring")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c9feb7a425b21fa43f50e087ae356de7abecb77a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fe27d84f0731c9e6c66adb737a4b413546d68fae")]
 [assembly: System.Reflection.AssemblyProductAttribute("B. Last Year\'s Substring")]
 [assembly: System.Reflection.AssemblyTitleAttribute("B. Last Year\'s Substring")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

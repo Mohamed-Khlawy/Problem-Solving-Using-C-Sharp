@@ -716,3 +716,9 @@ A. Parkway Walk ==> https://codeforces.com/problemset/problem/1697/A
 
 B. Turtle and Piggy Are Playing a Game 2 ==> https://codeforces.com/problemset/problem/2003/B
 
+A. Potion-making ==> https://codeforces.com/problemset/problem/1525/A
+
+A. Too Min Too Max ==> https://codeforces.com/problemset/problem/1934/A
+
+A. Soccer ==> https://codeforces.com/problemset/problem/1982/A
+

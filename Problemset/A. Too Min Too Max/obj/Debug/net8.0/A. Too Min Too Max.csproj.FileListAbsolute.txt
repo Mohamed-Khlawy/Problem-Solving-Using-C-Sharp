@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Too Min Too Max\bin\Debug\net8.0\A. Too Min Too Max.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Too Min Too Max\bin\Debug\net8.0\A. Too Min Too Max.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Too Min Too Max\bin\Debug\net8.0\A. Too Min Too Max.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Too Min Too Max\bin\Debug\net8.0\A. Too Min Too Max.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Too Min Too Max\bin\Debug\net8.0\A. Too Min Too Max.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Too Min Too Max\obj\Debug\net8.0\A. Too Min Too Max.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Too Min Too Max\obj\Debug\net8.0\A. Too Min Too Max.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Too Min Too Max\obj\Debug\net8.0\A. Too Min Too Max.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Too Min Too Max\obj\Debug\net8.0\A. Too Min Too Max.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Too Min Too Max\obj\Debug\net8.0\A. Too Min Too Max.sourcelink.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Too Min Too Max\obj\Debug\net8.0\A. Too Min Too Max.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Too Min Too Max\obj\Debug\net8.0\refint\A. Too Min Too Max.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Too Min Too Max\obj\Debug\net8.0\A. Too Min Too Max.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Too Min Too Max\obj\Debug\net8.0\A. Too Min Too Max.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Too Min Too Max\obj\Debug\net8.0\ref\A. Too Min Too Max.dll
