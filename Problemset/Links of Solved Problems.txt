@@ -728,3 +728,9 @@ A. Chess For Three ==> https://codeforces.com/problemset/problem/1973/A
 
 A. Playoff ==> https://codeforces.com/problemset/problem/1651/A
 
+A. Sum of 2050 ==> https://codeforces.com/problemset/problem/1517/A
+
+A. Alex and a Rhombus ==> https://codeforces.com/problemset/problem/1180/A
+
+A. Two Rabbits ==> https://codeforces.com/problemset/problem/1304/A
+

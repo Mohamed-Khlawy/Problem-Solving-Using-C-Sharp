@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Alex and a Rhombus\bin\Debug\net8.0\A. Alex and a Rhombus.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Alex and a Rhombus\bin\Debug\net8.0\A. Alex and a Rhombus.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Alex and a Rhombus\bin\Debug\net8.0\A. Alex and a Rhombus.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Alex and a Rhombus\bin\Debug\net8.0\A. Alex and a Rhombus.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Alex and a Rhombus\bin\Debug\net8.0\A. Alex and a Rhombus.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Alex and a Rhombus\obj\Debug\net8.0\A. Alex and a Rhombus.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Alex and a Rhombus\obj\Debug\net8.0\A. Alex and a Rhombus.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Alex and a Rhombus\obj\Debug\net8.0\A. Alex and a Rhombus.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Alex and a Rhombus\obj\Debug\net8.0\A. Alex and a Rhombus.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Alex and a Rhombus\obj\Debug\net8.0\A. Alex and a Rhombus.sourcelink.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Alex and a Rhombus\obj\Debug\net8.0\A. Alex and a Rhombus.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Alex and a Rhombus\obj\Debug\net8.0\refint\A. Alex and a Rhombus.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Alex and a Rhombus\obj\Debug\net8.0\A. Alex and a Rhombus.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Alex and a Rhombus\obj\Debug\net8.0\A. Alex and a Rhombus.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Alex and a Rhombus\obj\Debug\net8.0\ref\A. Alex and a Rhombus.dll

@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Sum of 2050\bin\Debug\net8.0\A. Sum of 2050.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Sum of 2050\bin\Debug\net8.0\A. Sum of 2050.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Sum of 2050\bin\Debug\net8.0\A. Sum of 2050.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Sum of 2050\bin\Debug\net8.0\A. Sum of 2050.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Sum of 2050\bin\Debug\net8.0\A. Sum of 2050.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Sum of 2050\obj\Debug\net8.0\A. Sum of 2050.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Sum of 2050\obj\Debug\net8.0\A. Sum of 2050.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Sum of 2050\obj\Debug\net8.0\A. Sum of 2050.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Sum of 2050\obj\Debug\net8.0\A. Sum of 2050.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Sum of 2050\obj\Debug\net8.0\A. Sum of 2050.sourcelink.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Sum of 2050\obj\Debug\net8.0\A. Sum of 2050.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Sum of 2050\obj\Debug\net8.0\refint\A. Sum of 2050.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Sum of 2050\obj\Debug\net8.0\A. Sum of 2050.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Sum of 2050\obj\Debug\net8.0\A. Sum of 2050.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Sum of 2050\obj\Debug\net8.0\ref\A. Sum of 2050.dll
