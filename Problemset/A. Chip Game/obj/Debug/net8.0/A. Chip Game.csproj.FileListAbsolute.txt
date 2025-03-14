@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Chip Game\bin\Debug\net8.0\A. Chip Game.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Chip Game\bin\Debug\net8.0\A. Chip Game.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Chip Game\bin\Debug\net8.0\A. Chip Game.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Chip Game\bin\Debug\net8.0\A. Chip Game.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Chip Game\bin\Debug\net8.0\A. Chip Game.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Chip Game\obj\Debug\net8.0\A. Chip Game.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Chip Game\obj\Debug\net8.0\A. Chip Game.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Chip Game\obj\Debug\net8.0\A. Chip Game.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Chip Game\obj\Debug\net8.0\A. Chip Game.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Chip Game\obj\Debug\net8.0\A. Chip Game.sourcelink.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Chip Game\obj\Debug\net8.0\A. Chip Game.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Chip Game\obj\Debug\net8.0\refint\A. Chip Game.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Chip Game\obj\Debug\net8.0\A. Chip Game.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Chip Game\obj\Debug\net8.0\A. Chip Game.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Chip Game\obj\Debug\net8.0\ref\A. Chip Game.dll

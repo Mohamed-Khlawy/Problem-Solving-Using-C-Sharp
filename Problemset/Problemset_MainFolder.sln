@@ -745,6 +745,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A. Alex and a Rhombus", "A.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A. Two Rabbits", "A. Two Rabbits\A. Two Rabbits.csproj", "{0C0D5428-62D3-472A-AA7B-5113B5A6B6F4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A. Chip Game", "A. Chip Game\A. Chip Game.csproj", "{C52E1135-A412-4CB1-822C-A08CF47D8284}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "B. Funny Permutation", "B. Funny Permutation\B. Funny Permutation.csproj", "{103478AA-9169-488B-BD7E-81626BA497A9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -2235,6 +2239,14 @@ Global
 		{0C0D5428-62D3-472A-AA7B-5113B5A6B6F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0C0D5428-62D3-472A-AA7B-5113B5A6B6F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0C0D5428-62D3-472A-AA7B-5113B5A6B6F4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C52E1135-A412-4CB1-822C-A08CF47D8284}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C52E1135-A412-4CB1-822C-A08CF47D8284}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C52E1135-A412-4CB1-822C-A08CF47D8284}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C52E1135-A412-4CB1-822C-A08CF47D8284}.Release|Any CPU.Build.0 = Release|Any CPU
+		{103478AA-9169-488B-BD7E-81626BA497A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{103478AA-9169-488B-BD7E-81626BA497A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{103478AA-9169-488B-BD7E-81626BA497A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{103478AA-9169-488B-BD7E-81626BA497A9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

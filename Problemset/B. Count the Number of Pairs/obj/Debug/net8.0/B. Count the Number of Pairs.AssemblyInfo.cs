@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("B. Count the Number of Pairs")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+589730a7b3c7f0dd5e811c33fe6dac0e79f03656")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7cc867068496a2a0b865cc9a346fd4de0a8b60e6")]
 [assembly: System.Reflection.AssemblyProductAttribute("B. Count the Number of Pairs")]
 [assembly: System.Reflection.AssemblyTitleAttribute("B. Count the Number of Pairs")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

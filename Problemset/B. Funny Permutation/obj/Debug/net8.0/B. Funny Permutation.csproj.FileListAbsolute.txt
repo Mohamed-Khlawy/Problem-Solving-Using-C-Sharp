@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Funny Permutation\bin\Debug\net8.0\B. Funny Permutation.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Funny Permutation\bin\Debug\net8.0\B. Funny Permutation.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Funny Permutation\bin\Debug\net8.0\B. Funny Permutation.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Funny Permutation\bin\Debug\net8.0\B. Funny Permutation.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Funny Permutation\bin\Debug\net8.0\B. Funny Permutation.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Funny Permutation\obj\Debug\net8.0\B. Funny Permutation.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Funny Permutation\obj\Debug\net8.0\B. Funny Permutation.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Funny Permutation\obj\Debug\net8.0\B. Funny Permutation.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Funny Permutation\obj\Debug\net8.0\B. Funny Permutation.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Funny Permutation\obj\Debug\net8.0\B. Funny Permutation.sourcelink.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Funny Permutation\obj\Debug\net8.0\B. Funny Permutation.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Funny Permutation\obj\Debug\net8.0\refint\B. Funny Permutation.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Funny Permutation\obj\Debug\net8.0\B. Funny Permutation.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Funny Permutation\obj\Debug\net8.0\B. Funny Permutation.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Funny Permutation\obj\Debug\net8.0\ref\B. Funny Permutation.dll
