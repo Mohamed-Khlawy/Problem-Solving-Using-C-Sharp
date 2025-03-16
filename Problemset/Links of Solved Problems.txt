@@ -738,3 +738,9 @@ A. Chip Game ==> https://codeforces.com/problemset/problem/1719/A
 
 B. Funny Permutation ==> https://codeforces.com/problemset/problem/1741/B
 
+B. Not Dividing ==> https://codeforces.com/problemset/problem/1794/B
+
+A. Increasing Sequence ==> https://codeforces.com/problemset/problem/1882/A
+
+A. Johnny and Ancient Computer ==> https://codeforces.com/problemset/problem/1362/A
+

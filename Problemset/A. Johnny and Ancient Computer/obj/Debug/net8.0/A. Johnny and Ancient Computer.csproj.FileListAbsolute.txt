@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Johnny and Ancient Computer\bin\Debug\net8.0\A. Johnny and Ancient Computer.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Johnny and Ancient Computer\bin\Debug\net8.0\A. Johnny and Ancient Computer.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Johnny and Ancient Computer\bin\Debug\net8.0\A. Johnny and Ancient Computer.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Johnny and Ancient Computer\bin\Debug\net8.0\A. Johnny and Ancient Computer.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Johnny and Ancient Computer\bin\Debug\net8.0\A. Johnny and Ancient Computer.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Johnny and Ancient Computer\obj\Debug\net8.0\A. Johnny and Ancient Computer.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Johnny and Ancient Computer\obj\Debug\net8.0\A. Johnny and Ancient Computer.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Johnny and Ancient Computer\obj\Debug\net8.0\A. Johnny and Ancient Computer.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Johnny and Ancient Computer\obj\Debug\net8.0\A. Johnny and Ancient Computer.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Johnny and Ancient Computer\obj\Debug\net8.0\A. Johnny and Ancient Computer.sourcelink.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Johnny and Ancient Computer\obj\Debug\net8.0\A. Johnny and Ancient Computer.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Johnny and Ancient Computer\obj\Debug\net8.0\refint\A. Johnny and Ancient Computer.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Johnny and Ancient Computer\obj\Debug\net8.0\A. Johnny and Ancient Computer.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Johnny and Ancient Computer\obj\Debug\net8.0\A. Johnny and Ancient Computer.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Johnny and Ancient Computer\obj\Debug\net8.0\ref\A. Johnny and Ancient Computer.dll

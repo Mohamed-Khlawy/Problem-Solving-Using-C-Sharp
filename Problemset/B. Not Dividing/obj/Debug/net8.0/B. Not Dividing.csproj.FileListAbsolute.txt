@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Not Dividing\bin\Debug\net8.0\B. Not Dividing.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Not Dividing\bin\Debug\net8.0\B. Not Dividing.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Not Dividing\bin\Debug\net8.0\B. Not Dividing.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Not Dividing\bin\Debug\net8.0\B. Not Dividing.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Not Dividing\bin\Debug\net8.0\B. Not Dividing.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Not Dividing\obj\Debug\net8.0\B. Not Dividing.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Not Dividing\obj\Debug\net8.0\B. Not Dividing.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Not Dividing\obj\Debug\net8.0\B. Not Dividing.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Not Dividing\obj\Debug\net8.0\B. Not Dividing.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Not Dividing\obj\Debug\net8.0\B. Not Dividing.sourcelink.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Not Dividing\obj\Debug\net8.0\B. Not Dividing.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Not Dividing\obj\Debug\net8.0\refint\B. Not Dividing.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Not Dividing\obj\Debug\net8.0\B. Not Dividing.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Not Dividing\obj\Debug\net8.0\B. Not Dividing.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Not Dividing\obj\Debug\net8.0\ref\B. Not Dividing.dll

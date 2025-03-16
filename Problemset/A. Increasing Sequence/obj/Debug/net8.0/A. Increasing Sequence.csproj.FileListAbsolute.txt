@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Increasing Sequence\bin\Debug\net8.0\A. Increasing Sequence.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Increasing Sequence\bin\Debug\net8.0\A. Increasing Sequence.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Increasing Sequence\bin\Debug\net8.0\A. Increasing Sequence.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Increasing Sequence\bin\Debug\net8.0\A. Increasing Sequence.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Increasing Sequence\bin\Debug\net8.0\A. Increasing Sequence.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Increasing Sequence\obj\Debug\net8.0\A. Increasing Sequence.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Increasing Sequence\obj\Debug\net8.0\A. Increasing Sequence.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Increasing Sequence\obj\Debug\net8.0\A. Increasing Sequence.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Increasing Sequence\obj\Debug\net8.0\A. Increasing Sequence.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Increasing Sequence\obj\Debug\net8.0\A. Increasing Sequence.sourcelink.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Increasing Sequence\obj\Debug\net8.0\A. Increasing Sequence.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Increasing Sequence\obj\Debug\net8.0\refint\A. Increasing Sequence.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Increasing Sequence\obj\Debug\net8.0\A. Increasing Sequence.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Increasing Sequence\obj\Debug\net8.0\A. Increasing Sequence.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Increasing Sequence\obj\Debug\net8.0\ref\A. Increasing Sequence.dll
