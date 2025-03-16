@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "A. Mark the Photographer/1.0.0": {
+        "runtime": {
+          "A. Mark the Photographer.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "A. Mark the Photographer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

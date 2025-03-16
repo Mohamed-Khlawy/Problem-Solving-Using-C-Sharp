@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. The Miracle and the Sleeper\bin\Debug\net8.0\A. The Miracle and the Sleeper.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. The Miracle and the Sleeper\bin\Debug\net8.0\A. The Miracle and the Sleeper.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. The Miracle and the Sleeper\bin\Debug\net8.0\A. The Miracle and the Sleeper.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. The Miracle and the Sleeper\bin\Debug\net8.0\A. The Miracle and the Sleeper.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. The Miracle and the Sleeper\bin\Debug\net8.0\A. The Miracle and the Sleeper.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. The Miracle and the Sleeper\obj\Debug\net8.0\A. The Miracle and the Sleeper.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. The Miracle and the Sleeper\obj\Debug\net8.0\A. The Miracle and the Sleeper.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. The Miracle and the Sleeper\obj\Debug\net8.0\A. The Miracle and the Sleeper.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. The Miracle and the Sleeper\obj\Debug\net8.0\A. The Miracle and the Sleeper.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. The Miracle and the Sleeper\obj\Debug\net8.0\A. The Miracle and the Sleeper.sourcelink.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. The Miracle and the Sleeper\obj\Debug\net8.0\A. The Miracle and the Sleeper.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. The Miracle and the Sleeper\obj\Debug\net8.0\refint\A. The Miracle and the Sleeper.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. The Miracle and the Sleeper\obj\Debug\net8.0\A. The Miracle and the Sleeper.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. The Miracle and the Sleeper\obj\Debug\net8.0\A. The Miracle and the Sleeper.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. The Miracle and the Sleeper\obj\Debug\net8.0\ref\A. The Miracle and the Sleeper.dll

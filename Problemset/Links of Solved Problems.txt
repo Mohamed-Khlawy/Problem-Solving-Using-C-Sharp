@@ -744,3 +744,7 @@ A. Increasing Sequence ==> https://codeforces.com/problemset/problem/1882/A
 
 A. Johnny and Ancient Computer ==> https://codeforces.com/problemset/problem/1362/A
 
+A. Mark the Photographer ==> https://codeforces.com/problemset/problem/1705/A
+
+A. The Miracle and the Sleeper ==> https://codeforces.com/problemset/problem/1562/A
+

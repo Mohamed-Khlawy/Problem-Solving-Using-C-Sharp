@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Mark the Photographer\bin\Debug\net8.0\A. Mark the Photographer.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Mark the Photographer\bin\Debug\net8.0\A. Mark the Photographer.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Mark the Photographer\bin\Debug\net8.0\A. Mark the Photographer.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Mark the Photographer\bin\Debug\net8.0\A. Mark the Photographer.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Mark the Photographer\bin\Debug\net8.0\A. Mark the Photographer.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Mark the Photographer\obj\Debug\net8.0\A. Mark the Photographer.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Mark the Photographer\obj\Debug\net8.0\A. Mark the Photographer.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Mark the Photographer\obj\Debug\net8.0\A. Mark the Photographer.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Mark the Photographer\obj\Debug\net8.0\A. Mark the Photographer.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Mark the Photographer\obj\Debug\net8.0\A. Mark the Photographer.sourcelink.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Mark the Photographer\obj\Debug\net8.0\A. Mark the Photographer.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Mark the Photographer\obj\Debug\net8.0\refint\A. Mark the Photographer.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Mark the Photographer\obj\Debug\net8.0\A. Mark the Photographer.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Mark the Photographer\obj\Debug\net8.0\A. Mark the Photographer.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Mark the Photographer\obj\Debug\net8.0\ref\A. Mark the Photographer.dll
