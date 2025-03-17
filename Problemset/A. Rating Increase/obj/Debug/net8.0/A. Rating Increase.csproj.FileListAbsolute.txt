@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Rating Increase\bin\Debug\net8.0\A. Rating Increase.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Rating Increase\bin\Debug\net8.0\A. Rating Increase.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Rating Increase\bin\Debug\net8.0\A. Rating Increase.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Rating Increase\bin\Debug\net8.0\A. Rating Increase.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Rating Increase\bin\Debug\net8.0\A. Rating Increase.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Rating Increase\obj\Debug\net8.0\A. Rating Increase.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Rating Increase\obj\Debug\net8.0\A. Rating Increase.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Rating Increase\obj\Debug\net8.0\A. Rating Increase.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Rating Increase\obj\Debug\net8.0\A. Rating Increase.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Rating Increase\obj\Debug\net8.0\A. Rating Increase.sourcelink.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Rating Increase\obj\Debug\net8.0\A. Rating Increase.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Rating Increase\obj\Debug\net8.0\refint\A. Rating Increase.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Rating Increase\obj\Debug\net8.0\A. Rating Increase.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Rating Increase\obj\Debug\net8.0\A. Rating Increase.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Rating Increase\obj\Debug\net8.0\ref\A. Rating Increase.dll

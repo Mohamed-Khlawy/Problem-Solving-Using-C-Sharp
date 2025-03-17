@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("A. Polycarp and Sums of Subsequences")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0cbc76d90ce36a6233e9bafb07abe38cf3e427c6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+48903a7e467e462d542abfc8caa1b74e66361712")]
 [assembly: System.Reflection.AssemblyProductAttribute("A. Polycarp and Sums of Subsequences")]
 [assembly: System.Reflection.AssemblyTitleAttribute("A. Polycarp and Sums of Subsequences")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

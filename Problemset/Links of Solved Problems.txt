@@ -748,3 +748,7 @@ A. Mark the Photographer ==> https://codeforces.com/problemset/problem/1705/A
 
 A. The Miracle and the Sleeper ==> https://codeforces.com/problemset/problem/1562/A
 
+A. Shifting Stacks ==> https://codeforces.com/problemset/problem/1486/A
+
+A. Rating Increase ==> https://codeforces.com/problemset/problem/1913/A
+

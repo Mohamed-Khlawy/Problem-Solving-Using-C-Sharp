@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Shifting Stacks\bin\Debug\net8.0\A. Shifting Stacks.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Shifting Stacks\bin\Debug\net8.0\A. Shifting Stacks.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Shifting Stacks\bin\Debug\net8.0\A. Shifting Stacks.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Shifting Stacks\bin\Debug\net8.0\A. Shifting Stacks.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Shifting Stacks\bin\Debug\net8.0\A. Shifting Stacks.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Shifting Stacks\obj\Debug\net8.0\A. Shifting Stacks.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Shifting Stacks\obj\Debug\net8.0\A. Shifting Stacks.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Shifting Stacks\obj\Debug\net8.0\A. Shifting Stacks.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Shifting Stacks\obj\Debug\net8.0\A. Shifting Stacks.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Shifting Stacks\obj\Debug\net8.0\A. Shifting Stacks.sourcelink.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Shifting Stacks\obj\Debug\net8.0\A. Shifting Stacks.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Shifting Stacks\obj\Debug\net8.0\refint\A. Shifting Stacks.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Shifting Stacks\obj\Debug\net8.0\A. Shifting Stacks.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Shifting Stacks\obj\Debug\net8.0\A. Shifting Stacks.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Shifting Stacks\obj\Debug\net8.0\ref\A. Shifting Stacks.dll
