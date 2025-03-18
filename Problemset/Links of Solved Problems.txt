@@ -752,3 +752,9 @@ A. Shifting Stacks ==> https://codeforces.com/problemset/problem/1486/A
 
 A. Rating Increase ==> https://codeforces.com/problemset/problem/1913/A
 
+C. Save More Mice ==> https://codeforces.com/problemset/problem/1593/C
+
+A. Milya and Two Arrays ==> https://codeforces.com/problemset/problem/2059/A
+
+B. Sasha and the Drawing ==> https://codeforces.com/problemset/problem/1929/B
+

@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Milya and Two Arrays\bin\Debug\net8.0\A. Milya and Two Arrays.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Milya and Two Arrays\bin\Debug\net8.0\A. Milya and Two Arrays.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Milya and Two Arrays\bin\Debug\net8.0\A. Milya and Two Arrays.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Milya and Two Arrays\bin\Debug\net8.0\A. Milya and Two Arrays.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Milya and Two Arrays\bin\Debug\net8.0\A. Milya and Two Arrays.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Milya and Two Arrays\obj\Debug\net8.0\A. Milya and Two Arrays.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Milya and Two Arrays\obj\Debug\net8.0\A. Milya and Two Arrays.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Milya and Two Arrays\obj\Debug\net8.0\A. Milya and Two Arrays.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Milya and Two Arrays\obj\Debug\net8.0\A. Milya and Two Arrays.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Milya and Two Arrays\obj\Debug\net8.0\A. Milya and Two Arrays.sourcelink.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Milya and Two Arrays\obj\Debug\net8.0\A. Milya and Two Arrays.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Milya and Two Arrays\obj\Debug\net8.0\refint\A. Milya and Two Arrays.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Milya and Two Arrays\obj\Debug\net8.0\A. Milya and Two Arrays.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Milya and Two Arrays\obj\Debug\net8.0\A. Milya and Two Arrays.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Milya and Two Arrays\obj\Debug\net8.0\ref\A. Milya and Two Arrays.dll

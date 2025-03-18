@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Save More Mice\bin\Debug\net8.0\C. Save More Mice.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Save More Mice\bin\Debug\net8.0\C. Save More Mice.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Save More Mice\bin\Debug\net8.0\C. Save More Mice.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Save More Mice\bin\Debug\net8.0\C. Save More Mice.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Save More Mice\bin\Debug\net8.0\C. Save More Mice.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Save More Mice\obj\Debug\net8.0\C. Save More Mice.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Save More Mice\obj\Debug\net8.0\C. Save More Mice.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Save More Mice\obj\Debug\net8.0\C. Save More Mice.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Save More Mice\obj\Debug\net8.0\C. Save More Mice.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Save More Mice\obj\Debug\net8.0\C. Save More Mice.sourcelink.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Save More Mice\obj\Debug\net8.0\C. Save More Mice.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Save More Mice\obj\Debug\net8.0\refint\C. Save More Mice.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Save More Mice\obj\Debug\net8.0\C. Save More Mice.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Save More Mice\obj\Debug\net8.0\C. Save More Mice.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Save More Mice\obj\Debug\net8.0\ref\C. Save More Mice.dll

@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Sasha and the Drawing\obj\Debug\net8.0\B. Sasha and the Drawing.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Sasha and the Drawing\obj\Debug\net8.0\B. Sasha and the Drawing.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Sasha and the Drawing\obj\Debug\net8.0\B. Sasha and the Drawing.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Sasha and the Drawing\obj\Debug\net8.0\B. Sasha and the Drawing.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Sasha and the Drawing\obj\Debug\net8.0\B. Sasha and the Drawing.sourcelink.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Sasha and the Drawing\bin\Debug\net8.0\B. Sasha and the Drawing.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Sasha and the Drawing\bin\Debug\net8.0\B. Sasha and the Drawing.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Sasha and the Drawing\bin\Debug\net8.0\B. Sasha and the Drawing.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Sasha and the Drawing\bin\Debug\net8.0\B. Sasha and the Drawing.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Sasha and the Drawing\bin\Debug\net8.0\B. Sasha and the Drawing.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Sasha and the Drawing\obj\Debug\net8.0\B. Sasha and the Drawing.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Sasha and the Drawing\obj\Debug\net8.0\refint\B. Sasha and the Drawing.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Sasha and the Drawing\obj\Debug\net8.0\B. Sasha and the Drawing.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Sasha and the Drawing\obj\Debug\net8.0\B. Sasha and the Drawing.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Sasha and the Drawing\obj\Debug\net8.0\ref\B. Sasha and the Drawing.dll
