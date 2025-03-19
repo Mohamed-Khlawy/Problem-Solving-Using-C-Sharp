@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("A. Extremely Round")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+93c7fea9d2f495a4d51ffc0f00b0fc75c3ea1684")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e99f33a45f08e0e6cff88dc0b2857bb17d2660c9")]
 [assembly: System.Reflection.AssemblyProductAttribute("A. Extremely Round")]
 [assembly: System.Reflection.AssemblyTitleAttribute("A. Extremely Round")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

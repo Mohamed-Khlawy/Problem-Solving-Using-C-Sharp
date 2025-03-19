@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Game of Mathletes\bin\Debug\net8.0\C. Game of Mathletes.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Game of Mathletes\bin\Debug\net8.0\C. Game of Mathletes.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Game of Mathletes\bin\Debug\net8.0\C. Game of Mathletes.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Game of Mathletes\bin\Debug\net8.0\C. Game of Mathletes.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Game of Mathletes\bin\Debug\net8.0\C. Game of Mathletes.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Game of Mathletes\obj\Debug\net8.0\C. Game of Mathletes.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Game of Mathletes\obj\Debug\net8.0\C. Game of Mathletes.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Game of Mathletes\obj\Debug\net8.0\C. Game of Mathletes.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Game of Mathletes\obj\Debug\net8.0\C. Game of Mathletes.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Game of Mathletes\obj\Debug\net8.0\C. Game of Mathletes.sourcelink.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Game of Mathletes\obj\Debug\net8.0\C. Game of Mathletes.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Game of Mathletes\obj\Debug\net8.0\refint\C. Game of Mathletes.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Game of Mathletes\obj\Debug\net8.0\C. Game of Mathletes.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Game of Mathletes\obj\Debug\net8.0\C. Game of Mathletes.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Game of Mathletes\obj\Debug\net8.0\ref\C. Game of Mathletes.dll

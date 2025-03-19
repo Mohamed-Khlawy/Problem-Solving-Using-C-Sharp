@@ -769,6 +769,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A. Milya and Two Arrays", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "B. Sasha and the Drawing", "B. Sasha and the Drawing\B. Sasha and the Drawing.csproj", "{02AAF9F1-0413-4BCF-9ABC-E29CF9E52636}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A. Balanced Substring", "A. Balanced Substring\A. Balanced Substring.csproj", "{961C0574-DFEB-46C4-977E-A55F9235BB3A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C. Game of Mathletes", "C. Game of Mathletes\C. Game of Mathletes.csproj", "{169C52AB-23AF-4FCE-AE7B-01960A93D727}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -2307,6 +2311,14 @@ Global
 		{02AAF9F1-0413-4BCF-9ABC-E29CF9E52636}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{02AAF9F1-0413-4BCF-9ABC-E29CF9E52636}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{02AAF9F1-0413-4BCF-9ABC-E29CF9E52636}.Release|Any CPU.Build.0 = Release|Any CPU
+		{961C0574-DFEB-46C4-977E-A55F9235BB3A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{961C0574-DFEB-46C4-977E-A55F9235BB3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{961C0574-DFEB-46C4-977E-A55F9235BB3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{961C0574-DFEB-46C4-977E-A55F9235BB3A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{169C52AB-23AF-4FCE-AE7B-01960A93D727}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{169C52AB-23AF-4FCE-AE7B-01960A93D727}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{169C52AB-23AF-4FCE-AE7B-01960A93D727}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{169C52AB-23AF-4FCE-AE7B-01960A93D727}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

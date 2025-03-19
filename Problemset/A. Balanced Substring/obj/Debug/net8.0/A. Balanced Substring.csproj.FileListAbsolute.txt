@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Balanced Substring\bin\Debug\net8.0\A. Balanced Substring.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Balanced Substring\bin\Debug\net8.0\A. Balanced Substring.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Balanced Substring\bin\Debug\net8.0\A. Balanced Substring.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Balanced Substring\bin\Debug\net8.0\A. Balanced Substring.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Balanced Substring\bin\Debug\net8.0\A. Balanced Substring.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Balanced Substring\obj\Debug\net8.0\A. Balanced Substring.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Balanced Substring\obj\Debug\net8.0\A. Balanced Substring.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Balanced Substring\obj\Debug\net8.0\A. Balanced Substring.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Balanced Substring\obj\Debug\net8.0\A. Balanced Substring.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Balanced Substring\obj\Debug\net8.0\A. Balanced Substring.sourcelink.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Balanced Substring\obj\Debug\net8.0\A. Balanced Substring.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Balanced Substring\obj\Debug\net8.0\refint\A. Balanced Substring.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Balanced Substring\obj\Debug\net8.0\A. Balanced Substring.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Balanced Substring\obj\Debug\net8.0\A. Balanced Substring.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Balanced Substring\obj\Debug\net8.0\ref\A. Balanced Substring.dll

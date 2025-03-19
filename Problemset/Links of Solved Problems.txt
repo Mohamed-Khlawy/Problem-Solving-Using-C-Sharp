@@ -758,3 +758,7 @@ A. Milya and Two Arrays ==> https://codeforces.com/problemset/problem/2059/A
 
 B. Sasha and the Drawing ==> https://codeforces.com/problemset/problem/1929/B
 
+A. Balanced Substring ==> https://codeforces.com/problemset/problem/1569/A
+
+C. Game of Mathletes ==> https://codeforces.com/problemset/problem/2060/C
+
