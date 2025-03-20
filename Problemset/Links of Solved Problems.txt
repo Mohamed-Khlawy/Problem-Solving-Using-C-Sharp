@@ -762,3 +762,7 @@ A. Balanced Substring ==> https://codeforces.com/problemset/problem/1569/A
 
 C. Game of Mathletes ==> https://codeforces.com/problemset/problem/2060/C
 
+B. Almost Rectangle ==> https://codeforces.com/problemset/problem/1512/B
+
+A. SSeeeeiinngg DDoouubbllee ==> https://codeforces.com/problemset/problem/1758/A
+

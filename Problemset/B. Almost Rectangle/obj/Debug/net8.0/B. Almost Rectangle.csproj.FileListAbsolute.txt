@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Almost Rectangle\bin\Debug\net8.0\B. Almost Rectangle.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Almost Rectangle\bin\Debug\net8.0\B. Almost Rectangle.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Almost Rectangle\bin\Debug\net8.0\B. Almost Rectangle.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Almost Rectangle\bin\Debug\net8.0\B. Almost Rectangle.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Almost Rectangle\bin\Debug\net8.0\B. Almost Rectangle.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Almost Rectangle\obj\Debug\net8.0\B. Almost Rectangle.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Almost Rectangle\obj\Debug\net8.0\B. Almost Rectangle.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Almost Rectangle\obj\Debug\net8.0\B. Almost Rectangle.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Almost Rectangle\obj\Debug\net8.0\B. Almost Rectangle.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Almost Rectangle\obj\Debug\net8.0\B. Almost Rectangle.sourcelink.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Almost Rectangle\obj\Debug\net8.0\B. Almost Rectangle.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Almost Rectangle\obj\Debug\net8.0\refint\B. Almost Rectangle.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Almost Rectangle\obj\Debug\net8.0\B. Almost Rectangle.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Almost Rectangle\obj\Debug\net8.0\B. Almost Rectangle.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Almost Rectangle\obj\Debug\net8.0\ref\B. Almost Rectangle.dll

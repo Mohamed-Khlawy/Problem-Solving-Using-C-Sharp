@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. SSeeeeiinngg DDoouubbllee\bin\Debug\net8.0\A. SSeeeeiinngg DDoouubbllee.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. SSeeeeiinngg DDoouubbllee\bin\Debug\net8.0\A. SSeeeeiinngg DDoouubbllee.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. SSeeeeiinngg DDoouubbllee\bin\Debug\net8.0\A. SSeeeeiinngg DDoouubbllee.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. SSeeeeiinngg DDoouubbllee\bin\Debug\net8.0\A. SSeeeeiinngg DDoouubbllee.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. SSeeeeiinngg DDoouubbllee\bin\Debug\net8.0\A. SSeeeeiinngg DDoouubbllee.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. SSeeeeiinngg DDoouubbllee\obj\Debug\net8.0\A. SSeeeeiinngg DDoouubbllee.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. SSeeeeiinngg DDoouubbllee\obj\Debug\net8.0\A. SSeeeeiinngg DDoouubbllee.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. SSeeeeiinngg DDoouubbllee\obj\Debug\net8.0\A. SSeeeeiinngg DDoouubbllee.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. SSeeeeiinngg DDoouubbllee\obj\Debug\net8.0\A. SSeeeeiinngg DDoouubbllee.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. SSeeeeiinngg DDoouubbllee\obj\Debug\net8.0\A. SSeeeeiinngg DDoouubbllee.sourcelink.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. SSeeeeiinngg DDoouubbllee\obj\Debug\net8.0\A. SSeeeeiinngg DDoouubbllee.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. SSeeeeiinngg DDoouubbllee\obj\Debug\net8.0\refint\A. SSeeeeiinngg DDoouubbllee.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. SSeeeeiinngg DDoouubbllee\obj\Debug\net8.0\A. SSeeeeiinngg DDoouubbllee.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. SSeeeeiinngg DDoouubbllee\obj\Debug\net8.0\A. SSeeeeiinngg DDoouubbllee.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. SSeeeeiinngg DDoouubbllee\obj\Debug\net8.0\ref\A. SSeeeeiinngg DDoouubbllee.dll
