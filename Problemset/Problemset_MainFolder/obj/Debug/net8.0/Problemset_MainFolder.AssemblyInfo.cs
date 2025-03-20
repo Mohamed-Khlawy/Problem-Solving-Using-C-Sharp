@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Problemset_MainFolder")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8926e963a20d15d088d547a9a5c85e3c74cf31a0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f21373e3b73251124e19b8fcb431c74d767b179f")]
 [assembly: System.Reflection.AssemblyProductAttribute("Problemset_MainFolder")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Problemset_MainFolder")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
