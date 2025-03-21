@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Sakurako and Water\bin\Debug\net8.0\B. Sakurako and Water.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Sakurako and Water\bin\Debug\net8.0\B. Sakurako and Water.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Sakurako and Water\bin\Debug\net8.0\B. Sakurako and Water.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Sakurako and Water\bin\Debug\net8.0\B. Sakurako and Water.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Sakurako and Water\bin\Debug\net8.0\B. Sakurako and Water.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Sakurako and Water\obj\Debug\net8.0\B. Sakurako and Water.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Sakurako and Water\obj\Debug\net8.0\B. Sakurako and Water.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Sakurako and Water\obj\Debug\net8.0\B. Sakurako and Water.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Sakurako and Water\obj\Debug\net8.0\B. Sakurako and Water.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Sakurako and Water\obj\Debug\net8.0\B. Sakurako and Water.sourcelink.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Sakurako and Water\obj\Debug\net8.0\B. Sakurako and Water.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Sakurako and Water\obj\Debug\net8.0\refint\B. Sakurako and Water.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Sakurako and Water\obj\Debug\net8.0\B. Sakurako and Water.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Sakurako and Water\obj\Debug\net8.0\B. Sakurako and Water.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Sakurako and Water\obj\Debug\net8.0\ref\B. Sakurako and Water.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "C. Minimum Extraction/1.0.0": {
+        "runtime": {
+          "C. Minimum Extraction.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "C. Minimum Extraction/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -779,6 +779,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A. SSeeeeiinngg DDoouubblle
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A. Devu, the Singer and Churu, the Joker", "A. Devu, the Singer and Churu, the Joker\A. Devu, the Singer and Churu, the Joker.csproj", "{15860126-F6CF-4BFF-A9EC-30148094D1DD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C. Minimum Extraction", "C. Minimum Extraction\C. Minimum Extraction.csproj", "{DD03C02A-4590-45F8-8236-1A444E1E2DA6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "B. Sakurako and Water", "B. Sakurako and Water\B. Sakurako and Water.csproj", "{2CCB4168-9CA2-41FF-AF3D-983612A0D39C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -2337,6 +2341,14 @@ Global
 		{15860126-F6CF-4BFF-A9EC-30148094D1DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{15860126-F6CF-4BFF-A9EC-30148094D1DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{15860126-F6CF-4BFF-A9EC-30148094D1DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DD03C02A-4590-45F8-8236-1A444E1E2DA6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD03C02A-4590-45F8-8236-1A444E1E2DA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD03C02A-4590-45F8-8236-1A444E1E2DA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD03C02A-4590-45F8-8236-1A444E1E2DA6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2CCB4168-9CA2-41FF-AF3D-983612A0D39C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2CCB4168-9CA2-41FF-AF3D-983612A0D39C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2CCB4168-9CA2-41FF-AF3D-983612A0D39C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2CCB4168-9CA2-41FF-AF3D-983612A0D39C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

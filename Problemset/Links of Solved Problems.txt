@@ -768,3 +768,7 @@ A. SSeeeeiinngg DDoouubbllee ==> https://codeforces.com/problemset/problem/1758/
 
 A. Devu, the Singer and Churu, the Joker ==> https://codeforces.com/problemset/problem/439/A
 
+C. Minimum Extraction ==> https://codeforces.com/problemset/problem/1607/C
+
+B. Sakurako and Water ==> https://codeforces.com/problemset/problem/2033/B
+

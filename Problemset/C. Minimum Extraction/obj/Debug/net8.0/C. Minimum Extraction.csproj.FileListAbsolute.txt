@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Minimum Extraction\bin\Debug\net8.0\C. Minimum Extraction.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Minimum Extraction\bin\Debug\net8.0\C. Minimum Extraction.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Minimum Extraction\bin\Debug\net8.0\C. Minimum Extraction.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Minimum Extraction\bin\Debug\net8.0\C. Minimum Extraction.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Minimum Extraction\bin\Debug\net8.0\C. Minimum Extraction.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Minimum Extraction\obj\Debug\net8.0\C. Minimum Extraction.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Minimum Extraction\obj\Debug\net8.0\C. Minimum Extraction.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Minimum Extraction\obj\Debug\net8.0\C. Minimum Extraction.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Minimum Extraction\obj\Debug\net8.0\C. Minimum Extraction.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Minimum Extraction\obj\Debug\net8.0\C. Minimum Extraction.sourcelink.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Minimum Extraction\obj\Debug\net8.0\C. Minimum Extraction.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Minimum Extraction\obj\Debug\net8.0\refint\C. Minimum Extraction.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Minimum Extraction\obj\Debug\net8.0\C. Minimum Extraction.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Minimum Extraction\obj\Debug\net8.0\C. Minimum Extraction.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Minimum Extraction\obj\Debug\net8.0\ref\C. Minimum Extraction.dll
