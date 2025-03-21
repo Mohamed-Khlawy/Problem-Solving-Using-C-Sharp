@@ -777,6 +777,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "B. Almost Rectangle", "B. A
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A. SSeeeeiinngg DDoouubbllee", "A. SSeeeeiinngg DDoouubbllee\A. SSeeeeiinngg DDoouubbllee.csproj", "{83EC61CC-B560-4BA5-B447-A955697E9490}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A. Devu, the Singer and Churu, the Joker", "A. Devu, the Singer and Churu, the Joker\A. Devu, the Singer and Churu, the Joker.csproj", "{15860126-F6CF-4BFF-A9EC-30148094D1DD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -2331,6 +2333,10 @@ Global
 		{83EC61CC-B560-4BA5-B447-A955697E9490}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{83EC61CC-B560-4BA5-B447-A955697E9490}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{83EC61CC-B560-4BA5-B447-A955697E9490}.Release|Any CPU.Build.0 = Release|Any CPU
+		{15860126-F6CF-4BFF-A9EC-30148094D1DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15860126-F6CF-4BFF-A9EC-30148094D1DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15860126-F6CF-4BFF-A9EC-30148094D1DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15860126-F6CF-4BFF-A9EC-30148094D1DD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

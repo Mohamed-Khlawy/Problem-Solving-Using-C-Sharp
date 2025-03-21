@@ -766,3 +766,5 @@ B. Almost Rectangle ==> https://codeforces.com/problemset/problem/1512/B
 
 A. SSeeeeiinngg DDoouubbllee ==> https://codeforces.com/problemset/problem/1758/A
 
+A. Devu, the Singer and Churu, the Joker ==> https://codeforces.com/problemset/problem/439/A
+

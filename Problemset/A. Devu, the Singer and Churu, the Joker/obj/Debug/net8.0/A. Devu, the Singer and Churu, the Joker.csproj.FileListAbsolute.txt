@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Devu, the Singer and Churu, the Joker\bin\Debug\net8.0\A. Devu, the Singer and Churu, the Joker.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Devu, the Singer and Churu, the Joker\bin\Debug\net8.0\A. Devu, the Singer and Churu, the Joker.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Devu, the Singer and Churu, the Joker\bin\Debug\net8.0\A. Devu, the Singer and Churu, the Joker.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Devu, the Singer and Churu, the Joker\bin\Debug\net8.0\A. Devu, the Singer and Churu, the Joker.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Devu, the Singer and Churu, the Joker\bin\Debug\net8.0\A. Devu, the Singer and Churu, the Joker.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Devu, the Singer and Churu, the Joker\obj\Debug\net8.0\A. Devu, the Singer and Churu, the Joker.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Devu, the Singer and Churu, the Joker\obj\Debug\net8.0\A. Devu, the Singer and Churu, the Joker.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Devu, the Singer and Churu, the Joker\obj\Debug\net8.0\A. Devu, the Singer and Churu, the Joker.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Devu, the Singer and Churu, the Joker\obj\Debug\net8.0\A. Devu, the Singer and Churu, the Joker.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Devu, the Singer and Churu, the Joker\obj\Debug\net8.0\A. Devu, the Singer and Churu, the Joker.sourcelink.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Devu, the Singer and Churu, the Joker\obj\Debug\net8.0\A. Devu, the Singer and Churu, the Joker.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Devu, the Singer and Churu, the Joker\obj\Debug\net8.0\refint\A. Devu, the Singer and Churu, the Joker.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Devu, the Singer and Churu, the Joker\obj\Debug\net8.0\A. Devu, the Singer and Churu, the Joker.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Devu, the Singer and Churu, the Joker\obj\Debug\net8.0\A. Devu, the Singer and Churu, the Joker.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Devu, the Singer and Churu, the Joker\obj\Debug\net8.0\ref\A. Devu, the Singer and Churu, the Joker.dll

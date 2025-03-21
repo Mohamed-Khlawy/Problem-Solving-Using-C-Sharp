@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("A. Remove Duplicates")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f21373e3b73251124e19b8fcb431c74d767b179f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5af137ee8e708e3945c9bbb6250a974d25b501ff")]
 [assembly: System.Reflection.AssemblyProductAttribute("A. Remove Duplicates")]
 [assembly: System.Reflection.AssemblyTitleAttribute("A. Remove Duplicates")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
