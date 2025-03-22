@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "B. Phoenix and Puzzle/1.0.0": {
+        "runtime": {
+          "B. Phoenix and Puzzle.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "B. Phoenix and Puzzle/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

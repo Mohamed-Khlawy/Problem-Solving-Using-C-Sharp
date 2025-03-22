@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Perfect Permutation\bin\Debug\net8.0\A. Perfect Permutation.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Perfect Permutation\bin\Debug\net8.0\A. Perfect Permutation.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Perfect Permutation\bin\Debug\net8.0\A. Perfect Permutation.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Perfect Permutation\bin\Debug\net8.0\A. Perfect Permutation.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Perfect Permutation\bin\Debug\net8.0\A. Perfect Permutation.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Perfect Permutation\obj\Debug\net8.0\A. Perfect Permutation.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Perfect Permutation\obj\Debug\net8.0\A. Perfect Permutation.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Perfect Permutation\obj\Debug\net8.0\A. Perfect Permutation.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Perfect Permutation\obj\Debug\net8.0\A. Perfect Permutation.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Perfect Permutation\obj\Debug\net8.0\A. Perfect Permutation.sourcelink.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Perfect Permutation\obj\Debug\net8.0\A. Perfect Permutation.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Perfect Permutation\obj\Debug\net8.0\refint\A. Perfect Permutation.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Perfect Permutation\obj\Debug\net8.0\A. Perfect Permutation.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Perfect Permutation\obj\Debug\net8.0\A. Perfect Permutation.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Perfect Permutation\obj\Debug\net8.0\ref\A. Perfect Permutation.dll

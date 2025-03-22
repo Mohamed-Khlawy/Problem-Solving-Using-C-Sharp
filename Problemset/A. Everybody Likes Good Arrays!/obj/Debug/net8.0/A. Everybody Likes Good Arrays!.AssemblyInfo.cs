@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("A. Everybody Likes Good Arrays!")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2ba069168eada8145f180d866f410015bd6ff5a4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e301569e521714d65bcb641264bcd416e458c8d2")]
 [assembly: System.Reflection.AssemblyProductAttribute("A. Everybody Likes Good Arrays!")]
 [assembly: System.Reflection.AssemblyTitleAttribute("A. Everybody Likes Good Arrays!")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

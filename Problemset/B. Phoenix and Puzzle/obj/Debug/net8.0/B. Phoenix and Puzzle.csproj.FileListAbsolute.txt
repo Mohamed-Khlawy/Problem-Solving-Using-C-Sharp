@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Phoenix and Puzzle\bin\Debug\net8.0\B. Phoenix and Puzzle.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Phoenix and Puzzle\bin\Debug\net8.0\B. Phoenix and Puzzle.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Phoenix and Puzzle\bin\Debug\net8.0\B. Phoenix and Puzzle.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Phoenix and Puzzle\bin\Debug\net8.0\B. Phoenix and Puzzle.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Phoenix and Puzzle\bin\Debug\net8.0\B. Phoenix and Puzzle.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Phoenix and Puzzle\obj\Debug\net8.0\B. Phoenix and Puzzle.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Phoenix and Puzzle\obj\Debug\net8.0\B. Phoenix and Puzzle.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Phoenix and Puzzle\obj\Debug\net8.0\B. Phoenix and Puzzle.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Phoenix and Puzzle\obj\Debug\net8.0\B. Phoenix and Puzzle.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Phoenix and Puzzle\obj\Debug\net8.0\B. Phoenix and Puzzle.sourcelink.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Phoenix and Puzzle\obj\Debug\net8.0\B. Phoenix and Puzzle.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Phoenix and Puzzle\obj\Debug\net8.0\refint\B. Phoenix and Puzzle.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Phoenix and Puzzle\obj\Debug\net8.0\B. Phoenix and Puzzle.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Phoenix and Puzzle\obj\Debug\net8.0\B. Phoenix and Puzzle.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Phoenix and Puzzle\obj\Debug\net8.0\ref\B. Phoenix and Puzzle.dll

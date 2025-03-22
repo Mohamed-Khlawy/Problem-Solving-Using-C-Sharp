@@ -772,3 +772,11 @@ C. Minimum Extraction ==> https://codeforces.com/problemset/problem/1607/C
 
 B. Sakurako and Water ==> https://codeforces.com/problemset/problem/2033/B
 
+B. Phoenix and Puzzle ==> https://codeforces.com/problemset/problem/1515/B
+
+A. Heist ==> https://codeforces.com/problemset/problem/1041/A
+
+A. Two Groups ==> https://codeforces.com/problemset/problem/1747/A
+
+A. Perfect Permutation ==> https://codeforces.com/problemset/problem/1711/A
+
