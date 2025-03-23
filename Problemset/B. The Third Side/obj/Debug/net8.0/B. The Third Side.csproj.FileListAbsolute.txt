@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. The Third Side\bin\Debug\net8.0\B. The Third Side.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. The Third Side\bin\Debug\net8.0\B. The Third Side.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. The Third Side\bin\Debug\net8.0\B. The Third Side.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. The Third Side\bin\Debug\net8.0\B. The Third Side.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. The Third Side\bin\Debug\net8.0\B. The Third Side.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. The Third Side\obj\Debug\net8.0\B. The Third Side.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. The Third Side\obj\Debug\net8.0\B. The Third Side.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. The Third Side\obj\Debug\net8.0\B. The Third Side.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. The Third Side\obj\Debug\net8.0\B. The Third Side.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. The Third Side\obj\Debug\net8.0\B. The Third Side.sourcelink.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. The Third Side\obj\Debug\net8.0\B. The Third Side.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. The Third Side\obj\Debug\net8.0\refint\B. The Third Side.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. The Third Side\obj\Debug\net8.0\B. The Third Side.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. The Third Side\obj\Debug\net8.0\B. The Third Side.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. The Third Side\obj\Debug\net8.0\ref\B. The Third Side.dll

@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Nearest Interesting Number\bin\Debug\net8.0\A. Nearest Interesting Number.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Nearest Interesting Number\bin\Debug\net8.0\A. Nearest Interesting Number.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Nearest Interesting Number\bin\Debug\net8.0\A. Nearest Interesting Number.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Nearest Interesting Number\bin\Debug\net8.0\A. Nearest Interesting Number.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Nearest Interesting Number\bin\Debug\net8.0\A. Nearest Interesting Number.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Nearest Interesting Number\obj\Debug\net8.0\A. Nearest Interesting Number.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Nearest Interesting Number\obj\Debug\net8.0\A. Nearest Interesting Number.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Nearest Interesting Number\obj\Debug\net8.0\A. Nearest Interesting Number.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Nearest Interesting Number\obj\Debug\net8.0\A. Nearest Interesting Number.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Nearest Interesting Number\obj\Debug\net8.0\A. Nearest Interesting Number.sourcelink.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Nearest Interesting Number\obj\Debug\net8.0\A. Nearest Interesting Number.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Nearest Interesting Number\obj\Debug\net8.0\refint\A. Nearest Interesting Number.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Nearest Interesting Number\obj\Debug\net8.0\A. Nearest Interesting Number.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Nearest Interesting Number\obj\Debug\net8.0\A. Nearest Interesting Number.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Nearest Interesting Number\obj\Debug\net8.0\ref\A. Nearest Interesting Number.dll

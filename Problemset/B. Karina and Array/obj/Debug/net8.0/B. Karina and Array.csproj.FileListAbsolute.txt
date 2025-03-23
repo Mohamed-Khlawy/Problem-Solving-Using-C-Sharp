@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Karina and Array\bin\Debug\net8.0\B. Karina and Array.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Karina and Array\bin\Debug\net8.0\B. Karina and Array.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Karina and Array\bin\Debug\net8.0\B. Karina and Array.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Karina and Array\bin\Debug\net8.0\B. Karina and Array.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Karina and Array\bin\Debug\net8.0\B. Karina and Array.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Karina and Array\obj\Debug\net8.0\B. Karina and Array.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Karina and Array\obj\Debug\net8.0\B. Karina and Array.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Karina and Array\obj\Debug\net8.0\B. Karina and Array.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Karina and Array\obj\Debug\net8.0\B. Karina and Array.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Karina and Array\obj\Debug\net8.0\B. Karina and Array.sourcelink.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Karina and Array\obj\Debug\net8.0\B. Karina and Array.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Karina and Array\obj\Debug\net8.0\refint\B. Karina and Array.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Karina and Array\obj\Debug\net8.0\B. Karina and Array.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Karina and Array\obj\Debug\net8.0\B. Karina and Array.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Karina and Array\obj\Debug\net8.0\ref\B. Karina and Array.dll

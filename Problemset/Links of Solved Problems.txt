@@ -780,3 +780,9 @@ A. Two Groups ==> https://codeforces.com/problemset/problem/1747/A
 
 A. Perfect Permutation ==> https://codeforces.com/problemset/problem/1711/A
 
+B. The Third Side ==> https://codeforces.com/problemset/problem/2074/B
+
+A. Nearest Interesting Number ==> https://codeforces.com/problemset/problem/1183/A
+
+B. Karina and Array ==> https://codeforces.com/problemset/problem/1822/B
+
