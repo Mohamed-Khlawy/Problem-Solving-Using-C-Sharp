@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Dima and Friends\bin\Debug\net8.0\A. Dima and Friends.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Dima and Friends\bin\Debug\net8.0\A. Dima and Friends.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Dima and Friends\bin\Debug\net8.0\A. Dima and Friends.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Dima and Friends\bin\Debug\net8.0\A. Dima and Friends.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Dima and Friends\bin\Debug\net8.0\A. Dima and Friends.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Dima and Friends\obj\Debug\net8.0\A. Dima and Friends.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Dima and Friends\obj\Debug\net8.0\A. Dima and Friends.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Dima and Friends\obj\Debug\net8.0\A. Dima and Friends.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Dima and Friends\obj\Debug\net8.0\A. Dima and Friends.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Dima and Friends\obj\Debug\net8.0\A. Dima and Friends.sourcelink.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Dima and Friends\obj\Debug\net8.0\A. Dima and Friends.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Dima and Friends\obj\Debug\net8.0\refint\A. Dima and Friends.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Dima and Friends\obj\Debug\net8.0\A. Dima and Friends.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Dima and Friends\obj\Debug\net8.0\A. Dima and Friends.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Dima and Friends\obj\Debug\net8.0\ref\A. Dima and Friends.dll

@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Two Screens\bin\Debug\net8.0\A. Two Screens.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Two Screens\bin\Debug\net8.0\A. Two Screens.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Two Screens\bin\Debug\net8.0\A. Two Screens.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Two Screens\bin\Debug\net8.0\A. Two Screens.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Two Screens\bin\Debug\net8.0\A. Two Screens.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Two Screens\obj\Debug\net8.0\A. Two Screens.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Two Screens\obj\Debug\net8.0\A. Two Screens.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Two Screens\obj\Debug\net8.0\A. Two Screens.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Two Screens\obj\Debug\net8.0\A. Two Screens.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Two Screens\obj\Debug\net8.0\A. Two Screens.sourcelink.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Two Screens\obj\Debug\net8.0\A. Two Screens.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Two Screens\obj\Debug\net8.0\refint\A. Two Screens.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Two Screens\obj\Debug\net8.0\A. Two Screens.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Two Screens\obj\Debug\net8.0\A. Two Screens.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Two Screens\obj\Debug\net8.0\ref\A. Two Screens.dll

@@ -786,3 +786,7 @@ A. Nearest Interesting Number ==> https://codeforces.com/problemset/problem/1183
 
 B. Karina and Array ==> https://codeforces.com/problemset/problem/1822/B
 
+A. Dima and Friends ==> https://codeforces.com/problemset/problem/272/A
+
+A. Two Screens ==> https://codeforces.com/problemset/problem/2025/A
+

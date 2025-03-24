@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("A. Twin Permutations")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7b52b84cca1540c3b3a6825760d7e0483a4525dd")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6309d8d11007301fc27a1fb94f02c74b235f3932")]
 [assembly: System.Reflection.AssemblyProductAttribute("A. Twin Permutations")]
 [assembly: System.Reflection.AssemblyTitleAttribute("A. Twin Permutations")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
