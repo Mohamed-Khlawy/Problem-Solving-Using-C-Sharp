@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Numbers on Whiteboard\bin\Debug\net8.0\C. Numbers on Whiteboard.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Numbers on Whiteboard\bin\Debug\net8.0\C. Numbers on Whiteboard.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Numbers on Whiteboard\bin\Debug\net8.0\C. Numbers on Whiteboard.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Numbers on Whiteboard\bin\Debug\net8.0\C. Numbers on Whiteboard.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Numbers on Whiteboard\bin\Debug\net8.0\C. Numbers on Whiteboard.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Numbers on Whiteboard\obj\Debug\net8.0\C. Numbers on Whiteboard.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Numbers on Whiteboard\obj\Debug\net8.0\C. Numbers on Whiteboard.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Numbers on Whiteboard\obj\Debug\net8.0\C. Numbers on Whiteboard.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Numbers on Whiteboard\obj\Debug\net8.0\C. Numbers on Whiteboard.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Numbers on Whiteboard\obj\Debug\net8.0\C. Numbers on Whiteboard.sourcelink.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Numbers on Whiteboard\obj\Debug\net8.0\C. Numbers on Whiteboard.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Numbers on Whiteboard\obj\Debug\net8.0\refint\C. Numbers on Whiteboard.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Numbers on Whiteboard\obj\Debug\net8.0\C. Numbers on Whiteboard.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Numbers on Whiteboard\obj\Debug\net8.0\C. Numbers on Whiteboard.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Numbers on Whiteboard\obj\Debug\net8.0\ref\C. Numbers on Whiteboard.dll

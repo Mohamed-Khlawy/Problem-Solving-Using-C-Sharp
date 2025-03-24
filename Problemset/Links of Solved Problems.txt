@@ -790,3 +790,7 @@ A. Dima and Friends ==> https://codeforces.com/problemset/problem/272/A
 
 A. Two Screens ==> https://codeforces.com/problemset/problem/2025/A
 
+A. Make It Zero ==> https://codeforces.com/problemset/problem/1869/A
+
+C. Numbers on Whiteboard ==> https://codeforces.com/problemset/problem/1430/C
+

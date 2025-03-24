@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Make It Zero\bin\Debug\net8.0\A. Make It Zero.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Make It Zero\bin\Debug\net8.0\A. Make It Zero.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Make It Zero\bin\Debug\net8.0\A. Make It Zero.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Make It Zero\bin\Debug\net8.0\A. Make It Zero.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Make It Zero\bin\Debug\net8.0\A. Make It Zero.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Make It Zero\obj\Debug\net8.0\A. Make It Zero.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Make It Zero\obj\Debug\net8.0\A. Make It Zero.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Make It Zero\obj\Debug\net8.0\A. Make It Zero.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Make It Zero\obj\Debug\net8.0\A. Make It Zero.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Make It Zero\obj\Debug\net8.0\A. Make It Zero.sourcelink.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Make It Zero\obj\Debug\net8.0\A. Make It Zero.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Make It Zero\obj\Debug\net8.0\refint\A. Make It Zero.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Make It Zero\obj\Debug\net8.0\A. Make It Zero.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Make It Zero\obj\Debug\net8.0\A. Make It Zero.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Make It Zero\obj\Debug\net8.0\ref\A. Make It Zero.dll

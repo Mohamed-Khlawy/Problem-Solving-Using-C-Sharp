@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("A. Turtle and Good Strings")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6309d8d11007301fc27a1fb94f02c74b235f3932")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0e30e755f23c18e03eb7af2384c55286afc30571")]
 [assembly: System.Reflection.AssemblyProductAttribute("A. Turtle and Good Strings")]
 [assembly: System.Reflection.AssemblyTitleAttribute("A. Turtle and Good Strings")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

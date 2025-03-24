@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "C. Numbers on Whiteboard/1.0.0": {
+        "runtime": {
+          "C. Numbers on Whiteboard.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "C. Numbers on Whiteboard/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
