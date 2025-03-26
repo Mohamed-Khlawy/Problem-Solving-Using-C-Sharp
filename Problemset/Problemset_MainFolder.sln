@@ -805,6 +805,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A. Make It Zero", "A. Make 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C. Numbers on Whiteboard", "C. Numbers on Whiteboard\C. Numbers on Whiteboard.csproj", "{915AC2B6-1157-4E5D-B589-66724CA6340A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A. A Gift From Orangutan", "A. A Gift From Orangutan\A. A Gift From Orangutan.csproj", "{A983932F-704F-47AA-8E59-EF1ADAC04566}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "B. Shoe Shuffling", "B. Shoe Shuffling\B. Shoe Shuffling.csproj", "{5B1DD453-F4F5-40F7-942A-FA3727C7965B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -2415,6 +2419,14 @@ Global
 		{915AC2B6-1157-4E5D-B589-66724CA6340A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{915AC2B6-1157-4E5D-B589-66724CA6340A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{915AC2B6-1157-4E5D-B589-66724CA6340A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A983932F-704F-47AA-8E59-EF1ADAC04566}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A983932F-704F-47AA-8E59-EF1ADAC04566}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A983932F-704F-47AA-8E59-EF1ADAC04566}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A983932F-704F-47AA-8E59-EF1ADAC04566}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5B1DD453-F4F5-40F7-942A-FA3727C7965B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B1DD453-F4F5-40F7-942A-FA3727C7965B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B1DD453-F4F5-40F7-942A-FA3727C7965B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B1DD453-F4F5-40F7-942A-FA3727C7965B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

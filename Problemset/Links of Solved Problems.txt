@@ -794,3 +794,7 @@ A. Make It Zero ==> https://codeforces.com/problemset/problem/1869/A
 
 C. Numbers on Whiteboard ==> https://codeforces.com/problemset/problem/1430/C
 
+A. A Gift From Orangutan ==> https://codeforces.com/problemset/problem/2030/A
+
+ B. Shoe Shuffling ==> https://codeforces.com/problemset/problem/1691/B
+

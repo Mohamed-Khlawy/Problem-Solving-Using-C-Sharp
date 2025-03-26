@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. A Gift From Orangutan\bin\Debug\net8.0\A. A Gift From Orangutan.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. A Gift From Orangutan\bin\Debug\net8.0\A. A Gift From Orangutan.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. A Gift From Orangutan\bin\Debug\net8.0\A. A Gift From Orangutan.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. A Gift From Orangutan\bin\Debug\net8.0\A. A Gift From Orangutan.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. A Gift From Orangutan\bin\Debug\net8.0\A. A Gift From Orangutan.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. A Gift From Orangutan\obj\Debug\net8.0\A. A Gift From Orangutan.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. A Gift From Orangutan\obj\Debug\net8.0\A. A Gift From Orangutan.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. A Gift From Orangutan\obj\Debug\net8.0\A. A Gift From Orangutan.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. A Gift From Orangutan\obj\Debug\net8.0\A. A Gift From Orangutan.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. A Gift From Orangutan\obj\Debug\net8.0\A. A Gift From Orangutan.sourcelink.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. A Gift From Orangutan\obj\Debug\net8.0\A. A Gift From Orangutan.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. A Gift From Orangutan\obj\Debug\net8.0\refint\A. A Gift From Orangutan.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. A Gift From Orangutan\obj\Debug\net8.0\A. A Gift From Orangutan.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. A Gift From Orangutan\obj\Debug\net8.0\A. A Gift From Orangutan.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. A Gift From Orangutan\obj\Debug\net8.0\ref\A. A Gift From Orangutan.dll

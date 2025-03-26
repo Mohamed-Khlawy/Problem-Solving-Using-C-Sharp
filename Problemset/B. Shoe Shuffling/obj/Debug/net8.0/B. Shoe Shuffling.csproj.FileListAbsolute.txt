@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Shoe Shuffling\bin\Debug\net8.0\B. Shoe Shuffling.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Shoe Shuffling\bin\Debug\net8.0\B. Shoe Shuffling.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Shoe Shuffling\bin\Debug\net8.0\B. Shoe Shuffling.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Shoe Shuffling\bin\Debug\net8.0\B. Shoe Shuffling.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Shoe Shuffling\bin\Debug\net8.0\B. Shoe Shuffling.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Shoe Shuffling\obj\Debug\net8.0\B. Shoe Shuffling.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Shoe Shuffling\obj\Debug\net8.0\B. Shoe Shuffling.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Shoe Shuffling\obj\Debug\net8.0\B. Shoe Shuffling.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Shoe Shuffling\obj\Debug\net8.0\B. Shoe Shuffling.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Shoe Shuffling\obj\Debug\net8.0\B. Shoe Shuffling.sourcelink.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Shoe Shuffling\obj\Debug\net8.0\B. Shoe Shuffling.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Shoe Shuffling\obj\Debug\net8.0\refint\B. Shoe Shuffling.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Shoe Shuffling\obj\Debug\net8.0\B. Shoe Shuffling.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Shoe Shuffling\obj\Debug\net8.0\B. Shoe Shuffling.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Shoe Shuffling\obj\Debug\net8.0\ref\B. Shoe Shuffling.dll
