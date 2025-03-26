@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Minimize Equal Sum Subarrays\bin\Debug\net8.0\B. Minimize Equal Sum Subarrays.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Minimize Equal Sum Subarrays\bin\Debug\net8.0\B. Minimize Equal Sum Subarrays.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Minimize Equal Sum Subarrays\bin\Debug\net8.0\B. Minimize Equal Sum Subarrays.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Minimize Equal Sum Subarrays\bin\Debug\net8.0\B. Minimize Equal Sum Subarrays.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Minimize Equal Sum Subarrays\bin\Debug\net8.0\B. Minimize Equal Sum Subarrays.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Minimize Equal Sum Subarrays\obj\Debug\net8.0\B. Minimize Equal Sum Subarrays.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Minimize Equal Sum Subarrays\obj\Debug\net8.0\B. Minimize Equal Sum Subarrays.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Minimize Equal Sum Subarrays\obj\Debug\net8.0\B. Minimize Equal Sum Subarrays.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Minimize Equal Sum Subarrays\obj\Debug\net8.0\B. Minimize Equal Sum Subarrays.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Minimize Equal Sum Subarrays\obj\Debug\net8.0\B. Minimize Equal Sum Subarrays.sourcelink.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Minimize Equal Sum Subarrays\obj\Debug\net8.0\B. Minimize Equal Sum Subarrays.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Minimize Equal Sum Subarrays\obj\Debug\net8.0\refint\B. Minimize Equal Sum Subarrays.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Minimize Equal Sum Subarrays\obj\Debug\net8.0\B. Minimize Equal Sum Subarrays.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Minimize Equal Sum Subarrays\obj\Debug\net8.0\B. Minimize Equal Sum Subarrays.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Minimize Equal Sum Subarrays\obj\Debug\net8.0\ref\B. Minimize Equal Sum Subarrays.dll

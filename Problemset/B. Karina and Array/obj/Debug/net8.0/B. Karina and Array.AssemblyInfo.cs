@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("B. Karina and Array")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+da78435d064a263311f216e9a5cdbb13d8da9496")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ed9c9f45f59f1c995b3a4192ec4acc5ac035ede0")]
 [assembly: System.Reflection.AssemblyProductAttribute("B. Karina and Array")]
 [assembly: System.Reflection.AssemblyTitleAttribute("B. Karina and Array")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

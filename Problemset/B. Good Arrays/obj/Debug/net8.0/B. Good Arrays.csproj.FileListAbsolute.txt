@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Good Arrays\bin\Debug\net8.0\B. Good Arrays.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Good Arrays\bin\Debug\net8.0\B. Good Arrays.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Good Arrays\bin\Debug\net8.0\B. Good Arrays.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Good Arrays\bin\Debug\net8.0\B. Good Arrays.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Good Arrays\bin\Debug\net8.0\B. Good Arrays.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Good Arrays\obj\Debug\net8.0\B. Good Arrays.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Good Arrays\obj\Debug\net8.0\B. Good Arrays.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Good Arrays\obj\Debug\net8.0\B. Good Arrays.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Good Arrays\obj\Debug\net8.0\B. Good Arrays.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Good Arrays\obj\Debug\net8.0\B. Good Arrays.sourcelink.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Good Arrays\obj\Debug\net8.0\B. Good Arrays.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Good Arrays\obj\Debug\net8.0\refint\B. Good Arrays.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Good Arrays\obj\Debug\net8.0\B. Good Arrays.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Good Arrays\obj\Debug\net8.0\B. Good Arrays.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Good Arrays\obj\Debug\net8.0\ref\B. Good Arrays.dll

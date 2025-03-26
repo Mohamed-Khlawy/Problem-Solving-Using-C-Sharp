@@ -809,6 +809,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A. A Gift From Orangutan", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "B. Shoe Shuffling", "B. Shoe Shuffling\B. Shoe Shuffling.csproj", "{5B1DD453-F4F5-40F7-942A-FA3727C7965B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "B. Minimize Equal Sum Subarrays", "B. Minimize Equal Sum Subarrays\B. Minimize Equal Sum Subarrays.csproj", "{A578685D-5AD9-4435-B944-BFAD018F5E32}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "B. Good Arrays", "B. Good Arrays\B. Good Arrays.csproj", "{5C121DAD-C188-41EE-B0E5-FBB28AEC5B56}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -2427,6 +2431,14 @@ Global
 		{5B1DD453-F4F5-40F7-942A-FA3727C7965B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5B1DD453-F4F5-40F7-942A-FA3727C7965B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5B1DD453-F4F5-40F7-942A-FA3727C7965B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A578685D-5AD9-4435-B944-BFAD018F5E32}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A578685D-5AD9-4435-B944-BFAD018F5E32}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A578685D-5AD9-4435-B944-BFAD018F5E32}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A578685D-5AD9-4435-B944-BFAD018F5E32}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5C121DAD-C188-41EE-B0E5-FBB28AEC5B56}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C121DAD-C188-41EE-B0E5-FBB28AEC5B56}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C121DAD-C188-41EE-B0E5-FBB28AEC5B56}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C121DAD-C188-41EE-B0E5-FBB28AEC5B56}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -798,3 +798,7 @@ A. A Gift From Orangutan ==> https://codeforces.com/problemset/problem/2030/A
 
  B. Shoe Shuffling ==> https://codeforces.com/problemset/problem/1691/B
 
+B. Minimize Equal Sum Subarrays ==> https://codeforces.com/problemset/problem/1998/B
+
+B. Good Arrays ==> https://codeforces.com/problemset/problem/1856/B
+
