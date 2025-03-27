@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Consecutive Sum Riddle\bin\Debug\net8.0\A. Consecutive Sum Riddle.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Consecutive Sum Riddle\bin\Debug\net8.0\A. Consecutive Sum Riddle.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Consecutive Sum Riddle\bin\Debug\net8.0\A. Consecutive Sum Riddle.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Consecutive Sum Riddle\bin\Debug\net8.0\A. Consecutive Sum Riddle.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Consecutive Sum Riddle\bin\Debug\net8.0\A. Consecutive Sum Riddle.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Consecutive Sum Riddle\obj\Debug\net8.0\A. Consecutive Sum Riddle.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Consecutive Sum Riddle\obj\Debug\net8.0\A. Consecutive Sum Riddle.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Consecutive Sum Riddle\obj\Debug\net8.0\A. Consecutive Sum Riddle.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Consecutive Sum Riddle\obj\Debug\net8.0\A. Consecutive Sum Riddle.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Consecutive Sum Riddle\obj\Debug\net8.0\A. Consecutive Sum Riddle.sourcelink.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Consecutive Sum Riddle\obj\Debug\net8.0\A. Consecutive Sum Riddle.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Consecutive Sum Riddle\obj\Debug\net8.0\refint\A. Consecutive Sum Riddle.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Consecutive Sum Riddle\obj\Debug\net8.0\A. Consecutive Sum Riddle.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Consecutive Sum Riddle\obj\Debug\net8.0\A. Consecutive Sum Riddle.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Consecutive Sum Riddle\obj\Debug\net8.0\ref\A. Consecutive Sum Riddle.dll

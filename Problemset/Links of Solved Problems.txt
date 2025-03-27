@@ -802,3 +802,9 @@ B. Minimize Equal Sum Subarrays ==> https://codeforces.com/problemset/problem/19
 
 B. Good Arrays ==> https://codeforces.com/problemset/problem/1856/B
 
+A. Prime Subtraction ==> https://codeforces.com/problemset/problem/1238/A
+
+A. Consecutive Sum Riddle ==> https://codeforces.com/problemset/problem/1594/A
+
+A. Towers ==> https://codeforces.com/problemset/problem/37/A
+

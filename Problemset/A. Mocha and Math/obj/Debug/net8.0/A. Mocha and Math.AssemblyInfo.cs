@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("A. Mocha and Math")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ed9c9f45f59f1c995b3a4192ec4acc5ac035ede0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+59e247692bed2f3d324168b04db0a5e197f31da5")]
 [assembly: System.Reflection.AssemblyProductAttribute("A. Mocha and Math")]
 [assembly: System.Reflection.AssemblyTitleAttribute("A. Mocha and Math")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

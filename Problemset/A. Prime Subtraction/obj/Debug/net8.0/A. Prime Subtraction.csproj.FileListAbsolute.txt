@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Prime Subtraction\bin\Debug\net8.0\A. Prime Subtraction.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Prime Subtraction\bin\Debug\net8.0\A. Prime Subtraction.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Prime Subtraction\bin\Debug\net8.0\A. Prime Subtraction.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Prime Subtraction\bin\Debug\net8.0\A. Prime Subtraction.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Prime Subtraction\bin\Debug\net8.0\A. Prime Subtraction.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Prime Subtraction\obj\Debug\net8.0\A. Prime Subtraction.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Prime Subtraction\obj\Debug\net8.0\A. Prime Subtraction.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Prime Subtraction\obj\Debug\net8.0\A. Prime Subtraction.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Prime Subtraction\obj\Debug\net8.0\A. Prime Subtraction.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Prime Subtraction\obj\Debug\net8.0\A. Prime Subtraction.sourcelink.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Prime Subtraction\obj\Debug\net8.0\A. Prime Subtraction.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Prime Subtraction\obj\Debug\net8.0\refint\A. Prime Subtraction.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Prime Subtraction\obj\Debug\net8.0\A. Prime Subtraction.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Prime Subtraction\obj\Debug\net8.0\A. Prime Subtraction.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Prime Subtraction\obj\Debug\net8.0\ref\A. Prime Subtraction.dll
