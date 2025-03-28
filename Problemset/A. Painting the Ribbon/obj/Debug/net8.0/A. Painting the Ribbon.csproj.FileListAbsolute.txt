@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Painting the Ribbon\bin\Debug\net8.0\A. Painting the Ribbon.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Painting the Ribbon\bin\Debug\net8.0\A. Painting the Ribbon.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Painting the Ribbon\bin\Debug\net8.0\A. Painting the Ribbon.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Painting the Ribbon\bin\Debug\net8.0\A. Painting the Ribbon.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Painting the Ribbon\bin\Debug\net8.0\A. Painting the Ribbon.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Painting the Ribbon\obj\Debug\net8.0\A. Painting the Ribbon.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Painting the Ribbon\obj\Debug\net8.0\A. Painting the Ribbon.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Painting the Ribbon\obj\Debug\net8.0\A. Painting the Ribbon.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Painting the Ribbon\obj\Debug\net8.0\A. Painting the Ribbon.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Painting the Ribbon\obj\Debug\net8.0\A. Painting the Ribbon.sourcelink.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Painting the Ribbon\obj\Debug\net8.0\A. Painting the Ribbon.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Painting the Ribbon\obj\Debug\net8.0\refint\A. Painting the Ribbon.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Painting the Ribbon\obj\Debug\net8.0\A. Painting the Ribbon.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Painting the Ribbon\obj\Debug\net8.0\A. Painting the Ribbon.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Painting the Ribbon\obj\Debug\net8.0\ref\A. Painting the Ribbon.dll

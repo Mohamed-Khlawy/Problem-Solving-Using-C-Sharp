@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("A. Setting up Camp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ee7ddbd172b5bd19c9a17fa620912933598a8e1a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f9bcbe18553a433498a794f46c0e399bee1a31be")]
 [assembly: System.Reflection.AssemblyProductAttribute("A. Setting up Camp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("A. Setting up Camp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. MEX Table\bin\Debug\net8.0\A. MEX Table.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. MEX Table\bin\Debug\net8.0\A. MEX Table.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. MEX Table\bin\Debug\net8.0\A. MEX Table.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. MEX Table\bin\Debug\net8.0\A. MEX Table.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. MEX Table\bin\Debug\net8.0\A. MEX Table.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. MEX Table\obj\Debug\net8.0\A. MEX Table.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. MEX Table\obj\Debug\net8.0\A. MEX Table.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. MEX Table\obj\Debug\net8.0\A. MEX Table.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. MEX Table\obj\Debug\net8.0\A. MEX Table.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. MEX Table\obj\Debug\net8.0\A. MEX Table.sourcelink.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. MEX Table\obj\Debug\net8.0\A. MEX Table.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. MEX Table\obj\Debug\net8.0\refint\A. MEX Table.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. MEX Table\obj\Debug\net8.0\A. MEX Table.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. MEX Table\obj\Debug\net8.0\A. MEX Table.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. MEX Table\obj\Debug\net8.0\ref\A. MEX Table.dll

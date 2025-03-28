@@ -808,3 +808,7 @@ A. Consecutive Sum Riddle ==> https://codeforces.com/problemset/problem/1594/A
 
 A. Towers ==> https://codeforces.com/problemset/problem/37/A
 
+A. MEX Table ==> https://codeforces.com/problemset/problem/2057/A
+
+A. Painting the Ribbon ==> https://codeforces.com/problemset/problem/1954/A
+
