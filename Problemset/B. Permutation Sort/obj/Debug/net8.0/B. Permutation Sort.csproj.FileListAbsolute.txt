@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Permutation Sort\bin\Debug\net8.0\B. Permutation Sort.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Permutation Sort\bin\Debug\net8.0\B. Permutation Sort.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Permutation Sort\bin\Debug\net8.0\B. Permutation Sort.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Permutation Sort\bin\Debug\net8.0\B. Permutation Sort.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Permutation Sort\bin\Debug\net8.0\B. Permutation Sort.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Permutation Sort\obj\Debug\net8.0\B. Permutation Sort.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Permutation Sort\obj\Debug\net8.0\B. Permutation Sort.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Permutation Sort\obj\Debug\net8.0\B. Permutation Sort.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Permutation Sort\obj\Debug\net8.0\B. Permutation Sort.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Permutation Sort\obj\Debug\net8.0\B. Permutation Sort.sourcelink.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Permutation Sort\obj\Debug\net8.0\B. Permutation Sort.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Permutation Sort\obj\Debug\net8.0\refint\B. Permutation Sort.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Permutation Sort\obj\Debug\net8.0\B. Permutation Sort.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Permutation Sort\obj\Debug\net8.0\B. Permutation Sort.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Permutation Sort\obj\Debug\net8.0\ref\B. Permutation Sort.dll

@@ -812,3 +812,5 @@ A. MEX Table ==> https://codeforces.com/problemset/problem/2057/A
 
 A. Painting the Ribbon ==> https://codeforces.com/problemset/problem/1954/A
 
+B. Permutation Sort ==> https://codeforces.com/problemset/problem/1525/B
+
