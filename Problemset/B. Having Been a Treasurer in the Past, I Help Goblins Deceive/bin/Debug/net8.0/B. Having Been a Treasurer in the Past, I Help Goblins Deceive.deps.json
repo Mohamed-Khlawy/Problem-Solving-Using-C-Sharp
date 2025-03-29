@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "B. Having Been a Treasurer in the Past, I Help Goblins Deceive/1.0.0": {
+        "runtime": {
+          "B. Having Been a Treasurer in the Past, I Help Goblins Deceive.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "B. Having Been a Treasurer in the Past, I Help Goblins Deceive/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

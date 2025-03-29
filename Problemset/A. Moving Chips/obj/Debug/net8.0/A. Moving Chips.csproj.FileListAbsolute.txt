@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Moving Chips\bin\Debug\net8.0\A. Moving Chips.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Moving Chips\bin\Debug\net8.0\A. Moving Chips.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Moving Chips\bin\Debug\net8.0\A. Moving Chips.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Moving Chips\bin\Debug\net8.0\A. Moving Chips.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Moving Chips\bin\Debug\net8.0\A. Moving Chips.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Moving Chips\obj\Debug\net8.0\A. Moving Chips.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Moving Chips\obj\Debug\net8.0\A. Moving Chips.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Moving Chips\obj\Debug\net8.0\A. Moving Chips.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Moving Chips\obj\Debug\net8.0\A. Moving Chips.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Moving Chips\obj\Debug\net8.0\A. Moving Chips.sourcelink.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Moving Chips\obj\Debug\net8.0\A. Moving Chips.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Moving Chips\obj\Debug\net8.0\refint\A. Moving Chips.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Moving Chips\obj\Debug\net8.0\A. Moving Chips.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Moving Chips\obj\Debug\net8.0\A. Moving Chips.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Moving Chips\obj\Debug\net8.0\ref\A. Moving Chips.dll

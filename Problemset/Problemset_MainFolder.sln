@@ -825,6 +825,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A. Painting the Ribbon", "A
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "B. Permutation Sort", "B. Permutation Sort\B. Permutation Sort.csproj", "{72100362-B905-444E-8167-BA4680CD8726}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A. Moving Chips", "A. Moving Chips\A. Moving Chips.csproj", "{B32D7E0F-ADA4-4BA4-A4D1-F40FDD3C4DCD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "B. Having Been a Treasurer in the Past, I Help Goblins Deceive", "B. Having Been a Treasurer in the Past, I Help Goblins Deceive\B. Having Been a Treasurer in the Past, I Help Goblins Deceive.csproj", "{F3B1D6DE-875D-494E-9851-9A5881BA6E72}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -2475,6 +2479,14 @@ Global
 		{72100362-B905-444E-8167-BA4680CD8726}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{72100362-B905-444E-8167-BA4680CD8726}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{72100362-B905-444E-8167-BA4680CD8726}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B32D7E0F-ADA4-4BA4-A4D1-F40FDD3C4DCD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B32D7E0F-ADA4-4BA4-A4D1-F40FDD3C4DCD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B32D7E0F-ADA4-4BA4-A4D1-F40FDD3C4DCD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B32D7E0F-ADA4-4BA4-A4D1-F40FDD3C4DCD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F3B1D6DE-875D-494E-9851-9A5881BA6E72}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3B1D6DE-875D-494E-9851-9A5881BA6E72}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3B1D6DE-875D-494E-9851-9A5881BA6E72}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3B1D6DE-875D-494E-9851-9A5881BA6E72}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

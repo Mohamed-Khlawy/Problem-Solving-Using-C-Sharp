@@ -814,3 +814,7 @@ A. Painting the Ribbon ==> https://codeforces.com/problemset/problem/1954/A
 
 B. Permutation Sort ==> https://codeforces.com/problemset/problem/1525/B
 
+A. Moving Chips ==> https://codeforces.com/problemset/problem/1923/A
+
+B. Having Been a Treasurer in the Past, I Help Goblins Deceive ==> https://codeforces.com/problemset/problem/2072/B
+
