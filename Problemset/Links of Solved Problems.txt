@@ -820,3 +820,9 @@ B. Having Been a Treasurer in the Past, I Help Goblins Deceive ==> https://codef
 
 B. Love Song ==> https://codeforces.com/problemset/problem/1539/B
 
+A. Buying Torches ==> https://codeforces.com/problemset/problem/1418/A
+
+A. Space Navigation ==> https://codeforces.com/problemset/problem/1481/A
+
+A. Game with Board ==> https://codeforces.com/problemset/problem/1841/A
+

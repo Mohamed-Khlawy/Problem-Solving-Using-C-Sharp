@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Space Navigation\bin\Debug\net8.0\A. Space Navigation.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Space Navigation\bin\Debug\net8.0\A. Space Navigation.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Space Navigation\bin\Debug\net8.0\A. Space Navigation.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Space Navigation\bin\Debug\net8.0\A. Space Navigation.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Space Navigation\bin\Debug\net8.0\A. Space Navigation.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Space Navigation\obj\Debug\net8.0\A. Space Navigation.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Space Navigation\obj\Debug\net8.0\A. Space Navigation.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Space Navigation\obj\Debug\net8.0\A. Space Navigation.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Space Navigation\obj\Debug\net8.0\A. Space Navigation.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Space Navigation\obj\Debug\net8.0\A. Space Navigation.sourcelink.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Space Navigation\obj\Debug\net8.0\A. Space Navigation.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Space Navigation\obj\Debug\net8.0\refint\A. Space Navigation.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Space Navigation\obj\Debug\net8.0\A. Space Navigation.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Space Navigation\obj\Debug\net8.0\A. Space Navigation.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Space Navigation\obj\Debug\net8.0\ref\A. Space Navigation.dll

@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Buying Torches\bin\Debug\net8.0\A. Buying Torches.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Buying Torches\bin\Debug\net8.0\A. Buying Torches.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Buying Torches\bin\Debug\net8.0\A. Buying Torches.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Buying Torches\bin\Debug\net8.0\A. Buying Torches.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Buying Torches\bin\Debug\net8.0\A. Buying Torches.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Buying Torches\obj\Debug\net8.0\A. Buying Torches.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Buying Torches\obj\Debug\net8.0\A. Buying Torches.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Buying Torches\obj\Debug\net8.0\A. Buying Torches.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Buying Torches\obj\Debug\net8.0\A. Buying Torches.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Buying Torches\obj\Debug\net8.0\A. Buying Torches.sourcelink.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Buying Torches\obj\Debug\net8.0\A. Buying Torches.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Buying Torches\obj\Debug\net8.0\refint\A. Buying Torches.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Buying Torches\obj\Debug\net8.0\A. Buying Torches.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Buying Torches\obj\Debug\net8.0\A. Buying Torches.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Buying Torches\obj\Debug\net8.0\ref\A. Buying Torches.dll

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("A. Parkway Walk")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8083a4f8177c0826d067a57c98556badd99b45c1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dd630784f9f64bd43c17e1fd59bcf636cea45364")]
 [assembly: System.Reflection.AssemblyProductAttribute("A. Parkway Walk")]
 [assembly: System.Reflection.AssemblyTitleAttribute("A. Parkway Walk")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
