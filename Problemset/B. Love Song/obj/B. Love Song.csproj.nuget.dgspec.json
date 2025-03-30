@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "G:\\Problem Solving\\Problem-Solving-Using-C-Sharp\\Problemset\\using System.Data.Common;\\using System.Data.Common;.csproj": {}
+    "G:\\Problem Solving\\Problem-Solving-Using-C-Sharp\\Problemset\\B. Love Song\\B. Love Song.csproj": {}
   },
   "projects": {
-    "G:\\Problem Solving\\Problem-Solving-Using-C-Sharp\\Problemset\\using System.Data.Common;\\using System.Data.Common;.csproj": {
+    "G:\\Problem Solving\\Problem-Solving-Using-C-Sharp\\Problemset\\B. Love Song\\B. Love Song.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\Problem Solving\\Problem-Solving-Using-C-Sharp\\Problemset\\using System.Data.Common;\\using System.Data.Common;.csproj",
-        "projectName": "using System.Data.Common;",
-        "projectPath": "G:\\Problem Solving\\Problem-Solving-Using-C-Sharp\\Problemset\\using System.Data.Common;\\using System.Data.Common;.csproj",
+        "projectUniqueName": "G:\\Problem Solving\\Problem-Solving-Using-C-Sharp\\Problemset\\B. Love Song\\B. Love Song.csproj",
+        "projectName": "B. Love Song",
+        "projectPath": "G:\\Problem Solving\\Problem-Solving-Using-C-Sharp\\Problemset\\B. Love Song\\B. Love Song.csproj",
         "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-        "outputPath": "G:\\Problem Solving\\Problem-Solving-Using-C-Sharp\\Problemset\\using System.Data.Common;\\obj\\",
+        "outputPath": "G:\\Problem Solving\\Problem-Solving-Using-C-Sharp\\Problemset\\B. Love Song\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

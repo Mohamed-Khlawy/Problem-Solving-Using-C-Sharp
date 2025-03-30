@@ -818,3 +818,5 @@ A. Moving Chips ==> https://codeforces.com/problemset/problem/1923/A
 
 B. Having Been a Treasurer in the Past, I Help Goblins Deceive ==> https://codeforces.com/problemset/problem/2072/B
 
+B. Love Song ==> https://codeforces.com/problemset/problem/1539/B
+

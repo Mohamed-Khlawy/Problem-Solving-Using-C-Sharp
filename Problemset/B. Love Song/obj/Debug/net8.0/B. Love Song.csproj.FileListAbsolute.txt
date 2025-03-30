@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Love Song\bin\Debug\net8.0\B. Love Song.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Love Song\bin\Debug\net8.0\B. Love Song.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Love Song\bin\Debug\net8.0\B. Love Song.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Love Song\bin\Debug\net8.0\B. Love Song.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Love Song\bin\Debug\net8.0\B. Love Song.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Love Song\obj\Debug\net8.0\B. Love Song.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Love Song\obj\Debug\net8.0\B. Love Song.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Love Song\obj\Debug\net8.0\B. Love Song.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Love Song\obj\Debug\net8.0\B. Love Song.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Love Song\obj\Debug\net8.0\B. Love Song.sourcelink.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Love Song\obj\Debug\net8.0\B. Love Song.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Love Song\obj\Debug\net8.0\refint\B. Love Song.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Love Song\obj\Debug\net8.0\B. Love Song.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Love Song\obj\Debug\net8.0\B. Love Song.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Love Song\obj\Debug\net8.0\ref\B. Love Song.dll

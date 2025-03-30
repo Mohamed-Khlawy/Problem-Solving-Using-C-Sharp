@@ -829,6 +829,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A. Moving Chips", "A. Movin
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "B. Having Been a Treasurer in the Past, I Help Goblins Deceive", "B. Having Been a Treasurer in the Past, I Help Goblins Deceive\B. Having Been a Treasurer in the Past, I Help Goblins Deceive.csproj", "{F3B1D6DE-875D-494E-9851-9A5881BA6E72}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "B. Love Song", "B. Love Song\B. Love Song.csproj", "{06B557CF-B79D-4EE4-9C91-E1AAACBF48B3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -2487,6 +2489,10 @@ Global
 		{F3B1D6DE-875D-494E-9851-9A5881BA6E72}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F3B1D6DE-875D-494E-9851-9A5881BA6E72}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F3B1D6DE-875D-494E-9851-9A5881BA6E72}.Release|Any CPU.Build.0 = Release|Any CPU
+		{06B557CF-B79D-4EE4-9C91-E1AAACBF48B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06B557CF-B79D-4EE4-9C91-E1AAACBF48B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06B557CF-B79D-4EE4-9C91-E1AAACBF48B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06B557CF-B79D-4EE4-9C91-E1AAACBF48B3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
