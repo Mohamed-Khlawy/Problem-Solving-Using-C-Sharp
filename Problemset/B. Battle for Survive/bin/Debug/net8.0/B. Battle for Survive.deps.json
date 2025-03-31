@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "B. Battle for Survive/1.0.0": {
+        "runtime": {
+          "B. Battle for Survive.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "B. Battle for Survive/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

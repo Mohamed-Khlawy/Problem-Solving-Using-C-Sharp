@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Battle for Survive\bin\Debug\net8.0\B. Battle for Survive.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Battle for Survive\bin\Debug\net8.0\B. Battle for Survive.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Battle for Survive\bin\Debug\net8.0\B. Battle for Survive.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Battle for Survive\bin\Debug\net8.0\B. Battle for Survive.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Battle for Survive\bin\Debug\net8.0\B. Battle for Survive.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Battle for Survive\obj\Debug\net8.0\B. Battle for Survive.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Battle for Survive\obj\Debug\net8.0\B. Battle for Survive.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Battle for Survive\obj\Debug\net8.0\B. Battle for Survive.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Battle for Survive\obj\Debug\net8.0\B. Battle for Survive.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Battle for Survive\obj\Debug\net8.0\B. Battle for Survive.sourcelink.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Battle for Survive\obj\Debug\net8.0\B. Battle for Survive.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Battle for Survive\obj\Debug\net8.0\refint\B. Battle for Survive.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Battle for Survive\obj\Debug\net8.0\B. Battle for Survive.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Battle for Survive\obj\Debug\net8.0\B. Battle for Survive.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Battle for Survive\obj\Debug\net8.0\ref\B. Battle for Survive.dll

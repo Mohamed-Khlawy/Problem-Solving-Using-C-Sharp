@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Maria Breaks the Self-isolation\bin\Debug\net8.0\B. Maria Breaks the Self-isolation.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Maria Breaks the Self-isolation\bin\Debug\net8.0\B. Maria Breaks the Self-isolation.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Maria Breaks the Self-isolation\bin\Debug\net8.0\B. Maria Breaks the Self-isolation.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Maria Breaks the Self-isolation\bin\Debug\net8.0\B. Maria Breaks the Self-isolation.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Maria Breaks the Self-isolation\bin\Debug\net8.0\B. Maria Breaks the Self-isolation.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Maria Breaks the Self-isolation\obj\Debug\net8.0\B. Maria Breaks the Self-isolation.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Maria Breaks the Self-isolation\obj\Debug\net8.0\B. Maria Breaks the Self-isolation.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Maria Breaks the Self-isolation\obj\Debug\net8.0\B. Maria Breaks the Self-isolation.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Maria Breaks the Self-isolation\obj\Debug\net8.0\B. Maria Breaks the Self-isolation.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Maria Breaks the Self-isolation\obj\Debug\net8.0\B. Maria Breaks the Self-isolation.sourcelink.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Maria Breaks the Self-isolation\obj\Debug\net8.0\B. Maria Breaks the Self-isolation.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Maria Breaks the Self-isolation\obj\Debug\net8.0\refint\B. Maria Breaks the Self-isolation.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Maria Breaks the Self-isolation\obj\Debug\net8.0\B. Maria Breaks the Self-isolation.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Maria Breaks the Self-isolation\obj\Debug\net8.0\B. Maria Breaks the Self-isolation.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Maria Breaks the Self-isolation\obj\Debug\net8.0\ref\B. Maria Breaks the Self-isolation.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "B. Maria Breaks the Self-isolation/1.0.0": {
+        "runtime": {
+          "B. Maria Breaks the Self-isolation.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "B. Maria Breaks the Self-isolation/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

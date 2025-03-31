@@ -826,3 +826,7 @@ A. Space Navigation ==> https://codeforces.com/problemset/problem/1481/A
 
 A. Game with Board ==> https://codeforces.com/problemset/problem/1841/A
 
+B. Battle for Survive ==> https://codeforces.com/problemset/problem/2013/B
+
+B. Maria Breaks the Self-isolation ==> https://codeforces.com/problemset/problem/1358/B
+
