@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. MEXor Mixup\bin\Debug\net8.0\B. MEXor Mixup.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. MEXor Mixup\bin\Debug\net8.0\B. MEXor Mixup.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. MEXor Mixup\bin\Debug\net8.0\B. MEXor Mixup.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. MEXor Mixup\bin\Debug\net8.0\B. MEXor Mixup.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. MEXor Mixup\bin\Debug\net8.0\B. MEXor Mixup.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. MEXor Mixup\obj\Debug\net8.0\B. MEXor Mixup.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. MEXor Mixup\obj\Debug\net8.0\B. MEXor Mixup.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. MEXor Mixup\obj\Debug\net8.0\B. MEXor Mixup.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. MEXor Mixup\obj\Debug\net8.0\B. MEXor Mixup.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. MEXor Mixup\obj\Debug\net8.0\B. MEXor Mixup.sourcelink.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. MEXor Mixup\obj\Debug\net8.0\B. MEXor Mixup.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. MEXor Mixup\obj\Debug\net8.0\refint\B. MEXor Mixup.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. MEXor Mixup\obj\Debug\net8.0\B. MEXor Mixup.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. MEXor Mixup\obj\Debug\net8.0\B. MEXor Mixup.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. MEXor Mixup\obj\Debug\net8.0\ref\B. MEXor Mixup.dll

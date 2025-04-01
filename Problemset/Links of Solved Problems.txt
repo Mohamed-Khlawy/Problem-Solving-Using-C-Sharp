@@ -830,3 +830,9 @@ B. Battle for Survive ==> https://codeforces.com/problemset/problem/2013/B
 
 B. Maria Breaks the Self-isolation ==> https://codeforces.com/problemset/problem/1358/B
 
+B. MEXor Mixup ==> https://codeforces.com/problemset/problem/1567/B
+
+A. Long Comparison ==> https://codeforces.com/problemset/problem/1613/A
+
+A. Captain Flint and Crew Recruitment ==> https://codeforces.com/problemset/problem/1388/A
+

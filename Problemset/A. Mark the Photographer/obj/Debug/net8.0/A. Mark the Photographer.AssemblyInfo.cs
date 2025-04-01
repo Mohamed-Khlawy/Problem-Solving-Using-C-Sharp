@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("A. Mark the Photographer")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+92c096a298413fc4d0180bc957295f5d889e67eb")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b1fe573e7e9a44a65427e7a76f1bbe644bcfbdf8")]
 [assembly: System.Reflection.AssemblyProductAttribute("A. Mark the Photographer")]
 [assembly: System.Reflection.AssemblyTitleAttribute("A. Mark the Photographer")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

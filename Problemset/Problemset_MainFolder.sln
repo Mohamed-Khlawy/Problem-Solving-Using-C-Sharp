@@ -841,6 +841,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "B. Battle for Survive", "B.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "B. Maria Breaks the Self-isolation", "B. Maria Breaks the Self-isolation\B. Maria Breaks the Self-isolation.csproj", "{0B990B49-0C81-4B2B-B0C9-56432BCEA06F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "B. MEXor Mixup", "B. MEXor Mixup\B. MEXor Mixup.csproj", "{51876055-3FD5-4BC1-8012-BAD7D81C2FFB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A. Captain Flint and Crew Recruitment", "A. Captain Flint and Crew Recruitment\A. Captain Flint and Crew Recruitment.csproj", "{7CE7E6C0-A552-48A8-BA14-A43F41B354B0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -2523,6 +2527,14 @@ Global
 		{0B990B49-0C81-4B2B-B0C9-56432BCEA06F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0B990B49-0C81-4B2B-B0C9-56432BCEA06F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0B990B49-0C81-4B2B-B0C9-56432BCEA06F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{51876055-3FD5-4BC1-8012-BAD7D81C2FFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51876055-3FD5-4BC1-8012-BAD7D81C2FFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51876055-3FD5-4BC1-8012-BAD7D81C2FFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51876055-3FD5-4BC1-8012-BAD7D81C2FFB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7CE7E6C0-A552-48A8-BA14-A43F41B354B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7CE7E6C0-A552-48A8-BA14-A43F41B354B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7CE7E6C0-A552-48A8-BA14-A43F41B354B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7CE7E6C0-A552-48A8-BA14-A43F41B354B0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Captain Flint and Crew Recruitment\bin\Debug\net8.0\A. Captain Flint and Crew Recruitment.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Captain Flint and Crew Recruitment\bin\Debug\net8.0\A. Captain Flint and Crew Recruitment.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Captain Flint and Crew Recruitment\bin\Debug\net8.0\A. Captain Flint and Crew Recruitment.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Captain Flint and Crew Recruitment\bin\Debug\net8.0\A. Captain Flint and Crew Recruitment.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Captain Flint and Crew Recruitment\bin\Debug\net8.0\A. Captain Flint and Crew Recruitment.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Captain Flint and Crew Recruitment\obj\Debug\net8.0\A. Captain Flint and Crew Recruitment.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Captain Flint and Crew Recruitment\obj\Debug\net8.0\A. Captain Flint and Crew Recruitment.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Captain Flint and Crew Recruitment\obj\Debug\net8.0\A. Captain Flint and Crew Recruitment.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Captain Flint and Crew Recruitment\obj\Debug\net8.0\A. Captain Flint and Crew Recruitment.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Captain Flint and Crew Recruitment\obj\Debug\net8.0\A. Captain Flint and Crew Recruitment.sourcelink.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Captain Flint and Crew Recruitment\obj\Debug\net8.0\A. Captain Flint and Crew Recruitment.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Captain Flint and Crew Recruitment\obj\Debug\net8.0\refint\A. Captain Flint and Crew Recruitment.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Captain Flint and Crew Recruitment\obj\Debug\net8.0\A. Captain Flint and Crew Recruitment.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Captain Flint and Crew Recruitment\obj\Debug\net8.0\A. Captain Flint and Crew Recruitment.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Captain Flint and Crew Recruitment\obj\Debug\net8.0\ref\A. Captain Flint and Crew Recruitment.dll
