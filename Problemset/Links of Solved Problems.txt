@@ -836,3 +836,7 @@ A. Long Comparison ==> https://codeforces.com/problemset/problem/1613/A
 
 A. Captain Flint and Crew Recruitment ==> https://codeforces.com/problemset/problem/1388/A
 
+A. Integer Sequence Dividing ==> https://codeforces.com/problemset/problem/1102/A
+
+A. Diagonals ==> https://codeforces.com/problemset/problem/1995/A
+

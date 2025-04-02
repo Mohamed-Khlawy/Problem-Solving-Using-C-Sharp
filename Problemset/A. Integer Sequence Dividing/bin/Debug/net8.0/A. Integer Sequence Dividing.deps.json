@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "A. Integer Sequence Dividing/1.0.0": {
+        "runtime": {
+          "A. Integer Sequence Dividing.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "A. Integer Sequence Dividing/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

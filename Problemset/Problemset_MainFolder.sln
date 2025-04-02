@@ -845,6 +845,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "B. MEXor Mixup", "B. MEXor 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A. Captain Flint and Crew Recruitment", "A. Captain Flint and Crew Recruitment\A. Captain Flint and Crew Recruitment.csproj", "{7CE7E6C0-A552-48A8-BA14-A43F41B354B0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A. Integer Sequence Dividing", "A. Integer Sequence Dividing\A. Integer Sequence Dividing.csproj", "{B469BB80-4C33-49B0-910F-6C299910A008}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A. Diagonals", "A. Diagonals\A. Diagonals.csproj", "{56493C44-5A51-4A60-A4D5-1D25E1F0BE2B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -2535,6 +2539,14 @@ Global
 		{7CE7E6C0-A552-48A8-BA14-A43F41B354B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7CE7E6C0-A552-48A8-BA14-A43F41B354B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7CE7E6C0-A552-48A8-BA14-A43F41B354B0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B469BB80-4C33-49B0-910F-6C299910A008}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B469BB80-4C33-49B0-910F-6C299910A008}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B469BB80-4C33-49B0-910F-6C299910A008}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B469BB80-4C33-49B0-910F-6C299910A008}.Release|Any CPU.Build.0 = Release|Any CPU
+		{56493C44-5A51-4A60-A4D5-1D25E1F0BE2B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56493C44-5A51-4A60-A4D5-1D25E1F0BE2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56493C44-5A51-4A60-A4D5-1D25E1F0BE2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56493C44-5A51-4A60-A4D5-1D25E1F0BE2B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
