@@ -840,3 +840,7 @@ A. Integer Sequence Dividing ==> https://codeforces.com/problemset/problem/1102/
 
 A. Diagonals ==> https://codeforces.com/problemset/problem/1995/A
 
+A. Destroying Bridges ==> https://codeforces.com/problemset/problem/1944/A
+
+B. Gregor and the Pawn Game ==> https://codeforces.com/problemset/problem/1549/B
+

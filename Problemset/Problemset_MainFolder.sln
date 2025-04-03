@@ -849,6 +849,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A. Integer Sequence Dividin
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A. Diagonals", "A. Diagonals\A. Diagonals.csproj", "{56493C44-5A51-4A60-A4D5-1D25E1F0BE2B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A. Destroying Bridges", "A. Destroying Bridges\A. Destroying Bridges.csproj", "{B46DAD16-9633-4CD7-972B-2585BEED1D92}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "B. Gregor and the Pawn Game", "B. Gregor and the Pawn Game\B. Gregor and the Pawn Game.csproj", "{F16057A9-E18F-480A-9041-DBE2FDCDA946}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -2547,6 +2551,14 @@ Global
 		{56493C44-5A51-4A60-A4D5-1D25E1F0BE2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{56493C44-5A51-4A60-A4D5-1D25E1F0BE2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{56493C44-5A51-4A60-A4D5-1D25E1F0BE2B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B46DAD16-9633-4CD7-972B-2585BEED1D92}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B46DAD16-9633-4CD7-972B-2585BEED1D92}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B46DAD16-9633-4CD7-972B-2585BEED1D92}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B46DAD16-9633-4CD7-972B-2585BEED1D92}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F16057A9-E18F-480A-9041-DBE2FDCDA946}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F16057A9-E18F-480A-9041-DBE2FDCDA946}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F16057A9-E18F-480A-9041-DBE2FDCDA946}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F16057A9-E18F-480A-9041-DBE2FDCDA946}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Destroying Bridges\bin\Debug\net8.0\A. Destroying Bridges.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Destroying Bridges\bin\Debug\net8.0\A. Destroying Bridges.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Destroying Bridges\bin\Debug\net8.0\A. Destroying Bridges.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Destroying Bridges\bin\Debug\net8.0\A. Destroying Bridges.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Destroying Bridges\bin\Debug\net8.0\A. Destroying Bridges.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Destroying Bridges\obj\Debug\net8.0\A. Destroying Bridges.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Destroying Bridges\obj\Debug\net8.0\A. Destroying Bridges.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Destroying Bridges\obj\Debug\net8.0\A. Destroying Bridges.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Destroying Bridges\obj\Debug\net8.0\A. Destroying Bridges.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Destroying Bridges\obj\Debug\net8.0\A. Destroying Bridges.sourcelink.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Destroying Bridges\obj\Debug\net8.0\A. Destroying Bridges.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Destroying Bridges\obj\Debug\net8.0\refint\A. Destroying Bridges.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Destroying Bridges\obj\Debug\net8.0\A. Destroying Bridges.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Destroying Bridges\obj\Debug\net8.0\A. Destroying Bridges.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Destroying Bridges\obj\Debug\net8.0\ref\A. Destroying Bridges.dll

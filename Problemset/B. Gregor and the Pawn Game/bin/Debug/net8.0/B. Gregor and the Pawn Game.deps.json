@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "B. Gregor and the Pawn Game/1.0.0": {
+        "runtime": {
+          "B. Gregor and the Pawn Game.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "B. Gregor and the Pawn Game/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
