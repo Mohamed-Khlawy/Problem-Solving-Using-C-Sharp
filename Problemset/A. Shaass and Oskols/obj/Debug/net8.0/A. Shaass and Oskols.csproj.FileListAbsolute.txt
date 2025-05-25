@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Shaass and Oskols\bin\Debug\net8.0\A. Shaass and Oskols.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Shaass and Oskols\bin\Debug\net8.0\A. Shaass and Oskols.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Shaass and Oskols\bin\Debug\net8.0\A. Shaass and Oskols.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Shaass and Oskols\bin\Debug\net8.0\A. Shaass and Oskols.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Shaass and Oskols\bin\Debug\net8.0\A. Shaass and Oskols.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Shaass and Oskols\obj\Debug\net8.0\A. Shaass and Oskols.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Shaass and Oskols\obj\Debug\net8.0\A. Shaass and Oskols.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Shaass and Oskols\obj\Debug\net8.0\A. Shaass and Oskols.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Shaass and Oskols\obj\Debug\net8.0\A. Shaass and Oskols.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Shaass and Oskols\obj\Debug\net8.0\A. Shaass and Oskols.sourcelink.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Shaass and Oskols\obj\Debug\net8.0\A. Shaass and Oskols.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Shaass and Oskols\obj\Debug\net8.0\refint\A. Shaass and Oskols.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Shaass and Oskols\obj\Debug\net8.0\A. Shaass and Oskols.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Shaass and Oskols\obj\Debug\net8.0\A. Shaass and Oskols.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Shaass and Oskols\obj\Debug\net8.0\ref\A. Shaass and Oskols.dll

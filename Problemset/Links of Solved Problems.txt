@@ -844,3 +844,7 @@ A. Destroying Bridges ==> https://codeforces.com/problemset/problem/1944/A
 
 B. Gregor and the Pawn Game ==> https://codeforces.com/problemset/problem/1549/B
 
+A. String ==> https://codeforces.com/problemset/problem/2062/A
+
+A. Shaass and Oskols ==> https://codeforces.com/problemset/problem/294/A
+

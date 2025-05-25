@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("A. Devu, the Singer and Churu, the Joker")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+af72b90d92cc9136594cd7913e42074b50669c20")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+51a052fd9bf5a96ed5a67acc42a65fce251371d5")]
 [assembly: System.Reflection.AssemblyProductAttribute("A. Devu, the Singer and Churu, the Joker")]
 [assembly: System.Reflection.AssemblyTitleAttribute("A. Devu, the Singer and Churu, the Joker")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
