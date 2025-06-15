@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Expensive Number\bin\Debug\net8.0\B. Expensive Number.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Expensive Number\bin\Debug\net8.0\B. Expensive Number.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Expensive Number\bin\Debug\net8.0\B. Expensive Number.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Expensive Number\bin\Debug\net8.0\B. Expensive Number.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Expensive Number\bin\Debug\net8.0\B. Expensive Number.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Expensive Number\obj\Debug\net8.0\B. Expensive Number.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Expensive Number\obj\Debug\net8.0\B. Expensive Number.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Expensive Number\obj\Debug\net8.0\B. Expensive Number.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Expensive Number\obj\Debug\net8.0\B. Expensive Number.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Expensive Number\obj\Debug\net8.0\B. Expensive Number.sourcelink.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Expensive Number\obj\Debug\net8.0\B. Expensive Number.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Expensive Number\obj\Debug\net8.0\refint\B. Expensive Number.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Expensive Number\obj\Debug\net8.0\B. Expensive Number.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Expensive Number\obj\Debug\net8.0\B. Expensive Number.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Expensive Number\obj\Debug\net8.0\ref\B. Expensive Number.dll

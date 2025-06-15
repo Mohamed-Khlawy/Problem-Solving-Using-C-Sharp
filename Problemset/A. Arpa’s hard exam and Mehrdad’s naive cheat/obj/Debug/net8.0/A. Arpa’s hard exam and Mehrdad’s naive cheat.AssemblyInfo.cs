@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("A. Arpa’s hard exam and Mehrdad’s naive cheat")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+51a052fd9bf5a96ed5a67acc42a65fce251371d5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+59231815048e814c28f8bb40600c337a750f6bc8")]
 [assembly: System.Reflection.AssemblyProductAttribute("A. Arpa’s hard exam and Mehrdad’s naive cheat")]
 [assembly: System.Reflection.AssemblyTitleAttribute("A. Arpa’s hard exam and Mehrdad’s naive cheat")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

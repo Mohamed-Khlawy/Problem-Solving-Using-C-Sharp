@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Choose Two Numbers\bin\Debug\net8.0\A. Choose Two Numbers.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Choose Two Numbers\bin\Debug\net8.0\A. Choose Two Numbers.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Choose Two Numbers\bin\Debug\net8.0\A. Choose Two Numbers.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Choose Two Numbers\bin\Debug\net8.0\A. Choose Two Numbers.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Choose Two Numbers\bin\Debug\net8.0\A. Choose Two Numbers.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Choose Two Numbers\obj\Debug\net8.0\A. Choose Two Numbers.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Choose Two Numbers\obj\Debug\net8.0\A. Choose Two Numbers.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Choose Two Numbers\obj\Debug\net8.0\A. Choose Two Numbers.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Choose Two Numbers\obj\Debug\net8.0\A. Choose Two Numbers.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Choose Two Numbers\obj\Debug\net8.0\A. Choose Two Numbers.sourcelink.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Choose Two Numbers\obj\Debug\net8.0\A. Choose Two Numbers.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Choose Two Numbers\obj\Debug\net8.0\refint\A. Choose Two Numbers.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Choose Two Numbers\obj\Debug\net8.0\A. Choose Two Numbers.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Choose Two Numbers\obj\Debug\net8.0\A. Choose Two Numbers.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Choose Two Numbers\obj\Debug\net8.0\ref\A. Choose Two Numbers.dll
