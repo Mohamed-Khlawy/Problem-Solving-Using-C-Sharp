@@ -854,3 +854,7 @@ A. Max Plus Size ==> https://codeforces.com/problemset/problem/2019/A
 
 A. Choose Two Numbers ==> https://codeforces.com/problemset/problem/1206/A
 
+A. Kamilka and the Sheep ==> https://codeforces.com/problemset/problem/2092/A
+
+A. Two Permutations ==> https://codeforces.com/problemset/problem/1761/A
+

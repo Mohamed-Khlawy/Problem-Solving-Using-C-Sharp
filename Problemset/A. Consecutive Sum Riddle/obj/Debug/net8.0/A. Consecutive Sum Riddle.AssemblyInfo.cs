@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("A. Consecutive Sum Riddle")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+59231815048e814c28f8bb40600c337a750f6bc8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+493a4d18c24e021f8716734da541983e762ced6d")]
 [assembly: System.Reflection.AssemblyProductAttribute("A. Consecutive Sum Riddle")]
 [assembly: System.Reflection.AssemblyTitleAttribute("A. Consecutive Sum Riddle")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

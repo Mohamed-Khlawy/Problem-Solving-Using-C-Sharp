@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Kamilka and the Sheep\bin\Debug\net8.0\A. Kamilka and the Sheep.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Kamilka and the Sheep\bin\Debug\net8.0\A. Kamilka and the Sheep.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Kamilka and the Sheep\bin\Debug\net8.0\A. Kamilka and the Sheep.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Kamilka and the Sheep\bin\Debug\net8.0\A. Kamilka and the Sheep.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Kamilka and the Sheep\bin\Debug\net8.0\A. Kamilka and the Sheep.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Kamilka and the Sheep\obj\Debug\net8.0\A. Kamilka and the Sheep.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Kamilka and the Sheep\obj\Debug\net8.0\A. Kamilka and the Sheep.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Kamilka and the Sheep\obj\Debug\net8.0\A. Kamilka and the Sheep.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Kamilka and the Sheep\obj\Debug\net8.0\A. Kamilka and the Sheep.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Kamilka and the Sheep\obj\Debug\net8.0\A. Kamilka and the Sheep.sourcelink.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Kamilka and the Sheep\obj\Debug\net8.0\A. Kamilka and the Sheep.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Kamilka and the Sheep\obj\Debug\net8.0\refint\A. Kamilka and the Sheep.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Kamilka and the Sheep\obj\Debug\net8.0\A. Kamilka and the Sheep.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Kamilka and the Sheep\obj\Debug\net8.0\A. Kamilka and the Sheep.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Kamilka and the Sheep\obj\Debug\net8.0\ref\A. Kamilka and the Sheep.dll

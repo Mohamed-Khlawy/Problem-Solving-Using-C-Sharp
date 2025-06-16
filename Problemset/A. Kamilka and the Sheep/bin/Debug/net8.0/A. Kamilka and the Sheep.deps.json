@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "A. Kamilka and the Sheep/1.0.0": {
+        "runtime": {
+          "A. Kamilka and the Sheep.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "A. Kamilka and the Sheep/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
