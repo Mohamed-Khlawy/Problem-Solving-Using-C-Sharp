@@ -858,3 +858,7 @@ A. Kamilka and the Sheep ==> https://codeforces.com/problemset/problem/2092/A
 
 A. Two Permutations ==> https://codeforces.com/problemset/problem/1761/A
 
+A. Shape Perimeter ==> https://codeforces.com/problemset/problem/2056/A
+
+A. The Play Never Ends ==> https://codeforces.com/problemset/problem/2071/A
+

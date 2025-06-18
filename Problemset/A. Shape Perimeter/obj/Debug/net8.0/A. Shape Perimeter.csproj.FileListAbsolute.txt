@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Shape Perimeter\bin\Debug\net8.0\A. Shape Perimeter.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Shape Perimeter\bin\Debug\net8.0\A. Shape Perimeter.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Shape Perimeter\bin\Debug\net8.0\A. Shape Perimeter.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Shape Perimeter\bin\Debug\net8.0\A. Shape Perimeter.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Shape Perimeter\bin\Debug\net8.0\A. Shape Perimeter.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Shape Perimeter\obj\Debug\net8.0\A. Shape Perimeter.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Shape Perimeter\obj\Debug\net8.0\A. Shape Perimeter.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Shape Perimeter\obj\Debug\net8.0\A. Shape Perimeter.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Shape Perimeter\obj\Debug\net8.0\A. Shape Perimeter.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Shape Perimeter\obj\Debug\net8.0\A. Shape Perimeter.sourcelink.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Shape Perimeter\obj\Debug\net8.0\A. Shape Perimeter.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Shape Perimeter\obj\Debug\net8.0\refint\A. Shape Perimeter.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Shape Perimeter\obj\Debug\net8.0\A. Shape Perimeter.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Shape Perimeter\obj\Debug\net8.0\A. Shape Perimeter.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Shape Perimeter\obj\Debug\net8.0\ref\A. Shape Perimeter.dll

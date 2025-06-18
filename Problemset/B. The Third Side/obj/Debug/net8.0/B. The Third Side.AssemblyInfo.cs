@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("B. The Third Side")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+493a4d18c24e021f8716734da541983e762ced6d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+16f9d712910403336d4df7248f175c306b86256b")]
 [assembly: System.Reflection.AssemblyProductAttribute("B. The Third Side")]
 [assembly: System.Reflection.AssemblyTitleAttribute("B. The Third Side")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. The Play Never Ends\bin\Debug\net8.0\A. The Play Never Ends.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. The Play Never Ends\bin\Debug\net8.0\A. The Play Never Ends.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. The Play Never Ends\bin\Debug\net8.0\A. The Play Never Ends.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. The Play Never Ends\bin\Debug\net8.0\A. The Play Never Ends.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. The Play Never Ends\bin\Debug\net8.0\A. The Play Never Ends.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. The Play Never Ends\obj\Debug\net8.0\A. The Play Never Ends.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. The Play Never Ends\obj\Debug\net8.0\A. The Play Never Ends.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. The Play Never Ends\obj\Debug\net8.0\A. The Play Never Ends.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. The Play Never Ends\obj\Debug\net8.0\A. The Play Never Ends.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. The Play Never Ends\obj\Debug\net8.0\A. The Play Never Ends.sourcelink.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. The Play Never Ends\obj\Debug\net8.0\A. The Play Never Ends.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. The Play Never Ends\obj\Debug\net8.0\refint\A. The Play Never Ends.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. The Play Never Ends\obj\Debug\net8.0\A. The Play Never Ends.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. The Play Never Ends\obj\Debug\net8.0\A. The Play Never Ends.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. The Play Never Ends\obj\Debug\net8.0\ref\A. The Play Never Ends.dll

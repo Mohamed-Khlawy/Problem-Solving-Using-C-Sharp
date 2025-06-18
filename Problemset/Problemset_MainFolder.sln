@@ -867,6 +867,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A. Kamilka and the Sheep", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A. Two Permutations", "A. Two Permutations\A. Two Permutations.csproj", "{EFDE205C-9896-424A-AF2D-88FD54A30D5C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A. Shape Perimeter", "A. Shape Perimeter\A. Shape Perimeter.csproj", "{24608E3C-2DDC-4A40-AE25-1414C27EEE71}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A. The Play Never Ends", "A. The Play Never Ends\A. The Play Never Ends.csproj", "{EE5A7816-F847-4A3B-832C-7EDA90CDC74F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -2601,6 +2605,14 @@ Global
 		{EFDE205C-9896-424A-AF2D-88FD54A30D5C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EFDE205C-9896-424A-AF2D-88FD54A30D5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EFDE205C-9896-424A-AF2D-88FD54A30D5C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{24608E3C-2DDC-4A40-AE25-1414C27EEE71}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24608E3C-2DDC-4A40-AE25-1414C27EEE71}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24608E3C-2DDC-4A40-AE25-1414C27EEE71}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24608E3C-2DDC-4A40-AE25-1414C27EEE71}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EE5A7816-F847-4A3B-832C-7EDA90CDC74F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE5A7816-F847-4A3B-832C-7EDA90CDC74F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE5A7816-F847-4A3B-832C-7EDA90CDC74F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE5A7816-F847-4A3B-832C-7EDA90CDC74F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
