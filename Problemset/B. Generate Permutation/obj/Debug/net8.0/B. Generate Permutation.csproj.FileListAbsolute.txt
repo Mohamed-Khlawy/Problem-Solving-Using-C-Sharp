@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Generate Permutation\bin\Debug\net8.0\B. Generate Permutation.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Generate Permutation\bin\Debug\net8.0\B. Generate Permutation.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Generate Permutation\bin\Debug\net8.0\B. Generate Permutation.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Generate Permutation\bin\Debug\net8.0\B. Generate Permutation.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Generate Permutation\bin\Debug\net8.0\B. Generate Permutation.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Generate Permutation\obj\Debug\net8.0\B. Generate Permutation.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Generate Permutation\obj\Debug\net8.0\B. Generate Permutation.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Generate Permutation\obj\Debug\net8.0\B. Generate Permutation.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Generate Permutation\obj\Debug\net8.0\B. Generate Permutation.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Generate Permutation\obj\Debug\net8.0\B. Generate Permutation.sourcelink.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Generate Permutation\obj\Debug\net8.0\B. Generate Permutation.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Generate Permutation\obj\Debug\net8.0\refint\B. Generate Permutation.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Generate Permutation\obj\Debug\net8.0\B. Generate Permutation.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Generate Permutation\obj\Debug\net8.0\B. Generate Permutation.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Generate Permutation\obj\Debug\net8.0\ref\B. Generate Permutation.dll

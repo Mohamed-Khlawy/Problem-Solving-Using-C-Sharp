@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. TubeTube Feed\bin\Debug\net8.0\A. TubeTube Feed.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. TubeTube Feed\bin\Debug\net8.0\A. TubeTube Feed.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. TubeTube Feed\bin\Debug\net8.0\A. TubeTube Feed.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. TubeTube Feed\bin\Debug\net8.0\A. TubeTube Feed.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. TubeTube Feed\bin\Debug\net8.0\A. TubeTube Feed.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. TubeTube Feed\obj\Debug\net8.0\A. TubeTube Feed.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. TubeTube Feed\obj\Debug\net8.0\A. TubeTube Feed.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. TubeTube Feed\obj\Debug\net8.0\A. TubeTube Feed.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. TubeTube Feed\obj\Debug\net8.0\A. TubeTube Feed.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. TubeTube Feed\obj\Debug\net8.0\A. TubeTube Feed.sourcelink.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. TubeTube Feed\obj\Debug\net8.0\A. TubeTube Feed.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. TubeTube Feed\obj\Debug\net8.0\refint\A. TubeTube Feed.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. TubeTube Feed\obj\Debug\net8.0\A. TubeTube Feed.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. TubeTube Feed\obj\Debug\net8.0\A. TubeTube Feed.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. TubeTube Feed\obj\Debug\net8.0\ref\A. TubeTube Feed.dll

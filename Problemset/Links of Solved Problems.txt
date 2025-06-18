@@ -862,3 +862,9 @@ A. Shape Perimeter ==> https://codeforces.com/problemset/problem/2056/A
 
 A. The Play Never Ends ==> https://codeforces.com/problemset/problem/2071/A
 
+B. Generate Permutation ==> https://codeforces.com/problemset/problem/2001/B
+
+A. Subtraction Game ==> https://codeforces.com/problemset/problem/1844/A
+
+A. TubeTube Feed ==> https://codeforces.com/problemset/problem/1822/A
+

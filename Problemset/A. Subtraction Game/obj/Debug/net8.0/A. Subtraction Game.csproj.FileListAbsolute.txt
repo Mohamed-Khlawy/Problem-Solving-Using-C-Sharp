@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Subtraction Game\bin\Debug\net8.0\A. Subtraction Game.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Subtraction Game\bin\Debug\net8.0\A. Subtraction Game.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Subtraction Game\bin\Debug\net8.0\A. Subtraction Game.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Subtraction Game\bin\Debug\net8.0\A. Subtraction Game.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Subtraction Game\bin\Debug\net8.0\A. Subtraction Game.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Subtraction Game\obj\Debug\net8.0\A. Subtraction Game.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Subtraction Game\obj\Debug\net8.0\A. Subtraction Game.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Subtraction Game\obj\Debug\net8.0\A. Subtraction Game.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Subtraction Game\obj\Debug\net8.0\A. Subtraction Game.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Subtraction Game\obj\Debug\net8.0\A. Subtraction Game.sourcelink.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Subtraction Game\obj\Debug\net8.0\A. Subtraction Game.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Subtraction Game\obj\Debug\net8.0\refint\A. Subtraction Game.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Subtraction Game\obj\Debug\net8.0\A. Subtraction Game.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Subtraction Game\obj\Debug\net8.0\A. Subtraction Game.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Subtraction Game\obj\Debug\net8.0\ref\A. Subtraction Game.dll

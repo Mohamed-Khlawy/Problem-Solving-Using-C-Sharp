@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("A. Dense Array")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+16f9d712910403336d4df7248f175c306b86256b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dd09a05c75417351ee163b7602b0e9334704bc1e")]
 [assembly: System.Reflection.AssemblyProductAttribute("A. Dense Array")]
 [assembly: System.Reflection.AssemblyTitleAttribute("A. Dense Array")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
