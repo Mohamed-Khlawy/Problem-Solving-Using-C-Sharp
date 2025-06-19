@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Tanya and Stairways\bin\Debug\net8.0\A. Tanya and Stairways.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Tanya and Stairways\bin\Debug\net8.0\A. Tanya and Stairways.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Tanya and Stairways\bin\Debug\net8.0\A. Tanya and Stairways.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Tanya and Stairways\bin\Debug\net8.0\A. Tanya and Stairways.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Tanya and Stairways\bin\Debug\net8.0\A. Tanya and Stairways.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Tanya and Stairways\obj\Debug\net8.0\A. Tanya and Stairways.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Tanya and Stairways\obj\Debug\net8.0\A. Tanya and Stairways.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Tanya and Stairways\obj\Debug\net8.0\A. Tanya and Stairways.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Tanya and Stairways\obj\Debug\net8.0\A. Tanya and Stairways.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Tanya and Stairways\obj\Debug\net8.0\A. Tanya and Stairways.sourcelink.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Tanya and Stairways\obj\Debug\net8.0\A. Tanya and Stairways.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Tanya and Stairways\obj\Debug\net8.0\refint\A. Tanya and Stairways.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Tanya and Stairways\obj\Debug\net8.0\A. Tanya and Stairways.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Tanya and Stairways\obj\Debug\net8.0\A. Tanya and Stairways.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Tanya and Stairways\obj\Debug\net8.0\ref\A. Tanya and Stairways.dll

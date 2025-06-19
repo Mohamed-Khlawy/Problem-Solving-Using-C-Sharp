@@ -868,3 +868,9 @@ A. Subtraction Game ==> https://codeforces.com/problemset/problem/1844/A
 
 A. TubeTube Feed ==> https://codeforces.com/problemset/problem/1822/A
 
+A. To Zero ==> https://codeforces.com/problemset/problem/2075/A
+
+A. Coin Transformation ==> https://codeforces.com/problemset/problem/2043/A
+
+A. Tanya and Stairways ==> https://codeforces.com/problemset/problem/1005/A
+

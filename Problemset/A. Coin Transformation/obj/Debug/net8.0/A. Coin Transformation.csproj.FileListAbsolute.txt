@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Coin Transformation\bin\Debug\net8.0\A. Coin Transformation.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Coin Transformation\bin\Debug\net8.0\A. Coin Transformation.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Coin Transformation\bin\Debug\net8.0\A. Coin Transformation.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Coin Transformation\bin\Debug\net8.0\A. Coin Transformation.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Coin Transformation\bin\Debug\net8.0\A. Coin Transformation.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Coin Transformation\obj\Debug\net8.0\A. Coin Transformation.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Coin Transformation\obj\Debug\net8.0\A. Coin Transformation.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Coin Transformation\obj\Debug\net8.0\A. Coin Transformation.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Coin Transformation\obj\Debug\net8.0\A. Coin Transformation.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Coin Transformation\obj\Debug\net8.0\A. Coin Transformation.sourcelink.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Coin Transformation\obj\Debug\net8.0\A. Coin Transformation.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Coin Transformation\obj\Debug\net8.0\refint\A. Coin Transformation.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Coin Transformation\obj\Debug\net8.0\A. Coin Transformation.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Coin Transformation\obj\Debug\net8.0\A. Coin Transformation.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Coin Transformation\obj\Debug\net8.0\ref\A. Coin Transformation.dll
