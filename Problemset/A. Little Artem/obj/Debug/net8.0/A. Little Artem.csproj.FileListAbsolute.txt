@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Little Artem\bin\Debug\net8.0\A. Little Artem.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Little Artem\bin\Debug\net8.0\A. Little Artem.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Little Artem\bin\Debug\net8.0\A. Little Artem.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Little Artem\bin\Debug\net8.0\A. Little Artem.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Little Artem\bin\Debug\net8.0\A. Little Artem.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Little Artem\obj\Debug\net8.0\A. Little Artem.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Little Artem\obj\Debug\net8.0\A. Little Artem.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Little Artem\obj\Debug\net8.0\A. Little Artem.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Little Artem\obj\Debug\net8.0\A. Little Artem.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Little Artem\obj\Debug\net8.0\A. Little Artem.sourcelink.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Little Artem\obj\Debug\net8.0\A. Little Artem.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Little Artem\obj\Debug\net8.0\refint\A. Little Artem.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Little Artem\obj\Debug\net8.0\A. Little Artem.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Little Artem\obj\Debug\net8.0\A. Little Artem.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Little Artem\obj\Debug\net8.0\ref\A. Little Artem.dll

@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Treasure Chest\bin\Debug\net8.0\A. Treasure Chest.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Treasure Chest\bin\Debug\net8.0\A. Treasure Chest.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Treasure Chest\bin\Debug\net8.0\A. Treasure Chest.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Treasure Chest\bin\Debug\net8.0\A. Treasure Chest.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Treasure Chest\bin\Debug\net8.0\A. Treasure Chest.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Treasure Chest\obj\Debug\net8.0\A. Treasure Chest.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Treasure Chest\obj\Debug\net8.0\A. Treasure Chest.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Treasure Chest\obj\Debug\net8.0\A. Treasure Chest.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Treasure Chest\obj\Debug\net8.0\A. Treasure Chest.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Treasure Chest\obj\Debug\net8.0\A. Treasure Chest.sourcelink.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Treasure Chest\obj\Debug\net8.0\A. Treasure Chest.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Treasure Chest\obj\Debug\net8.0\refint\A. Treasure Chest.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Treasure Chest\obj\Debug\net8.0\A. Treasure Chest.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Treasure Chest\obj\Debug\net8.0\A. Treasure Chest.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Treasure Chest\obj\Debug\net8.0\ref\A. Treasure Chest.dll

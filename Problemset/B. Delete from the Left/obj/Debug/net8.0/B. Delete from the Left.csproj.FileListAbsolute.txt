@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Delete from the Left\bin\Debug\net8.0\B. Delete from the Left.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Delete from the Left\bin\Debug\net8.0\B. Delete from the Left.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Delete from the Left\bin\Debug\net8.0\B. Delete from the Left.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Delete from the Left\bin\Debug\net8.0\B. Delete from the Left.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Delete from the Left\bin\Debug\net8.0\B. Delete from the Left.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Delete from the Left\obj\Debug\net8.0\B. Delete from the Left.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Delete from the Left\obj\Debug\net8.0\B. Delete from the Left.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Delete from the Left\obj\Debug\net8.0\B. Delete from the Left.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Delete from the Left\obj\Debug\net8.0\B. Delete from the Left.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Delete from the Left\obj\Debug\net8.0\B. Delete from the Left.sourcelink.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Delete from the Left\obj\Debug\net8.0\B. Delete from the Left.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Delete from the Left\obj\Debug\net8.0\refint\B. Delete from the Left.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Delete from the Left\obj\Debug\net8.0\B. Delete from the Left.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Delete from the Left\obj\Debug\net8.0\B. Delete from the Left.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Delete from the Left\obj\Debug\net8.0\ref\B. Delete from the Left.dll
