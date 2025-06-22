@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("A. Compare T-Shirt Sizes")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+80506a04546098c319756f5f396695db9ea9e49e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b442ff20d5d615a55ef4b33928601117ecd13dda")]
 [assembly: System.Reflection.AssemblyProductAttribute("A. Compare T-Shirt Sizes")]
 [assembly: System.Reflection.AssemblyTitleAttribute("A. Compare T-Shirt Sizes")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

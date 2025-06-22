@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("A. Repeating Cipher")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+80506a04546098c319756f5f396695db9ea9e49e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b442ff20d5d615a55ef4b33928601117ecd13dda")]
 [assembly: System.Reflection.AssemblyProductAttribute("A. Repeating Cipher")]
 [assembly: System.Reflection.AssemblyTitleAttribute("A. Repeating Cipher")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

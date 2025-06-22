@@ -889,6 +889,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A. Little Artem", "A. Littl
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A. Treasure Chest", "A. Treasure Chest\A. Treasure Chest.csproj", "{A8491F0A-E704-4E63-B1BD-541CC47C3FD2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A. Brogramming Contest", "A. Brogramming Contest\A. Brogramming Contest.csproj", "{90C95782-CC4B-42B9-82B7-A1C950652522}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -2667,6 +2669,10 @@ Global
 		{A8491F0A-E704-4E63-B1BD-541CC47C3FD2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A8491F0A-E704-4E63-B1BD-541CC47C3FD2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A8491F0A-E704-4E63-B1BD-541CC47C3FD2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{90C95782-CC4B-42B9-82B7-A1C950652522}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90C95782-CC4B-42B9-82B7-A1C950652522}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90C95782-CC4B-42B9-82B7-A1C950652522}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90C95782-CC4B-42B9-82B7-A1C950652522}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

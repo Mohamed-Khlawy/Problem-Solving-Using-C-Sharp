@@ -880,3 +880,5 @@ A. Little Artem ==> https://codeforces.com/problemset/problem/1333/A
 
 A. Treasure Chest ==> https://codeforces.com/problemset/problem/1895/A
 
+A. Brogramming Contest ==> https://codeforces.com/problemset/problem/2064/A
+

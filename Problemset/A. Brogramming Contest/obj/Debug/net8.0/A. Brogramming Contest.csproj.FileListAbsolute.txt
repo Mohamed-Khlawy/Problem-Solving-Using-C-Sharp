@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Brogramming Contest\bin\Debug\net8.0\A. Brogramming Contest.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Brogramming Contest\bin\Debug\net8.0\A. Brogramming Contest.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Brogramming Contest\bin\Debug\net8.0\A. Brogramming Contest.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Brogramming Contest\bin\Debug\net8.0\A. Brogramming Contest.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Brogramming Contest\bin\Debug\net8.0\A. Brogramming Contest.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Brogramming Contest\obj\Debug\net8.0\A. Brogramming Contest.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Brogramming Contest\obj\Debug\net8.0\A. Brogramming Contest.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Brogramming Contest\obj\Debug\net8.0\A. Brogramming Contest.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Brogramming Contest\obj\Debug\net8.0\A. Brogramming Contest.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Brogramming Contest\obj\Debug\net8.0\A. Brogramming Contest.sourcelink.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Brogramming Contest\obj\Debug\net8.0\A. Brogramming Contest.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Brogramming Contest\obj\Debug\net8.0\refint\A. Brogramming Contest.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Brogramming Contest\obj\Debug\net8.0\A. Brogramming Contest.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Brogramming Contest\obj\Debug\net8.0\A. Brogramming Contest.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Brogramming Contest\obj\Debug\net8.0\ref\A. Brogramming Contest.dll
