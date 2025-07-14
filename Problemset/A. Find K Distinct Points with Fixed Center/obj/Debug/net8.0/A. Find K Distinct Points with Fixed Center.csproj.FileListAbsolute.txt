@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Find K Distinct Points with Fixed Center\bin\Debug\net8.0\A. Find K Distinct Points with Fixed Center.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Find K Distinct Points with Fixed Center\bin\Debug\net8.0\A. Find K Distinct Points with Fixed Center.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Find K Distinct Points with Fixed Center\bin\Debug\net8.0\A. Find K Distinct Points with Fixed Center.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Find K Distinct Points with Fixed Center\bin\Debug\net8.0\A. Find K Distinct Points with Fixed Center.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Find K Distinct Points with Fixed Center\bin\Debug\net8.0\A. Find K Distinct Points with Fixed Center.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Find K Distinct Points with Fixed Center\obj\Debug\net8.0\A. Find K Distinct Points with Fixed Center.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Find K Distinct Points with Fixed Center\obj\Debug\net8.0\A. Find K Distinct Points with Fixed Center.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Find K Distinct Points with Fixed Center\obj\Debug\net8.0\A. Find K Distinct Points with Fixed Center.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Find K Distinct Points with Fixed Center\obj\Debug\net8.0\A. Find K Distinct Points with Fixed Center.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Find K Distinct Points with Fixed Center\obj\Debug\net8.0\A. Find K Distinct Points with Fixed Center.sourcelink.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Find K Distinct Points with Fixed Center\obj\Debug\net8.0\A. Find K Distinct Points with Fixed Center.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Find K Distinct Points with Fixed Center\obj\Debug\net8.0\refint\A. Find K Distinct Points with Fixed Center.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Find K Distinct Points with Fixed Center\obj\Debug\net8.0\A. Find K Distinct Points with Fixed Center.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Find K Distinct Points with Fixed Center\obj\Debug\net8.0\A. Find K Distinct Points with Fixed Center.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Find K Distinct Points with Fixed Center\obj\Debug\net8.0\ref\A. Find K Distinct Points with Fixed Center.dll

@@ -891,6 +891,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A. Treasure Chest", "A. Tre
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A. Brogramming Contest", "A. Brogramming Contest\A. Brogramming Contest.csproj", "{90C95782-CC4B-42B9-82B7-A1C950652522}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A. Find K Distinct Points with Fixed Center", "A. Find K Distinct Points with Fixed Center\A. Find K Distinct Points with Fixed Center.csproj", "{0451A1C3-8D0F-413C-8240-7E1CDD2D275C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A. Fashionable Array", "A. Fashionable Array\A. Fashionable Array.csproj", "{8C24C461-C71A-407F-B173-D27CF86439B4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -2673,6 +2677,14 @@ Global
 		{90C95782-CC4B-42B9-82B7-A1C950652522}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{90C95782-CC4B-42B9-82B7-A1C950652522}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{90C95782-CC4B-42B9-82B7-A1C950652522}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0451A1C3-8D0F-413C-8240-7E1CDD2D275C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0451A1C3-8D0F-413C-8240-7E1CDD2D275C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0451A1C3-8D0F-413C-8240-7E1CDD2D275C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0451A1C3-8D0F-413C-8240-7E1CDD2D275C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8C24C461-C71A-407F-B173-D27CF86439B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C24C461-C71A-407F-B173-D27CF86439B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C24C461-C71A-407F-B173-D27CF86439B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C24C461-C71A-407F-B173-D27CF86439B4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
