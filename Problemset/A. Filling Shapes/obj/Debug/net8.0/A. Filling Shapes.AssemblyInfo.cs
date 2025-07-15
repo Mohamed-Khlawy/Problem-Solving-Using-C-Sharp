@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("A. Filling Shapes")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a0d0882ac9b49c96b9160f68ffcae7a8ca85b3e5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+02e4d005c17587229cbc87ccb0b555a8687c3c0c")]
 [assembly: System.Reflection.AssemblyProductAttribute("A. Filling Shapes")]
 [assembly: System.Reflection.AssemblyTitleAttribute("A. Filling Shapes")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
