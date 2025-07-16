@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Equal Subsequences\bin\Debug\net8.0\A. Equal Subsequences.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Equal Subsequences\bin\Debug\net8.0\A. Equal Subsequences.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Equal Subsequences\bin\Debug\net8.0\A. Equal Subsequences.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Equal Subsequences\bin\Debug\net8.0\A. Equal Subsequences.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Equal Subsequences\bin\Debug\net8.0\A. Equal Subsequences.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Equal Subsequences\obj\Debug\net8.0\A. Equal Subsequences.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Equal Subsequences\obj\Debug\net8.0\A. Equal Subsequences.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Equal Subsequences\obj\Debug\net8.0\A. Equal Subsequences.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Equal Subsequences\obj\Debug\net8.0\A. Equal Subsequences.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Equal Subsequences\obj\Debug\net8.0\A. Equal Subsequences.sourcelink.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Equal Subsequences\obj\Debug\net8.0\A. Equal Subsequences.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Equal Subsequences\obj\Debug\net8.0\refint\A. Equal Subsequences.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Equal Subsequences\obj\Debug\net8.0\A. Equal Subsequences.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Equal Subsequences\obj\Debug\net8.0\A. Equal Subsequences.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Equal Subsequences\obj\Debug\net8.0\ref\A. Equal Subsequences.dll

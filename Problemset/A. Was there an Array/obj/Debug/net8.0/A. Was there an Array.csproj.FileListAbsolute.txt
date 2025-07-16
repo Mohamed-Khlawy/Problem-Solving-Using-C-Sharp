@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Was there an Array\bin\Debug\net8.0\A. Was there an Array.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Was there an Array\bin\Debug\net8.0\A. Was there an Array.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Was there an Array\bin\Debug\net8.0\A. Was there an Array.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Was there an Array\bin\Debug\net8.0\A. Was there an Array.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Was there an Array\bin\Debug\net8.0\A. Was there an Array.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Was there an Array\obj\Debug\net8.0\A. Was there an Array.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Was there an Array\obj\Debug\net8.0\A. Was there an Array.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Was there an Array\obj\Debug\net8.0\A. Was there an Array.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Was there an Array\obj\Debug\net8.0\A. Was there an Array.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Was there an Array\obj\Debug\net8.0\A. Was there an Array.sourcelink.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Was there an Array\obj\Debug\net8.0\A. Was there an Array.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Was there an Array\obj\Debug\net8.0\refint\A. Was there an Array.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Was there an Array\obj\Debug\net8.0\A. Was there an Array.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Was there an Array\obj\Debug\net8.0\A. Was there an Array.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Was there an Array\obj\Debug\net8.0\ref\A. Was there an Array.dll

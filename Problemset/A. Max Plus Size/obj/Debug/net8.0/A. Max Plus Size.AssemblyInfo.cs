@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("A. Max Plus Size")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+02e4d005c17587229cbc87ccb0b555a8687c3c0c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d172f5fb2e046c24ca3535bbe796468e98b0703e")]
 [assembly: System.Reflection.AssemblyProductAttribute("A. Max Plus Size")]
 [assembly: System.Reflection.AssemblyTitleAttribute("A. Max Plus Size")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

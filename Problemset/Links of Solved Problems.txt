@@ -892,3 +892,9 @@ A. A+B (Trial Problem) ==> https://codeforces.com/problemset/problem/1351/A
 
 B. Substring Removal Game ==> https://codeforces.com/problemset/problem/1398/B
 
+A. Was there an Array? ==> https://codeforces.com/problemset/problem/2069/A
+
+A. Equal Subsequences ==> https://codeforces.com/problemset/problem/2118/A
+
+A. Flip Flop Sum ==> https://codeforces.com/problemset/problem/1778/A
+
