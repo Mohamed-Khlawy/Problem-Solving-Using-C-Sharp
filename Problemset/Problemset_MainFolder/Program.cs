@@ -14,18 +14,6 @@ namespace Problemset_MainFolder
 {
     internal class Program
     {
-        public static bool IsPrime (int number)
-        {
-            for (int i = 2; i <= 9; i++)
-            {
-                if (number % i == 0)
-                {
-                    return false;
-                }
-            }
-
-            return true;
-        }
         static void Main(string[] args)
         {
             int tests = int.Parse(Console.ReadLine()!);

@@ -14,7 +14,7 @@
                 char[] resultingPrimeNumber = new char[2];
 
                 #region Problem Idea
-                /// We will search for either 19 or 91,
+                /// We will search for either 13 or 31,
                 /// because these 2 numbers are primes
                 /// and one of them must be there in the stringl
                 #endregion
@@ -24,13 +24,13 @@
                     if (stringDigits[i] == '1')
                     {
                         resultingPrimeNumber[0] = '1';
-                        resultingPrimeNumber[1] = '9';
+                        resultingPrimeNumber[1] = '3';
                         break;
                     }
 
-                    else if (stringDigits[i] == '9')
+                    else if (stringDigits[i] == '3')
                     {
-                        resultingPrimeNumber[0] = '9';
+                        resultingPrimeNumber[0] = '3';
                         resultingPrimeNumber[1] = '1';
                         break;
                     }
