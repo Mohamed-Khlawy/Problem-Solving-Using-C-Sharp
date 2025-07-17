@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Playing with Dice\bin\Debug\net8.0\A. Playing with Dice.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Playing with Dice\bin\Debug\net8.0\A. Playing with Dice.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Playing with Dice\bin\Debug\net8.0\A. Playing with Dice.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Playing with Dice\bin\Debug\net8.0\A. Playing with Dice.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Playing with Dice\bin\Debug\net8.0\A. Playing with Dice.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Playing with Dice\obj\Debug\net8.0\A. Playing with Dice.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Playing with Dice\obj\Debug\net8.0\A. Playing with Dice.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Playing with Dice\obj\Debug\net8.0\A. Playing with Dice.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Playing with Dice\obj\Debug\net8.0\A. Playing with Dice.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Playing with Dice\obj\Debug\net8.0\A. Playing with Dice.sourcelink.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Playing with Dice\obj\Debug\net8.0\A. Playing with Dice.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Playing with Dice\obj\Debug\net8.0\refint\A. Playing with Dice.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Playing with Dice\obj\Debug\net8.0\A. Playing with Dice.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Playing with Dice\obj\Debug\net8.0\A. Playing with Dice.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Playing with Dice\obj\Debug\net8.0\ref\A. Playing with Dice.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "A. Flip Flop Sum/1.0.0": {
+        "runtime": {
+          "A. Flip Flop Sum.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "A. Flip Flop Sum/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

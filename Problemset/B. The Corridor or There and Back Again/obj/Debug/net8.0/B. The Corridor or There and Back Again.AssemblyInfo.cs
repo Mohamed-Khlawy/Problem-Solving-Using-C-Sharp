@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("B. The Corridor or There and Back Again")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d172f5fb2e046c24ca3535bbe796468e98b0703e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5ba0e1417895dcbdaeb67673516d077e574bd7e3")]
 [assembly: System.Reflection.AssemblyProductAttribute("B. The Corridor or There and Back Again")]
 [assembly: System.Reflection.AssemblyTitleAttribute("B. The Corridor or There and Back Again")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

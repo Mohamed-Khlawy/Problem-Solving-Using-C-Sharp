@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("A. Sum of Three")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d172f5fb2e046c24ca3535bbe796468e98b0703e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5ba0e1417895dcbdaeb67673516d077e574bd7e3")]
 [assembly: System.Reflection.AssemblyProductAttribute("A. Sum of Three")]
 [assembly: System.Reflection.AssemblyTitleAttribute("A. Sum of Three")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

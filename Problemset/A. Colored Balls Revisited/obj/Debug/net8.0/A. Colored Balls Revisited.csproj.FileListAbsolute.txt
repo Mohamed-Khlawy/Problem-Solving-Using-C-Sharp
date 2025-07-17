@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Colored Balls Revisited\bin\Debug\net8.0\A. Colored Balls Revisited.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Colored Balls Revisited\bin\Debug\net8.0\A. Colored Balls Revisited.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Colored Balls Revisited\bin\Debug\net8.0\A. Colored Balls Revisited.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Colored Balls Revisited\bin\Debug\net8.0\A. Colored Balls Revisited.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Colored Balls Revisited\bin\Debug\net8.0\A. Colored Balls Revisited.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Colored Balls Revisited\obj\Debug\net8.0\A. Colored Balls Revisited.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Colored Balls Revisited\obj\Debug\net8.0\A. Colored Balls Revisited.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Colored Balls Revisited\obj\Debug\net8.0\A. Colored Balls Revisited.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Colored Balls Revisited\obj\Debug\net8.0\A. Colored Balls Revisited.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Colored Balls Revisited\obj\Debug\net8.0\A. Colored Balls Revisited.sourcelink.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Colored Balls Revisited\obj\Debug\net8.0\A. Colored Balls Revisited.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Colored Balls Revisited\obj\Debug\net8.0\refint\A. Colored Balls Revisited.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Colored Balls Revisited\obj\Debug\net8.0\A. Colored Balls Revisited.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Colored Balls Revisited\obj\Debug\net8.0\A. Colored Balls Revisited.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Colored Balls Revisited\obj\Debug\net8.0\ref\A. Colored Balls Revisited.dll

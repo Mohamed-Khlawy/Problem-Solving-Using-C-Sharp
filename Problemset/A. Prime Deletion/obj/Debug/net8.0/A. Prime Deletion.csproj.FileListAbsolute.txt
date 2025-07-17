@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Prime Deletion\bin\Debug\net8.0\A. Prime Deletion.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Prime Deletion\bin\Debug\net8.0\A. Prime Deletion.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Prime Deletion\bin\Debug\net8.0\A. Prime Deletion.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Prime Deletion\bin\Debug\net8.0\A. Prime Deletion.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Prime Deletion\bin\Debug\net8.0\A. Prime Deletion.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Prime Deletion\obj\Debug\net8.0\A. Prime Deletion.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Prime Deletion\obj\Debug\net8.0\A. Prime Deletion.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Prime Deletion\obj\Debug\net8.0\A. Prime Deletion.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Prime Deletion\obj\Debug\net8.0\A. Prime Deletion.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Prime Deletion\obj\Debug\net8.0\A. Prime Deletion.sourcelink.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Prime Deletion\obj\Debug\net8.0\A. Prime Deletion.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Prime Deletion\obj\Debug\net8.0\refint\A. Prime Deletion.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Prime Deletion\obj\Debug\net8.0\A. Prime Deletion.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Prime Deletion\obj\Debug\net8.0\A. Prime Deletion.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Prime Deletion\obj\Debug\net8.0\ref\A. Prime Deletion.dll
