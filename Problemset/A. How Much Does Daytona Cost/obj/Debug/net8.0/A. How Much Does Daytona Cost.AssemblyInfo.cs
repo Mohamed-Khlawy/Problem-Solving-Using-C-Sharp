@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("A. How Much Does Daytona Cost")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5ba0e1417895dcbdaeb67673516d077e574bd7e3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+aa3734ef1fae9563994f3097f4be7c5fc3e5f3c3")]
 [assembly: System.Reflection.AssemblyProductAttribute("A. How Much Does Daytona Cost")]
 [assembly: System.Reflection.AssemblyTitleAttribute("A. How Much Does Daytona Cost")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

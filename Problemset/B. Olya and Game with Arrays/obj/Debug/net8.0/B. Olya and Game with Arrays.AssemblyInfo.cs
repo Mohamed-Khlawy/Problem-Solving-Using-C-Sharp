@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("B. Olya and Game with Arrays")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5ba0e1417895dcbdaeb67673516d077e574bd7e3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+aa3734ef1fae9563994f3097f4be7c5fc3e5f3c3")]
 [assembly: System.Reflection.AssemblyProductAttribute("B. Olya and Game with Arrays")]
 [assembly: System.Reflection.AssemblyTitleAttribute("B. Olya and Game with Arrays")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

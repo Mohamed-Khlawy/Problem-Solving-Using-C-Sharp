@@ -906,3 +906,5 @@ A. Playing with Dice ==> https://codeforces.com/problemset/problem/378/A
 
 A. Prime Deletion ==> https://codeforces.com/problemset/problem/1861/A
 
+A. Race ==> https://codeforces.com/problemset/problem/2112/A
+
