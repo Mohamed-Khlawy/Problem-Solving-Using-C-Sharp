@@ -917,6 +917,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A. Prime Deletion", "A. Pri
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A. Race", "A. Race\A. Race.csproj", "{84509CD3-C2E0-4494-BF03-1470404E0564}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "B. Luntik and Subsequences", "B. Luntik and Subsequences\B. Luntik and Subsequences.csproj", "{D2880CED-7480-45A6-8A00-BB8580A61792}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -2751,6 +2753,10 @@ Global
 		{84509CD3-C2E0-4494-BF03-1470404E0564}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{84509CD3-C2E0-4494-BF03-1470404E0564}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{84509CD3-C2E0-4494-BF03-1470404E0564}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D2880CED-7480-45A6-8A00-BB8580A61792}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2880CED-7480-45A6-8A00-BB8580A61792}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2880CED-7480-45A6-8A00-BB8580A61792}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2880CED-7480-45A6-8A00-BB8580A61792}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

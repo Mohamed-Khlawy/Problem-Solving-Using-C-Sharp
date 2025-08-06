@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Luntik and Subsequences\bin\Debug\net8.0\B. Luntik and Subsequences.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Luntik and Subsequences\bin\Debug\net8.0\B. Luntik and Subsequences.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Luntik and Subsequences\bin\Debug\net8.0\B. Luntik and Subsequences.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Luntik and Subsequences\bin\Debug\net8.0\B. Luntik and Subsequences.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Luntik and Subsequences\bin\Debug\net8.0\B. Luntik and Subsequences.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Luntik and Subsequences\obj\Debug\net8.0\B. Luntik and Subsequences.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Luntik and Subsequences\obj\Debug\net8.0\B. Luntik and Subsequences.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Luntik and Subsequences\obj\Debug\net8.0\B. Luntik and Subsequences.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Luntik and Subsequences\obj\Debug\net8.0\B. Luntik and Subsequences.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Luntik and Subsequences\obj\Debug\net8.0\B. Luntik and Subsequences.sourcelink.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Luntik and Subsequences\obj\Debug\net8.0\B. Luntik and Subsequences.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Luntik and Subsequences\obj\Debug\net8.0\refint\B. Luntik and Subsequences.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Luntik and Subsequences\obj\Debug\net8.0\B. Luntik and Subsequences.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Luntik and Subsequences\obj\Debug\net8.0\B. Luntik and Subsequences.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Luntik and Subsequences\obj\Debug\net8.0\ref\B. Luntik and Subsequences.dll

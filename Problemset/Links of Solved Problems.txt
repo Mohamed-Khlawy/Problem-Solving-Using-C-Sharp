@@ -908,3 +908,5 @@ A. Prime Deletion ==> https://codeforces.com/problemset/problem/1861/A
 
 A. Race ==> https://codeforces.com/problemset/problem/2112/A
 
+B. Luntik and Subsequences ==> https://codeforces.com/problemset/problem/1582/B
+
