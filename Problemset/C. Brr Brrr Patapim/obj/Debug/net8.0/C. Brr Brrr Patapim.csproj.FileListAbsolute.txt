@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Brr Brrr Patapim\bin\Debug\net8.0\C. Brr Brrr Patapim.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Brr Brrr Patapim\bin\Debug\net8.0\C. Brr Brrr Patapim.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Brr Brrr Patapim\bin\Debug\net8.0\C. Brr Brrr Patapim.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Brr Brrr Patapim\bin\Debug\net8.0\C. Brr Brrr Patapim.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Brr Brrr Patapim\bin\Debug\net8.0\C. Brr Brrr Patapim.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Brr Brrr Patapim\obj\Debug\net8.0\C. Brr Brrr Patapim.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Brr Brrr Patapim\obj\Debug\net8.0\C. Brr Brrr Patapim.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Brr Brrr Patapim\obj\Debug\net8.0\C. Brr Brrr Patapim.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Brr Brrr Patapim\obj\Debug\net8.0\C. Brr Brrr Patapim.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Brr Brrr Patapim\obj\Debug\net8.0\C. Brr Brrr Patapim.sourcelink.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Brr Brrr Patapim\obj\Debug\net8.0\C. Brr Brrr Patapim.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Brr Brrr Patapim\obj\Debug\net8.0\refint\C. Brr Brrr Patapim.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Brr Brrr Patapim\obj\Debug\net8.0\C. Brr Brrr Patapim.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Brr Brrr Patapim\obj\Debug\net8.0\C. Brr Brrr Patapim.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\C. Brr Brrr Patapim\obj\Debug\net8.0\ref\C. Brr Brrr Patapim.dll

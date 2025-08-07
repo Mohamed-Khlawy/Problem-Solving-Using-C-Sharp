@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Long Comparison\bin\Debug\net8.0\A. Long Comparison.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Long Comparison\bin\Debug\net8.0\A. Long Comparison.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Long Comparison\bin\Debug\net8.0\A. Long Comparison.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Long Comparison\bin\Debug\net8.0\A. Long Comparison.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Long Comparison\bin\Debug\net8.0\A. Long Comparison.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Long Comparison\obj\Debug\net8.0\A. Long Comparison.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Long Comparison\obj\Debug\net8.0\A. Long Comparison.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Long Comparison\obj\Debug\net8.0\A. Long Comparison.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Long Comparison\obj\Debug\net8.0\A. Long Comparison.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Long Comparison\obj\Debug\net8.0\A. Long Comparison.sourcelink.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Long Comparison\obj\Debug\net8.0\A. Long Comparison.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Long Comparison\obj\Debug\net8.0\refint\A. Long Comparison.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Long Comparison\obj\Debug\net8.0\A. Long Comparison.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Long Comparison\obj\Debug\net8.0\A. Long Comparison.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\A. Long Comparison\obj\Debug\net8.0\ref\A. Long Comparison.dll
