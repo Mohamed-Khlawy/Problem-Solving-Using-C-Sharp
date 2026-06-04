@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Minimize Inversions\bin\Debug\net8.0\B. Minimize Inversions.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Minimize Inversions\bin\Debug\net8.0\B. Minimize Inversions.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Minimize Inversions\bin\Debug\net8.0\B. Minimize Inversions.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Minimize Inversions\bin\Debug\net8.0\B. Minimize Inversions.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Minimize Inversions\bin\Debug\net8.0\B. Minimize Inversions.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Minimize Inversions\obj\Debug\net8.0\B. Minimize Inversions.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Minimize Inversions\obj\Debug\net8.0\B. Minimize Inversions.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Minimize Inversions\obj\Debug\net8.0\B. Minimize Inversions.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Minimize Inversions\obj\Debug\net8.0\B. Minimize Inversions.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Minimize Inversions\obj\Debug\net8.0\B. Minimize Inversions.sourcelink.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Minimize Inversions\obj\Debug\net8.0\B. Minimize Inversions.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Minimize Inversions\obj\Debug\net8.0\refint\B. Minimize Inversions.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Minimize Inversions\obj\Debug\net8.0\B. Minimize Inversions.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Minimize Inversions\obj\Debug\net8.0\B. Minimize Inversions.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset\B. Minimize Inversions\obj\Debug\net8.0\ref\B. Minimize Inversions.dll

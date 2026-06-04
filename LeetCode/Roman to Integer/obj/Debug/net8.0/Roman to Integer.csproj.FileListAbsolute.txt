@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\LeetCode\Roman to Integer\bin\Debug\net8.0\Roman to Integer.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\LeetCode\Roman to Integer\bin\Debug\net8.0\Roman to Integer.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\LeetCode\Roman to Integer\bin\Debug\net8.0\Roman to Integer.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\LeetCode\Roman to Integer\bin\Debug\net8.0\Roman to Integer.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\LeetCode\Roman to Integer\bin\Debug\net8.0\Roman to Integer.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\LeetCode\Roman to Integer\obj\Debug\net8.0\Roman to Integer.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\LeetCode\Roman to Integer\obj\Debug\net8.0\Roman to Integer.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\LeetCode\Roman to Integer\obj\Debug\net8.0\Roman to Integer.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\LeetCode\Roman to Integer\obj\Debug\net8.0\Roman to Integer.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\LeetCode\Roman to Integer\obj\Debug\net8.0\Roman to Integer.sourcelink.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\LeetCode\Roman to Integer\obj\Debug\net8.0\Roman to Integer.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\LeetCode\Roman to Integer\obj\Debug\net8.0\refint\Roman to Integer.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\LeetCode\Roman to Integer\obj\Debug\net8.0\Roman to Integer.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\LeetCode\Roman to Integer\obj\Debug\net8.0\Roman to Integer.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\LeetCode\Roman to Integer\obj\Debug\net8.0\ref\Roman to Integer.dll
