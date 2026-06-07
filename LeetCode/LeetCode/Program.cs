@@ -1,4 +1,8 @@
-﻿namespace LeetCode
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+
+namespace LeetCode
 {
     internal class Program
     {
