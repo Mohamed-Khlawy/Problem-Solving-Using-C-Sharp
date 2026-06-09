@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Valid Parentheses")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3a4ed306f81a6d2e36f36a85f9686f861df746ad")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9f802c673d6175faa908c67648e11994566a5238")]
 [assembly: System.Reflection.AssemblyProductAttribute("Valid Parentheses")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Valid Parentheses")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
