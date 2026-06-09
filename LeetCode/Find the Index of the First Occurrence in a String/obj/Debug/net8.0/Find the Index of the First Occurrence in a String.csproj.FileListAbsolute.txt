@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\LeetCode\Find the Index of the First Occurrence in a String\bin\Debug\net8.0\Find the Index of the First Occurrence in a String.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\LeetCode\Find the Index of the First Occurrence in a String\bin\Debug\net8.0\Find the Index of the First Occurrence in a String.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\LeetCode\Find the Index of the First Occurrence in a String\bin\Debug\net8.0\Find the Index of the First Occurrence in a String.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\LeetCode\Find the Index of the First Occurrence in a String\bin\Debug\net8.0\Find the Index of the First Occurrence in a String.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\LeetCode\Find the Index of the First Occurrence in a String\bin\Debug\net8.0\Find the Index of the First Occurrence in a String.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\LeetCode\Find the Index of the First Occurrence in a String\obj\Debug\net8.0\Find the Index of the First Occurrence in a String.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\LeetCode\Find the Index of the First Occurrence in a String\obj\Debug\net8.0\Find the Index of the First Occurrence in a String.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\LeetCode\Find the Index of the First Occurrence in a String\obj\Debug\net8.0\Find the Index of the First Occurrence in a String.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\LeetCode\Find the Index of the First Occurrence in a String\obj\Debug\net8.0\Find the Index of the First Occurrence in a String.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\LeetCode\Find the Index of the First Occurrence in a String\obj\Debug\net8.0\Find the Index of the First Occurrence in a String.sourcelink.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\LeetCode\Find the Index of the First Occurrence in a String\obj\Debug\net8.0\Find the Index of the First Occurrence in a String.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\LeetCode\Find the Index of the First Occurrence in a String\obj\Debug\net8.0\refint\Find the Index of the First Occurrence in a String.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\LeetCode\Find the Index of the First Occurrence in a String\obj\Debug\net8.0\Find the Index of the First Occurrence in a String.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\LeetCode\Find the Index of the First Occurrence in a String\obj\Debug\net8.0\Find the Index of the First Occurrence in a String.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\LeetCode\Find the Index of the First Occurrence in a String\obj\Debug\net8.0\ref\Find the Index of the First Occurrence in a String.dll
