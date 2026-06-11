@@ -10,3 +10,5 @@
 
 6) https://leetcode.com/problems/plus-one/description/
 
+7) https://leetcode.com/problems/add-binary/description/
+
