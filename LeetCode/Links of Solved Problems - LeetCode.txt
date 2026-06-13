@@ -12,3 +12,5 @@
 
 7) https://leetcode.com/problems/add-binary/description/
 
+8) https://leetcode.com/problems/sqrtx/description/
+

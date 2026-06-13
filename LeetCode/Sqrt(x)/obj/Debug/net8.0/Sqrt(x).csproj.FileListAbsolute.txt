@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\LeetCode\Sqrt(x)\bin\Debug\net8.0\Sqrt(x).exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\LeetCode\Sqrt(x)\bin\Debug\net8.0\Sqrt(x).deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\LeetCode\Sqrt(x)\bin\Debug\net8.0\Sqrt(x).runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\LeetCode\Sqrt(x)\bin\Debug\net8.0\Sqrt(x).dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\LeetCode\Sqrt(x)\bin\Debug\net8.0\Sqrt(x).pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\LeetCode\Sqrt(x)\obj\Debug\net8.0\Sqrt(x).GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\LeetCode\Sqrt(x)\obj\Debug\net8.0\Sqrt(x).AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\LeetCode\Sqrt(x)\obj\Debug\net8.0\Sqrt(x).AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\LeetCode\Sqrt(x)\obj\Debug\net8.0\Sqrt(x).csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\LeetCode\Sqrt(x)\obj\Debug\net8.0\Sqrt(x).sourcelink.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\LeetCode\Sqrt(x)\obj\Debug\net8.0\Sqrt(x).dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\LeetCode\Sqrt(x)\obj\Debug\net8.0\refint\Sqrt(x).dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\LeetCode\Sqrt(x)\obj\Debug\net8.0\Sqrt(x).pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\LeetCode\Sqrt(x)\obj\Debug\net8.0\Sqrt(x).genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\LeetCode\Sqrt(x)\obj\Debug\net8.0\ref\Sqrt(x).dll

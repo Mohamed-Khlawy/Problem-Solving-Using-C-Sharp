@@ -19,6 +19,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Plus One", "Plus One\Plus O
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Add Binary", "Add Binary\Add Binary.csproj", "{33751859-F9D3-42C6-B74E-7213FF55DE6E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sqrt(x)", "Sqrt(x)\Sqrt(x).csproj", "{5F3EB6F2-F496-4B1B-B4F4-171C7CAE7ED2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -57,6 +59,10 @@ Global
 		{33751859-F9D3-42C6-B74E-7213FF55DE6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{33751859-F9D3-42C6-B74E-7213FF55DE6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{33751859-F9D3-42C6-B74E-7213FF55DE6E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5F3EB6F2-F496-4B1B-B4F4-171C7CAE7ED2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F3EB6F2-F496-4B1B-B4F4-171C7CAE7ED2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F3EB6F2-F496-4B1B-B4F4-171C7CAE7ED2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F3EB6F2-F496-4B1B-B4F4-171C7CAE7ED2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
