@@ -25,6 +25,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Climbing Stairs", "Climbing
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Remove Duplicates from Sotred List", "Remove Duplicates from Sotred List\Remove Duplicates from Sotred List.csproj", "{916642E3-CDB8-48AB-A509-AC5F36EDCE5A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Binary Tree Inorder Traversal", "Binary Tree Inorder Traversal\Binary Tree Inorder Traversal.csproj", "{309EA2DF-2544-4362-AE74-D33863924237}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +77,10 @@ Global
 		{916642E3-CDB8-48AB-A509-AC5F36EDCE5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{916642E3-CDB8-48AB-A509-AC5F36EDCE5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{916642E3-CDB8-48AB-A509-AC5F36EDCE5A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{309EA2DF-2544-4362-AE74-D33863924237}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{309EA2DF-2544-4362-AE74-D33863924237}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{309EA2DF-2544-4362-AE74-D33863924237}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{309EA2DF-2544-4362-AE74-D33863924237}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

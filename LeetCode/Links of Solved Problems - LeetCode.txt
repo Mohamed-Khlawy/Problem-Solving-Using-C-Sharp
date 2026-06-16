@@ -16,3 +16,7 @@
 
 9) https://leetcode.com/problems/climbing-stairs/description/
 
+10) https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/
+
+11) https://leetcode.com/problems/binary-tree-inorder-traversal/description/
+
