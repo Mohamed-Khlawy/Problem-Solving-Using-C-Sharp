@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Find the Index of the First Occurrence in a String")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ed79c017b5851b012668bdcf847585ca02e8f356")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c256d3376ae044670b888da6703e6a31a59b948e")]
 [assembly: System.Reflection.AssemblyProductAttribute("Find the Index of the First Occurrence in a String")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Find the Index of the First Occurrence in a String")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
