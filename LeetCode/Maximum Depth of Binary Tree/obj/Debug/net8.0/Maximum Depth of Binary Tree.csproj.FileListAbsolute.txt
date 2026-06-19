@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\LeetCode\Maximum Depth of Binary Tree\bin\Debug\net8.0\Maximum Depth of Binary Tree.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\LeetCode\Maximum Depth of Binary Tree\bin\Debug\net8.0\Maximum Depth of Binary Tree.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\LeetCode\Maximum Depth of Binary Tree\bin\Debug\net8.0\Maximum Depth of Binary Tree.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\LeetCode\Maximum Depth of Binary Tree\bin\Debug\net8.0\Maximum Depth of Binary Tree.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\LeetCode\Maximum Depth of Binary Tree\bin\Debug\net8.0\Maximum Depth of Binary Tree.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\LeetCode\Maximum Depth of Binary Tree\obj\Debug\net8.0\Maximum Depth of Binary Tree.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\LeetCode\Maximum Depth of Binary Tree\obj\Debug\net8.0\Maximum Depth of Binary Tree.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\LeetCode\Maximum Depth of Binary Tree\obj\Debug\net8.0\Maximum Depth of Binary Tree.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\LeetCode\Maximum Depth of Binary Tree\obj\Debug\net8.0\Maximum Depth of Binary Tree.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\LeetCode\Maximum Depth of Binary Tree\obj\Debug\net8.0\Maximum Depth of Binary Tree.sourcelink.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\LeetCode\Maximum Depth of Binary Tree\obj\Debug\net8.0\Maximum Depth of Binary Tree.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\LeetCode\Maximum Depth of Binary Tree\obj\Debug\net8.0\refint\Maximum Depth of Binary Tree.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\LeetCode\Maximum Depth of Binary Tree\obj\Debug\net8.0\Maximum Depth of Binary Tree.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\LeetCode\Maximum Depth of Binary Tree\obj\Debug\net8.0\Maximum Depth of Binary Tree.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\LeetCode\Maximum Depth of Binary Tree\obj\Debug\net8.0\ref\Maximum Depth of Binary Tree.dll
