@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "C. Combination Lock/1.0.0": {
+        "runtime": {
+          "C. Combination Lock.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "C. Combination Lock/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

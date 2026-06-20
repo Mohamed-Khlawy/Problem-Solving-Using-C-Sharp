@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "G:\\Problem Solving\\Problem-Solving-Using-C-Sharp\\LeetCode\\LeetCode\\LeetCode.csproj",
-      "projectName": "LeetCode",
-      "projectPath": "G:\\Problem Solving\\Problem-Solving-Using-C-Sharp\\LeetCode\\LeetCode\\LeetCode.csproj",
+      "projectUniqueName": "G:\\Problem Solving\\Problem-Solving-Using-C-Sharp\\LeetCode\\LeetCode\\LeetCode - Main.csproj",
+      "projectName": "LeetCode - Main",
+      "projectPath": "G:\\Problem Solving\\Problem-Solving-Using-C-Sharp\\LeetCode\\LeetCode\\LeetCode - Main.csproj",
       "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
       "outputPath": "G:\\Problem Solving\\Problem-Solving-Using-C-Sharp\\LeetCode\\LeetCode\\obj\\",
       "projectStyle": "PackageReference",

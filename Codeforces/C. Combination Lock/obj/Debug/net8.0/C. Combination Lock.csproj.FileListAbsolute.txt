@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset - Codeforces\C. Combination Lock\bin\Debug\net8.0\C. Combination Lock.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset - Codeforces\C. Combination Lock\bin\Debug\net8.0\C. Combination Lock.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset - Codeforces\C. Combination Lock\bin\Debug\net8.0\C. Combination Lock.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset - Codeforces\C. Combination Lock\bin\Debug\net8.0\C. Combination Lock.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset - Codeforces\C. Combination Lock\bin\Debug\net8.0\C. Combination Lock.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset - Codeforces\C. Combination Lock\obj\Debug\net8.0\C. Combination Lock.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset - Codeforces\C. Combination Lock\obj\Debug\net8.0\C. Combination Lock.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset - Codeforces\C. Combination Lock\obj\Debug\net8.0\C. Combination Lock.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset - Codeforces\C. Combination Lock\obj\Debug\net8.0\C. Combination Lock.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset - Codeforces\C. Combination Lock\obj\Debug\net8.0\C. Combination Lock.sourcelink.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset - Codeforces\C. Combination Lock\obj\Debug\net8.0\C. Combination Lock.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset - Codeforces\C. Combination Lock\obj\Debug\net8.0\refint\C. Combination Lock.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset - Codeforces\C. Combination Lock\obj\Debug\net8.0\C. Combination Lock.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset - Codeforces\C. Combination Lock\obj\Debug\net8.0\C. Combination Lock.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset - Codeforces\C. Combination Lock\obj\Debug\net8.0\ref\C. Combination Lock.dll
