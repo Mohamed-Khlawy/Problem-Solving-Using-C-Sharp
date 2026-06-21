@@ -8,12 +8,7 @@ namespace LeetCode
     {
         static void Main(string[] args)
         {
-            int tests = int.Parse(Console.ReadLine()!);
-
-            while (tests-- > 0)
-            {
-                
-            }
+            
         }
     }
 }

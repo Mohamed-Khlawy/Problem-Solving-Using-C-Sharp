@@ -33,6 +33,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Symmetric Tree", "Symmetric
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Maximum Depth of Binary Tree", "Maximum Depth of Binary Tree\Maximum Depth of Binary Tree.csproj", "{415B0557-4CFD-46A4-900A-4B5FD694B6ED}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Convert Sorted Array to Binary Search Tree", "Convert Sorted Array to Binary Search Tree\Convert Sorted Array to Binary Search Tree.csproj", "{26CB005C-6508-4B50-BC1A-61523E55EC37}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -99,6 +101,10 @@ Global
 		{415B0557-4CFD-46A4-900A-4B5FD694B6ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{415B0557-4CFD-46A4-900A-4B5FD694B6ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{415B0557-4CFD-46A4-900A-4B5FD694B6ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{26CB005C-6508-4B50-BC1A-61523E55EC37}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26CB005C-6508-4B50-BC1A-61523E55EC37}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26CB005C-6508-4B50-BC1A-61523E55EC37}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26CB005C-6508-4B50-BC1A-61523E55EC37}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
