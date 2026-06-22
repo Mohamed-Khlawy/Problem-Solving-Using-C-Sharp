@@ -13,3 +13,18 @@ G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset - Codeforces\Problem
 G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset - Codeforces\Problemset_MainFolder\obj\Debug\net8.0\Codeforces - Main.pdb
 G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset - Codeforces\Problemset_MainFolder\obj\Debug\net8.0\Codeforces - Main.genruntimeconfig.cache
 G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset - Codeforces\Problemset_MainFolder\obj\Debug\net8.0\ref\Codeforces - Main.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Codeforces\Problemset_MainFolder\bin\Debug\net8.0\Codeforces - Main.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Codeforces\Problemset_MainFolder\bin\Debug\net8.0\Codeforces - Main.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Codeforces\Problemset_MainFolder\bin\Debug\net8.0\Codeforces - Main.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Codeforces\Problemset_MainFolder\bin\Debug\net8.0\Codeforces - Main.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Codeforces\Problemset_MainFolder\bin\Debug\net8.0\Codeforces - Main.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Codeforces\Problemset_MainFolder\obj\Debug\net8.0\Codeforces - Main.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Codeforces\Problemset_MainFolder\obj\Debug\net8.0\Codeforces - Main.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Codeforces\Problemset_MainFolder\obj\Debug\net8.0\Codeforces - Main.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Codeforces\Problemset_MainFolder\obj\Debug\net8.0\Codeforces - Main.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Codeforces\Problemset_MainFolder\obj\Debug\net8.0\Codeforces - Main.sourcelink.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Codeforces\Problemset_MainFolder\obj\Debug\net8.0\Codeforces - Main.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Codeforces\Problemset_MainFolder\obj\Debug\net8.0\refint\Codeforces - Main.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Codeforces\Problemset_MainFolder\obj\Debug\net8.0\Codeforces - Main.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Codeforces\Problemset_MainFolder\obj\Debug\net8.0\Codeforces - Main.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Codeforces\Problemset_MainFolder\obj\Debug\net8.0\ref\Codeforces - Main.dll

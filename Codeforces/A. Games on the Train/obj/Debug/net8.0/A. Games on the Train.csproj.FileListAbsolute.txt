@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Codeforces\A. Games on the Train\bin\Debug\net8.0\A. Games on the Train.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Codeforces\A. Games on the Train\bin\Debug\net8.0\A. Games on the Train.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Codeforces\A. Games on the Train\bin\Debug\net8.0\A. Games on the Train.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Codeforces\A. Games on the Train\bin\Debug\net8.0\A. Games on the Train.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Codeforces\A. Games on the Train\bin\Debug\net8.0\A. Games on the Train.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Codeforces\A. Games on the Train\obj\Debug\net8.0\A. Games on the Train.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Codeforces\A. Games on the Train\obj\Debug\net8.0\A. Games on the Train.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Codeforces\A. Games on the Train\obj\Debug\net8.0\A. Games on the Train.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Codeforces\A. Games on the Train\obj\Debug\net8.0\A. Games on the Train.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Codeforces\A. Games on the Train\obj\Debug\net8.0\A. Games on the Train.sourcelink.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Codeforces\A. Games on the Train\obj\Debug\net8.0\A. Games on the Train.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Codeforces\A. Games on the Train\obj\Debug\net8.0\refint\A. Games on the Train.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Codeforces\A. Games on the Train\obj\Debug\net8.0\A. Games on the Train.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Codeforces\A. Games on the Train\obj\Debug\net8.0\A. Games on the Train.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Codeforces\A. Games on the Train\obj\Debug\net8.0\ref\A. Games on the Train.dll
