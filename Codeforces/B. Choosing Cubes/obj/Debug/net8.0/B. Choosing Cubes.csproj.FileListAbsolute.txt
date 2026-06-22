@@ -28,3 +28,18 @@ G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset - Codeforces\B. Choo
 G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset - Codeforces\B. Choosing Cubes\obj\Debug\net8.0\B. Choosing Cubes.pdb
 G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset - Codeforces\B. Choosing Cubes\obj\Debug\net8.0\B. Choosing Cubes.genruntimeconfig.cache
 G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset - Codeforces\B. Choosing Cubes\obj\Debug\net8.0\ref\B. Choosing Cubes.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Codeforces\B. Choosing Cubes\bin\Debug\net8.0\B. Choosing Cubes.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Codeforces\B. Choosing Cubes\bin\Debug\net8.0\B. Choosing Cubes.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Codeforces\B. Choosing Cubes\bin\Debug\net8.0\B. Choosing Cubes.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Codeforces\B. Choosing Cubes\bin\Debug\net8.0\B. Choosing Cubes.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Codeforces\B. Choosing Cubes\bin\Debug\net8.0\B. Choosing Cubes.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Codeforces\B. Choosing Cubes\obj\Debug\net8.0\B. Choosing Cubes.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Codeforces\B. Choosing Cubes\obj\Debug\net8.0\B. Choosing Cubes.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Codeforces\B. Choosing Cubes\obj\Debug\net8.0\B. Choosing Cubes.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Codeforces\B. Choosing Cubes\obj\Debug\net8.0\B. Choosing Cubes.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Codeforces\B. Choosing Cubes\obj\Debug\net8.0\B. Choosing Cubes.sourcelink.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Codeforces\B. Choosing Cubes\obj\Debug\net8.0\B. Choosing Cubes.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Codeforces\B. Choosing Cubes\obj\Debug\net8.0\refint\B. Choosing Cubes.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Codeforces\B. Choosing Cubes\obj\Debug\net8.0\B. Choosing Cubes.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Codeforces\B. Choosing Cubes\obj\Debug\net8.0\B. Choosing Cubes.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Codeforces\B. Choosing Cubes\obj\Debug\net8.0\ref\B. Choosing Cubes.dll

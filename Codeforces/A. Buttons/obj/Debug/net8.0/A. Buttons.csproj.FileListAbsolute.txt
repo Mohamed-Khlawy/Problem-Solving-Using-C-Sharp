@@ -28,3 +28,18 @@ G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset - Codeforces\A. Butt
 G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset - Codeforces\A. Buttons\obj\Debug\net8.0\A. Buttons.pdb
 G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset - Codeforces\A. Buttons\obj\Debug\net8.0\A. Buttons.genruntimeconfig.cache
 G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset - Codeforces\A. Buttons\obj\Debug\net8.0\ref\A. Buttons.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Codeforces\A. Buttons\bin\Debug\net8.0\A. Buttons.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Codeforces\A. Buttons\bin\Debug\net8.0\A. Buttons.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Codeforces\A. Buttons\bin\Debug\net8.0\A. Buttons.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Codeforces\A. Buttons\bin\Debug\net8.0\A. Buttons.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Codeforces\A. Buttons\bin\Debug\net8.0\A. Buttons.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Codeforces\A. Buttons\obj\Debug\net8.0\A. Buttons.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Codeforces\A. Buttons\obj\Debug\net8.0\A. Buttons.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Codeforces\A. Buttons\obj\Debug\net8.0\A. Buttons.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Codeforces\A. Buttons\obj\Debug\net8.0\A. Buttons.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Codeforces\A. Buttons\obj\Debug\net8.0\A. Buttons.sourcelink.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Codeforces\A. Buttons\obj\Debug\net8.0\A. Buttons.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Codeforces\A. Buttons\obj\Debug\net8.0\refint\A. Buttons.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Codeforces\A. Buttons\obj\Debug\net8.0\A. Buttons.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Codeforces\A. Buttons\obj\Debug\net8.0\A. Buttons.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Codeforces\A. Buttons\obj\Debug\net8.0\ref\A. Buttons.dll

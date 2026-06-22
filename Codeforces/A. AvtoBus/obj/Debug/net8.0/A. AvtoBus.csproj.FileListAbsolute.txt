@@ -28,3 +28,18 @@ G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset - Codeforces\A. Avto
 G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset - Codeforces\A. AvtoBus\obj\Debug\net8.0\A. AvtoBus.pdb
 G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset - Codeforces\A. AvtoBus\obj\Debug\net8.0\A. AvtoBus.genruntimeconfig.cache
 G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset - Codeforces\A. AvtoBus\obj\Debug\net8.0\ref\A. AvtoBus.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Codeforces\A. AvtoBus\bin\Debug\net8.0\A. AvtoBus.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Codeforces\A. AvtoBus\bin\Debug\net8.0\A. AvtoBus.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Codeforces\A. AvtoBus\bin\Debug\net8.0\A. AvtoBus.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Codeforces\A. AvtoBus\bin\Debug\net8.0\A. AvtoBus.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Codeforces\A. AvtoBus\bin\Debug\net8.0\A. AvtoBus.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Codeforces\A. AvtoBus\obj\Debug\net8.0\A. AvtoBus.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Codeforces\A. AvtoBus\obj\Debug\net8.0\A. AvtoBus.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Codeforces\A. AvtoBus\obj\Debug\net8.0\A. AvtoBus.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Codeforces\A. AvtoBus\obj\Debug\net8.0\A. AvtoBus.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Codeforces\A. AvtoBus\obj\Debug\net8.0\A. AvtoBus.sourcelink.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Codeforces\A. AvtoBus\obj\Debug\net8.0\A. AvtoBus.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Codeforces\A. AvtoBus\obj\Debug\net8.0\refint\A. AvtoBus.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Codeforces\A. AvtoBus\obj\Debug\net8.0\A. AvtoBus.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Codeforces\A. AvtoBus\obj\Debug\net8.0\A. AvtoBus.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Codeforces\A. AvtoBus\obj\Debug\net8.0\ref\A. AvtoBus.dll

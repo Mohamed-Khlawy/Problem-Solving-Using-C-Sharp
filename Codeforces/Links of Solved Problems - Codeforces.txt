@@ -918,3 +918,5 @@ B. Minimize Inversions ==> https://codeforces.com/problemset/problem/1918/B
 
 C. Combination Lock ==> https://codeforces.com/problemset/problem/2091/C
 
+A. Games on the Train ==> https://codeforces.com/problemset/problem/2236/A
+

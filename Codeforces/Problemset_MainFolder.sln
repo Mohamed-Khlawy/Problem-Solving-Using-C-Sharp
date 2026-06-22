@@ -927,6 +927,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "B. Minimize Inversions", "B
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C. Combination Lock", "C. Combination Lock\C. Combination Lock.csproj", "{FAD3C94E-2C79-46BC-8D3C-568EE434ED1D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A. Games on the Train", "A. Games on the Train\A. Games on the Train.csproj", "{CE91CA4B-9E9E-40E6-AE69-67D2A2F9D571}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -2781,6 +2783,10 @@ Global
 		{FAD3C94E-2C79-46BC-8D3C-568EE434ED1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FAD3C94E-2C79-46BC-8D3C-568EE434ED1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FAD3C94E-2C79-46BC-8D3C-568EE434ED1D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE91CA4B-9E9E-40E6-AE69-67D2A2F9D571}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE91CA4B-9E9E-40E6-AE69-67D2A2F9D571}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE91CA4B-9E9E-40E6-AE69-67D2A2F9D571}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE91CA4B-9E9E-40E6-AE69-67D2A2F9D571}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

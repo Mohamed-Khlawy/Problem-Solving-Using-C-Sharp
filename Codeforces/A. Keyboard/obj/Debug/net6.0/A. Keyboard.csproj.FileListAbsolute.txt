@@ -28,3 +28,18 @@ G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset - Codeforces\A. Keyb
 G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset - Codeforces\A. Keyboard\obj\Debug\net6.0\A. Keyboard.pdb
 G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset - Codeforces\A. Keyboard\obj\Debug\net6.0\A. Keyboard.genruntimeconfig.cache
 G:\Problem Solving\Problem-Solving-Using-C-Sharp\Problemset - Codeforces\A. Keyboard\obj\Debug\net6.0\ref\A. Keyboard.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Codeforces\A. Keyboard\bin\Debug\net6.0\A. Keyboard.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Codeforces\A. Keyboard\bin\Debug\net6.0\A. Keyboard.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Codeforces\A. Keyboard\bin\Debug\net6.0\A. Keyboard.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Codeforces\A. Keyboard\bin\Debug\net6.0\A. Keyboard.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Codeforces\A. Keyboard\bin\Debug\net6.0\A. Keyboard.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Codeforces\A. Keyboard\obj\Debug\net6.0\A. Keyboard.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Codeforces\A. Keyboard\obj\Debug\net6.0\A. Keyboard.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Codeforces\A. Keyboard\obj\Debug\net6.0\A. Keyboard.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Codeforces\A. Keyboard\obj\Debug\net6.0\A. Keyboard.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Codeforces\A. Keyboard\obj\Debug\net6.0\A. Keyboard.sourcelink.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Codeforces\A. Keyboard\obj\Debug\net6.0\A. Keyboard.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Codeforces\A. Keyboard\obj\Debug\net6.0\refint\A. Keyboard.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Codeforces\A. Keyboard\obj\Debug\net6.0\A. Keyboard.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Codeforces\A. Keyboard\obj\Debug\net6.0\A. Keyboard.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\Codeforces\A. Keyboard\obj\Debug\net6.0\ref\A. Keyboard.dll
