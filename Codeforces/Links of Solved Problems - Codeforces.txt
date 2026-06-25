@@ -920,3 +920,5 @@ C. Combination Lock ==> https://codeforces.com/problemset/problem/2091/C
 
 A. Games on the Train ==> https://codeforces.com/problemset/problem/2236/A
 
+A. Koshary ==> https://codeforces.com/problemset/problem/2227/A
+

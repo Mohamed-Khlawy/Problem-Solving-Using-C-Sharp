@@ -1,0 +1,15 @@
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\LeetCode\LeetCode\bin\Debug\net8.0\LeetCodeMainProject.exe
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\LeetCode\LeetCode\bin\Debug\net8.0\LeetCodeMainProject.deps.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\LeetCode\LeetCode\bin\Debug\net8.0\LeetCodeMainProject.runtimeconfig.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\LeetCode\LeetCode\bin\Debug\net8.0\LeetCodeMainProject.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\LeetCode\LeetCode\bin\Debug\net8.0\LeetCodeMainProject.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\LeetCode\LeetCode\obj\Debug\net8.0\LeetCodeMainProject.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\LeetCode\LeetCode\obj\Debug\net8.0\LeetCodeMainProject.AssemblyInfoInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\LeetCode\LeetCode\obj\Debug\net8.0\LeetCodeMainProject.AssemblyInfo.cs
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\LeetCode\LeetCode\obj\Debug\net8.0\LeetCodeMainProject.csproj.CoreCompileInputs.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\LeetCode\LeetCode\obj\Debug\net8.0\LeetCodeMainProject.sourcelink.json
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\LeetCode\LeetCode\obj\Debug\net8.0\LeetCodeMainProject.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\LeetCode\LeetCode\obj\Debug\net8.0\refint\LeetCodeMainProject.dll
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\LeetCode\LeetCode\obj\Debug\net8.0\LeetCodeMainProject.pdb
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\LeetCode\LeetCode\obj\Debug\net8.0\LeetCodeMainProject.genruntimeconfig.cache
+G:\Problem Solving\Problem-Solving-Using-C-Sharp\LeetCode\LeetCode\obj\Debug\net8.0\ref\LeetCodeMainProject.dll

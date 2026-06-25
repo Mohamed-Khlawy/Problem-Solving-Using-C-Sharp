@@ -20,7 +20,13 @@ namespace Problemset_MainFolder
 
             while (tests-- > 0)
             {
-                
+                int[] kosharyCoordinates = Console.ReadLine()!.Split().Select(int.Parse).ToArray();
+
+                //Console.Write("********************** ");
+
+                Console.WriteLine(kosharyCoordinates[0] % 2 == 1 && kosharyCoordinates[1] % 2 == 1
+                    ? "NO"
+                    : "YES");
             }
         }
     }

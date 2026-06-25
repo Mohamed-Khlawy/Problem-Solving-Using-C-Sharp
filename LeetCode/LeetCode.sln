@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.14.37216.2
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode - Main", "LeetCode\LeetCode - Main.csproj", "{28C6F5DF-87C9-4F0B-ABB6-D7D24DA00B5C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCodeMainProject", "LeetCode\LeetCodeMainProject.csproj", "{28C6F5DF-87C9-4F0B-ABB6-D7D24DA00B5C}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Roman to Integer", "Roman to Integer\Roman to Integer.csproj", "{510FC243-D147-4238-A33C-821DA3DDD7A1}"
 EndProject

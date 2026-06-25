@@ -1,4 +1,5 @@
-﻿using System;
+﻿using LeetCodeMainProject;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 
@@ -8,7 +9,7 @@ namespace LeetCode
     {
         static void Main(string[] args)
         {
-            
+
         }
     }
 }
