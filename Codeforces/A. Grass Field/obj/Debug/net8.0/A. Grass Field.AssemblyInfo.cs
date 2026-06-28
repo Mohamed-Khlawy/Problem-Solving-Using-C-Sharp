@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("A. Grass Field")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+945a1f23445cfba6c889f001ff7b86666f04de8e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4b02fc09975d245bbb5900670fe9557772649357")]
 [assembly: System.Reflection.AssemblyProductAttribute("A. Grass Field")]
 [assembly: System.Reflection.AssemblyTitleAttribute("A. Grass Field")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

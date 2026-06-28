@@ -929,6 +929,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C. Combination Lock", "C. C
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A. Games on the Train", "A. Games on the Train\A. Games on the Train.csproj", "{CE91CA4B-9E9E-40E6-AE69-67D2A2F9D571}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A Problems", "A Problems\A Problems.csproj", "{528A572A-7D6B-4464-8627-E4A8A9E8AB8B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "B Problems", "B Problems\B Problems.csproj", "{21DDFA56-82E1-43F4-8895-5763267F7313}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -2787,6 +2791,14 @@ Global
 		{CE91CA4B-9E9E-40E6-AE69-67D2A2F9D571}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CE91CA4B-9E9E-40E6-AE69-67D2A2F9D571}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CE91CA4B-9E9E-40E6-AE69-67D2A2F9D571}.Release|Any CPU.Build.0 = Release|Any CPU
+		{528A572A-7D6B-4464-8627-E4A8A9E8AB8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{528A572A-7D6B-4464-8627-E4A8A9E8AB8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{528A572A-7D6B-4464-8627-E4A8A9E8AB8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{528A572A-7D6B-4464-8627-E4A8A9E8AB8B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{21DDFA56-82E1-43F4-8895-5763267F7313}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21DDFA56-82E1-43F4-8895-5763267F7313}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21DDFA56-82E1-43F4-8895-5763267F7313}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21DDFA56-82E1-43F4-8895-5763267F7313}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
