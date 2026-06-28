@@ -926,3 +926,7 @@ A. Raising Bacteria ==> https://codeforces.com/problemset/problem/579/A
 
 B. Chemistry ==> https://codeforces.com/problemset/problem/1883/B
 
+A. Easy Problem ==> https://codeforces.com/problemset/problem/2044/A
+
+A. Square? ==> https://codeforces.com/problemset/problem/2167/A
+

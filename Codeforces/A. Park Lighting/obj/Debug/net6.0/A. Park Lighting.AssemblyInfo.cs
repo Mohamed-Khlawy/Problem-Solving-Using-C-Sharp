@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("A. Park Lighting")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4b02fc09975d245bbb5900670fe9557772649357")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8ca057f4bf3cf8f5c829adb95734bbce38542d9a")]
 [assembly: System.Reflection.AssemblyProductAttribute("A. Park Lighting")]
 [assembly: System.Reflection.AssemblyTitleAttribute("A. Park Lighting")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
