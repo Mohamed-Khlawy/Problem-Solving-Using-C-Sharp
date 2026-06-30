@@ -930,3 +930,7 @@ A. Easy Problem ==> https://codeforces.com/problemset/problem/2044/A
 
 A. Square? ==> https://codeforces.com/problemset/problem/2167/A
 
+A. Trippi Troppi => https://codeforces.com/problemset/problem/2094/A
+
+A. Skibidus and Amog'u => https://codeforces.com/problemset/problem/2065/A
+
