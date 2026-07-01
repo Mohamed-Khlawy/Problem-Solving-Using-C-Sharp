@@ -934,3 +934,5 @@ A. Trippi Troppi => https://codeforces.com/problemset/problem/2094/A
 
 A. Skibidus and Amog'u => https://codeforces.com/problemset/problem/2065/A
 
+B. Make AP => https://codeforces.com/problemset/problem/1624/B
+
