@@ -936,3 +936,7 @@ A. Skibidus and Amog'u => https://codeforces.com/problemset/problem/2065/A
 
 B. Make AP => https://codeforces.com/problemset/problem/1624/B
 
+B. Your Name => https://codeforces.com/problemset/problem/2167/B
+
+B. Normal Problem => https://codeforces.com/problemset/problem/2044/B
+
