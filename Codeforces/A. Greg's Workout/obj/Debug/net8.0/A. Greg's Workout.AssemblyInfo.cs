@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("A. Greg\'s Workout")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4b02fc09975d245bbb5900670fe9557772649357")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0405b71571a288ea252220848718ace056f1362b")]
 [assembly: System.Reflection.AssemblyProductAttribute("A. Greg\'s Workout")]
 [assembly: System.Reflection.AssemblyTitleAttribute("A. Greg\'s Workout")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
