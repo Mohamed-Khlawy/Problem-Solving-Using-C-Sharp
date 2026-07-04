@@ -942,3 +942,7 @@ B. Normal Problem => https://codeforces.com/problemset/problem/2044/B
 
 C. Raspberries => https://codeforces.com/problemset/problem/1883/C
 
+A. Only One Digit => https://codeforces.com/problemset/problem/2126/A
+
+D. Distinct Split => https://codeforces.com/problemset/problem/1791/D
+

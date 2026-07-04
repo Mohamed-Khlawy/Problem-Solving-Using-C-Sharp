@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Codeforces - Main")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0405b71571a288ea252220848718ace056f1362b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8f72f23ee19ceb58de03695f4499476ed7c36e44")]
 [assembly: System.Reflection.AssemblyProductAttribute("Codeforces - Main")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Codeforces - Main")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
