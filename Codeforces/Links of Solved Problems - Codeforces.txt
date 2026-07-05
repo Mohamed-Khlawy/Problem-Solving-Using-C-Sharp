@@ -946,3 +946,5 @@ A. Only One Digit => https://codeforces.com/problemset/problem/2126/A
 
 D. Distinct Split => https://codeforces.com/problemset/problem/1791/D
 
+A. Sublime Sequence => https://codeforces.com/problemset/problem/2148/A
+
