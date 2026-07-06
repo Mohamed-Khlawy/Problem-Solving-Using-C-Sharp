@@ -948,3 +948,5 @@ D. Distinct Split => https://codeforces.com/problemset/problem/1791/D
 
 A. Sublime Sequence => https://codeforces.com/problemset/problem/2148/A
 
+C. Ski Resort => https://codeforces.com/problemset/problem/1840/C
+
