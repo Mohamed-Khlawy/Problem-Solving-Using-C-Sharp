@@ -952,3 +952,5 @@ C. Ski Resort => https://codeforces.com/problemset/problem/1840/C
 
 B. Monsters => https://codeforces.com/problemset/problem/1849/B
 
+C. Hard Problem => https://codeforces.com/problemset/problem/2044/C
+

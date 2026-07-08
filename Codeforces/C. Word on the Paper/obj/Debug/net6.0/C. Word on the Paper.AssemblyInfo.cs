@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("C. Word on the Paper")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+297537acf3b953dd84b73fda30287183443011c8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0a5ad55ca3d889ef73f8340bf153160ae2fb433b")]
 [assembly: System.Reflection.AssemblyProductAttribute("C. Word on the Paper")]
 [assembly: System.Reflection.AssemblyTitleAttribute("C. Word on the Paper")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
