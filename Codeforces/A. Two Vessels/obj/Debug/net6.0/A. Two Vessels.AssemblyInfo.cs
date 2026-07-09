@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("A. Two Vessels")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0a5ad55ca3d889ef73f8340bf153160ae2fb433b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4dc7f8e55c6a31c42a50048414d71c204a92e059")]
 [assembly: System.Reflection.AssemblyProductAttribute("A. Two Vessels")]
 [assembly: System.Reflection.AssemblyTitleAttribute("A. Two Vessels")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
