@@ -956,3 +956,5 @@ C. Hard Problem => https://codeforces.com/problemset/problem/2044/C
 
 A. K-divisible Sum => https://codeforces.com/problemset/problem/1476/A
 
+A. Perfect Root => https://codeforces.com/problemset/problem/2185/A
+
