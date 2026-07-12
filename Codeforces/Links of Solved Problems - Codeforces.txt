@@ -958,3 +958,5 @@ A. K-divisible Sum => https://codeforces.com/problemset/problem/1476/A
 
 A. Perfect Root => https://codeforces.com/problemset/problem/2185/A
 
+A. Draw a Square => https://codeforces.com/problemset/problem/2074/A
+

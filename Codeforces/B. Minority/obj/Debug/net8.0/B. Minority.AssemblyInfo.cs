@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("B. Minority")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+228218a10b1037ef302b750c4849bc6a9ed9abca")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+81df28b2d9fe195f53da9ac26b4797cadc38e03c")]
 [assembly: System.Reflection.AssemblyProductAttribute("B. Minority")]
 [assembly: System.Reflection.AssemblyTitleAttribute("B. Minority")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
