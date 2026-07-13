@@ -960,3 +960,5 @@ A. Perfect Root => https://codeforces.com/problemset/problem/2185/A
 
 A. Draw a Square => https://codeforces.com/problemset/problem/2074/A
 
+A. Homework => https://codeforces.com/problemset/problem/2132/A
+

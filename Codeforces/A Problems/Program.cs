@@ -1,4 +1,6 @@
-﻿namespace A_Problems
+﻿using System.Text;
+
+namespace A_Problems
 {
     internal class Program
     {
