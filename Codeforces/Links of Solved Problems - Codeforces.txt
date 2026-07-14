@@ -962,3 +962,5 @@ A. Draw a Square => https://codeforces.com/problemset/problem/2074/A
 
 A. Homework => https://codeforces.com/problemset/problem/2132/A
 
+A. Party => https://codeforces.com/problemset/problem/115/A
+
