@@ -964,3 +964,5 @@ A. Homework => https://codeforces.com/problemset/problem/2132/A
 
 A. Party => https://codeforces.com/problemset/problem/115/A
 
+A. Almost Prime => https://codeforces.com/problemset/problem/26/A
+
