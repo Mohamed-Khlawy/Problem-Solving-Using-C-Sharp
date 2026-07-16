@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("B. Construct the String")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+99b9059a76b8affdbb4a1618c24345d3acaddd4b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5f1cfa79495279bf0b01fc1fcbda747b4bc2489c")]
 [assembly: System.Reflection.AssemblyProductAttribute("B. Construct the String")]
 [assembly: System.Reflection.AssemblyTitleAttribute("B. Construct the String")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

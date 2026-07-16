@@ -11,7 +11,7 @@ namespace A_Problems
 
             while (tests-- > 0)
             {
-                Console.Write(LineOfStars());
+                //Console.Write(LineOfStars());
             }
         }
     }

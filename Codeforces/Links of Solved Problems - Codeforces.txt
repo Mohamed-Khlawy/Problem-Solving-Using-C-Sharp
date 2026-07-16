@@ -966,3 +966,5 @@ A. Party => https://codeforces.com/problemset/problem/115/A
 
 A. Almost Prime => https://codeforces.com/problemset/problem/26/A
 
+A. DBMB and the Array => https://codeforces.com/problemset/problem/2193/A
+
