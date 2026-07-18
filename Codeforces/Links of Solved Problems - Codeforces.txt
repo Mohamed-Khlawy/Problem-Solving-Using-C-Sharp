@@ -968,3 +968,5 @@ A. Almost Prime => https://codeforces.com/problemset/problem/26/A
 
 A. DBMB and the Array => https://codeforces.com/problemset/problem/2193/A
 
+A. Square Year => https://codeforces.com/problemset/problem/2114/A
+
