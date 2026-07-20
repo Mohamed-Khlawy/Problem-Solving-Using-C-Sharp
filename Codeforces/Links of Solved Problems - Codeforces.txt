@@ -970,3 +970,7 @@ A. DBMB and the Array => https://codeforces.com/problemset/problem/2193/A
 
 A. Square Year => https://codeforces.com/problemset/problem/2114/A
 
+A. Forked! => https://codeforces.com/problemset/problem/1904/A
+
+A. Exciting Bets => https://codeforces.com/problemset/problem/1543/A
+

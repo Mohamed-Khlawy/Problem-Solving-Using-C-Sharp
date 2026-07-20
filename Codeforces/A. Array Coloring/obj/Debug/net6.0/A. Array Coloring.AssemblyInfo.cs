@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("A. Array Coloring")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9bfcc2a3d365d6bbcc0ff268e1d6ec51b3bf1c42")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+16365f4b25fb5d669a97906a5851d99d5c489bca")]
 [assembly: System.Reflection.AssemblyProductAttribute("A. Array Coloring")]
 [assembly: System.Reflection.AssemblyTitleAttribute("A. Array Coloring")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
