@@ -974,3 +974,5 @@ A. Forked! => https://codeforces.com/problemset/problem/1904/A
 
 A. Exciting Bets => https://codeforces.com/problemset/problem/1543/A
 
+B. Make it Divisible by 25 => https://codeforces.com/problemset/problem/1593/B
+
