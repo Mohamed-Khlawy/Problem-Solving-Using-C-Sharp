@@ -978,3 +978,5 @@ B. Make it Divisible by 25 => https://codeforces.com/problemset/problem/1593/B
 
 B. Skibidus and Ohio => https://codeforces.com/problemset/problem/2065/B
 
+B. Prefix Max => https://codeforces.com/problemset/problem/2185/B
+
