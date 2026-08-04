@@ -980,3 +980,5 @@ B. Skibidus and Ohio => https://codeforces.com/problemset/problem/2065/B
 
 B. Prefix Max => https://codeforces.com/problemset/problem/2185/B
 
+A. Beautiful Average => https://codeforces.com/problemset/problem/2162/A
+
