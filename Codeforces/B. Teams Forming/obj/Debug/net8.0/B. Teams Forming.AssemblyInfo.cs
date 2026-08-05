@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("B. Teams Forming")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9eb0e5881e9d6d03a788029952a2e143cd0c5ef1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0b93d908c127f2140065b4b29b0828cb1056310d")]
 [assembly: System.Reflection.AssemblyProductAttribute("B. Teams Forming")]
 [assembly: System.Reflection.AssemblyTitleAttribute("B. Teams Forming")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

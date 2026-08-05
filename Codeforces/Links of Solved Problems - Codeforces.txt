@@ -982,3 +982,5 @@ B. Prefix Max => https://codeforces.com/problemset/problem/2185/B
 
 A. Beautiful Average => https://codeforces.com/problemset/problem/2162/A
 
+A. And Then There Were K => https://codeforces.com/problemset/problem/1527/A
+
