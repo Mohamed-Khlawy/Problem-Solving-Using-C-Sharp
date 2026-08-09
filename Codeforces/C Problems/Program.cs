@@ -2,6 +2,8 @@
 {
     internal class Program
     {
+        public static int[] ReadArray() => Array.ConvertAll(Console.ReadLine()!.Split(), int.Parse);
+        public static int ReadInt() => int.Parse(Console.ReadLine()!);
         public static string LineOfStars() => "************************** ";
         static void Main(string[] args)
         {

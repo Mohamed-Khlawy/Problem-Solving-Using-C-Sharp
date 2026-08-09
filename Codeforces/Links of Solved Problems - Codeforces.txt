@@ -986,3 +986,5 @@ A. And Then There Were K => https://codeforces.com/problemset/problem/1527/A
 
 A. Be Positive => https://codeforces.com/problemset/problem/2149/A
 
+B. Different Divisors => https://codeforces.com/problemset/problem/1474/B
+
