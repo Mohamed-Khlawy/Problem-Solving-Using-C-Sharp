@@ -988,3 +988,5 @@ A. Be Positive => https://codeforces.com/problemset/problem/2149/A
 
 B. Different Divisors => https://codeforces.com/problemset/problem/1474/B
 
+A. Nastia and Nearly Good Numbers => https://codeforces.com/problemset/problem/1521/A
+
