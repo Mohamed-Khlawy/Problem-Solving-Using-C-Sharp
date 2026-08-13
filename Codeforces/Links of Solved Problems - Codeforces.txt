@@ -990,3 +990,5 @@ B. Different Divisors => https://codeforces.com/problemset/problem/1474/B
 
 A. Nastia and Nearly Good Numbers => https://codeforces.com/problemset/problem/1521/A
 
+A. The 67th Integer Problem => https://codeforces.com/problemset/problem/2218/A
+
