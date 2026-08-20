@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("A. Insomnia cure")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c470a90ecb94995309615b5e9d1514cf5499698b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7441886104fe88a5f597b975801f4f84c23ea551")]
 [assembly: System.Reflection.AssemblyProductAttribute("A. Insomnia cure")]
 [assembly: System.Reflection.AssemblyTitleAttribute("A. Insomnia cure")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
