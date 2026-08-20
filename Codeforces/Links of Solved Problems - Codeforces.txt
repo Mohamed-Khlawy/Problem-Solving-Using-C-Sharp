@@ -992,3 +992,5 @@ A. Nastia and Nearly Good Numbers => https://codeforces.com/problemset/problem/1
 
 A. The 67th Integer Problem => https://codeforces.com/problemset/problem/2218/A
 
+A. New Year Transportation => https://codeforces.com/problemset/problem/500/A
+
