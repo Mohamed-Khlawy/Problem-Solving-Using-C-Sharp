@@ -994,3 +994,5 @@ A. The 67th Integer Problem => https://codeforces.com/problemset/problem/2218/A
 
 A. New Year Transportation => https://codeforces.com/problemset/problem/500/A
 
+A. Blackboard Game => https://codeforces.com/problemset/problem/2123/A
+

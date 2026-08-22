@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("A. Little Artem")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c470a90ecb94995309615b5e9d1514cf5499698b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8b4c3906b1a6cb9844a3e112185eb8368e88dc3c")]
 [assembly: System.Reflection.AssemblyProductAttribute("A. Little Artem")]
 [assembly: System.Reflection.AssemblyTitleAttribute("A. Little Artem")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
