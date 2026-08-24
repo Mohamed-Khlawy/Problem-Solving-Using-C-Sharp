@@ -891,8 +891,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A. Fashionable Array", "A. 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A. Meximization", "A. Meximization\A. Meximization.csproj", "{90B8D1D1-6588-4479-B038-13957E773F21}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A. A+B (Trial Problem)", "A. A+B (Trial Problem)\A. A+B (Trial Problem).csproj", "{05E202B9-AD1A-4DCB-93B1-014165EA9851}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "B. Substring Removal Game", "B. Substring Removal Game\B. Substring Removal Game.csproj", "{856E89F7-229B-4FFA-8219-3173BD02CB26}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A. Was there an Array", "A. Was there an Array\A. Was there an Array.csproj", "{DCB6E90B-49E9-4CDF-962E-A4C4031137ED}"
@@ -2713,10 +2711,6 @@ Global
 		{90B8D1D1-6588-4479-B038-13957E773F21}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{90B8D1D1-6588-4479-B038-13957E773F21}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{90B8D1D1-6588-4479-B038-13957E773F21}.Release|Any CPU.Build.0 = Release|Any CPU
-		{05E202B9-AD1A-4DCB-93B1-014165EA9851}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{05E202B9-AD1A-4DCB-93B1-014165EA9851}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{05E202B9-AD1A-4DCB-93B1-014165EA9851}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{05E202B9-AD1A-4DCB-93B1-014165EA9851}.Release|Any CPU.Build.0 = Release|Any CPU
 		{856E89F7-229B-4FFA-8219-3173BD02CB26}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{856E89F7-229B-4FFA-8219-3173BD02CB26}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{856E89F7-229B-4FFA-8219-3173BD02CB26}.Release|Any CPU.ActiveCfg = Release|Any CPU

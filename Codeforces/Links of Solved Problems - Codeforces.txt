@@ -996,3 +996,5 @@ A. New Year Transportation => https://codeforces.com/problemset/problem/500/A
 
 A. Blackboard Game => https://codeforces.com/problemset/problem/2123/A
 
+A. Ideal Generator => https://codeforces.com/problemset/problem/2093/A
+
