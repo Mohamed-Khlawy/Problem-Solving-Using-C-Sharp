@@ -998,3 +998,7 @@ A. Blackboard Game => https://codeforces.com/problemset/problem/2123/A
 
 A. Ideal Generator => https://codeforces.com/problemset/problem/2093/A
 
+B. The 67th 6-7 Integer Problem => https://codeforces.com/problemset/problem/2218/B
+
+A. New World, New Me, New Array => https://codeforces.com/problemset/problem/2072/A
+
