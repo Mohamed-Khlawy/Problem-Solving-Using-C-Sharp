@@ -1002,3 +1002,5 @@ B. The 67th 6-7 Integer Problem => https://codeforces.com/problemset/problem/221
 
 A. New World, New Me, New Array => https://codeforces.com/problemset/problem/2072/A
 
+A. Mainak and Array => https://codeforces.com/problemset/problem/1726/A
+

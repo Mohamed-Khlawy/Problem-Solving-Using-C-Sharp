@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("A. Playing with Dice")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4a6bba146a7725c560395ab0e48f564f6c047e70")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e2dd7c148d95d240383e89de637b7d40bf6315bc")]
 [assembly: System.Reflection.AssemblyProductAttribute("A. Playing with Dice")]
 [assembly: System.Reflection.AssemblyTitleAttribute("A. Playing with Dice")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
