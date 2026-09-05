@@ -1004,3 +1004,5 @@ A. New World, New Me, New Array => https://codeforces.com/problemset/problem/207
 
 A. Mainak and Array => https://codeforces.com/problemset/problem/1726/A
 
+A. Social Experiment => https://codeforces.com/problemset/problem/2184/A
+
