@@ -1006,3 +1006,7 @@ A. Mainak and Array => https://codeforces.com/problemset/problem/1726/A
 
 A. Social Experiment => https://codeforces.com/problemset/problem/2184/A
 
+B. NIT Destroys the Universe => https://codeforces.com/problemset/problem/1696/B
+
+A. Letter Home => https://codeforces.com/problemset/problem/2121/A
+

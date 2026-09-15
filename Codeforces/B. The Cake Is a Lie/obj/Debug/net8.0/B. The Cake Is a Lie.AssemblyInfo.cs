@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("B. The Cake Is a Lie")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f2a1daedc724079fac86582ef0fcecaeb04e995e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ad3592b1ce5688683f48d6c699901a8da9fbb926")]
 [assembly: System.Reflection.AssemblyProductAttribute("B. The Cake Is a Lie")]
 [assembly: System.Reflection.AssemblyTitleAttribute("B. The Cake Is a Lie")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
