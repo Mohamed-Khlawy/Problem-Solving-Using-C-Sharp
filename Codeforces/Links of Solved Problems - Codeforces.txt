@@ -1010,3 +1010,5 @@ B. NIT Destroys the Universe => https://codeforces.com/problemset/problem/1696/B
 
 A. Letter Home => https://codeforces.com/problemset/problem/2121/A
 
+C. Rudolf and the Ugly String => https://codeforces.com/problemset/problem/1941/C
+
