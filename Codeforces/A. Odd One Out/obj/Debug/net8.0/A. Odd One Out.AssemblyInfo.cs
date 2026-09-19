@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("A. Odd One Out")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ad3592b1ce5688683f48d6c699901a8da9fbb926")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e1d48fa4e20da36e1881578d35875a38d980bae2")]
 [assembly: System.Reflection.AssemblyProductAttribute("A. Odd One Out")]
 [assembly: System.Reflection.AssemblyTitleAttribute("A. Odd One Out")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

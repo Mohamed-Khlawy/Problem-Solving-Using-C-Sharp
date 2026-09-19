@@ -1012,3 +1012,5 @@ A. Letter Home => https://codeforces.com/problemset/problem/2121/A
 
 C. Rudolf and the Ugly String => https://codeforces.com/problemset/problem/1941/C
 
+A. Lever => https://codeforces.com/problemset/problem/2131/A
+
