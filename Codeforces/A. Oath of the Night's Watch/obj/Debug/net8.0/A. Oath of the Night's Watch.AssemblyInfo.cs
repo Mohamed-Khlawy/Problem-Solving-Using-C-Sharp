@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("A. Oath of the Night\'s Watch")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e1d48fa4e20da36e1881578d35875a38d980bae2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+687f0c0a43fadfb5954562b5ca7d253c1cb4b260")]
 [assembly: System.Reflection.AssemblyProductAttribute("A. Oath of the Night\'s Watch")]
 [assembly: System.Reflection.AssemblyTitleAttribute("A. Oath of the Night\'s Watch")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
