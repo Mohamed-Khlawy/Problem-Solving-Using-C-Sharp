@@ -1016,3 +1016,5 @@ A. Lever => https://codeforces.com/problemset/problem/2131/A
 
 A. Olympiad Date => https://codeforces.com/problemset/problem/2091/A
 
+A. Helmets in Night Light => https://codeforces.com/problemset/problem/1876/A
+
