@@ -11,11 +11,15 @@ namespace A_Problems
         static void Main(string[] args)
         {
             int tests = int.Parse(Console.ReadLine()!);
+            var sb = new StringBuilder();
 
             while (tests-- > 0)
             {
                 //Console.Write(LineOfStars());
+                //sb.AppendLine();
             }
+
+            //Console.Write(sb);
         }
     }
 }

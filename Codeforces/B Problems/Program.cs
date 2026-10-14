@@ -1,4 +1,6 @@
-﻿namespace B_Problems
+﻿using System.Text;
+
+namespace B_Problems
 {
     internal class Program
     {
@@ -9,11 +11,15 @@
         static void Main(string[] args)
         {
             int tests = int.Parse(Console.ReadLine()!);
+            var sb = new StringBuilder();
 
             while (tests-- > 0)
             {
                 //Console.Write(LineOfStars());
+                //sb.AppendLine();
             }
+
+            //Console.Write(sb);
         }
     }
 }

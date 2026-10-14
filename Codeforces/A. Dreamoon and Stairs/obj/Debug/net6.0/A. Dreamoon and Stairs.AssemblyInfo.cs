@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("A. Dreamoon and Stairs")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+166d13a026710648361f602aaabe8dfddc095e2e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b676ec4f7386ca2a56d6eb6170ace295027b76d5")]
 [assembly: System.Reflection.AssemblyProductAttribute("A. Dreamoon and Stairs")]
 [assembly: System.Reflection.AssemblyTitleAttribute("A. Dreamoon and Stairs")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
