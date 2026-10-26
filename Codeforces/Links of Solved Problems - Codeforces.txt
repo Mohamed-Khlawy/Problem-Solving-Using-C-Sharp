@@ -1020,3 +1020,5 @@ A. Helmets in Night Light => https://codeforces.com/problemset/problem/1876/A
 
 B. Array merging => https://codeforces.com/problemset/problem/1831/B
 
+A. Sieve of Erato67henes => https://codeforces.com/problemset/problem/2195/A
+
